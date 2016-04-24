@@ -1,11 +1,13 @@
 var Excel = require('exceljs');
 var _     = require('lodash');
-var khmerConverter = require('khmer-unicode-converter');
+var fs    = require('fs');
 
 var SheetParser = require('./sheet_parser');
+var Province    = require('./province');
 var District    = require('./district');
 
-var BookParser = function(path) {
+var BookParser = function(name, path) {
+  this.name     = name;
   this.path     = path;
   this.workbook = new Excel.Workbook();
 };
@@ -19,31 +21,52 @@ BookParser.prototype = {
       .then(function() {
         self.setAttributes();
 
-        console.log(self.attributes[0].communes[0]);
+        self.writeJSON();
       });
+  },
+
+  // http://stackoverflow.com/questions/13859218/nodejs-how-to-make-function-fs-writefile-write-with-bom
+  writeJSON: function() {
+    fs.writeFile('json/' + this.name + '.json', '\ufeff' + JSON.stringify(this.province, null, 2));
   },
 
   setAttributes: function() {
     var self = this;
     var districts = [];
-    var district, commune;
+    var district, commune, totalProvince;
 
     this.workbook.eachSheet(function(worksheet) {
-      var sheetParser  = new SheetParser(worksheet);
-      var districtName = sheetParser.getDistrictName();
-      commune          = sheetParser.getCommune();
-      var stations     = sheetParser.getStations();
+      var sheetParser   = new SheetParser(worksheet);
+      var districtName  = sheetParser.getDistrictName();
+      var stations      = sheetParser.getStations();
+      var totalCommune  = sheetParser.getTotalCommune();
+      var totalDistrict = sheetParser.getTotalDistrict();
+      totalProvince     = sheetParser.getTotalProvince();
+
+      if (sheetParser.isStartOfPage()) {
+        commune        = sheetParser.getCommune();
+      }
 
       if (districtName) {
         district = new District(districtName);
       }
 
-      if (commune && district) {
+      if (district && commune) {
         district.addCommune(commune);
       }
 
-      if (stations.length > 0 && commune) {
+      if (district) {
+        if (totalDistrict) {
+          district.setTotal(totalDistrict);
+        }
+      }
+
+      if (commune) {
         commune.addStations(stations);
+
+        if (totalCommune) {
+          commune.setTotal(totalCommune);
+        }
       }
 
       if (districtName) {
@@ -51,7 +74,9 @@ BookParser.prototype = {
       }
     });
 
-    this.attributes = districts;
+    this.province = new Province(this.name);
+    this.province.setDistricts(districts);
+    this.province.setTotal(totalProvince);
   }
 };
 

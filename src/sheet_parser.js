@@ -1,3 +1,7 @@
+var sprintf = require('sprintf-js').sprintf;
+var limon   = require('khmer-unicode-converter').limon;
+var _       = require('lodash');
+
 var Commune = require('./commune');
 
 var SheetParser = function(worksheet) {
@@ -22,6 +26,10 @@ SheetParser.prototype = {
 
     if (b7 && b8 && b8.match(/^\d{2}-\d{3}$/)) {
       name = b7;
+    }
+
+    if (name) {
+      name = limon(name);
     }
 
     return name;
@@ -49,12 +57,58 @@ SheetParser.prototype = {
     } else {
       hash = { id: b7, name: c7 };
     }
+    hash.name = limon(hash.name);
 
     return new Commune(hash);
   },
 
+  getStation: function(values) {
+    var station = {
+      name:       values[0],
+      number:     values[1],
+      t1:         this.atReverseIndexofArray(values, -13),
+      t2:         this.atReverseIndexofArray(values, -12),
+      t3:         this.atReverseIndexofArray(values, -11),
+      t4:         this.atReverseIndexofArray(values, -10),
+      t5:         null,
+      t6:         this.atReverseIndexofArray(values, -9),
+      t7:         this.atReverseIndexofArray(values, -8),
+      t8:         this.atReverseIndexofArray(values, -7),
+      t9:         this.atReverseIndexofArray(values, -6),
+      t10:        this.atReverseIndexofArray(values, -5),
+      t11:        this.atReverseIndexofArray(values, -4),
+      useful:     this.atReverseIndexofArray(values, -3),
+      notUseful:  this.atReverseIndexofArray(values, -2),
+      totalInBox: this.atReverseIndexofArray(values, -1)
+    };
+
+    if (station.number) {
+      var number = parseInt(station.number);
+      if (_.isNaN(number)) {
+        station.number = sprintf("%04d", parseInt(values[2]));
+      } else {
+        station.number = sprintf("%04d", parseInt(station.number));
+      }
+    }
+
+    if (station.name) {
+      station.name = limon(station.name);
+    }
+
+    return station;
+  },
+
+  // Filter out total, total_district, total_province
   getStations: function() {
-    var stations = [];
+    return _.reject(this.getAllStations(), function(station) { return _.startsWith(station.name, 'សរុប'); });
+  },
+
+  getAllStations: function() {
+    if (this._stations) {
+      return this._stations;
+    }
+
+    this._stations = [];
     var rowNumber;
     if (this.isStartOfPage()) {
       var b10 = this.worksheet.getCell('B10').value;
@@ -64,34 +118,34 @@ SheetParser.prototype = {
       rowNumber = 7;
     }
 
-    for(var i=rowNumber; i<this.worksheet._rows.length; i++) {
-      var row = this.worksheet.getRow(i);
-      var station = {
-        number:     this.atReverseIndex(row.values, -16),
-        t1:         this.atReverseIndex(row.values, -15),
-        t2:         this.atReverseIndex(row.values, -14),
-        t3:         this.atReverseIndex(row.values, -13),
-        t4:         this.atReverseIndex(row.values, -12),
-        t5:         this.atReverseIndex(row.values, -11),
-        t6:         this.atReverseIndex(row.values, -10),
-        t7:         this.atReverseIndex(row.values, -9),
-        t8:         this.atReverseIndex(row.values, -8),
-        t9:         this.atReverseIndex(row.values, -7),
-        t10:        this.atReverseIndex(row.values, -6),
-        t11:        this.atReverseIndex(row.values, -5),
-        useful:     this.atReverseIndex(row.values, -4),
-        notUseful:  this.atReverseIndex(row.values, -2),
-        totalInBox: this.atReverseIndex(row.values, -1),
-        name:       row.values[1],
-      };
+    for(var i = rowNumber; i < this.worksheet._rows.length; i++) {
+      var row     = this.worksheet.getRow(i);
+      var values  = this.compactArray(row.values);
+      var station = this.getStation(values);
 
-      stations.push(station);
+      this._stations.push(station);
     }
 
-    return stations;
+    return this._stations;
   },
 
-  atReverseIndex: function(array, index) {
+  getTotalCommune: function() {
+    return _.find(this.getAllStations(), function(station) { return station.name == 'សរុប'; });
+  },
+
+  getTotalDistrict: function() {
+    return _.find(this.getAllStations(), function(station) { return station.name == 'សរុបស្រុក'; });
+  },
+
+  getTotalProvince: function() {
+    return _.find(this.getAllStations(), function(station) { return station.name == 'សរុបខេត្ដ'; });
+  },
+
+  compactArray: function(array) {
+    return _.filter(array, function(value) { return !!value || value == 0; });
+  },
+
+  atReverseIndexofArray: function(array, index) {
     return array[array.length + index];
   },
 

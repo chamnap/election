@@ -1,9 +1,17 @@
-var Excel = require('exceljs');
+var Province = function(name) {
+  this.name      = name;
+  this.districts = [];
+  this.total     = {};
+};
 
-var Province = function(name, path) {
-  this.name = name;
-  this.path = path;
-  this.workbook = new Excel.Workbook();
+Province.prototype = {
+  setDistricts: function(districts) {
+    this.districts = districts;
+  },
+
+  setTotal: function(total) {
+    this.total = total;
+  }
 };
 
 module.exports = Province;

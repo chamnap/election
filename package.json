@@ -9,10 +9,11 @@
   "author": "Chamnap Chhorn <chamnapchhorn@gmail.com> (http://github.com/chamnap)",
   "license": "ISC",
   "dependencies": {
-    "lodash": "^4.6.1",
     "commander": "^2.9.0",
     "exceljs": "^0.2.6",
-    "khmer-unicode-converter": "git@github.com:chamnap/khmer_unicode_converter.git"
+    "khmer-unicode-converter": "git@github.com:chamnap/khmer_unicode_converter.git",
+    "lodash": "^4.6.1",
+    "sprintf-js": "^1.0.3"
   },
   "devDependencies": {
     "chai": "^3.5.0",
