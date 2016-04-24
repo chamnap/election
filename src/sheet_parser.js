@@ -1,6 +1,7 @@
 var sprintf = require('sprintf-js').sprintf;
 var limon   = require('khmer-unicode-converter').limon;
 var _       = require('lodash');
+var Cell    = require('exceljs/lib/doc/cell');
 
 var Commune = require('./commune');
 
@@ -59,7 +60,7 @@ SheetParser.prototype = {
     }
     hash.name = limon(hash.name);
 
-    return new Commune(hash);
+    return new Commune(hash.id, hash.name);
   },
 
   getStation: function(values) {
@@ -85,6 +86,7 @@ SheetParser.prototype = {
     if (station.number) {
       var number = parseInt(station.number);
       if (_.isNaN(number)) {
+        station.name   = values[0] + values[1];
         station.number = sprintf("%04d", parseInt(values[2]));
       } else {
         station.number = sprintf("%04d", parseInt(station.number));
@@ -112,15 +114,17 @@ SheetParser.prototype = {
     var rowNumber;
     if (this.isStartOfPage()) {
       var b10 = this.worksheet.getCell('B10').value;
+      var c10 = this.worksheet.getCell('C10').value;
+      var d10 = this.worksheet.getCell('D10').value;
       var b11 = this.worksheet.getCell('B11').value;
-      rowNumber = (b10 == 'TI01') ? 11 : 12;
+      rowNumber = ([b10, c10, d10].indexOf('TI01') > -1) ? 11 : 12;
     } else {
       rowNumber = 7;
     }
 
     for(var i = rowNumber; i < this.worksheet._rows.length; i++) {
       var row     = this.worksheet.getRow(i);
-      var values  = this.compactArray(row.values);
+      var values  = this.getRowValues(row);
       var station = this.getStation(values);
 
       this._stations.push(station);
@@ -139,6 +143,16 @@ SheetParser.prototype = {
 
   getTotalProvince: function() {
     return _.find(this.getAllStations(), function(station) { return station.name == 'សរុបខេត្ដ'; });
+  },
+
+  getRowValues: function(row) {
+    var values = [];
+    row.eachCell(function(cell, index) {
+      if (cell.type !== Cell.Types.Merge) {
+        values.push(cell.value);
+      }
+    });
+    return this.compactArray(values);
   },
 
   compactArray: function(array) {

@@ -27,7 +27,7 @@ BookParser.prototype = {
 
   // http://stackoverflow.com/questions/13859218/nodejs-how-to-make-function-fs-writefile-write-with-bom
   writeJSON: function() {
-    fs.writeFile('json/' + this.name + '.json', '\ufeff' + JSON.stringify(this.province, null, 2));
+    fs.writeFile('json/provinces/' + this.name + '.json', '\ufeff' + JSON.stringify(this.province, null, 2));
   },
 
   setAttributes: function() {
@@ -43,29 +43,30 @@ BookParser.prototype = {
       var totalDistrict = sheetParser.getTotalDistrict();
       totalProvince     = sheetParser.getTotalProvince();
 
+      // commune
       if (sheetParser.isStartOfPage()) {
         commune        = sheetParser.getCommune();
       }
+      if (commune) {
+        commune.addStations(stations);
 
+        if (totalCommune) {
+          commune.setTotal(totalCommune);
+        }
+      }
+
+      // district
       if (districtName) {
         district = new District(districtName);
       }
 
-      if (district && commune) {
+      if (district && sheetParser.getCommune()) {
         district.addCommune(commune);
       }
 
       if (district) {
         if (totalDistrict) {
           district.setTotal(totalDistrict);
-        }
-      }
-
-      if (commune) {
-        commune.addStations(stations);
-
-        if (totalCommune) {
-          commune.setTotal(totalCommune);
         }
       }
 

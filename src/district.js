@@ -1,11 +1,26 @@
-var District = function(name, province) {
+var Party    = require('./party');
+
+var District = function(name, total) {
   this.name     = name;
+  this.total    = total || {};
   this.communes = [];
-  this.province = province;
-  this.total    = {};
 };
 
 District.prototype = {
+  getTotal: function(identifier) {
+    var party = Party.find(identifier);
+    if(!party) {
+      return;
+    }
+
+    var totalCount = 0;
+    this.communes.forEach(function(commune) {
+      totalCount += commune.getTotal(identifier);
+    });
+
+    return totalCount;
+  },
+
   addCommune: function(commune) {
     this.communes.push(commune);
   },
