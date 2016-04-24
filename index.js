@@ -2,5 +2,10 @@
 
 'use strict';
 
-var banteayMeanChey = require('./banteay_meanchey');
-console.log(banteayMeanChey.workbook.SheetNames.length);
+var khmerConverter  = require('khmer-unicode-converter');
+var _               = require('lodash');
+
+var BookParser      = require('./src/book_parser');
+
+var bookParser = new BookParser('./resources/01-Banteay-Meanchey.xlsx');
+bookParser.parse()

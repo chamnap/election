@@ -1,12 +1,9 @@
-var XLSX = require('xlsx');
+var Excel = require('exceljs');
 
 var Province = function(name, path) {
   this.name = name;
   this.path = path;
-  this.workbook = XLSX.readFile(this.path);
-};
-
-Province.prototype = {
+  this.workbook = new Excel.Workbook();
 };
 
 module.exports = Province;
