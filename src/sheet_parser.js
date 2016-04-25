@@ -1,5 +1,5 @@
 var sprintf = require('sprintf-js').sprintf;
-var limon   = require('khmer-unicode-converter').limon;
+var abc     = require('khmer-unicode-converter').abc;
 var _       = require('lodash');
 var Cell    = require('exceljs/lib/doc/cell');
 
@@ -30,7 +30,7 @@ SheetParser.prototype = {
     }
 
     if (name) {
-      name = limon(name);
+      name = abc(name);
     }
 
     return name;
@@ -58,7 +58,7 @@ SheetParser.prototype = {
     } else {
       hash = { id: b7, name: c7 };
     }
-    hash.name = limon(hash.name);
+    hash.name = abc(hash.name);
 
     return new Commune(hash.id, hash.name);
   },
@@ -94,7 +94,7 @@ SheetParser.prototype = {
     }
 
     if (station.name) {
-      station.name = limon(station.name);
+      station.name = abc(station.name);
     }
 
     return station;

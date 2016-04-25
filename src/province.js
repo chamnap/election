@@ -3,7 +3,7 @@ var Commune  = require('./commune');
 var Station  = require('./station');
 var Party    = require('./party');
 
-var parties  = require('../json/parties.json');
+var parties  = require('../resources/jsons/parties.json');
 
 var Province = function(name, total) {
   this.name      = name;

@@ -1,5 +1,5 @@
 var _        = require('lodash');
-var parties  = require('../json/parties.json');
+var parties  = require('../resources/jsons/parties.json');
 var Party    = require('./party');
 
 var Commune = function(id, name, total) {

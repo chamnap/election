@@ -2,8 +2,8 @@
 
 var expect    = require('chai').expect;
 var Province  = require('../src/province');
-var provinces = require('../json/provinces/ខេត្ដបន្ទាយមានជ័យ.json');
-var parties   = require('../json/parties.json');
+var provinces = require('../output/ខេត្ដបន្ទាយមានជ័យ.json');
+var parties   = require('../resources/jsons/parties.json');
 
 describe('totalCount', function() {
   var province = Province.loadFromJSON(provinces);
