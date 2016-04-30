@@ -1,8 +1,8 @@
 var sprintf = require('sprintf-js').sprintf;
-var abc     = require('khmer-unicode-converter').abc;
 var _       = require('lodash');
 var Cell    = require('exceljs/lib/doc/cell');
 
+var abc     = require('./abc');
 var Commune = require('./commune');
 
 var SheetParser = function(worksheet) {

@@ -7,5 +7,5 @@ var _               = require('lodash');
 
 var BookParser      = require('./src/book_parser');
 
-var bookParser = new BookParser('ខេត្ដបន្ទាយមានជ័យ', './resources/excels/01-Banteay-Meanchey.xlsx');
+var bookParser = new BookParser('បាត់ដំបង', './resources/excels/02-Battambang.xlsx');
 bookParser.parse();
