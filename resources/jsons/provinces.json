@@ -3,30 +3,31 @@
     "number": 1,
     "en_name": "Banteay Meanchey",
     "kh_name": "បន្ទាយមានជ័យ",
-    "skipParty": "t5"
+    "skipParties": ["t5"]
   },
   {
     "number": 2,
     "en_name": "Battambang",
     "kh_name": "បាត់ដំបង",
-    "skipParty": "t5"
+    "skipParties": ["t5"]
   },
   {
     "number": 3,
     "en_name": "Kampong Cham",
     "kh_name": "កំពង់ចាម",
-    "skipParty": "t7"
+    "skipParties": ["t7"]
   },
   {
     "number": 4,
     "en_name": "Kampong Chhnang",
     "kh_name": "កំពង់ឆ្នាំង",
-    "skipParty": null
+    "skipParties": []
   },
   {
     "number": 5,
     "en_name": "Kampong Speu",
-    "kh_name": "កំពង់ស្ពឺ"
+    "kh_name": "កំពង់ស្ពឺ",
+    "skipParties": ["t6", "t7"]
   },
   {
     "number": 6,

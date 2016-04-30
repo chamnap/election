@@ -40,7 +40,7 @@ BookParser.prototype = {
     var district, commune, totalProvince;
 
     this.workbook.eachSheet(function(worksheet) {
-      var sheetParser   = new SheetParser(worksheet, self.province.skipParty);
+      var sheetParser   = new SheetParser(worksheet, self.province.skipParties);
       var districtName  = sheetParser.getDistrictName();
       var stations      = sheetParser.getStations();
       var totalCommune  = sheetParser.getTotalCommune();

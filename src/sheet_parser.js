@@ -5,9 +5,9 @@ var Cell    = require('exceljs/lib/doc/cell');
 var abc     = require('./abc');
 var Commune = require('./commune');
 
-var SheetParser = function(worksheet, skipParty) {
-  this.worksheet  = worksheet;
-  this.skipParty  = skipParty;
+var SheetParser = function(worksheet, skipParties) {
+  this.worksheet    = worksheet;
+  this.skipParties  = skipParties;
 };
 
 SheetParser.prototype = {
@@ -69,7 +69,7 @@ SheetParser.prototype = {
     var station = {
       name:       values[0],
       number:     values[1]
-    }
+    };
 
     // set station
     var keys = ['t1', 't2', 't3', 't4', 't5', 't6', 't7', 't8', 't9', 't10', 't11', 'useful', 'notUseful', 'totalInBox'];
@@ -77,14 +77,16 @@ SheetParser.prototype = {
       station[key] = self.atReverseIndexofArray(values, -(14 - index));
     });
 
-    // reset value before skipParty
-    if (this.skipParty) {
-      var indexKey = _.findIndex(keys, function(key) { return key == self.skipParty; });
-      station[this.skipParty] = null;
+    // reset value before skipParties
+    if (this.skipParties) {
+      this.skipParties.concat().reverse().forEach(function(skipParty) {
+        var indexKey = _.findIndex(keys, function(key) { return key === skipParty; });
+        station[skipParty] = null;
 
-      for(var i=0; i<indexKey; i++) {
-        station[keys[i]] = self.atReverseIndexofArray(values, -(13 - i));
-      }
+        for(var i=0; i<indexKey; i++) {
+          station[keys[i]] = self.atReverseIndexofArray(values, -(14 - self.skipParties.length - i));
+        }
+      });
     }
 
     if (station.number) {
@@ -123,9 +125,6 @@ SheetParser.prototype = {
       rowNumber += 2;
     } else {
       rowNumber = 7;
-    }
-    if (this.worksheet.name === 'Page 2') {
-      console.log(rowNumber);
     }
 
     for(var i = rowNumber; i < this.worksheet._rows.length; i++) {
