@@ -1,5 +1,8 @@
 ﻿{
-  "name": "បាត់ដំបង",
+  "number": 2,
+  "en_name": "Battambang",
+  "kh_name": "បាត់ដំបង",
+  "skipParty": "t5",
   "total": {
     "name": "សរុបខេត្ដ",
     "number": "1058",
@@ -8436,21 +8439,21 @@
           "name": "ព្រៃខ្ពស់",
           "total": {
             "name": "សរុប",
-            "number": "0012",
-            "t1": 233,
-            "t2": 27,
-            "t3": 32,
-            "t4": 2747,
+            "number": "0010",
+            "t1": 256,
+            "t2": 20,
+            "t3": 43,
+            "t4": 2946,
             "t5": null,
-            "t6": 28,
-            "t7": 35,
-            "t8": 260,
-            "t9": 770,
-            "t10": 17,
-            "t11": 180,
-            "useful": 4329,
-            "notUseful": 206,
-            "totalInBox": 4535
+            "t6": 20,
+            "t7": 34,
+            "t8": 322,
+            "t9": 648,
+            "t10": 9,
+            "t11": 67,
+            "useful": 4365,
+            "notUseful": 101,
+            "totalInBox": 4466
           },
           "stations": [
             {
@@ -8632,46 +8635,31 @@
               "useful": 492,
               "notUseful": 8,
               "totalInBox": 500
-            },
-            {
-              "name": "០២_០៣៣អំពិលប្រាំដើម",
-              "number": "-NaN",
-              "t5": null,
-              "notUseful": "02-033",
-              "totalInBox": "GMBilRáMedIm"
-            },
-            {
-              "name": "គណបក្ថនយោបាយតាមលេខរៀងក្នុងសន្លឹកឆ្នោតសរុបសន្លឹកឆ្នោត",
-              "number": "-NaN",
-              "t5": null,
-              "notUseful": "KNbkSneya)aytamelxerogkñúgsnøwkeqñat",
-              "totalInBox": "srubsnøwkeqñat"
-            },
-            {
-              "name": "ទីតាំងការិយាល១⁄២យបោ្ហឆ្នោតលេខការិ៕",
-              "number": "-NaN",
-              "t5": null,
-              "notUseful": "TItaMgkariyal1⁄2ye)aHeqñat",
-              "totalInBox": "elxkari>"
-            },
-            {
-              "name": "ទ០១ទ០២",
-              "number": "-NaN",
-              "t1": "T02",
-              "t2": "T03",
-              "t3": "T04",
-              "t4": "T05",
-              "t5": null,
-              "t6": "T06",
-              "t7": "T07",
-              "t8": "T08",
-              "t9": "T09",
-              "t10": "T10",
-              "t11": "T11",
-              "useful": ")ankar",
-              "notUseful": "min)ankar",
-              "totalInBox": "kñúghibsrub"
-            },
+            }
+          ]
+        },
+        {
+          "id": "02-033",
+          "name": "អំពិលប្រាំដើម",
+          "total": {
+            "name": "សរុប",
+            "number": "0012",
+            "t1": 233,
+            "t2": 27,
+            "t3": 32,
+            "t4": 2747,
+            "t5": null,
+            "t6": 28,
+            "t7": 35,
+            "t8": 260,
+            "t9": 770,
+            "t10": 17,
+            "t11": 180,
+            "useful": 4329,
+            "notUseful": 206,
+            "totalInBox": 4535
+          },
+          "stations": [
             {
               "name": "សាលារៀនដងោ ក្រម៉ាង",
               "number": "0367",
@@ -13471,21 +13459,21 @@
           "name": "ព្រែកជីក",
           "total": {
             "name": "សរុប",
-            "number": "0025",
-            "t1": 668,
-            "t2": 41,
-            "t3": 230,
-            "t4": 5599,
+            "number": "0015",
+            "t1": 158,
+            "t2": 23,
+            "t3": 144,
+            "t4": 3190,
             "t5": null,
-            "t6": 33,
-            "t7": 70,
-            "t8": 314,
-            "t9": 1313,
-            "t10": 17,
-            "t11": 182,
-            "useful": 8467,
-            "notUseful": 186,
-            "totalInBox": 8653
+            "t6": 27,
+            "t7": 69,
+            "t8": 404,
+            "t9": 775,
+            "t10": 16,
+            "t11": 74,
+            "useful": 4880,
+            "notUseful": 105,
+            "totalInBox": 4985
           },
           "stations": [
             {
@@ -13757,46 +13745,31 @@
               "useful": 416,
               "notUseful": 7,
               "totalInBox": 423
-            },
-            {
-              "name": "០២_០៥៣ព្រៃត្រទឡាច",
-              "number": "-NaN",
-              "t5": null,
-              "notUseful": "02-053",
-              "totalInBox": "éRBRtTLac"
-            },
-            {
-              "name": "គណបក្ថនយោបាយតាមលេខរៀងក្នុងសន្លឹកឆ្នោតសរុបសន្លឹកឆ្នោត",
-              "number": "-NaN",
-              "t5": null,
-              "notUseful": "KNbkSneya)aytamelxerogkñúgsnøwkeqñat",
-              "totalInBox": "srubsnøwkeqñat"
-            },
-            {
-              "name": "ទីតាំងការិយាល១⁄២យបោ្ហឆ្នោតលេខការិ៕",
-              "number": "-NaN",
-              "t5": null,
-              "notUseful": "TItaMgkariyal1⁄2ye)aHeqñat",
-              "totalInBox": "elxkari>"
-            },
-            {
-              "name": "ទ០១ទ០២",
-              "number": "-NaN",
-              "t1": "T02",
-              "t2": "T03",
-              "t3": "T04",
-              "t4": "TI05",
-              "t5": null,
-              "t6": "T06",
-              "t7": "T07",
-              "t8": "TI08",
-              "t9": "TI09",
-              "t10": "TI10",
-              "t11": "TI11",
-              "useful": ")ankar",
-              "notUseful": "min)ankar",
-              "totalInBox": "kñúghibsrub"
-            },
+            }
+          ]
+        },
+        {
+          "id": "02-053",
+          "name": "ព្រៃត្រទឡាច",
+          "total": {
+            "name": "សរុប",
+            "number": "0025",
+            "t1": 668,
+            "t2": 41,
+            "t3": 230,
+            "t4": 5599,
+            "t5": null,
+            "t6": 33,
+            "t7": 70,
+            "t8": 314,
+            "t9": 1313,
+            "t10": 17,
+            "t11": 182,
+            "useful": 8467,
+            "notUseful": 186,
+            "totalInBox": 8653
+          },
+          "stations": [
             {
               "name": "សាលារៀនស្រះគុយ",
               "number": "0576",
@@ -14868,7 +14841,7 @@
         },
         {
           "id": "02-057",
-          "name": "",
+          "name": "នុលល",
           "total": {
             "name": "សរុប",
             "number": "0012",
@@ -21696,5 +21669,6 @@
         }
       ]
     }
-  ]
+  ],
+  "name": "បាត់ដំបង"
 }

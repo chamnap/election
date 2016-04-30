@@ -5,8 +5,9 @@ var Cell    = require('exceljs/lib/doc/cell');
 var abc     = require('./abc');
 var Commune = require('./commune');
 
-var SheetParser = function(worksheet) {
+var SheetParser = function(worksheet, skipParty) {
   this.worksheet  = worksheet;
+  this.skipParty  = skipParty;
 };
 
 SheetParser.prototype = {
@@ -64,24 +65,28 @@ SheetParser.prototype = {
   },
 
   getStation: function(values) {
+    var self = this;
     var station = {
       name:       values[0],
-      number:     values[1],
-      t1:         this.atReverseIndexofArray(values, -13),
-      t2:         this.atReverseIndexofArray(values, -12),
-      t3:         this.atReverseIndexofArray(values, -11),
-      t4:         this.atReverseIndexofArray(values, -10),
-      t5:         null,
-      t6:         this.atReverseIndexofArray(values, -9),
-      t7:         this.atReverseIndexofArray(values, -8),
-      t8:         this.atReverseIndexofArray(values, -7),
-      t9:         this.atReverseIndexofArray(values, -6),
-      t10:        this.atReverseIndexofArray(values, -5),
-      t11:        this.atReverseIndexofArray(values, -4),
-      useful:     this.atReverseIndexofArray(values, -3),
-      notUseful:  this.atReverseIndexofArray(values, -2),
-      totalInBox: this.atReverseIndexofArray(values, -1)
-    };
+      number:     values[1]
+    }
+
+
+    // set station
+    var keys = ['t1', 't2', 't3', 't4', 't5', 't6', 't7', 't8', 't9', 't10', 't11', 'useful', 'notUseful', 'totalInBox'];
+    keys.forEach(function(key, index) {
+      station[key] = self.atReverseIndexofArray(values, -(14 - index));
+    });
+
+    // reset value before skipParty
+    if (this.skipParty) {
+      var indexKey = _.findIndex(keys, function(key) { return key == self.skipParty; });
+      station[this.skipParty] = null;
+
+      for(var i=0; i<indexKey; i++) {
+        station[keys[i]] = self.atReverseIndexofArray(values, -(13 - i));
+      }
+    }
 
     if (station.number) {
       var number = parseInt(station.number);
@@ -116,8 +121,7 @@ SheetParser.prototype = {
       var b10 = this.worksheet.getCell('B10').value;
       var c10 = this.worksheet.getCell('C10').value;
       var d10 = this.worksheet.getCell('D10').value;
-      var b11 = this.worksheet.getCell('B11').value;
-      rowNumber = ([b10, c10, d10].indexOf('TI01') > -1) ? 11 : 12;
+      rowNumber = ([b10, c10, d10].indexOf('TI01') > -1 || [b10, c10, d10].indexOf('T01') > -1) ? 11 : 12;
     } else {
       rowNumber = 7;
     }
@@ -125,9 +129,11 @@ SheetParser.prototype = {
     for(var i = rowNumber; i < this.worksheet._rows.length; i++) {
       var row     = this.worksheet.getRow(i);
       var values  = this.getRowValues(row);
-      var station = this.getStation(values);
 
-      this._stations.push(station);
+      if(values.length > 0) {
+        var station = this.getStation(values);
+        this._stations.push(station);
+      }
     }
 
     return this._stations;
@@ -152,11 +158,29 @@ SheetParser.prototype = {
         values.push(cell.value);
       }
     });
+    var intItems = this.intArray(values.slice(1, values.length).join(' ').split(' '));
+    values = [values[0]].concat(intItems);
+
     return this.compactArray(values);
   },
 
   compactArray: function(array) {
-    return _.filter(array, function(value) { return !!value || value == 0; });
+    return _.filter(array, function(value) { return (value !== '' && !!value) || value === 0; });
+  },
+
+  intArray: function(array) {
+    var result = [];
+
+    _(array).forEach(function(value) {
+      var intValue = parseInt(value.replace(/,/, ''));
+      if (_.isNaN(intValue)) {
+        result.push(value);
+      } else {
+        result.push(intValue);
+      }
+    });
+
+    return result;
   },
 
   atReverseIndexofArray: function(array, index) {
@@ -167,7 +191,7 @@ SheetParser.prototype = {
     var result = false;
 
     this.worksheet.getSheetValues().forEach(function(array) {
-      if (array.indexOf('TI01') > 0) { // district sheet has T01, T02
+      if (array.indexOf('TI01') > 0 || array.indexOf('T01') > 0) { // district sheet has T01, T02
         result = true;
       }
     });

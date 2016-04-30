@@ -1,18 +1,36 @@
+var _        = require('lodash');
+var path     = require('path');
+var sprintf  = require('sprintf-js').sprintf;
+
 var District = require('./district');
 var Commune  = require('./commune');
 var Station  = require('./station');
 var Party    = require('./party');
 
-var parties  = require('../resources/jsons/parties.json');
+var parties   = require('../resources/jsons/parties.json');
+var provinces = require('../resources/jsons/provinces.json');
 
-var Province = function(name, total) {
-  this.name      = name;
-  this.total     = total || {};
-  this.districts = [];
+var Province = function(attributes) {
+  var self = this;
+
+  _.forEach(attributes, function(value, key) {
+    self[key] = value;
+  });
+
+  self.total     = attributes.total || {};
+  self.districts = attributes.districts || [];
+};
+
+Province.find = function(number) {
+  var attributes = _.find(provinces, function(province) { return province.number === parseInt(number); });
+  var province   = new Province(attributes);
+  province.name  = attributes.kh_name;
+
+  return province;
 };
 
 Province.loadFromJSON = function(json) {
-  var province = new Province(json.name, json.total);
+  var province = new Province({ name: json.kh_name, total: json.total });
 
   json.districts.forEach(function(districtJson) {
     var district = new District(districtJson.name, districtJson.total);
@@ -36,6 +54,13 @@ Province.loadFromJSON = function(json) {
 };
 
 Province.prototype = {
+  getExcelPath: function() {
+    var number   = sprintf("%02d", this.number);
+    var fileName = number + '-' + this.en_name.replace(/ /g, '-') + '.xlsx';
+
+    return path.resolve('./resources/excels/' + fileName);
+  },
+
   getTotal: function(identifier) {
     var party = Party.find(identifier);
     if(!party) {
