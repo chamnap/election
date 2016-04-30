@@ -20,7 +20,8 @@
   {
     "number": 4,
     "en_name": "Kampong Chhnang",
-    "kh_name": "កំពង់ឆ្នាំង"
+    "kh_name": "កំពង់ឆ្នាំង",
+    "skipParty": null
   },
   {
     "number": 5,

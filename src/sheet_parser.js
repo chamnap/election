@@ -71,7 +71,6 @@ SheetParser.prototype = {
       number:     values[1]
     }
 
-
     // set station
     var keys = ['t1', 't2', 't3', 't4', 't5', 't6', 't7', 't8', 't9', 't10', 't11', 'useful', 'notUseful', 'totalInBox'];
     keys.forEach(function(key, index) {
@@ -118,12 +117,15 @@ SheetParser.prototype = {
     this._stations = [];
     var rowNumber;
     if (this.isStartOfPage()) {
-      var b10 = this.worksheet.getCell('B10').value;
-      var c10 = this.worksheet.getCell('C10').value;
-      var d10 = this.worksheet.getCell('D10').value;
-      rowNumber = ([b10, c10, d10].indexOf('TI01') > -1 || [b10, c10, d10].indexOf('T01') > -1) ? 11 : 12;
+      rowNumber = _.findIndex(this.worksheet._rows, function(row) {
+        return row.values.indexOf('TI01') > -1 || row.values.indexOf('T01') > -1;
+      });
+      rowNumber += 2;
     } else {
       rowNumber = 7;
+    }
+    if (this.worksheet.name === 'Page 2') {
+      console.log(rowNumber);
     }
 
     for(var i = rowNumber; i < this.worksheet._rows.length; i++) {
