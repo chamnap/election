@@ -32,96 +32,115 @@
   {
     "number": 6,
     "en_name": "Kampong Thom",
-    "kh_name": "កំពង់ធំ"
+    "kh_name": "កំពង់ធំ",
+    "skipParties": ["t5"]
   },
   {
     "number": 7,
     "en_name": "Kampot",
-    "kh_name": "កំពត"
+    "kh_name": "កំពត",
+    "skipParties": ["t5", "t6", "t7"]
   },
   {
     "number": 8,
     "en_name": "Kandal",
-    "kh_name": "កណ្ដាល"
+    "kh_name": "កណ្ដាល",
+    "skipParties": ["t6", "t7"]
   },
   {
     "number": 9,
     "en_name": "Koh Kong",
-    "kh_name": "កោះកុង"
+    "kh_name": "កោះកុង",
+    "skipParties": ["t5", "t6", "t7"]
   },
   {
     "number": 10,
     "en_name": "Kratie",
-    "kh_name": "ក្រចេះ"
+    "kh_name": "ក្រចេះ",
+    "skipParties": ["t5", "t6", "t7"]
   },
   {
     "number": 11,
     "en_name": "Mondulkiri",
-    "kh_name": "មណ្ឌលគីរី"
+    "kh_name": "មណ្ឌលគីរី",
+    "skipParties": ["t5", "t6", "t7"]
   },
   {
     "number": 12,
     "en_name": "Phnom Penh",
-    "kh_name": "ភ្នំពេញ"
+    "kh_name": "ភ្នំពេញ",
+    "skipParties": []
   },
   {
     "number": 13,
     "en_name": "Preah Vihear",
-    "kh_name": "ព្រះវិហារ"
+    "kh_name": "ព្រះវិហារ",
+    "skipParties": ["t5", "t6", "t7"]
   },
   {
     "number": 14,
     "en_name": "Prey Veng",
-    "kh_name": "ព្រៃវែង"
+    "kh_name": "ព្រៃវែង",
+    "skipParties": ["t5", "t7"]
   },
   {
     "number": 15,
     "en_name": "Pursat",
-    "kh_name": "ពោធិសាត់"
+    "kh_name": "ពោធិសាត់",
+    "skipParties": ["t6"]
   },
   {
     "number": 16,
     "en_name": "Ratanakiri",
-    "kh_name": "រតនគីរី"
+    "kh_name": "រតនគីរី",
+    "skipParties": ["t5", "t6", "t7"]
   },
   {
     "number": 17,
     "en_name": "Siem Reap",
-    "kh_name": "សៀមរាប"
+    "kh_name": "សៀមរាប",
+    "skipParties": ["t5"]
   },
   {
     "number": 18,
     "en_name": "Preah Sihanouk",
-    "kh_name": "ព្រះសីហនុ"
+    "kh_name": "ព្រះសីហនុ",
+    "skipParties": ["t5", "t6", "t7"]
   },
   {
     "number": 19,
     "en_name": "Steung Treng",
-    "kh_name": "ស្ទឹងត្រែង"
+    "kh_name": "ស្ទឹងត្រែង",
+    "skipParties": ["t5", "t6", "t7"]
   },
   {
     "number": 20,
     "en_name": "Svay Rieng",
-    "kh_name": "ស្វាយរៀង"
+    "kh_name": "ស្វាយរៀង",
+    "skipParties": ["t6", "t7"]
   },
   {
     "number": 21,
     "en_name": "Takeo",
-    "kh_name": "តាកែវ"
+    "kh_name": "តាកែវ",
+    "skipParties": ["t5", "t6", "t7"]
   },
   {
     "number": 22,
     "en_name": "Kep",
-    "kh_name": "កែប"
+    "kh_name": "កែប",
+    "skipParties": ["t5", "t6", "t7"]
   },
   {
     "number": 23,
     "en_name": "Pailin",
-    "kh_name": "ប៉ៃលិន"
+    "kh_name": "ប៉ៃលិន",
+    "skipParties": ["t5", "t7"]
   },
   {
     "number": 24,
     "en_name": "Oudor Meanchey",
-    "kh_name": "ឧត្ដរមានជ័យ"
+    "kh_name": "ឧត្ដរមានជ័យ",
+    "skipParties": ["t5", "t6", "t7"]
   }
 ]

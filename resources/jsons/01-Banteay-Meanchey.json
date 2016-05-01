@@ -2,7 +2,9 @@
   "number": 1,
   "en_name": "Banteay Meanchey",
   "kh_name": "បន្ទាយមានជ័យ",
-  "skipParty": "t5",
+  "skipParties": [
+    "t5"
+  ],
   "total": {
     "name": "សរុបខេត្ដ",
     "number": "0790",

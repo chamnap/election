@@ -2,7 +2,9 @@
   "number": 2,
   "en_name": "Battambang",
   "kh_name": "បាត់ដំបង",
-  "skipParty": "t5",
+  "skipParties": [
+    "t5"
+  ],
   "total": {
     "name": "សរុបខេត្ដ",
     "number": "1058",

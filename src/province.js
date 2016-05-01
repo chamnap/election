@@ -54,6 +54,13 @@ Province.loadFromJSON = function(json) {
 };
 
 Province.prototype = {
+  getJsonPath: function() {
+    var number   = sprintf("%02d", this.number);
+    var fileName = number + '-' + this.en_name.replace(/ /g, '-') + '.json';
+
+    return path.resolve('./resources/jsons/' + fileName);
+  },
+
   getExcelPath: function() {
     var number   = sprintf("%02d", this.number);
     var fileName = number + '-' + this.en_name.replace(/ /g, '-') + '.xlsx';

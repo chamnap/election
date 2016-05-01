@@ -2,7 +2,9 @@
   "number": 3,
   "en_name": "Kampong Cham",
   "kh_name": "កំពង់ចាម",
-  "skipParty": "t7",
+  "skipParties": [
+    "t7"
+  ],
   "total": {
     "name": "សរុបខេត្ដ",
     "number": "2158",

@@ -31,7 +31,7 @@ BookParser.prototype = {
 
   // http://stackoverflow.com/questions/13859218/nodejs-how-to-make-function-fs-writefile-write-with-bom
   writeJSON: function() {
-    fs.writeFileSync('output/' + this.province.name + '.json', '\ufeff' + JSON.stringify(this.province, null, 2));
+    fs.writeFileSync(this.province.getJsonPath(), '\ufeff' + JSON.stringify(this.province, null, 2));
   },
 
   setAttributes: function() {

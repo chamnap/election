@@ -11,13 +11,14 @@ var parties   = require('../resources/jsons/parties.json');
 
 describe('totalCount', function() {
   provinces.forEach(function(provinceJSON) {
-    var provincePath = path.resolve('output/' + provinceJSON.kh_name + '.json');
+    var province     = Province.find(provinceJSON.number);
+    var provincePath = province.getJsonPath();
     if (!fs.existsSync(provincePath)) {
       return;
     }
 
     var provinceAttr = require(provincePath);
-    var province     = Province.loadFromJSON(provinceAttr);
+    province = Province.loadFromJSON(provinceAttr);
 
     describe(provinceJSON.en_name, function() {
       parties.forEach(function(party) {
@@ -45,7 +46,7 @@ describe('totalCount', function() {
           parties.forEach(function(party) {
             var totalCount = commune.total[party.identifier] || 0;
 
-            expect(commune.getTotal(party.identifier), party.identifier + ':' + commune.name).to.equal(totalCount);
+            expect(commune.getTotal(party.identifier), party.identifier + ':' + commune.id + ':' + commune.name).to.equal(totalCount);
           });
         });
       });
