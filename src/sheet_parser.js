@@ -20,6 +20,7 @@ SheetParser.prototype = {
     var a8 = this.worksheet.getCell('A8').value;
     var b7 = this.worksheet.getCell('B7').value;
     var b8 = this.worksheet.getCell('B8').value;
+    var a9 = this.worksheet.getCell('A9').value;
 
     var name;
     if (a7 && a8 && a8.match(/^\d{2}-\d{3}$/)) {
@@ -28,6 +29,10 @@ SheetParser.prototype = {
 
     if (b7 && b8 && b8.match(/^\d{2}-\d{3}$/)) {
       name = b7;
+    }
+
+    if (a8 && a9 && a9.match(/^\d{2}-\d{3}$/)) {
+      name = a8;
     }
 
     if (name) {
@@ -42,6 +47,9 @@ SheetParser.prototype = {
       return;
     }
 
+    var a9 = this.worksheet.getCell('A9').value;
+    var b9 = this.worksheet.getCell('B9').value;
+    var c9 = this.worksheet.getCell('C9').value;
     var a8 = this.worksheet.getCell('A8').value;
     var b8 = this.worksheet.getCell('B8').value;
     var c8 = this.worksheet.getCell('C8').value;
@@ -50,11 +58,16 @@ SheetParser.prototype = {
     var c7 = this.worksheet.getCell('C7').value;
 
     var hash = {};
-    if (a8) {
+    if (a9 && a9.match(/^\d{2}-\d{3}$/)) {
+      hash = { id: a9, name: b9 };
+    } else if (b9 && b9.match(/^\d{2}-\d{3}$/)) {
+      hash = { id: b9, name: c9 };
+    }
+    else if (a8 && a8.match(/^\d{2}-\d{3}$/)) {
       hash = { id: a8, name: b8 };
-    } else if (b8) {
+    } else if (b8 && b8.match(/^\d{2}-\d{3}$/)) {
       hash = { id: b8, name: c8 };
-    } else if (a7) {
+    } else if (a7 && a7.match(/^\d{2}-\d{3}$/)) {
       hash = { id: a7, name: b7 };
     } else {
       hash = { id: b7, name: c7 };
@@ -120,7 +133,9 @@ SheetParser.prototype = {
     var rowNumber;
     if (this.isStartOfPage()) {
       rowNumber = _.findIndex(this.worksheet._rows, function(row) {
-        return row.values.indexOf('TI01') > -1 || row.values.indexOf('T01') > -1;
+        if (row) {
+          return row.values.indexOf('TI01') > -1 || row.values.indexOf('T01') > -1;
+        }
       });
       rowNumber += 2;
     } else {
