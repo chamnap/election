@@ -3,13 +3,16 @@ var Q     = require('q');
 var _     = require('lodash');
 var fs    = require('fs');
 
+var HtmlParser  = require('./html_parser');
 var SheetParser = require('./sheet_parser');
 var Province    = require('./province');
 var District    = require('./district');
 
 var BookParser = function(province) {
-  this.province = province;
-  this.workbook = new Excel.Workbook();
+  this.province   = province;
+  this.workbook   = new Excel.Workbook();
+  this.htmlParser = new HtmlParser(province);
+  this.stations   = require(this.province.getStationsPath());
 };
 
 BookParser.prototype = {
@@ -21,12 +24,30 @@ BookParser.prototype = {
       .readFile(this.province.getExcelPath())
       .then(function() {
         self.setAttributes();
+        self.updateStations();
         self.writeJSON();
 
         deferred.resolve();
       });
 
     return deferred.promise;
+  },
+
+  updateStations: function() {
+    var self      = this;
+
+    self.province.getStations().forEach(function(station) {
+      var foundStation = self.findStation(station.number);
+      if (foundStation) {
+        station.name = foundStation.name;
+      } else {
+        console.log("station not found: " + station.number);
+      }
+    });
+  },
+
+  findStation: function(id) {
+    return _.find(this.stations, function(station) { return station.id === id; });
   },
 
   // http://stackoverflow.com/questions/13859218/nodejs-how-to-make-function-fs-writefile-write-with-bom

@@ -17,6 +17,7 @@ var Province = function(attributes) {
     self[key] = value;
   });
 
+  self.name      = attributes.en_name;
   self.total     = attributes.total || {};
   self.districts = attributes.districts || [];
 };
@@ -54,6 +55,13 @@ Province.loadFromJSON = function(json) {
 };
 
 Province.prototype = {
+  getHtmlPath: function() {
+    var number   = sprintf("%02d", this.number);
+    var fileName = number + '-' + this.en_name.replace(/ /g, '-') + '.html';
+
+    return path.resolve('./resources/htmls/' + fileName);
+  },
+
   getJsonPath: function() {
     var number   = sprintf("%02d", this.number);
     var fileName = number + '-' + this.en_name.replace(/ /g, '-') + '.json';
@@ -66,6 +74,13 @@ Province.prototype = {
     var fileName = number + '-' + this.en_name.replace(/ /g, '-') + '.xlsx';
 
     return path.resolve('./resources/excels/' + fileName);
+  },
+
+  getStationsPath: function() {
+    var number   = sprintf("%02d", this.number);
+    var fileName = number + '-' + this.en_name.replace(/ /g, '-') + '.json';
+
+    return path.resolve('./resources/stations/' + fileName);
   },
 
   getTotal: function(identifier) {
@@ -102,6 +117,15 @@ Province.prototype = {
     });
 
     return communes;
+  },
+
+  getStations: function() {
+    var stations = [];
+    this.getCommunes().forEach(function(commune) {
+      stations = stations.concat(commune.stations);
+    });
+
+    return stations;
   },
 
   setTotal: function(total) {

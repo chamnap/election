@@ -1,0 +1,5407 @@
+﻿[
+  {
+    "name": "សាលាកំពង់អំពិល",
+    "kh_name": "salakMBg´GMBil",
+    "id": "0001"
+  },
+  {
+    "name": "សាលាកំពង់អំពិល",
+    "kh_name": "salakMBg´GMBil",
+    "id": "0953"
+  },
+  {
+    "name": "សាលារៀនស្វាយព្រៃ",
+    "kh_name": "salaeronsVayéRB",
+    "id": "0002"
+  },
+  {
+    "name": "សាលារៀនស្វាយព្រៃ",
+    "kh_name": "salaeronsVayéRB",
+    "id": "0938"
+  },
+  {
+    "name": "សាលាសសរពក",
+    "kh_name": "salassrBk",
+    "id": "0003"
+  },
+  {
+    "name": "សាលាសសរពក",
+    "kh_name": "salassrBk",
+    "id": "0765"
+  },
+  {
+    "name": "សាលាកន្ទឺ២",
+    "kh_name": "salaknÞW2",
+    "id": "0004"
+  },
+  {
+    "name": "សាលាបាណន់",
+    "kh_name": "salaáNn´",
+    "id": "0005"
+  },
+  {
+    "name": "សាលាបាលី វត្ដបាណន់លើ",
+    "kh_name": "salaálI vtþáNn´elI",
+    "id": "0006"
+  },
+  {
+    "name": "សាលារៀនកំប៉ង់កើត",
+    "kh_name": "salaeronkMb¨g´ekIt",
+    "id": "0843"
+  },
+  {
+    "name": "សាលាកន្ទឺ២",
+    "kh_name": "salaknÞW2",
+    "id": "0007"
+  },
+  {
+    "name": "សាលាឆាយរំពាត់",
+    "kh_name": "salaqayrMBat´",
+    "id": "0008"
+  },
+  {
+    "name": "សាលារៀនកំពង់ចែង",
+    "kh_name": "salaeronkMBg´Ecg",
+    "id": "0009"
+  },
+  {
+    "name": "សាលាបាយដំរាំ",
+    "kh_name": "salaáydMraM",
+    "id": "0010"
+  },
+  {
+    "name": "សាលាបាយដំរាំ",
+    "kh_name": "salaáydMraM",
+    "id": "0011"
+  },
+  {
+    "name": "សាលាមត្ដេយ្យបាយដំរាំ",
+    "kh_name": "salametþyüáydMraM",
+    "id": "0012"
+  },
+  {
+    "name": "សាលាព្រៃទទឹង",
+    "kh_name": "salaéRBTTwg",
+    "id": "0013"
+  },
+  {
+    "name": "សាលាទួលច្រនៀង",
+    "kh_name": "salaTYlRcenog",
+    "id": "0014"
+  },
+  {
+    "name": "សាលាក្រទឡាពាស",
+    "kh_name": "salaRkTLaBas",
+    "id": "0015"
+  },
+  {
+    "name": "សាលាក្រទឡាពាស",
+    "kh_name": "salaRkTLaBas",
+    "id": "0766"
+  },
+  {
+    "name": "សាលារៀនភូមិដូង",
+    "kh_name": "salaeronPUmidUg",
+    "id": "0016"
+  },
+  {
+    "name": "សាលារៀនថ្កូវ",
+    "kh_name": "salaeronf;Úv",
+    "id": "0017"
+  },
+  {
+    "name": "សាលារៀនថ្កូវ",
+    "kh_name": "salaeronf;Úv",
+    "id": "0767"
+  },
+  {
+    "name": "សាលារៀនអន្លង់តាមុី",
+    "kh_name": "salaeronGnøg´tamuI",
+    "id": "0018"
+  },
+  {
+    "name": "សាលារៀនអន្លង់តាមុី",
+    "kh_name": "salaeronGnøg´tamuI",
+    "id": "0019"
+  },
+  {
+    "name": "សាលារៀនបាយដំរាំ",
+    "kh_name": "salaeronáydMraM",
+    "id": "0020"
+  },
+  {
+    "name": "សាលាបត់សាលា ( ឥន្ទជិត )",
+    "kh_name": "salabt´sala ( }nÞCit )",
+    "id": "0021"
+  },
+  {
+    "name": "វត្ដឈើទាល ( កំពង់ស្រម៉ )",
+    "kh_name": "vtþeQITal ( kMBg´Rsm¨ )",
+    "id": "0022"
+  },
+  {
+    "name": "សាលារៀនឈើទាល ( ខ្នា )",
+    "kh_name": "salaeroneQITal ( xña )",
+    "id": "0023"
+  },
+  {
+    "name": "សាលារៀនឈើទាល",
+    "kh_name": "salaeroneQITal",
+    "id": "0024"
+  },
+  {
+    "name": "សាលារៀនឈើទាល",
+    "kh_name": "salaeroneQITal",
+    "id": "0025"
+  },
+  {
+    "name": "សាលារៀនកំពង់ឆ្លង",
+    "kh_name": "salaeronkMBg´qøg",
+    "id": "0026"
+  },
+  {
+    "name": "នបត់សាលា",
+    "kh_name": "nbt´sala",
+    "id": "0027"
+  },
+  {
+    "name": "ៀ",
+    "kh_name": "o",
+    "id": "0027"
+  },
+  {
+    "name": "សាលារៀនបត់សាលា",
+    "kh_name": "salaeronbt´sala",
+    "id": "0028"
+  },
+  {
+    "name": "សាលារៀនស្វាយប្រគាប",
+    "kh_name": "salaeronsVayRbKab",
+    "id": "0029"
+  },
+  {
+    "name": "សាលារៀនភូមិដូង",
+    "kh_name": "salaeronPUmidUg",
+    "id": "0030"
+  },
+  {
+    "name": "សាលារៀនភូមិដូង",
+    "kh_name": "salaeronPUmidUg",
+    "id": "0768"
+  },
+  {
+    "name": "សាលារៀនរូង",
+    "kh_name": "salaeronrUg",
+    "id": "0031"
+  },
+  {
+    "name": "សាលារៀនរូង",
+    "kh_name": "salaeronrUg",
+    "id": "0939"
+  },
+  {
+    "name": "សាលារៀនធ្ង័រ",
+    "kh_name": "salaeronF¶&r",
+    "id": "0032"
+  },
+  {
+    "name": "សាលារៀនរូង",
+    "kh_name": "salaeronrUg",
+    "id": "0844"
+  },
+  {
+    "name": "សាលារៀនបុះខ្នុរ",
+    "kh_name": "salaeronbu¼xñúr",
+    "id": "0033"
+  },
+  {
+    "name": "សាលារៀនប៉ៃទឡាំ",
+    "kh_name": "salaeronéb¨TLaM",
+    "id": "0974"
+  },
+  {
+    "name": "សាលារៀនក្រពើត្បូង",
+    "kh_name": "salaeronRkeBIt,Úg",
+    "id": "0034"
+  },
+  {
+    "name": "សាលារៀនក្រពើត្បូង",
+    "kh_name": "salaeronRkeBIt,Úg",
+    "id": "0035"
+  },
+  {
+    "name": "សាលារៀនកំប៉ូវ",
+    "kh_name": "salaeronkMb¨Uv",
+    "id": "0036"
+  },
+  {
+    "name": "សាលារៀនកំប៉ូវ",
+    "kh_name": "salaeronkMb¨Uv",
+    "id": "0897"
+  },
+  {
+    "name": "វិទ្យាល័យហ៊ុន សែន",
+    "kh_name": "viTüal&yhu‘n Esn",
+    "id": "0037"
+  },
+  {
+    "name": "សាលារៀនសម្ដេចឪ ម៉ែ",
+    "kh_name": "salaeronsemþc] Em¨",
+    "id": "0038"
+  },
+  {
+    "name": "សាលារៀនភូមិក្ដោង",
+    "kh_name": "salaeronPUmiekþag",
+    "id": "0039"
+  },
+  {
+    "name": "សាលារៀនសម្ដេចឪ ម៉ែ",
+    "kh_name": "salaeronsemþc] Em¨",
+    "id": "0040"
+  },
+  {
+    "name": "សាលារៀនសម្ដេចឪ ម៉ែ",
+    "kh_name": "salaeronsemþc] Em¨",
+    "id": "0041"
+  },
+  {
+    "name": "សាលារៀនភ្នំក្រពើជើង",
+    "kh_name": "salaeronPñMRkeBIeCIg",
+    "id": "0042"
+  },
+  {
+    "name": "សាលារៀនភ្នំក្រពើជើង",
+    "kh_name": "salaeronPñMRkeBIeCIg",
+    "id": "0043"
+  },
+  {
+    "name": "សាលារៀនភ្នំក្រពើ",
+    "kh_name": "salaeronPñMRkeBI",
+    "id": "0044"
+  },
+  {
+    "name": "កពើ",
+    "kh_name": "keBI",
+    "id": "1001"
+  },
+  {
+    "name": "ៀ ្ន្រ",
+    "kh_name": "o ñR",
+    "id": "1001"
+  },
+  {
+    "name": "សាលារៀនចែងក្ដារ",
+    "kh_name": "salaeronEcgkþar",
+    "id": "0045"
+  },
+  {
+    "name": "សាលារៀនភូមិសំណាញ់",
+    "kh_name": "salaeronPUmisMNaj´",
+    "id": "0046"
+  },
+  {
+    "name": "សាលារៀនភូមិសំណាញ់",
+    "kh_name": "salaeronPUmisMNaj´",
+    "id": "0769"
+  },
+  {
+    "name": "អនុវិទ្យាល័យស្នឹង",
+    "kh_name": "GnuviTüal&ysñwg",
+    "id": "0047"
+  },
+  {
+    "name": "អនុវិទ្យាល័យស្នឹង",
+    "kh_name": "GnuviTüal&ysñwg",
+    "id": "0048"
+  },
+  {
+    "name": "វត្ដស្នឹង",
+    "kh_name": "vtþsñwg",
+    "id": "0049"
+  },
+  {
+    "name": "វត្ដស្នឹង",
+    "kh_name": "vtþsñwg",
+    "id": "0050"
+  },
+  {
+    "name": "សាលាបឋមសិក្សារំជៃ",
+    "kh_name": "salabzmsikßarMéC",
+    "id": "0051"
+  },
+  {
+    "name": "សាលាបឋមសិក្សារំជៃ",
+    "kh_name": "salabzmsikßarMéC",
+    "id": "0052"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាភូមិគរ",
+    "kh_name": "salabzmsikßaPUmiKr",
+    "id": "0053"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាបឹងប្រិយ",
+    "kh_name": "salabzmsikßabwgRbiy",
+    "id": "0054"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាបឹងប្រិយ",
+    "kh_name": "salabzmsikßabwgRbiy",
+    "id": "1003"
+  },
+  {
+    "name": "បឋមសិក្សាពាក់ស្បែក",
+    "kh_name": "bzmsikßaBak´Es,k",
+    "id": "0770"
+  },
+  {
+    "name": "បឋមសិក្សាបឹងក្រសាល",
+    "kh_name": "bzmsikßabwgRksal",
+    "id": "0845"
+  },
+  {
+    "name": "បឋមសិក្សាបឹងក្រសាល",
+    "kh_name": "bzmsikßabwgRksal",
+    "id": "1002"
+  },
+  {
+    "name": "ឹង",
+    "kh_name": "wg",
+    "id": "0055"
+  },
+  {
+    "name": "្ស ្ន",
+    "kh_name": "ß ñ",
+    "id": "0055"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាភូមិគរ",
+    "kh_name": "salabzmsikßaPUmiKr",
+    "id": "0056"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាស្នឹង",
+    "kh_name": "salabzmsikßasñwg",
+    "id": "0057"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាស្នឹង",
+    "kh_name": "salabzmsikßasñwg",
+    "id": "0058"
+  },
+  {
+    "name": "វត្ដស្នឹង",
+    "kh_name": "vtþsñwg",
+    "id": "0059"
+  },
+  {
+    "name": "សាលារៀនតាគ្រាម",
+    "kh_name": "salaerontaRKam",
+    "id": "0060"
+  },
+  {
+    "name": "សាលារៀនតាង៉ែន",
+    "kh_name": "salaerontaEg¨n",
+    "id": "0061"
+  },
+  {
+    "name": "សាលារៀនតាង៉ែន",
+    "kh_name": "salaerontaEg¨n",
+    "id": "1004"
+  },
+  {
+    "name": "សាលារៀនតាង៉ែន",
+    "kh_name": "salaerontaEg¨n",
+    "id": "0898"
+  },
+  {
+    "name": "សាលារៀនតាង៉ែន",
+    "kh_name": "salaerontaEg¨n",
+    "id": "0064"
+  },
+  {
+    "name": "សាលារៀនភក្ដី",
+    "kh_name": "salaeronPkþI",
+    "id": "0062"
+  },
+  {
+    "name": "សាលាសិលាកែវ",
+    "kh_name": "salasilaEkv",
+    "id": "0063"
+  },
+  {
+    "name": "សាលារៀនសិលាកែវ",
+    "kh_name": "salaeronsilaEkv",
+    "id": "0846"
+  },
+  {
+    "name": "សាលារៀនអូរស្លាប៉ាង",
+    "kh_name": "salaeronGUrsøaá¨g",
+    "id": "0896"
+  },
+  {
+    "name": "សាលារៀនអូរស្លាប៉ាង",
+    "kh_name": "salaeronGUrsøaá¨g",
+    "id": "1007"
+  },
+  {
+    "name": "សាលារៀនអណ្ដូងនាង",
+    "kh_name": "salaeronGNþÚgnag",
+    "id": "0899"
+  },
+  {
+    "name": "សាលារៀនភូមិថ្មី",
+    "kh_name": "salaeronPUmifμI",
+    "id": "0065"
+  },
+  {
+    "name": "សាលារៀនភូមិថ្មី",
+    "kh_name": "salaeronPUmifμI",
+    "id": "0066"
+  },
+  {
+    "name": "សាលារៀនអូរពងមាន់",
+    "kh_name": "salaeronGUrBgman´",
+    "id": "0067"
+  },
+  {
+    "name": "សាលារៀនអូរពងមាន់",
+    "kh_name": "salaeronGUrBgman´",
+    "id": "1005"
+  },
+  {
+    "name": "អនុវិទ្យាល័យតាគ្រាម",
+    "kh_name": "GnuviTüal&ytaRKam",
+    "id": "0771"
+  },
+  {
+    "name": "សាលារៀនអូរតាញា",
+    "kh_name": "salaeronGUrtaja",
+    "id": "0068"
+  },
+  {
+    "name": "សាលារៀនអូរតាញា",
+    "kh_name": "salaeronGUrtaja",
+    "id": "0900"
+  },
+  {
+    "name": "សាលារៀនតាគ្រាម",
+    "kh_name": "salaerontaRKam",
+    "id": "0069"
+  },
+  {
+    "name": "សាលារៀនតាគ្រាម",
+    "kh_name": "salaerontaRKam",
+    "id": "0847"
+  },
+  {
+    "name": "សាលារៀនព្រៃផ្ដៅ",
+    "kh_name": "salaeronéRBepþA",
+    "id": "0070"
+  },
+  {
+    "name": "សាលារៀនព្រៃផ្ដៅ",
+    "kh_name": "salaeronéRBepþA",
+    "id": "1006"
+  },
+  {
+    "name": "វត្ដគោកក្ដួច",
+    "kh_name": "vtþeKakkþÜc",
+    "id": "0071"
+  },
+  {
+    "name": "ផ្ទះជិន រើុន",
+    "kh_name": "pÞ¼Cin erIun",
+    "id": "0072"
+  },
+  {
+    "name": "វត្ដទំពូង",
+    "kh_name": "vtþTMBUg",
+    "id": "0073"
+  },
+  {
+    "name": "ផ្ទះមាស សុផល",
+    "kh_name": "pÞ¼mas supl",
+    "id": "0772"
+  },
+  {
+    "name": "អនុវិទ្យាល័យតាមុឺន",
+    "kh_name": "GnuviTüal&ytamuWn",
+    "id": "0074"
+  },
+  {
+    "name": "អនុវិទ្យាល័យតាមុឺន",
+    "kh_name": "GnuviTüal&ytamuWn",
+    "id": "0075"
+  },
+  {
+    "name": "វត្ដថ្មគោល",
+    "kh_name": "vtþfμeKal",
+    "id": "0076"
+  },
+  {
+    "name": "វត្ដថ្មគោល",
+    "kh_name": "vtþfμeKal",
+    "id": "0077"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាគោកក្ដួច",
+    "kh_name": "salabzmsikßaeKakkþÜc",
+    "id": "0773"
+  },
+  {
+    "name": "សាលាឆទាន",
+    "kh_name": "salaqTan",
+    "id": "0078"
+  },
+  {
+    "name": "ផ្ទះ គឹម សារិម",
+    "kh_name": "pÞ¼ Kwm sarim",
+    "id": "0079"
+  },
+  {
+    "name": "ផ្ទះតាទី",
+    "kh_name": "pÞ¼taTI",
+    "id": "0080"
+  },
+  {
+    "name": "វត្ដប៉ោយសំរោង",
+    "kh_name": "vtþeá¨ysMerag",
+    "id": "0081"
+  },
+  {
+    "name": "៉យសំរោង",
+    "kh_name": "¨ysMerag",
+    "id": "0082"
+  },
+  {
+    "name": "្សបា",
+    "kh_name": "ßá",
+    "id": "0082"
+  },
+  {
+    "name": "វត្ដសេរីមង្គល",
+    "kh_name": "vtþesrImg:l",
+    "id": "0083"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាតាពូង",
+    "kh_name": "salabzmsikßataBUg",
+    "id": "0084"
+  },
+  {
+    "name": "សាលាឆទានសំរោង",
+    "kh_name": "salaqTansMerag",
+    "id": "0085"
+  },
+  {
+    "name": "បឋមសិក្សាតាមុឺន",
+    "kh_name": "bzmsikßatamuWn",
+    "id": "0086"
+  },
+  {
+    "name": "សាលាឆទានគោកត្រប់",
+    "kh_name": "salaqTaneKakRtb´",
+    "id": "0087"
+  },
+  {
+    "name": "ផ្ទះ និល យិន",
+    "kh_name": "pÞ¼ nil yin",
+    "id": "0088"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាអង់",
+    "kh_name": "salabzmsikßaGg´",
+    "id": "0089"
+  },
+  {
+    "name": "ផ្ទះ មីុប្រម",
+    "kh_name": "pÞ¼ mIuRbm",
+    "id": "0090"
+  },
+  {
+    "name": "ផ្ទះសេក សំអុល",
+    "kh_name": "pÞ¼esk sMGul",
+    "id": "0091"
+  },
+  {
+    "name": "បឋមសិក្សាតាមុឺន",
+    "kh_name": "bzmsikßatamuWn",
+    "id": "0092"
+  },
+  {
+    "name": "សាលាឆទានក្រសាំង",
+    "kh_name": "salaqTanRksaMg",
+    "id": "0093"
+  },
+  {
+    "name": "សាលាឆទានជ្រោយម្ទេស",
+    "kh_name": "salaqTaneRCayemÞs",
+    "id": "0094"
+  },
+  {
+    "name": "បឋមសិក្សាតាសី",
+    "kh_name": "bzmsikßatasI",
+    "id": "0095"
+  },
+  {
+    "name": "សាលាវិទ្យាល័យស្រុក",
+    "kh_name": "salaviTüal&yRsuk",
+    "id": "0096"
+  },
+  {
+    "name": "ឺន",
+    "kh_name": "Wn",
+    "id": "0097"
+  },
+  {
+    "name": "្ស ុ",
+    "kh_name": "ß u",
+    "id": "0097"
+  },
+  {
+    "name": "សាលាបំពេញវិជ្ជាតាមុឺន",
+    "kh_name": "salabMeBjviC¢atamuWn",
+    "id": "0098"
+  },
+  {
+    "name": "សាលាបំពេញវិជ្ជាតាមុឺន",
+    "kh_name": "salabMeBjviC¢atamuWn",
+    "id": "0099"
+  },
+  {
+    "name": "បឋមសិក្សាត្រាង",
+    "kh_name": "bzmsikßaRtag",
+    "id": "0100"
+  },
+  {
+    "name": "រោងវីដេអូឆេង ទឡាប់ត្រាង",
+    "kh_name": "eragvIedGUeqg TLab´Rtag",
+    "id": "0101"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាកកោះ",
+    "kh_name": "salabzmsikßakeka¼",
+    "id": "0102"
+  },
+  {
+    "name": "បឋមសិក្សាព្រៃដាច់",
+    "kh_name": "bzmsikßaéRBdac´",
+    "id": "0103"
+  },
+  {
+    "name": "ផ្ទះលោក គួយ ម៉េៅ",
+    "kh_name": "pÞ¼elak KYy em¨A",
+    "id": "0104"
+  },
+  {
+    "name": "បឋមសិក្សាពពាលខែ",
+    "kh_name": "bzmsikßaBBalEx",
+    "id": "0105"
+  },
+  {
+    "name": "ផ្ទះតាខុង ម៉ូវ",
+    "kh_name": "pÞ¼taxug mU¨v",
+    "id": "0106"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាពពាលខែ",
+    "kh_name": "salabzmsikßaBBalEx",
+    "id": "0848"
+  },
+  {
+    "name": "វត្ដត្រស់",
+    "kh_name": "vtþRts´",
+    "id": "0107"
+  },
+  {
+    "name": "វត្ដត្រស់",
+    "kh_name": "vtþRts´",
+    "id": "0849"
+  },
+  {
+    "name": "ពទទឹង",
+    "kh_name": "BTTwg",
+    "id": "0108"
+  },
+  {
+    "name": "្ស្រ",
+    "kh_name": "ßR",
+    "id": "0108"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាវាលទ្រា",
+    "kh_name": "salabzmsikßavalRTa",
+    "id": "0109"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាវាលទ្រា",
+    "kh_name": "salabzmsikßavalRTa",
+    "id": "0850"
+  },
+  {
+    "name": "ផ្ទះហឿន ហឿប",
+    "kh_name": "pÞ¼ehOn ehOb",
+    "id": "0110"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាអូរតាគី",
+    "kh_name": "salabzmsikßaGUrtaKI",
+    "id": "0111"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាអូរតាគី",
+    "kh_name": "salabzmsikßaGUrtaKI",
+    "id": "0901"
+  },
+  {
+    "name": "វត្ដអូរតាគី",
+    "kh_name": "vtþGUrtaKI",
+    "id": "0112"
+  },
+  {
+    "name": "អនុវិទ្យាល័យ ជ្រៃ",
+    "kh_name": "GnuviTüal&y éRC",
+    "id": "0113"
+  },
+  {
+    "name": "មណ្ឌលសុខាភិបាលឃុំជ្រៃ",
+    "kh_name": "mNÐlsuxaPiálXuMéRC",
+    "id": "0114"
+  },
+  {
+    "name": "បណ្ណាល័យភូមិហៃ សាន",
+    "kh_name": "bNÑal&yPUmiéh san",
+    "id": "0115"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាឃុំជ្រៃ",
+    "kh_name": "salabzmsikßaXMuéRC",
+    "id": "0116"
+  },
+  {
+    "name": "បឋមសិក្សា ព្រៃទទឹង",
+    "kh_name": "bzmsikßa éRBTTwg",
+    "id": "0117"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាព្រៃទទឹង",
+    "kh_name": "salabzmsikßaéRBTTwg",
+    "id": "0118"
+  },
+  {
+    "name": "វត្ដរូង",
+    "kh_name": "vtþrUg",
+    "id": "0119"
+  },
+  {
+    "name": "សាលាហ៊ុន សែនកគោ",
+    "kh_name": "salah‘un EsnkeKa",
+    "id": "0120"
+  },
+  {
+    "name": "វត្ដកគោ",
+    "kh_name": "vtþkeKa",
+    "id": "0121"
+  },
+  {
+    "name": "ផ្ទះសាន ប៊ុន សុង",
+    "kh_name": "pÞ¼san b‘un sug",
+    "id": "0122"
+  },
+  {
+    "name": "សាលាហ៊ុន សែនកគោ",
+    "kh_name": "salah‘un EsnkeKa",
+    "id": "0123"
+  },
+  {
+    "name": "សាលាសន្សំធម៌",
+    "kh_name": "salasnßMFm’",
+    "id": "0124"
+  },
+  {
+    "name": "ន",
+    "kh_name": "n",
+    "id": "0125"
+  },
+  {
+    "name": "ឿ",
+    "kh_name": "O",
+    "id": "0125"
+  },
+  {
+    "name": "អនុវិទ្យាល័យជ្រៃ",
+    "kh_name": "GnuviTüal&yéRC",
+    "id": "0126"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាអន្លង់រុន",
+    "kh_name": "salabzmsikßaGnøg´run",
+    "id": "0127"
+  },
+  {
+    "name": "វត្ដចារ (ភូមិចារ)",
+    "kh_name": "vtþcar (PUmicar)",
+    "id": "0774"
+  },
+  {
+    "name": "បឋមសិក្សាចបកាប់",
+    "kh_name": "bzmsikßacbkab´",
+    "id": "0128"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាគ្រួស",
+    "kh_name": "salabzmsikßaRKYs",
+    "id": "0129"
+  },
+  {
+    "name": "ផ្ទះលី សានណាន់",
+    "kh_name": "pÞ¼lI sanNan´",
+    "id": "0130"
+  },
+  {
+    "name": "បឋម។ជ្រោយស្ដៅ",
+    "kh_name": "bzm¿eRCayesþA",
+    "id": "0131"
+  },
+  {
+    "name": "ផ្ទះផាន កុយ",
+    "kh_name": "pÞ¼pan kuy",
+    "id": "0132"
+  },
+  {
+    "name": "ផ្ទះហ៊ិន សូវ",
+    "kh_name": "pÞ¼huin sUv",
+    "id": "0133"
+  },
+  {
+    "name": "ផ្ទះយាយខូ ភ្លឹង",
+    "kh_name": "pÞ¼yayxU Pøwg",
+    "id": "0134"
+  },
+  {
+    "name": "បឋមសិក្សានិគម(លិច)",
+    "kh_name": "bzmsikßaniKm(lic)",
+    "id": "0135"
+  },
+  {
+    "name": "បឋមសិក្សានិគម(កើត)",
+    "kh_name": "bzmsikßaniKm(ekIt)",
+    "id": "0136"
+  },
+  {
+    "name": "ផ្ទះវ៉ាន់ ស្រី",
+    "kh_name": "pÞ¼va¨n´ RsI",
+    "id": "0137"
+  },
+  {
+    "name": "សាលាបឋមទួលថ្ងាន់",
+    "kh_name": "salabzmTYlf¶an´",
+    "id": "0138"
+  },
+  {
+    "name": "សាលាបឋមទួលថ្ងាន់",
+    "kh_name": "salabzmTYlf¶an´",
+    "id": "0851"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាស្នួលកោង",
+    "kh_name": "salabzmsikßasñÜlekag",
+    "id": "0139"
+  },
+  {
+    "name": "វត្ដប៉ោយតាសេក",
+    "kh_name": "vtþeá¨ytaesk",
+    "id": "0140"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាអូរញរ",
+    "kh_name": "salabzmsikßaGUrjr",
+    "id": "0141"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាអូរញរ",
+    "kh_name": "salabzmsikßaGUrjr",
+    "id": "0852"
+  },
+  {
+    "name": "ទួលសំរោង ( កសិកម្ម )",
+    "kh_name": "TYlsMerag ( ksikmμ )",
+    "id": "0142"
+  },
+  {
+    "name": "ផ្ទះហ៊ាន ហ៊ន",
+    "kh_name": "pÞ¼h‘an h‘n",
+    "id": "0143"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាបឹងព្រីង",
+    "kh_name": "salabzmsikßabwgRBIg",
+    "id": "0144"
+  },
+  {
+    "name": "អនុវិទ្យាល័យជ្រោយស្ដៅ",
+    "kh_name": "GnuviTüal&yeRCayesþA",
+    "id": "0145"
+  },
+  {
+    "name": "អនុវិទ្យាល័យជ្រោយស្ដៅ",
+    "kh_name": "GnuviTüal&yeRCayesþA",
+    "id": "0775"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាឆ្កែកូន",
+    "kh_name": "salabzmsikßaEq;kUn",
+    "id": "0146"
+  },
+  {
+    "name": "កន",
+    "kh_name": "kn",
+    "id": "0147"
+  },
+  {
+    "name": "ន",
+    "kh_name": "n",
+    "id": "0147"
+  },
+  {
+    "name": "បឋមសិក្សាកៀនកែស១",
+    "kh_name": "bzmsikßaekonEks1",
+    "id": "0148"
+  },
+  {
+    "name": "បឋមសិក្សាកៀនកែស២",
+    "kh_name": "bzmsikßaekonEks2",
+    "id": "0149"
+  },
+  {
+    "name": "ផ្ទះសន វង្ស",
+    "kh_name": "pÞ¼sn vgß",
+    "id": "0150"
+  },
+  {
+    "name": "ផ្ទះវៀង ចំរើន",
+    "kh_name": "pÞ¼evog cMerIn",
+    "id": "0151"
+  },
+  {
+    "name": "ផ្ទះទឡាច អ៊ាម",
+    "kh_name": "pÞ¼TLac G‘am",
+    "id": "0152"
+  },
+  {
+    "name": "វត្ដពៃសាលី កៀនកែស",
+    "kh_name": "vtþéBsalI ekonEks",
+    "id": "0153"
+  },
+  {
+    "name": "បឋមសិក្សាភូមិច្រនៀង",
+    "kh_name": "bzmsikßaPUmiRcenog",
+    "id": "0154"
+  },
+  {
+    "name": "បឋមសិក្សាច្រនៀង ២",
+    "kh_name": "bzmsikßaRcenog 2",
+    "id": "0776"
+  },
+  {
+    "name": "អនុវិទ្យាល័យគោកឃ្មុុំ",
+    "kh_name": "GnuviTüal&yeKakXμuMú",
+    "id": "0155"
+  },
+  {
+    "name": "ផ្ទះលោក ខុង ស្វាំង",
+    "kh_name": "pÞ¼elak xug sVaMg",
+    "id": "0156"
+  },
+  {
+    "name": "វត្ដហ្លួង ផែង",
+    "kh_name": "vtþhøÜg Epg",
+    "id": "0157"
+  },
+  {
+    "name": "រោងវីដេអូក្រោយសាលាឃុំ",
+    "kh_name": "eragvIedGUeRkaysalaXuM",
+    "id": "0158"
+  },
+  {
+    "name": "រោងវីដេអូ ទឡុង ណាក់",
+    "kh_name": "eragvIedGU TLúg Nak´",
+    "id": "0159"
+  },
+  {
+    "name": "បឋមសិក្សាបន្សាយត្រែង",
+    "kh_name": "bzmsikßabnßayERtg",
+    "id": "0160"
+  },
+  {
+    "name": "ការិ។ ស ស អ ស",
+    "kh_name": "kari¿ s s G s",
+    "id": "0161"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាភូមិថ្មី",
+    "kh_name": "salabzmsikßaPUmifμI",
+    "id": "0162"
+  },
+  {
+    "name": "រោងវីដេអូលី ស៊ា",
+    "kh_name": "eragvIedGUlI sa‘",
+    "id": "0163"
+  },
+  {
+    "name": "រោងវីដេអូខៀវ សាវ៉ាត",
+    "kh_name": "eragvIedGUexov sava¨t",
+    "id": "0164"
+  },
+  {
+    "name": "វត្ដឧត្ដមមុនីវង្ស",
+    "kh_name": "vtþ«tþmmunIvgß",
+    "id": "0165"
+  },
+  {
+    "name": "ផ្ទះលៀម ហុក",
+    "kh_name": "pÞ¼elom huk",
+    "id": "0166"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាធ្មា",
+    "kh_name": "salabzmsikßaFμa",
+    "id": "0167"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាស្ពាន",
+    "kh_name": "salabzmsikßas<an",
+    "id": "0168"
+  },
+  {
+    "name": "វត្ដស្ពាន",
+    "kh_name": "vtþs<an",
+    "id": "0777"
+  },
+  {
+    "name": "វត្ដព្រះពន្លា",
+    "kh_name": "vtþRB¼Bnøa",
+    "id": "0169"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាព្រះពន្លា",
+    "kh_name": "salabzmsikßaRB¼Bnøa",
+    "id": "0170"
+  },
+  {
+    "name": "រោងវីដេអូមី សុផល",
+    "kh_name": "eragvIedGUmI supl",
+    "id": "0171"
+  },
+  {
+    "name": "ផ្ទះលោក ប៊ុន ផាត",
+    "kh_name": "pÞ¼elak b‘un pat",
+    "id": "0172"
+  },
+  {
+    "name": "បឋមសិក្សាសារាយអណ្ដែត",
+    "kh_name": "bzmsikßasarayGENþt",
+    "id": "0173"
+  },
+  {
+    "name": "បណ្ណាល័យកម្មវិធីស។ស។អ។ស",
+    "kh_name": "bNÑal&ykmμviFIs¿s¿G¿s",
+    "id": "0174"
+  },
+  {
+    "name": "សាលារៀនប៉ោយរំជៃ",
+    "kh_name": "salaeroneá¨yrMéC",
+    "id": "0175"
+  },
+  {
+    "name": "ផ្ទះ តក់ វៀន",
+    "kh_name": "pÞ¼ tk´ evon",
+    "id": "0176"
+  },
+  {
+    "name": "ផ្ទះជ្រឹង ឌិន",
+    "kh_name": "pÞ¼RCwg Din",
+    "id": "0177"
+  },
+  {
+    "name": "សាលារៀនប្រគាប",
+    "kh_name": "salaeronRbKab",
+    "id": "0178"
+  },
+  {
+    "name": "អនុវិទ្យាល័យរូងជ្រៃ",
+    "kh_name": "GnuviTüal&yrUgéRC",
+    "id": "0179"
+  },
+  {
+    "name": "វត្ដសមសាន",
+    "kh_name": "vtþsmsan",
+    "id": "0180"
+  },
+  {
+    "name": "វត្ដសមសាន",
+    "kh_name": "vtþsmsan",
+    "id": "0181"
+  },
+  {
+    "name": "សាលារៀនអូរតាគាំ ២",
+    "kh_name": "salaeronGUrtaKaM 2",
+    "id": "0182"
+  },
+  {
+    "name": "សាលារៀនអូរតាគាំ ២",
+    "kh_name": "salaeronGUrtaKaM 2",
+    "id": "0183"
+  },
+  {
+    "name": "សាលារៀនអូរតាគាំ ២",
+    "kh_name": "salaeronGUrtaKaM 2",
+    "id": "0184"
+  },
+  {
+    "name": "សាលារៀនអូរតាគាំ ២",
+    "kh_name": "salaeronGUrtaKaM 2",
+    "id": "0185"
+  },
+  {
+    "name": "សាលារៀនអូរតាគាំ ២",
+    "kh_name": "salaeronGUrtaKaM 2",
+    "id": "0778"
+  },
+  {
+    "name": "វត្ដទួលតាឯក",
+    "kh_name": "vtþTYltaÉk",
+    "id": "0186"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាទួលតាឯក",
+    "kh_name": "salabzmsikßaTYltaÉk",
+    "id": "0187"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាទួលតាឯក",
+    "kh_name": "salabzmsikßaTYltaÉk",
+    "id": "0188"
+  },
+  {
+    "name": "មត្ដេយ្យទួលតាឯក",
+    "kh_name": "metþyüTYltaÉk",
+    "id": "0189"
+  },
+  {
+    "name": "មត្ដេយ្យទួលតាឯក",
+    "kh_name": "metþyüTYltaÉk",
+    "id": "0190"
+  },
+  {
+    "name": "សាលារៀនអូរតាគាំ ១",
+    "kh_name": "salaeronGUrtaKaM 1",
+    "id": "0191"
+  },
+  {
+    "name": "សាលារៀនអូរតាគាំ ១",
+    "kh_name": "salaeronGUrtaKaM 1",
+    "id": "0192"
+  },
+  {
+    "name": "សាលារៀនអូរតាគាំ ១",
+    "kh_name": "salaeronGUrtaKaM 1",
+    "id": "0193"
+  },
+  {
+    "name": "សាលារៀនអូរតាគាំ ១",
+    "kh_name": "salaeronGUrtaKaM 1",
+    "id": "0779"
+  },
+  {
+    "name": "សាលាមត្ដេយ្យអូរតាគាំ ២",
+    "kh_name": "salametþyüGUrtaKaM 2",
+    "id": "0194"
+  },
+  {
+    "name": "បឋមសិក្សាអូរតាគាំ ២",
+    "kh_name": "bzmsikßaGUrtaKaM 2",
+    "id": "0902"
+  },
+  {
+    "name": "សាលាព្រែកព្រះស្ដេច",
+    "kh_name": "salaERBkRB¼esþc",
+    "id": "0195"
+  },
+  {
+    "name": "់",
+    "kh_name": "´",
+    "id": "0196"
+  },
+  {
+    "name": "យង",
+    "kh_name": "yg",
+    "id": "0196"
+  },
+  {
+    "name": "សាលាព្រែកព្រះស្ដេច",
+    "kh_name": "salaERBkRB¼esþc",
+    "id": "0197"
+  },
+  {
+    "name": "សាលាព្រែកព្រះស្ដេច",
+    "kh_name": "salaERBkRB¼esþc",
+    "id": "0198"
+  },
+  {
+    "name": "វិទ្យាល័យនេត យ៉ង់",
+    "kh_name": "viTüal&yent y¨g´",
+    "id": "0199"
+  },
+  {
+    "name": "វិទ្យាល័យនេត យ៉ង់",
+    "kh_name": "viTüal&yent y¨g´",
+    "id": "0200"
+  },
+  {
+    "name": "សាលាសម្ដេច ជា ស៊ីម",
+    "kh_name": "salasemþc Ca suIm",
+    "id": "0201"
+  },
+  {
+    "name": "សាលាសម្ដេច ជា ស៊ីម",
+    "kh_name": "salasemþc Ca suIm",
+    "id": "0202"
+  },
+  {
+    "name": "សាលារៀន ១៣មករា",
+    "kh_name": "salaeron 13mkra",
+    "id": "0203"
+  },
+  {
+    "name": "សាលារៀន ១៣មករា",
+    "kh_name": "salaeron 13mkra",
+    "id": "0204"
+  },
+  {
+    "name": "សាលាសម្ដេច ជា ស៊ីម",
+    "kh_name": "salasemþc Ca suIm",
+    "id": "0205"
+  },
+  {
+    "name": "សាលាសម្ដេច ជា ស៊ីម",
+    "kh_name": "salasemþc Ca suIm",
+    "id": "0206"
+  },
+  {
+    "name": "សាលាព្រែកព្រះស្ដេច",
+    "kh_name": "salaERBkRB¼esþc",
+    "id": "0207"
+  },
+  {
+    "name": "សាលារៀន ១៣មករា",
+    "kh_name": "salaeron 13mkra",
+    "id": "0208"
+  },
+  {
+    "name": "វិហារឥស្លាម",
+    "kh_name": "vihar}søam",
+    "id": "0209"
+  },
+  {
+    "name": "សាលារៀនវត្ដ សូភី",
+    "kh_name": "salaeronvtþ sUPI",
+    "id": "0210"
+  },
+  {
+    "name": "ពេទ្យយាយជី",
+    "kh_name": "eBTüyayCI",
+    "id": "0211"
+  },
+  {
+    "name": "ពេទ្យយាយជី",
+    "kh_name": "eBTüyayCI",
+    "id": "0212"
+  },
+  {
+    "name": "សាលារៀនរំំចេក ៣",
+    "kh_name": "salaeronrMMeck 3",
+    "id": "0213"
+  },
+  {
+    "name": "សាលារៀនរំំចេក ៣",
+    "kh_name": "salaeronrMMeck 3",
+    "id": "1008"
+  },
+  {
+    "name": "សាលារៀនវត្ដពោធិក្នុង",
+    "kh_name": "salaeronvtþeBaFikñúg",
+    "id": "0214"
+  },
+  {
+    "name": "សាលារៀនវត្ដពោធិក្នុង",
+    "kh_name": "salaeronvtþeBaFikñúg",
+    "id": "0215"
+  },
+  {
+    "name": "សាលារៀនវត្ដពោធិក្នុង",
+    "kh_name": "salaeronvtþeBaFikñúg",
+    "id": "1009"
+  },
+  {
+    "name": "សាលារៀនវត្ដ សូភី",
+    "kh_name": "salaeronvtþ sUPI",
+    "id": "0216"
+  },
+  {
+    "name": "សាលាឆាន់វត្ដសូភី",
+    "kh_name": "salaqan´vtþsUPI",
+    "id": "0217"
+  },
+  {
+    "name": "នរំំចេក ៣",
+    "kh_name": "nrMMeck 3",
+    "id": "0218"
+  },
+  {
+    "name": "ៀ",
+    "kh_name": "o",
+    "id": "0218"
+  },
+  {
+    "name": "សាលាឆាន់វត្ដប៉ាឆា",
+    "kh_name": "salaqan´vtþá¨qa",
+    "id": "0219"
+  },
+  {
+    "name": "ការិយាល័យធារាសាស្ដ្រ",
+    "kh_name": "kariyal&yFarasa®sþ",
+    "id": "0220"
+  },
+  {
+    "name": "សាលារៀន រំចេក ៣",
+    "kh_name": "salaeron rMeck 3",
+    "id": "0221"
+  },
+  {
+    "name": "បណ្ណាល័យវត្ដពោធិវាល",
+    "kh_name": "bNÑal&yvtþeBaFival",
+    "id": "0222"
+  },
+  {
+    "name": "ថ្នាក់ពុទ្ធិកៈ វត្ដពោធិវាល",
+    "kh_name": "fñak´BuT§ik£ vtþeBaFival",
+    "id": "0223"
+  },
+  {
+    "name": "បឋមសិក្សា វត្ដពោធិវង្ស",
+    "kh_name": "bzmsikßa vtþeBaFivgß",
+    "id": "0224"
+  },
+  {
+    "name": "១២",
+    "kh_name": "12",
+    "id": "0225"
+  },
+  {
+    "name": "្ស",
+    "kh_name": "ß",
+    "id": "0225"
+  },
+  {
+    "name": "បឋមសិក្សា វត្ដពោធិវង្ស",
+    "kh_name": "bzmsikßa vtþeBaFivgß",
+    "id": "0226"
+  },
+  {
+    "name": "បឋមសិក្សា វត្ដពោធិវង្ស",
+    "kh_name": "bzmsikßa vtþeBaFivgß",
+    "id": "0227"
+  },
+  {
+    "name": "បឋមសិក្សា ថ្មីពោធិវង្ស",
+    "kh_name": "bzmsikßa fμIeBaFivgß",
+    "id": "0228"
+  },
+  {
+    "name": "បឋមសិក្សា ថ្មីពោធិវង្ស",
+    "kh_name": "bzmsikßa fμIeBaFivgß",
+    "id": "0229"
+  },
+  {
+    "name": "បឋមសិក្សា ថ្មីពោធិវង្ស",
+    "kh_name": "bzmsikßa fμIeBaFivgß",
+    "id": "0230"
+  },
+  {
+    "name": "បឋមសិក្សា ថ្មីពោធិវង្ស",
+    "kh_name": "bzmsikßa fμIeBaFivgß",
+    "id": "0231"
+  },
+  {
+    "name": "បឋមសិក្សា ថ្មីពោធិវង្ស",
+    "kh_name": "bzmsikßa fμIeBaFivgß",
+    "id": "0232"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាវត្ដលៀប",
+    "kh_name": "salabzmsikßavtþelob",
+    "id": "0233"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាវត្ដលៀប",
+    "kh_name": "salabzmsikßavtþelob",
+    "id": "0234"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាវត្ដលៀប",
+    "kh_name": "salabzmsikßavtþelob",
+    "id": "0235"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាវត្ដលៀប",
+    "kh_name": "salabzmsikßavtþelob",
+    "id": "0236"
+  },
+  {
+    "name": "អនុវិទ្យាល័យវត្ដរំដួល",
+    "kh_name": "GnuviTüal&yvtþrMdYl",
+    "id": "0237"
+  },
+  {
+    "name": "អនុវិទ្យាល័យវត្ដរំដួល",
+    "kh_name": "GnuviTüal&yvtþrMdYl",
+    "id": "0238"
+  },
+  {
+    "name": "អនុវិទ្យាល័យវត្ដរំដួល",
+    "kh_name": "GnuviTüal&yvtþrMdYl",
+    "id": "0239"
+  },
+  {
+    "name": "០២_០២៣",
+    "kh_name": "02-023",
+    "id": "0240"
+  },
+  {
+    "id": "0903",
+    "name": "សាលាបឋមសិក្សា ជ្រៃកោង",
+    "kh_name": "salabzmsikßa éRCekag"
+  },
+  {
+    "id": "0241",
+    "name": "វត្ដស្លាកែត",
+    "kh_name": "vtþsøaEkt"
+  },
+  {
+    "id": "0242",
+    "name": "វិហារឥស្លាម",
+    "kh_name": "vihar}søam"
+  },
+  {
+    "id": "0245",
+    "name": "សាលាបឋមសិក្សាស្លាកែត",
+    "kh_name": "salabzmsikßasøaEkt"
+  },
+  {
+    "id": "0246",
+    "name": "៩ ៦៧ ៩ ៤៩ ២្ប០៥៣ ១២ ៣៦ ៩២ ១្ប១៦៥ ៧ ៧២ ៣្ប៥៦២ ៣១ ៣្ប៥៩៣",
+    "kh_name": "9 67 9 49 2,053 12 36 92 1,165 7 72 3,562 31 3,593"
+  },
+  {
+    "name": "អនុវិទ្យាល័យក្ដុលដូនទាវ",
+    "kh_name": "GnuviTüal&ykþúldUnTav",
+    "id": "0247"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាភូមិថ្កូវ",
+    "kh_name": "salabzmsikßaPUmif;Úv",
+    "id": "0248"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាភូមិថ្កូវ",
+    "kh_name": "salabzmsikßaPUmif;Úv",
+    "id": "0249"
+  },
+  {
+    "name": "អនុវិទ្យាល័យក្ដុលដូនទាវ",
+    "kh_name": "GnuviTüal&ykþúldUnTav",
+    "id": "0250"
+  },
+  {
+    "name": "អនុវិទ្យាល័យក្ដុលដូនទាវ",
+    "kh_name": "GnuviTüal&ykþúldUnTav",
+    "id": "0904"
+  },
+  {
+    "name": "អនុវិទ្យាល័យក្ដុលដូនទាវ",
+    "kh_name": "GnuviTüal&ykþúldUnTav",
+    "id": "0251"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាចុងព្រែក",
+    "kh_name": "salabzmsikßacugERBk",
+    "id": "0252"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាភូមិតាព្រួច",
+    "kh_name": "salabzmsikßaPUmitaRBYc",
+    "id": "0253"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាភូមិតាព្រួច",
+    "kh_name": "salabzmsikßaPUmitaRBYc",
+    "id": "0254"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាចុងព្រែក",
+    "kh_name": "salabzmsikßacugERBk",
+    "id": "0255"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាដាក់សសរ",
+    "kh_name": "salabzmsikßadak´ssr",
+    "id": "0256"
+  },
+  {
+    "name": "់",
+    "kh_name": "´",
+    "id": "0257"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាវត្ដរកាកើត",
+    "kh_name": "salabzmsikßavtþrkaekIt",
+    "id": "0258"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាវត្ដរកាលិច",
+    "kh_name": "salabzmsikßavtþrkalic",
+    "id": "0781"
+  },
+  {
+    "name": "សាលាកំរងអូរម៉ាល់ ព្រៃរកាជើង",
+    "kh_name": "salakMrgGUrma¨l´ éRBrkaeCIg",
+    "id": "0259"
+  },
+  {
+    "name": "សាលាកំរងអូរម៉ាល់ ព្រៃរកាត្បូង",
+    "kh_name": "salakMrgGUrma¨l´ éRBrkat,Úg",
+    "id": "0260"
+  },
+  {
+    "name": "សាលាមត្ដេយ្យអណ្ដូងព្រីង",
+    "kh_name": "salametþyüGNþÚgRBIg",
+    "id": "0261"
+  },
+  {
+    "name": "មន្ទីរពេទ្យឃុំអណ្ដូងព្រីង",
+    "kh_name": "mnÞIreBTüXuMGNþÚgRBIg",
+    "id": "0262"
+  },
+  {
+    "name": "បឋមសិក្សាសាលាបាទឡាត់",
+    "kh_name": "bzmsikßasalaáTLat´",
+    "id": "0263"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាគោកពន្លៃ",
+    "kh_name": "salabzmsikßaeKakBénø",
+    "id": "0264"
+  },
+  {
+    "name": "វត្ដបឹងរាំង",
+    "kh_name": "vtþbwgraMg",
+    "id": "0265"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាបឹងរាំង",
+    "kh_name": "salabzmsikßabwgraMg",
+    "id": "0266"
+  },
+  {
+    "name": "ស្ថានីយ៍បឹងរាំង",
+    "kh_name": "sSanIy_bwgraMg",
+    "id": "0267"
+  },
+  {
+    "name": "សាលារៀនច្រាបក្រសាំងត្បូង",
+    "kh_name": "salaeronRcabRksaMgt,Úg",
+    "id": "0268"
+  },
+  {
+    "name": "សាលារៀនច្រាបក្រសាំងជើង",
+    "kh_name": "salaeronRcabRksaMgeCIg",
+    "id": "0269"
+  },
+  {
+    "name": "ព្រះវិហារយេស៊ូគ្រឹស្ដ",
+    "kh_name": "RB¼vihareysU‘RKwsþ",
+    "id": "0975"
+  },
+  {
+    "name": "សាលាដំណាក់ហ្លួង",
+    "kh_name": "saladMNak´høÜg",
+    "id": "0270"
+  },
+  {
+    "name": "វត្ដធម្មិការ៉ាម",
+    "kh_name": "vtþFmμikar¨am",
+    "id": "0271"
+  },
+  {
+    "name": "សាលារៀនបល្ល័ង្គ",
+    "kh_name": "salaeronblø&g:",
+    "id": "0272"
+  },
+  {
+    "name": "វត្ដបល្ល័ង្គ",
+    "kh_name": "vtþblø&g:",
+    "id": "0273"
+  },
+  {
+    "name": "វត្ដកំពង់សីមា",
+    "kh_name": "vtþkMBg´sIma",
+    "id": "0274"
+  },
+  {
+    "name": "សាលារៀនកំពង់សីមា",
+    "kh_name": "salaeronkMBg´sIma",
+    "id": "0275"
+  },
+  {
+    "name": "ង",
+    "kh_name": "g",
+    "id": "0276"
+  },
+  {
+    "name": "ង",
+    "kh_name": "g",
+    "id": "0276"
+  },
+  {
+    "name": "ប៉ាឆាវត្ដគរ",
+    "kh_name": "á¨qavtþKr",
+    "id": "0277"
+  },
+  {
+    "name": "សាលាឆាន់វត្ដគរលិច",
+    "kh_name": "salaqan´vtþKrlic",
+    "id": "0853"
+  },
+  {
+    "name": "សាលាឆាន់វត្ដគរកើត",
+    "kh_name": "salaqan´vtþKrekIt",
+    "id": "0278"
+  },
+  {
+    "name": "សាលារៀនខ្សាច់ពោយ",
+    "kh_name": "salaeronxßac´eBay",
+    "id": "0279"
+  },
+  {
+    "name": "វត្ដខ្សាច់ពោយ",
+    "kh_name": "vtþxßac´eBay",
+    "id": "0280"
+  },
+  {
+    "name": "សាលារៀនភូមិអង្គ",
+    "kh_name": "salaeronPUmiGg:",
+    "id": "0281"
+  },
+  {
+    "name": "សាលារៀនភូមិអង្គ",
+    "kh_name": "salaeronPUmiGg:",
+    "id": "0282"
+  },
+  {
+    "name": "សាលារៀនភូមិអង្គ",
+    "kh_name": "salaeronPUmiGg:",
+    "id": "1010"
+  },
+  {
+    "name": "សាលារៀនអណ្ដូងចេញ",
+    "kh_name": "salaeronGNþÚgecj",
+    "id": "0283"
+  },
+  {
+    "name": "សាលាសម្ដេចហ៊ុនសែនអូរចារ",
+    "kh_name": "salasemþchu‘nEsnGUrcar",
+    "id": "0284"
+  },
+  {
+    "name": "សាលាសម្ដេចហ៊ុនសែនអូរចារ",
+    "kh_name": "salasemþchu‘nEsnGUrcar",
+    "id": "0285"
+  },
+  {
+    "name": "សាលាសម្ដេចហ៊ុនសែនអូរចារ",
+    "kh_name": "salasemþchu‘nEsnGUrcar",
+    "id": "0286"
+  },
+  {
+    "name": "សាលាសម្ដេចហ៊ុនសែនអូរចារ",
+    "kh_name": "salasemþchu‘nEsnGUrcar",
+    "id": "0287"
+  },
+  {
+    "name": "សាលារៀនអណ្ដូងចេញ",
+    "kh_name": "salaeronGNþÚgecj",
+    "id": "0288"
+  },
+  {
+    "name": "សាលារៀនអណ្ដូងចេញ",
+    "kh_name": "salaeronGNþÚgecj",
+    "id": "0289"
+  },
+  {
+    "name": "ញ",
+    "kh_name": "j",
+    "id": "0290"
+  },
+  {
+    "name": "្ដ ្យ ្ច ញ",
+    "kh_name": "þ ü © j",
+    "id": "0290"
+  },
+  {
+    "name": "សាលាមត្ដេយ្យអពា្ចាញ",
+    "kh_name": "salametþyüGBa©aj",
+    "id": "1011"
+  },
+  {
+    "name": "សាលាមត្ដេយ្យអពា្ចាញ",
+    "kh_name": "salametþyüGBa©aj",
+    "id": "0291"
+  },
+  {
+    "name": "បឋមសិក្សាហ៊ុន សែនអូរចារ",
+    "kh_name": "bzmsikßah‘un EsnGUrcar",
+    "id": "0292"
+  },
+  {
+    "name": "បឋមសិក្សាហ៊ុន សែនអូរចារ",
+    "kh_name": "bzmsikßah‘un EsnGUrcar",
+    "id": "0293"
+  },
+  {
+    "name": "បឋមសិក្សាហ៊ុន សែនអូរចារ",
+    "kh_name": "bzmsikßah‘un EsnGUrcar",
+    "id": "0294"
+  },
+  {
+    "name": "សាលារៀនចិន",
+    "kh_name": "salaeroncin",
+    "id": "0295"
+  },
+  {
+    "name": "សាលារៀនចិន",
+    "kh_name": "salaeroncin",
+    "id": "0296"
+  },
+  {
+    "name": "សាលារៀនចិន",
+    "kh_name": "salaeroncin",
+    "id": "0297"
+  },
+  {
+    "name": "សាលារៀនចិន",
+    "kh_name": "salaeroncin",
+    "id": "0782"
+  },
+  {
+    "name": "វិទ្យាល័យព្រះមុនីវង្ស",
+    "kh_name": "viTüal&yRB¼munIvgß",
+    "id": "0298"
+  },
+  {
+    "name": "វិទ្យាល័យព្រះមុនីវង្ស",
+    "kh_name": "viTüal&yRB¼munIvgß",
+    "id": "0299"
+  },
+  {
+    "name": "វិទ្យាល័យព្រះមុនីវង្ស",
+    "kh_name": "viTüal&yRB¼munIvgß",
+    "id": "0300"
+  },
+  {
+    "name": "វត្ដពិភិទ្ធារាម",
+    "kh_name": "vtþBiPiT§aram",
+    "id": "0301"
+  },
+  {
+    "name": "វត្ដពិភិទ្ធារាម",
+    "kh_name": "vtþBiPiT§aram",
+    "id": "0302"
+  },
+  {
+    "name": "អនុវិទ្យាល័យសោ ហឺ",
+    "kh_name": "GnuviTüal&yesa hW",
+    "id": "0783"
+  },
+  {
+    "name": "សាលា២ធ្នូ",
+    "kh_name": "sala2FñÚ",
+    "id": "0303"
+  },
+  {
+    "name": "សាលា២ធ្នូ",
+    "kh_name": "sala2FñÚ",
+    "id": "0304"
+  },
+  {
+    "name": "សាលា២ធ្នូ",
+    "kh_name": "sala2FñÚ",
+    "id": "0305"
+  },
+  {
+    "name": "ធ",
+    "kh_name": "F",
+    "id": "0784"
+  },
+  {
+    "name": "្នូ",
+    "kh_name": "ñÚ",
+    "id": "0784"
+  },
+  {
+    "name": "វត្ដដំរីស",
+    "kh_name": "vtþdMrIs",
+    "id": "0306"
+  },
+  {
+    "name": "វត្ដសំពៅ",
+    "kh_name": "vtþsMeBA",
+    "id": "0307"
+  },
+  {
+    "name": "សាលារៀនវត្ដកំផែង",
+    "kh_name": "salaeronvtþkMEpg",
+    "id": "0308"
+  },
+  {
+    "name": "សាលារៀនវត្ដកំផែង",
+    "kh_name": "salaeronvtþkMEpg",
+    "id": "0309"
+  },
+  {
+    "name": "សាលារៀនវត្ដកំផែង",
+    "kh_name": "salaeronvtþkMEpg",
+    "id": "0940"
+  },
+  {
+    "name": "សាលារៀនវត្ដកំផែង",
+    "kh_name": "salaeronvtþkMEpg",
+    "id": "0785"
+  },
+  {
+    "name": "ំ",
+    "kh_name": "M",
+    "id": "0310"
+  },
+  {
+    "name": "ុ",
+    "kh_name": "u",
+    "id": "0310"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាស្វាយជ្រុំ",
+    "kh_name": "salabzmsikßasVayRCuM",
+    "id": "0311"
+  },
+  {
+    "name": "បឋមសិក្សាបវេល ១",
+    "kh_name": "bzmsikßabevl 1",
+    "id": "0312"
+  },
+  {
+    "name": "បឋមសិក្សាបវេល ១",
+    "kh_name": "bzmsikßabevl 1",
+    "id": "1012"
+  },
+  {
+    "name": "បឋមសិក្សាកំពង់ឆ្នាំង ១",
+    "kh_name": "bzmsikßakMBg´qñaMg 1",
+    "id": "0313"
+  },
+  {
+    "name": "បឋមសិក្សាកំពង់ឆ្នាំង ១",
+    "kh_name": "bzmsikßakMBg´qñaMg 1",
+    "id": "1013"
+  },
+  {
+    "name": "វត្ដកំពង់ឆ្នាំង ២",
+    "kh_name": "vtþkMBg´qñaMg 2",
+    "id": "0314"
+  },
+  {
+    "name": "វត្ដសង្កែវារ",
+    "kh_name": "vtþsEg;var",
+    "id": "0315"
+  },
+  {
+    "name": "វត្ដស្លខា្លញ់",
+    "kh_name": "vtþsøxaøj´",
+    "id": "0316"
+  },
+  {
+    "name": "បឋមសិក្សាគោកស្លខ្លាញ់",
+    "kh_name": "bzmsikßaeKaksøxøaj´",
+    "id": "0317"
+  },
+  {
+    "name": "បឋមសិក្សាស្ពានកណ្ដាល",
+    "kh_name": "bzmsikßas<ankNþal",
+    "id": "0318"
+  },
+  {
+    "name": "បឋមសិក្សាស្ពានកណ្ដាល",
+    "kh_name": "bzmsikßas<ankNþal",
+    "id": "0319"
+  },
+  {
+    "name": "វិទ្យាល័យបវេល",
+    "kh_name": "viTüal&ybevl",
+    "id": "0320"
+  },
+  {
+    "name": "វិទ្យាល័យបវេល",
+    "kh_name": "viTüal&ybevl",
+    "id": "0321"
+  },
+  {
+    "name": "សាលាបឋមព្រៃទទឹង ២",
+    "kh_name": "salabzméRBTTwg 2",
+    "id": "0322"
+  },
+  {
+    "name": "សាលាសំណាក់ព្រៃទទឹង",
+    "kh_name": "salasMNak´éRBTTwg",
+    "id": "0323"
+  },
+  {
+    "name": "មន្ទីរពេទ្យឃុំព្រៃទទឹង ១",
+    "kh_name": "mnÞIreBTüXuMéRBTTwg 1",
+    "id": "0324"
+  },
+  {
+    "name": "រោងវីដេអូកូយ កន",
+    "kh_name": "eragvIedGUkUy kn",
+    "id": "0325"
+  },
+  {
+    "name": "ផ្ទះយាយ មុំ",
+    "kh_name": "pÞ¼yay muM",
+    "id": "0326"
+  },
+  {
+    "name": "វត្ដសង្កែវារ",
+    "kh_name": "vtþsEg;var",
+    "id": "0327"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាសាំងរាំង",
+    "kh_name": "salabzmsikßasaMgraMg",
+    "id": "0328"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាសាំងរាំង",
+    "kh_name": "salabzmsikßasaMgraMg",
+    "id": "0329"
+  },
+  {
+    "name": "សាលារៀនដាច់ព្រាត់",
+    "kh_name": "salaerondac´RBat´",
+    "id": "0330"
+  },
+  {
+    "name": "សាលារៀនដាច់ព្រាត់",
+    "kh_name": "salaerondac´RBat´",
+    "id": "1014"
+  },
+  {
+    "name": "ព្រះវិហារយីស៊ូគ្រឹស្ដ",
+    "kh_name": "RB¼viharyIsU‘RKwsþ",
+    "id": "0331"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាបវេល២",
+    "kh_name": "salabzmsikßabevl2",
+    "id": "0332"
+  },
+  {
+    "name": "វត្ដបវេល",
+    "kh_name": "vtþbevl",
+    "id": "0333"
+  },
+  {
+    "name": "បឋមសិក្សាគោកស្លខ្លាញ់",
+    "kh_name": "bzmsikßaeKaksøxøaj´",
+    "id": "0334"
+  },
+  {
+    "name": "បឋមសិក្សាបល័្លង្គមានជ័យ",
+    "kh_name": "bzmsikßabl&øg:manC&y",
+    "id": "0335"
+  },
+  {
+    "name": "ី",
+    "kh_name": "I",
+    "id": "0336"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាព្រៃសង្ហា",
+    "kh_name": "salabzmsikßaéRBsgHa",
+    "id": "0337"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាព្រៃសង្ហា",
+    "kh_name": "salabzmsikßaéRBsgHa",
+    "id": "0338"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាព្រៃសង្ហា",
+    "kh_name": "salabzmsikßaéRBsgHa",
+    "id": "1015"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាកោះរាម",
+    "kh_name": "salabzmsikßaeka¼ram",
+    "id": "0339"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាកោះរាម",
+    "kh_name": "salabzmsikßaeka¼ram",
+    "id": "0340"
+  },
+  {
+    "name": "សាលាបឋមសិក្សារូងអំពិល",
+    "kh_name": "salabzmsikßarUgGMBil",
+    "id": "0341"
+  },
+  {
+    "name": "សាលាបឋមសិក្សារូងអំពិល",
+    "kh_name": "salabzmsikßarUgGMBil",
+    "id": "0342"
+  },
+  {
+    "name": "អនុវិទ្យាល័យខ្នាចរមាស",
+    "kh_name": "GnuviTüal&yxñacrmas",
+    "id": "0343"
+  },
+  {
+    "name": "អនុវិទ្យាល័យខ្នាចរមាស",
+    "kh_name": "GnuviTüal&yxñacrmas",
+    "id": "0905"
+  },
+  {
+    "name": "អនុវិទ្យាល័យខ្នាចរមាស",
+    "kh_name": "GnuviTüal&yxñacrmas",
+    "id": "0344"
+  },
+  {
+    "name": "វត្ដដង្កោ",
+    "kh_name": "vtþdeg;a",
+    "id": "0345"
+  },
+  {
+    "name": "វតលា",
+    "kh_name": "vtla",
+    "id": "0346"
+  },
+  {
+    "name": "្ដ ្វ",
+    "kh_name": "þ V",
+    "id": "0346"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាល្វា",
+    "kh_name": "salabzmsikßalVa",
+    "id": "0347"
+  },
+  {
+    "name": "រោងវីដេអូល្វាចាស់",
+    "kh_name": "eragvIedGUlVacas´",
+    "id": "0348"
+  },
+  {
+    "name": "រោងវីដេអូល្វាចាស់",
+    "kh_name": "eragvIedGUlVacas´",
+    "id": "1016"
+  },
+  {
+    "name": "ឃ្លាំងសមាគមភូមិល្វាចាស់",
+    "kh_name": "XøaMgsmaKmPUmilVacas´",
+    "id": "0349"
+  },
+  {
+    "name": "ឃ្លាំងសមាគមភូមិល្វាចាស់",
+    "kh_name": "XøaMgsmaKmPUmilVacas´",
+    "id": "1017"
+  },
+  {
+    "name": "សាលាឆទានភូមិក្បាលស្ពាន",
+    "kh_name": "salaqTanPUmik,als<an",
+    "id": "0350"
+  },
+  {
+    "name": "ប៉ាតវង្ស",
+    "kh_name": "á¨tvgß",
+    "id": "0351"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាដូនអោក",
+    "kh_name": "salabzmsikßadUneGak",
+    "id": "0352"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាពីងពង់",
+    "kh_name": "salabzmsikßaBIgBg´",
+    "id": "0353"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាសា្វយព្រៃ",
+    "kh_name": "salabzmsikßasaVyéRB",
+    "id": "0354"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាបឹងសំរោង",
+    "kh_name": "salabzmsikßabwgsMerag",
+    "id": "0355"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាល្វា",
+    "kh_name": "salabzmsikßalVa",
+    "id": "0356"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាដង្កោពេន",
+    "kh_name": "salabzmsikßadeg;aeBn",
+    "id": "0357"
+  },
+  {
+    "name": "ាពេន",
+    "kh_name": "aeBn",
+    "id": "0361"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាតាម៉ាត",
+    "kh_name": "salabzmsikßatama¨t",
+    "id": "0358"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាឃុំព្រៃខ្ពស់",
+    "kh_name": "salabzmsikßaXMuéRBx<s´",
+    "id": "0359"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាម៉ាក់ឃ្លឿ",
+    "kh_name": "salabzmsikßama¨k´eXøÓ",
+    "id": "0360"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាក្បាលថ្នល់",
+    "kh_name": "salabzmsikßak,alfñl´",
+    "id": "0362"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាឃុំព្រៃខ្ពស់",
+    "kh_name": "salabzmsikßaXuMéRBx<s´",
+    "id": "0363"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាភូមិព្រៃខ្ពស់",
+    "kh_name": "salabzmsikßaPUmiéRBx<s´",
+    "id": "0364"
+  },
+  {
+    "name": "សាលាឆទានក្បាលអាង",
+    "kh_name": "salaqTank,alGag",
+    "id": "0365"
+  },
+  {
+    "name": "វត្ដដង្កោពេន",
+    "kh_name": "vtþdeg;aeBn",
+    "id": "0366"
+  },
+  {
+    "name": "កម៉ាង",
+    "kh_name": "km¨ag",
+    "id": "0367"
+  },
+  {
+    "name": "្រ",
+    "kh_name": "R",
+    "id": "0367"
+  },
+  {
+    "name": "វត្ដស្ថាពរ ២",
+    "kh_name": "vtþsSaBr 2",
+    "id": "0786"
+  },
+  {
+    "name": "វត្ដស្ថាពរ ២",
+    "kh_name": "vtþsSaBr 2",
+    "id": "1019"
+  },
+  {
+    "name": "វត្ដស្ថាពរ ២",
+    "kh_name": "vtþsSaBr 2",
+    "id": "0906"
+  },
+  {
+    "name": "វត្ដស្ថាពរ ២",
+    "kh_name": "vtþsSaBr 2",
+    "id": "1020"
+  },
+  {
+    "name": "សាលារៀនអំពិលប្រាំដើម",
+    "kh_name": "salaeronGMBilRáMedIm",
+    "id": "0368"
+  },
+  {
+    "name": "សាលារៀនអំពិលប្រាំដើម",
+    "kh_name": "salaeronGMBilRáMedIm",
+    "id": "0854"
+  },
+  {
+    "name": "ផ្ទះកុង ហឹុង",
+    "kh_name": "pÞ¼kug hwug",
+    "id": "0369"
+  },
+  {
+    "name": "ផ្ទះ វ៉ាត ចិន",
+    "kh_name": "pÞ¼ v¨at cin",
+    "id": "0370"
+  },
+  {
+    "name": "ផ្ទះ វ៉ាត ចិន",
+    "kh_name": "pÞ¼ v¨at cin",
+    "id": "1018"
+  },
+  {
+    "name": "ផ្ទះ ម៉ន សន",
+    "kh_name": "pÞ¼ m¨n sn",
+    "id": "0371"
+  },
+  {
+    "name": "ផ្ទះ ម៉ន សន",
+    "kh_name": "pÞ¼ m¨n sn",
+    "id": "0907"
+  },
+  {
+    "name": "ផ្ទះ យ៉ៃ ឆង់",
+    "kh_name": "pÞ¼ éy¨ qg´",
+    "id": "0373"
+  },
+  {
+    "name": "វត្ដក្ដុលតាហែន",
+    "kh_name": "vtþkþúltaEhn",
+    "id": "0374"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាក្ដុលលើ",
+    "kh_name": "salabzmsikßakþúlelI",
+    "id": "0375"
+  },
+  {
+    "name": "ផ្ទះខុង លឿត",
+    "kh_name": "pÞ¼xug elOt",
+    "id": "0376"
+  },
+  {
+    "name": "បឋមសិក្សាក្ដុលតាហែន",
+    "kh_name": "bzmsikßakþúltaEhn",
+    "id": "0377"
+  },
+  {
+    "name": "បឋមសិក្សាក្ដុលតាហែន",
+    "kh_name": "bzmsikßakþúltaEhn",
+    "id": "0787"
+  },
+  {
+    "name": "បឋមសិក្សាទួលក្រសំាង",
+    "kh_name": "bzmsikßaTYlRksMag",
+    "id": "0378"
+  },
+  {
+    "name": "សាលារៀនតាហែន",
+    "kh_name": "salaerontaEhn",
+    "id": "0379"
+  },
+  {
+    "name": "សាលារៀនតាគត់",
+    "kh_name": "salaerontaKt´",
+    "id": "0840"
+  },
+  {
+    "name": "សាលារៀនអន្លង់រៃ",
+    "kh_name": "salaeronGnøg´ér",
+    "id": "0908"
+  },
+  {
+    "name": "សាលារៀនច្រាំងបាក់",
+    "kh_name": "salaeronRcaMgák´",
+    "id": "0372"
+  },
+  {
+    "name": "សាលារៀនច្រាំងបាក់",
+    "kh_name": "salaeronRcaMgák´",
+    "id": "0976"
+  },
+  {
+    "name": "វត្ដអន្លង់រាំង",
+    "kh_name": "vtþGnøg´raMg",
+    "id": "0855"
+  },
+  {
+    "name": "វត្ដអន្លង់រាំង",
+    "kh_name": "vtþGnøg´raMg",
+    "id": "0977"
+  },
+  {
+    "name": "វត្ដព្រៃធំ",
+    "kh_name": "vtþéRBFM",
+    "id": "0856"
+  },
+  {
+    "name": "វត្ដព្រៃធំ",
+    "kh_name": "vtþéRBFM",
+    "id": "0978"
+  },
+  {
+    "name": "វត្ដព្រៃធំ",
+    "kh_name": "vtþéRBFM",
+    "id": "1021"
+  },
+  {
+    "name": "សាលារៀនទួលស្នួល",
+    "kh_name": "salaeronTYlsñÜl",
+    "id": "0857"
+  },
+  {
+    "name": "សាលារៀនទំនប់តាកួន",
+    "kh_name": "salaeronTMnb´takYn",
+    "id": "0858"
+  },
+  {
+    "name": "សាលារៀនទំនប់តាកួន",
+    "kh_name": "salaeronTMnb´takYn",
+    "id": "0954"
+  },
+  {
+    "name": "វត្ដអូរដូនពៅ",
+    "kh_name": "vtþGUrdUneBA",
+    "id": "0859"
+  },
+  {
+    "name": "វត្ដអូរដូនពៅ",
+    "kh_name": "vtþGUrdUneBA",
+    "id": "0979"
+  },
+  {
+    "name": "ព្រកត្រប",
+    "kh_name": "RBkRtb",
+    "id": "0380"
+  },
+  {
+    "name": "សាលារៀនព្រែកត្រប់",
+    "kh_name": "salaeronERBkRtb´",
+    "id": "0948"
+  },
+  {
+    "name": "វត្ដកែវមុនីពិសី",
+    "kh_name": "vtþEkvmunIBisI",
+    "id": "0381"
+  },
+  {
+    "name": "សាលារៀនព្រែកក្រូច",
+    "kh_name": "salaeronERBkRkUc",
+    "id": "0382"
+  },
+  {
+    "name": "វត្ដសា្វយជ្រុំ",
+    "kh_name": "vtþsaVyRCuM",
+    "id": "0383"
+  },
+  {
+    "name": "វត្ដកែវមុនីពិសី",
+    "kh_name": "vtþEkvmunIBisI",
+    "id": "0384"
+  },
+  {
+    "name": "សាលារៀនរហាលសួង",
+    "kh_name": "salaeronrhalsYg",
+    "id": "0385"
+  },
+  {
+    "name": "សាលារៀនរហាលសួង",
+    "kh_name": "salaeronrhalsYg",
+    "id": "0386"
+  },
+  {
+    "name": "សាលារៀនស្ដី",
+    "kh_name": "salaeronsþI",
+    "id": "0387"
+  },
+  {
+    "name": "អនុវិទ្យាល័យព្រែកនរិន្ទ",
+    "kh_name": "GnuviTüal&yERBknrinÞ",
+    "id": "0388"
+  },
+  {
+    "name": "អនុវិទ្យាល័យព្រែកនរិន្ទ",
+    "kh_name": "GnuviTüal&yERBknrinÞ",
+    "id": "0389"
+  },
+  {
+    "name": "វត្ដព្រែកក្រូច",
+    "kh_name": "vtþERBkRkUc",
+    "id": "0390"
+  },
+  {
+    "name": "វត្ដព្រែកក្រូច",
+    "kh_name": "vtþERBkRkUc",
+    "id": "0391"
+  },
+  {
+    "name": "អនុវិទ្យាល័យសំរោងក្នុង",
+    "kh_name": "GnuviTüal&ysMeragkñúg",
+    "id": "0392"
+  },
+  {
+    "name": "យសំរោងក្នុង",
+    "kh_name": "ysMeragkñúg",
+    "id": "0860"
+  },
+  {
+    "name": "អនុវិទ្យាល័យសំរោងក្នុង",
+    "kh_name": "GnuviTüal&ysMeragkñúg",
+    "id": "0393"
+  },
+  {
+    "name": "សាលារៀនវត្ដព្នៅ",
+    "kh_name": "salaeronvtþeBñA",
+    "id": "0394"
+  },
+  {
+    "name": "សាលារៀនវត្ដព្នៅ",
+    "kh_name": "salaeronvtþeBñA",
+    "id": "0964"
+  },
+  {
+    "name": "វត្ដទួលអំពិល",
+    "kh_name": "vtþTYlGMBil",
+    "id": "0395"
+  },
+  {
+    "name": "សាលាធម្មសភាវត្ដអូរទ្រា",
+    "kh_name": "salaFmμsPavtþGUrRTa",
+    "id": "0396"
+  },
+  {
+    "name": "សាលាធម្មសភាវត្ដអូរទ្រា",
+    "kh_name": "salaFmμsPavtþGUrRTa",
+    "id": "0397"
+  },
+  {
+    "name": "សាលាធម្មសភាវត្ដសំរោងក្នុង",
+    "kh_name": "salaFmμsPavtþsMeragkñúg",
+    "id": "0398"
+  },
+  {
+    "name": "សាលាធម្មសភាវត្ដសំរោងក្នុង",
+    "kh_name": "salaFmμsPavtþsMeragkñúg",
+    "id": "0399"
+  },
+  {
+    "name": "សាលាធម្មសភាវត្ដកែវ",
+    "kh_name": "salaFmμsPavtþEkv",
+    "id": "0400"
+  },
+  {
+    "name": "សាលាធម្មសភាវត្ដកែវ",
+    "kh_name": "salaFmμsPavtþEkv",
+    "id": "0401"
+  },
+  {
+    "name": "សាលារៀនក្ដាំងងា",
+    "kh_name": "salaeronkþaMgga",
+    "id": "0402"
+  },
+  {
+    "name": "ា",
+    "kh_name": "a",
+    "id": "0403"
+  },
+  {
+    "name": "សាលារៀនអូរកំបុត",
+    "kh_name": "salaeronGUrkMbut",
+    "id": "0404"
+  },
+  {
+    "name": "សាលារៀនអូរកំបុត",
+    "kh_name": "salaeronGUrkMbut",
+    "id": "0405"
+  },
+  {
+    "name": "សាលារៀនក្ដាំងងា",
+    "kh_name": "salaeronkþaMgga",
+    "id": "0406"
+  },
+  {
+    "name": "សាលារៀនក្ដាំងងា",
+    "kh_name": "salaeronkþaMgga",
+    "id": "0407"
+  },
+  {
+    "name": "សាលារៀនព្រែកស្នោរ",
+    "kh_name": "salaeronERBkesñar",
+    "id": "0408"
+  },
+  {
+    "name": "សាលារៀនព្រែកស្នោរ",
+    "kh_name": "salaeronERBkesñar",
+    "id": "0409"
+  },
+  {
+    "name": "វត្ដក្ដាំងងា",
+    "kh_name": "vtþkþaMgga",
+    "id": "0410"
+  },
+  {
+    "name": "វត្ដក្ដាំងងា",
+    "kh_name": "vtþkþaMgga",
+    "id": "0411"
+  },
+  {
+    "name": "សាលារៀនដូនឥន្ទ",
+    "kh_name": "salaerondUn}nÞ",
+    "id": "0412"
+  },
+  {
+    "name": "ន្ទ",
+    "kh_name": "nÞ",
+    "id": "0788"
+  },
+  {
+    "name": "សាលារៀនបាក់រទេះ",
+    "kh_name": "salaeronák´reT¼",
+    "id": "0413"
+  },
+  {
+    "name": "សាលារៀនបាក់អំរែក",
+    "kh_name": "salaeronák´GMErk",
+    "id": "0414"
+  },
+  {
+    "name": "សាលារៀនរហាលសួង",
+    "kh_name": "salaeronrhalsYg",
+    "id": "0415"
+  },
+  {
+    "name": "សាលារៀនរហាលសួង",
+    "kh_name": "salaeronrhalsYg",
+    "id": "0416"
+  },
+  {
+    "name": "សាលារៀនស្ដីក្រោម",
+    "kh_name": "salaeronsþIeRkam",
+    "id": "0417"
+  },
+  {
+    "name": "សាលារៀនស្ដីក្រោម",
+    "kh_name": "salaeronsþIeRkam",
+    "id": "0980"
+  },
+  {
+    "name": "សាលារៀនស្ដីលើ",
+    "kh_name": "salaeronsþIelI",
+    "id": "0418"
+  },
+  {
+    "name": "សាលារៀនស្ដីលើ",
+    "kh_name": "salaeronsþIelI",
+    "id": "0419"
+  },
+  {
+    "name": "សាលារៀនព្រែកហ្លួង",
+    "kh_name": "salaeronERBkhøÜg",
+    "id": "0420"
+  },
+  {
+    "name": "សាលារៀនព្រែកហ្លួង",
+    "kh_name": "salaeronERBkhøÜg",
+    "id": "0421"
+  },
+  {
+    "name": "អនុវិទ្យាល័យពាមឯក",
+    "kh_name": "GnuviTüal&yBamÉk",
+    "id": "0422"
+  },
+  {
+    "name": "យពាមឯក",
+    "kh_name": "yBamÉk",
+    "id": "0423"
+  },
+  {
+    "name": "យពាមឯក",
+    "kh_name": "yBamÉk",
+    "id": "0423"
+  },
+  {
+    "name": "អនុវិទ្យាល័យពាមឯក",
+    "kh_name": "GnuviTüal&yBamÉk",
+    "id": "0424"
+  },
+  {
+    "name": "វត្ដឯកភ្នំ",
+    "kh_name": "vtþÉkPñM",
+    "id": "0425"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាព្រែកឆ្ដោរ",
+    "kh_name": "salabzmsikßaERBkeqþar",
+    "id": "0426"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាព្រែកឆ្ដោរ",
+    "kh_name": "salabzmsikßaERBkeqþar",
+    "id": "1022"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាព្រែកឆ្ដោរ",
+    "kh_name": "salabzmsikßaERBkeqþar",
+    "id": "0427"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាឯកភ្នំ",
+    "kh_name": "salabzmsikßaÉkPñM",
+    "id": "0428"
+  },
+  {
+    "name": "វត្ដឯកភ្នំ",
+    "kh_name": "vtþÉkPñM",
+    "id": "0429"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាសួសអី",
+    "kh_name": "salabzmsikßasYsGI",
+    "id": "0430"
+  },
+  {
+    "name": "អនុវិទ្យាល័យពាមឯក",
+    "kh_name": "GnuviTüal&yBamÉk",
+    "id": "0431"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាគោកដូង",
+    "kh_name": "salabzmsikßaeKakdUg",
+    "id": "0432"
+  },
+  {
+    "name": "អនុវិទ្យាល័យពាមឯក",
+    "kh_name": "GnuviTüal&yBamÉk",
+    "id": "0433"
+  },
+  {
+    "name": "អនុវិទ្យាល័យពាមឯក",
+    "kh_name": "GnuviTüal&yBamÉk",
+    "id": "0434"
+  },
+  {
+    "name": "បឋមសិក្សាភូមិកោះជីវាំង",
+    "kh_name": "bzmsikßaPUmieka¼CIvaMg",
+    "id": "0435"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាពាមសីមា",
+    "kh_name": "salabzmsikßaBamsIma",
+    "id": "0436"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាបាក់ព្រា",
+    "kh_name": "salabzmsikßaák´RBa",
+    "id": "0437"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាបាក់ព្រា",
+    "kh_name": "salabzmsikßaák´RBa",
+    "id": "0438"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាព្រៃចាស់",
+    "kh_name": "salabzmsikßaéRBcas´",
+    "id": "0439"
+  },
+  {
+    "name": "វត្ដព្រៃចាស់",
+    "kh_name": "vtþéRBcas´",
+    "id": "0440"
+  },
+  {
+    "name": "បឋមសិក្សាឃុំកោះជីវាំង",
+    "kh_name": "bzmsikßaXuMeka¼CIvaMg",
+    "id": "0441"
+  },
+  {
+    "name": "ង",
+    "kh_name": "g",
+    "id": "0442"
+  },
+  {
+    "name": "បឋមសិក្សាកំពង់ប្រហុក",
+    "kh_name": "bzmsikßakMBg´Rbhuk",
+    "id": "0443"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាថ្វាង",
+    "kh_name": "salabzmsikßafVag",
+    "id": "0444"
+  },
+  {
+    "name": "បឋមសិក្សាព្រែកទាល់",
+    "kh_name": "bzmsikßaERBkTal´",
+    "id": "0445"
+  },
+  {
+    "name": "បឋមសិក្សាព្រែកទាល់",
+    "kh_name": "bzmsikßaERBkTal´",
+    "id": "0446"
+  },
+  {
+    "name": "បឋមសិក្សាក្បាលតោល",
+    "kh_name": "bzmsikßak,aletal",
+    "id": "0447"
+  },
+  {
+    "name": "បឋមសិក្សាក្បាលតោល",
+    "kh_name": "bzmsikßak,aletal",
+    "id": "0448"
+  },
+  {
+    "name": "បឋមសិក្សាក្បាលតោល",
+    "kh_name": "bzmsikßak,aletal",
+    "id": "0969"
+  },
+  {
+    "name": "ង",
+    "kh_name": "g",
+    "id": "0449"
+  },
+  {
+    "name": "សាលារៀនបឋមសិក្សាមោង",
+    "kh_name": "salaeronbzmsikßaemag",
+    "id": "0909"
+  },
+  {
+    "name": "វត្ដឫស្សី ១",
+    "kh_name": "vtþ¬sßI 1",
+    "id": "0450"
+  },
+  {
+    "name": "មត្ដេយ្យតាតុក ១",
+    "kh_name": "metþyütatuk 1",
+    "id": "0451"
+  },
+  {
+    "name": "បឋមសិក្សាឫស្សី ២",
+    "kh_name": "bzmsikßa¬sßI 2",
+    "id": "0789"
+  },
+  {
+    "name": "បឋមសិក្សាកន្សៃបន្ទាយ",
+    "kh_name": "bzmsikßakénßbnÞay",
+    "id": "0452"
+  },
+  {
+    "name": "បឋមសិក្សាកន្សៃបន្ទាយ",
+    "kh_name": "bzmsikßakénßbnÞay",
+    "id": "0453"
+  },
+  {
+    "name": "ផ្ទះលោក ទុយ",
+    "kh_name": "pÞ¼elak Tuy",
+    "id": "0454"
+  },
+  {
+    "name": "សាលារៀនអូរក្របៅ",
+    "kh_name": "salaeronGUrRkeÁ",
+    "id": "0455"
+  },
+  {
+    "name": "សាលារៀនអូរក្របៅ",
+    "kh_name": "salaeronGUrRkeÁ",
+    "id": "1023"
+  },
+  {
+    "name": "សាលារៀនកោះចារ",
+    "kh_name": "salaeroneka¼car",
+    "id": "0790"
+  },
+  {
+    "name": "រោងម៉ាស៊ីនកិនស្រូវតាតុក ២",
+    "kh_name": "eragm¨asuInkinRsUvtatuk 2",
+    "id": "0456"
+  },
+  {
+    "name": "សាលារៀនមត្ដេយ្យតាតុក ២",
+    "kh_name": "salaeronmetþyütatuk 2",
+    "id": "0457"
+  },
+  {
+    "name": "សាលាបុណ្យភូមិប្រទឡាយ",
+    "kh_name": "salabuNüPUmiRbTLay",
+    "id": "0458"
+  },
+  {
+    "name": "សាលាបុណ្យភូមិប្រទឡាយ",
+    "kh_name": "salabuNüPUmiRbTLay",
+    "id": "1024"
+  },
+  {
+    "name": "បឋមសិក្សារលួស",
+    "kh_name": "bzmsikßarlYs",
+    "id": "0459"
+  },
+  {
+    "name": "សាលារៀនប៉ែន",
+    "kh_name": "salaeronEb¨n",
+    "id": "0460"
+  },
+  {
+    "name": "ភូមិក្បាលមូស",
+    "kh_name": "PUmik,almUs",
+    "id": "0841"
+  },
+  {
+    "name": "វិទ្យាល័យមោងឫស្សី",
+    "kh_name": "viTüal&yemag¬sßI",
+    "id": "0461"
+  },
+  {
+    "name": "វិទ្យាល័យមោងឫស្សី",
+    "kh_name": "viTüal&yemag¬sßI",
+    "id": "0462"
+  },
+  {
+    "name": "បឋមសិក្សាគារសូរិយា ៣",
+    "kh_name": "bzmsikßaKarsUriya 3",
+    "id": "0463"
+  },
+  {
+    "name": "បឋមសិក្សាគារសូរិយា ៣",
+    "kh_name": "bzmsikßaKarsUriya 3",
+    "id": "1025"
+  },
+  {
+    "name": "បឋមសិក្សាវត្ដពោធិ",
+    "kh_name": "bzmsikßavtþeBaFi",
+    "id": "0464"
+  },
+  {
+    "name": "បឋមសិក្សាវត្ដពោធិ",
+    "kh_name": "bzmsikßavtþeBaFi",
+    "id": "0465"
+  },
+  {
+    "name": "បឋមសិក្សាអូរគ្រាតមុខវត្ដ",
+    "kh_name": "bzmsikßaGUrRKatmuxvtþ",
+    "id": "0466"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាអូរគ្រាតថ្មី",
+    "kh_name": "salabzmsikßaGUrRKatfμI",
+    "id": "0467"
+  },
+  {
+    "name": "បឋមសិក្សាវត្ដរុណ",
+    "kh_name": "bzmsikßavtþruN",
+    "id": "0468"
+  },
+  {
+    "name": "សាលារៀនតាណាក",
+    "kh_name": "salaerontaNak",
+    "id": "0469"
+  },
+  {
+    "name": "សាលារៀនតាណាក",
+    "kh_name": "salaerontaNak",
+    "id": "0470"
+  },
+  {
+    "name": "សាលារៀនគារ ១",
+    "kh_name": "salaeronKar 1",
+    "id": "0471"
+  },
+  {
+    "name": "សាលារៀនរកាឈ្មោល",
+    "kh_name": "salaeronrkaeQμal",
+    "id": "0472"
+  },
+  {
+    "name": "សាលារៀនរកាឈ្មោល",
+    "kh_name": "salaeronrkaeQμal",
+    "id": "1026"
+  },
+  {
+    "name": "សាលារៀនគារ ២",
+    "kh_name": "salaeronKar 2",
+    "id": "0473"
+  },
+  {
+    "name": "សាលាបឋមសិក្សារាមគន់",
+    "kh_name": "salabzmsikßaramKn´",
+    "id": "0474"
+  },
+  {
+    "name": "សាលាបឋមសិក្សារាមគន់",
+    "kh_name": "salabzmsikßaramKn´",
+    "id": "1027"
+  },
+  {
+    "name": "សាលាបឋមសិក្សារាមគន់",
+    "kh_name": "salabzmsikßaramKn´",
+    "id": "0475"
+  },
+  {
+    "name": "បឋមសិក្សាដំណាក់រុណ",
+    "kh_name": "bzmsikßadMNak´ruN",
+    "id": "0791"
+  },
+  {
+    "name": "សាលារៀនផ្លូវបំបែក",
+    "kh_name": "salaeronpøÚvbMEbk",
+    "id": "0476"
+  },
+  {
+    "name": "សាលារៀនផ្លូវបំបែក",
+    "kh_name": "salaeronpøÚvbMEbk",
+    "id": "0477"
+  },
+  {
+    "name": "សាលារៀនព្រៃស្វាយ",
+    "kh_name": "salaeronéRBsVay",
+    "id": "0478"
+  },
+  {
+    "name": "សាលារៀនព្រៃស្វាយ",
+    "kh_name": "salaeronéRBsVay",
+    "id": "0479"
+  },
+  {
+    "name": "សាលារៀនព្រៃស្វាយ",
+    "kh_name": "salaeronéRBsVay",
+    "id": "0480"
+  },
+  {
+    "name": "វត្ដព្រៃស្វាយ",
+    "kh_name": "vtþéRBsVay",
+    "id": "0481"
+  },
+  {
+    "name": "វត្ដព្រៃស្វាយ",
+    "kh_name": "vtþéRBsVay",
+    "id": "0482"
+  },
+  {
+    "name": "វត្ដព្រៃស្វាយ",
+    "kh_name": "vtþéRBsVay",
+    "id": "0483"
+  },
+  {
+    "name": "សាលារៀនកាទេឡាមភ្លុក",
+    "kh_name": "salaeronkaeTLamPøúk",
+    "id": "0484"
+  },
+  {
+    "name": "សាលារៀនកាទេឡាមភ្លុក",
+    "kh_name": "salaeronkaeTLamPøúk",
+    "id": "0485"
+  },
+  {
+    "name": "សាលារៀនកាទេឡាមភ្លុក",
+    "kh_name": "salaeronkaeTLamPøúk",
+    "id": "0486"
+  },
+  {
+    "name": "បឋមសិក្សាចាមរអា",
+    "kh_name": "bzmsikßacamrGa",
+    "id": "0487"
+  },
+  {
+    "name": "បឋមសិក្សាចាមរអា",
+    "kh_name": "bzmsikßacamrGa",
+    "id": "0488"
+  },
+  {
+    "name": "ភូមិរំចេក",
+    "kh_name": "PUmirMeck",
+    "id": "0489"
+  },
+  {
+    "name": "បឋមសិក្សាស្រម៉មាស",
+    "kh_name": "bzmsikßaRsm¨mas",
+    "id": "0490"
+  },
+  {
+    "name": "បឋមសិក្សាស្រម៉មាស",
+    "kh_name": "bzmsikßaRsm¨mas",
+    "id": "0491"
+  },
+  {
+    "name": "វត្ដភូមិគរ",
+    "kh_name": "vtþPUmiKr",
+    "id": "0492"
+  },
+  {
+    "name": "សាលារៀនភូមិគរ",
+    "kh_name": "salaeronPUmiKr",
+    "id": "0493"
+  },
+  {
+    "name": "សាលារៀនទួលធ្នង់",
+    "kh_name": "salaeronTYlFñg´",
+    "id": "0494"
+  },
+  {
+    "name": "វត្ដពេជចង្វា",
+    "kh_name": "vtþeBCcgVa",
+    "id": "0495"
+  },
+  {
+    "name": "សាលារៀនទួលស្នួល",
+    "kh_name": "salaeronTYlsñÜl",
+    "id": "0496"
+  },
+  {
+    "name": "ផ្ទះលោកយ៉ាន់ ឌី",
+    "kh_name": "pÞ¼elakya¨n´ DI",
+    "id": "0497"
+  },
+  {
+    "name": "សាលារៀនអំំពិលឈូង",
+    "kh_name": "salaeronGMMBilQUg",
+    "id": "0498"
+  },
+  {
+    "name": "ផ្ទះលោក ភិន ឆុន",
+    "kh_name": "pÞ¼elak Pin qun",
+    "id": "0499"
+  },
+  {
+    "name": "សាលារៀនថ្នល់បត់",
+    "kh_name": "salaeronfñl´bt´",
+    "id": "0500"
+  },
+  {
+    "name": "អនុវិទ្យាល័យឫស្សីក្រាំង",
+    "kh_name": "GnuviTüal&y¬sßIRkaMg",
+    "id": "0501"
+  },
+  {
+    "name": "សាលារៀននិគមក្រោម",
+    "kh_name": "salaeronniKmeRkam",
+    "id": "0502"
+  },
+  {
+    "name": "វត្ដជ្រៃរុន",
+    "kh_name": "vtþéRCrun",
+    "id": "0503"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាជ្រៃរុន",
+    "kh_name": "salabzmsikßaéRCrun",
+    "id": "0792"
+  },
+  {
+    "name": "វត្ដអ្នកតាទ្វារ",
+    "kh_name": "vtþGñktaTVar",
+    "id": "0504"
+  },
+  {
+    "name": "វត្ដយឿនមាន",
+    "kh_name": "vtþeyOnman",
+    "id": "0505"
+  },
+  {
+    "name": "សាលារៀនយឿនមាន",
+    "kh_name": "salaeroneyOnman",
+    "id": "0506"
+  },
+  {
+    "name": "ស៊ូរ៉ាវ",
+    "kh_name": "sU‘ra¨v",
+    "id": "0507"
+  },
+  {
+    "name": "ផ្ទះ កុប គីម",
+    "kh_name": "pÞ¼ kub KIm",
+    "id": "0508"
+  },
+  {
+    "name": "បឋមសិក្សាបឹងប្រីយ៍",
+    "kh_name": "bzmsikßabwgRbIy_",
+    "id": "0981"
+  },
+  {
+    "name": "សាលារៀនដូនទ្រី",
+    "kh_name": "salaerondUnRTI",
+    "id": "0509"
+  },
+  {
+    "name": "ន",
+    "kh_name": "n",
+    "id": "0510"
+  },
+  {
+    "name": "ន",
+    "kh_name": "n",
+    "id": "0510"
+  },
+  {
+    "name": "សាលារៀនចុងសំណាយ",
+    "kh_name": "salaeroncugsMNay",
+    "id": "0511"
+  },
+  {
+    "name": "ផ្ទះស្ដើង សារិន",
+    "kh_name": "pÞ¼esþIg sarin",
+    "id": "0512"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាជ្រៃ",
+    "kh_name": "salabzmsikßaéRC",
+    "id": "0513"
+  },
+  {
+    "name": "វត្ដជ្រៃ",
+    "kh_name": "vtþéRC",
+    "id": "0514"
+  },
+  {
+    "name": "វត្ដជ្រៃ",
+    "kh_name": "vtþéRC",
+    "id": "0515"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាម្រះព្រៅ",
+    "kh_name": "salabzmsikßaRm¼eRBA",
+    "id": "0516"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាម្រះព្រៅ",
+    "kh_name": "salabzmsikßaRm¼eRBA",
+    "id": "0517"
+  },
+  {
+    "name": "សាលារៀនអង្គ្រង",
+    "kh_name": "salaeronG®g:g",
+    "id": "0518"
+  },
+  {
+    "name": "វត្ដអង្គ្រង",
+    "kh_name": "vtþG®g:g",
+    "id": "0519"
+  },
+  {
+    "name": "សាលារៀនម្រះព្រៅ",
+    "kh_name": "salaeronRm¼eRBA",
+    "id": "0520"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាជ្រៃ",
+    "kh_name": "salabzmsikßaéRC",
+    "id": "0521"
+  },
+  {
+    "name": "វត្ដជ្រៃ",
+    "kh_name": "vtþéRC",
+    "id": "0522"
+  },
+  {
+    "name": "មន្ទីរពេទ្យឃុំ",
+    "kh_name": "mnÞIreBTüXuM",
+    "id": "0523"
+  },
+  {
+    "name": "បឋមសិក្សាតាលាស់",
+    "kh_name": "bzmsikßatalas´",
+    "id": "0793"
+  },
+  {
+    "name": "វត្ដត្រស់",
+    "kh_name": "vtþRts´",
+    "id": "0524"
+  },
+  {
+    "name": "វត្ដស្ដី",
+    "kh_name": "vtþsþI",
+    "id": "0525"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាសាមគ្គី",
+    "kh_name": "salabzmsikßasamK:I",
+    "id": "0526"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាសាមគ្គី",
+    "kh_name": "salabzmsikßasamK:I",
+    "id": "0527"
+  },
+  {
+    "name": "វត្ដម៉ាណោក",
+    "kh_name": "vtþma¨eNak",
+    "id": "0528"
+  },
+  {
+    "name": "វត្ដម៉ាណោក",
+    "kh_name": "vtþma¨eNak",
+    "id": "0952"
+  },
+  {
+    "name": "សាលាមត្ដេយ្យប្រលាយស្ដៅ",
+    "kh_name": "salametþyüRblayesþA",
+    "id": "0529"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាតាលាស់",
+    "kh_name": "salabzmsikßatalas´",
+    "id": "0530"
+  },
+  {
+    "name": "ផ្ទះលោកបាន ឌឿន(ទួលព្រំ ២)",
+    "kh_name": "pÞ¼elakán eDOn(TYlRBM 2)",
+    "id": "0531"
+  },
+  {
+    "name": "ក្សាចកតូច",
+    "kh_name": "kßacktUc",
+    "id": "0532"
+  },
+  {
+    "name": "សាលាឆទានចកតូច",
+    "kh_name": "salaqTancktUc",
+    "id": "0533"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាចកធំ",
+    "kh_name": "salabzmsikßackFM",
+    "id": "0534"
+  },
+  {
+    "name": "វត្ដចកធំ",
+    "kh_name": "vtþckFM",
+    "id": "0535"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាស្រែអូរ",
+    "kh_name": "salabzmsikßaERsGUr",
+    "id": "0536"
+  },
+  {
+    "name": "សាលាកកោះជើង",
+    "kh_name": "salakeka¼eCIg",
+    "id": "0537"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាផ្អៀង",
+    "kh_name": "salabzmsikßaepðóg",
+    "id": "0538"
+  },
+  {
+    "name": "សាលារៀនកកោះ",
+    "kh_name": "salaeronkeka¼",
+    "id": "0539"
+  },
+  {
+    "name": "សាលារៀនទួលព្រំ១",
+    "kh_name": "salaeronTYlRBM1",
+    "id": "0540"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាទួលព្រំ ១",
+    "kh_name": "salabzmsikßaTYlRBM 1",
+    "id": "0541"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាទួលព្រំ ១",
+    "kh_name": "salabzmsikßaTYlRBM 1",
+    "id": "1028"
+  },
+  {
+    "name": "បឋមសិក្សាដុបក្រសាំង",
+    "kh_name": "bzmsikßadubRksaMg",
+    "id": "0542"
+  },
+  {
+    "name": "បឋមសិក្សាដុបក្រសាំង",
+    "kh_name": "bzmsikßadubRksaMg",
+    "id": "0543"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាស្ទឹងចក",
+    "kh_name": "salabzmsikßasÞwgck",
+    "id": "0544"
+  },
+  {
+    "name": "អនុវិទ្យាល័យព្រៃតូច",
+    "kh_name": "GnuviTüal&yéRBtUc",
+    "id": "0545"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាព្រៃតូច",
+    "kh_name": "salabzmsikßaéRBtUc",
+    "id": "0546"
+  },
+  {
+    "name": "សាលារៀនកូនខ្លុង",
+    "kh_name": "salaeronkUnxøúg",
+    "id": "0547"
+  },
+  {
+    "name": "សាលារៀនកូនខ្លុង",
+    "kh_name": "salaeronkUnxøúg",
+    "id": "0548"
+  },
+  {
+    "name": "សាលារៀនកូនខ្លុង",
+    "kh_name": "salaeronkUnxøúg",
+    "id": "0549"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាព្រាននិល",
+    "kh_name": "salabzmsikßaRBannil",
+    "id": "0550"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាបឹងបី",
+    "kh_name": "salabzmsikßabwgbI",
+    "id": "0551"
+  },
+  {
+    "name": "សីយាន ម៉ាច",
+    "kh_name": "sIyan m¨ac",
+    "id": "0552"
+  },
+  {
+    "name": "្ទ ្រ",
+    "kh_name": "Þ R",
+    "id": "0552"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាអន្លង់កូប",
+    "kh_name": "salabzmsikßaGnøg´kUb",
+    "id": "0553"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាព្រែកអាំ",
+    "kh_name": "salabzmsikßaERBkGaM",
+    "id": "0554"
+  },
+  {
+    "name": "មន្ទីរពេទ្យកូនក្អែក ២",
+    "kh_name": "mnÞIreBTükUnEkðk 2",
+    "id": "0555"
+  },
+  {
+    "name": "សាលារៀនកំរងកូនក្អែក",
+    "kh_name": "salaeronkMrgkUnEkðk",
+    "id": "0861"
+  },
+  {
+    "name": "សាលារៀនកំរងកូនក្អែក",
+    "kh_name": "salaeronkMrgkUnEkðk",
+    "id": "0556"
+  },
+  {
+    "name": "ព្រៃព្រំ២រោងវីដេអូរលោក ក្រឹល",
+    "kh_name": "éRBRBM2eragvIedGUrelak Rkwl",
+    "id": "0557"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាគួយជីកដី",
+    "kh_name": "salabzmsikßaKYyCIkdI",
+    "id": "0558"
+  },
+  {
+    "name": "ផ្ទះលក រួន",
+    "kh_name": "pÞ¼lk rYn",
+    "id": "0559"
+  },
+  {
+    "name": "សាលារៀនអន្លង់ត្រាច",
+    "kh_name": "salaeronGnøg´Rtac",
+    "id": "0794"
+  },
+  {
+    "name": "សាលារៀនអន្លង់ត្រាច",
+    "kh_name": "salaeronGnøg´Rtac",
+    "id": "0862"
+  },
+  {
+    "name": "សាលារៀនអន្លង់តាម៉ុក",
+    "kh_name": "salaeronGnøg´tam¨uk",
+    "id": "0795"
+  },
+  {
+    "name": "វត្ដព្រះធាតុ",
+    "kh_name": "vtþRB¼Fatu",
+    "id": "0842"
+  },
+  {
+    "name": "សាលារៀនឆ្កែខាំប្រើស",
+    "kh_name": "salaeronEq;xaMeRbIs",
+    "id": "0569"
+  },
+  {
+    "name": "ស",
+    "kh_name": "s",
+    "id": "1029"
+  },
+  {
+    "name": "ខាប្រេស",
+    "kh_name": "xaeRbs",
+    "id": "1029"
+  },
+  {
+    "name": "សាលារៀនភូមិសៀម",
+    "kh_name": "salaeronPUmiesom",
+    "id": "0570"
+  },
+  {
+    "name": "វត្ដព្រែកជីក",
+    "kh_name": "vtþERBkCIk",
+    "id": "0571"
+  },
+  {
+    "name": "វត្ដព្រែកជីក",
+    "kh_name": "vtþERBkCIk",
+    "id": "0910"
+  },
+  {
+    "name": "សាលារៀនឈូក",
+    "kh_name": "salaeronQUk",
+    "id": "0863"
+  },
+  {
+    "name": "សាលារៀនឈូក",
+    "kh_name": "salaeronQUk",
+    "id": "1031"
+  },
+  {
+    "name": "សាលារៀនអូររំចេក",
+    "kh_name": "salaeronGUrrMeck",
+    "id": "0911"
+  },
+  {
+    "name": "សាលារៀនអូររំចេក",
+    "kh_name": "salaeronGUrrMeck",
+    "id": "1030"
+  },
+  {
+    "name": "សាលារៀនព្រែកជីក",
+    "kh_name": "salaeronERBkCIk",
+    "id": "0572"
+  },
+  {
+    "name": "សាលារៀនភូមិថ្នំ",
+    "kh_name": "salaeronPUmifñM",
+    "id": "0912"
+  },
+  {
+    "name": "សាលារៀនខ្នាចអំពរ",
+    "kh_name": "salaeronxñacGMBr",
+    "id": "0573"
+  },
+  {
+    "name": "សាលារៀនភូមិច្រាំងខ្ពស់",
+    "kh_name": "salaeronPUmiRcaMgx<s´",
+    "id": "0864"
+  },
+  {
+    "name": "សាលារៀនតាព្រាល",
+    "kh_name": "salaerontaRBal",
+    "id": "0965"
+  },
+  {
+    "name": "សាលារៀនកំរ៉ែង",
+    "kh_name": "salaeronkMEr¨g",
+    "id": "0865"
+  },
+  {
+    "name": "សាលារៀនស្រះគុយ",
+    "kh_name": "salaeronRs¼Kuy",
+    "id": "0576"
+  },
+  {
+    "name": "សាលារៀនស្រះគុយ",
+    "kh_name": "salaeronRs¼Kuy",
+    "id": "0913"
+  },
+  {
+    "name": "វត្ដព្រះអណ្ដូង",
+    "kh_name": "vtþRB¼GNþÚg",
+    "id": "0575"
+  },
+  {
+    "name": "វត្ដព្រះអណ្ដូង",
+    "kh_name": "vtþRB¼GNþÚg",
+    "id": "0982"
+  },
+  {
+    "name": "សាលារៀនទួលស្វាយ",
+    "kh_name": "salaeronTYlsVay",
+    "id": "0866"
+  },
+  {
+    "name": "សាលារៀនកោះធំ",
+    "kh_name": "salaeroneka¼FM",
+    "id": "0579"
+  },
+  {
+    "name": "សាលារៀនកោះធំ",
+    "kh_name": "salaeroneka¼FM",
+    "id": "0914"
+  },
+  {
+    "name": "សាលារៀនព្រៃខ្លូត",
+    "kh_name": "salaeronéRBxøÚt",
+    "id": "0577"
+  },
+  {
+    "name": "សាលារៀនព្រៃខ្លូត",
+    "kh_name": "salaeronéRBxøÚt",
+    "id": "0983"
+  },
+  {
+    "name": "វត្ដព្រៃខ្លូត",
+    "kh_name": "vtþéRBxøÚt",
+    "id": "0867"
+  },
+  {
+    "name": "សាលារៀនស្ដុកប្រវឹក",
+    "kh_name": "salaeronsþúkRbvwk",
+    "id": "0578"
+  },
+  {
+    "name": "សាលារៀនស្ដុកប្រវឹក",
+    "kh_name": "salaeronsþúkRbvwk",
+    "id": "0915"
+  },
+  {
+    "name": "វត្ដស្ដុកប្រវឹក",
+    "kh_name": "vtþsþúkRbvwk",
+    "id": "0797"
+  },
+  {
+    "name": "សាលារៀនព្រៃអម្ពាន់",
+    "kh_name": "salaeronéRBGm<an´",
+    "id": "0868"
+  },
+  {
+    "name": "សាលារៀនទួលគគីរ",
+    "kh_name": "salaeronTYlKKIr",
+    "id": "0580"
+  },
+  {
+    "name": "សាលារៀនទួលគគីរ",
+    "kh_name": "salaeronTYlKKIr",
+    "id": "0984"
+  },
+  {
+    "name": "សាលារៀនស្វាយយ៉",
+    "kh_name": "salaeronsVayy¨",
+    "id": "0869"
+  },
+  {
+    "name": "សាលារៀនស្វាយយ៉",
+    "kh_name": "salaeronsVayy¨",
+    "id": "0985"
+  },
+  {
+    "name": "សាលារៀនព្រៃត្រទឡាច",
+    "kh_name": "salaeronéRBRtTLac",
+    "id": "0916"
+  },
+  {
+    "name": "វត្ដព្រៃត្រទឡាច",
+    "kh_name": "vtþéRBRtTLac",
+    "id": "0796"
+  },
+  {
+    "name": "សាលារៀនមុខរា ២",
+    "kh_name": "salaeronmuxra 2",
+    "id": "0574"
+  },
+  {
+    "name": "សាលារៀនមុខរា ២",
+    "kh_name": "salaeronmuxra 2",
+    "id": "0986"
+  },
+  {
+    "name": "សាលារៀនមុខរា ២",
+    "kh_name": "salaeronmuxra 2",
+    "id": "0917"
+  },
+  {
+    "name": "វត្ដមុខរា ១",
+    "kh_name": "vtþmuxra 1",
+    "id": "0798"
+  },
+  {
+    "name": "សាលារៀនតាព្រាត",
+    "kh_name": "salaerontaRBat",
+    "id": "0918"
+  },
+  {
+    "name": "នបឹងអំពិល",
+    "kh_name": "nbwgGMBil",
+    "id": "0586"
+  },
+  {
+    "name": "សាលារៀនបឹងអំពិល",
+    "kh_name": "salaeronbwgGMBil",
+    "id": "0919"
+  },
+  {
+    "name": "សាលារៀនស្រែអណ្ដូង",
+    "kh_name": "salaeronERsGNþÚg",
+    "id": "0583"
+  },
+  {
+    "name": "សាលារៀនស្រែអណ្ដូង",
+    "kh_name": "salaeronERsGNþÚg",
+    "id": "0920"
+  },
+  {
+    "name": "សាលារៀនដូនមាយ",
+    "kh_name": "salaerondUnmay",
+    "id": "0987"
+  },
+  {
+    "name": "វត្ដស្ដៅកើត",
+    "kh_name": "vtþesþAekIt",
+    "id": "0584"
+  },
+  {
+    "name": "សាលាអក្ខរកម្មស្ដៅ",
+    "kh_name": "salaGkçrkmμesþA",
+    "id": "0582"
+  },
+  {
+    "name": "អនុវិទ្យាល័យស្ដៅ",
+    "kh_name": "GnuviTüal&yesþA",
+    "id": "0585"
+  },
+  {
+    "name": "សាលារៀននាងលេម",
+    "kh_name": "salaeronnagelm",
+    "id": "0799"
+  },
+  {
+    "name": "សាលារៀនបាដាកត្បូង",
+    "kh_name": "salaeronádakt,Úg",
+    "id": "0800"
+  },
+  {
+    "name": "សាលារៀនបាដាកត្បូង",
+    "kh_name": "salaeronádakt,Úg",
+    "id": "0921"
+  },
+  {
+    "name": "សាលារៀនដង្គត់",
+    "kh_name": "salaerondg:t´",
+    "id": "0581"
+  },
+  {
+    "name": "ទីស្នាក់ការភូមិអូរឃ្មុំ",
+    "kh_name": "TIsñak´karPUmiGUrXμúM",
+    "id": "0988"
+  },
+  {
+    "name": "សាលារៀនអូរឃ្មុំ",
+    "kh_name": "salaeronGUrXμúM",
+    "id": "0801"
+  },
+  {
+    "name": "សាលារៀនរស្មីសង្ហា",
+    "kh_name": "salaeronrsμIsgHa",
+    "id": "0802"
+  },
+  {
+    "name": "សាលារៀនអណ្ដើកដប់មួយ",
+    "kh_name": "salaeronGeNþIkdb´mYy",
+    "id": "0803"
+  },
+  {
+    "name": "បឋមសិក្សាអណើ្ដកហែប",
+    "kh_name": "bzmsikßaGeNIþkEhb",
+    "id": "0587"
+  },
+  {
+    "name": "សាលារៀនព្រៃអម្ពរ",
+    "kh_name": "salaeronéRBGm<r",
+    "id": "0588"
+  },
+  {
+    "name": "បឋមសិក្សាអណើ្ដកហែប",
+    "kh_name": "bzmsikßaGeNIþkEhb",
+    "id": "0589"
+  },
+  {
+    "name": "សាលារៀនអណ្ដើកហែប",
+    "kh_name": "salaeronGeNþIkEhb",
+    "id": "0590"
+  },
+  {
+    "name": "សាលារៀនស៊ិន តុ",
+    "kh_name": "salaeronsuin tu",
+    "id": "0591"
+  },
+  {
+    "name": "សាលារៀនស៊ិន តុ",
+    "kh_name": "salaeronsuin tu",
+    "id": "0804"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាបឹងខ្ទុម",
+    "kh_name": "salabzmsikßabwgxÞúm",
+    "id": "0592"
+  },
+  {
+    "name": "សាលារៀនបឹងខ្ទុម",
+    "kh_name": "salaeronbwgxÞúm",
+    "id": "0989"
+  },
+  {
+    "name": "សាលារៀនភូមិសេកសក",
+    "kh_name": "salaeronPUmiesksk",
+    "id": "0593"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាអូរល្មូន",
+    "kh_name": "salabzmsikßaGUrlμÚn",
+    "id": "0594"
+  },
+  {
+    "name": "សាលាបឋមសិក្សា អូរដា",
+    "kh_name": "salabzmsikßa GUrda",
+    "id": "0870"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាផ្លូវមាស",
+    "kh_name": "salabzmsikßapøÚvmas",
+    "id": "0595"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាផ្លូវមាស",
+    "kh_name": "salabzmsikßapøÚvmas",
+    "id": "0922"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាត្រែង",
+    "kh_name": "salabzmsikßaERtg",
+    "id": "0596"
+  },
+  {
+    "name": "ភាវ",
+    "kh_name": "Pav",
+    "id": "0597"
+  },
+  {
+    "name": "ាវ",
+    "kh_name": "av",
+    "id": "0597"
+  },
+  {
+    "name": "សាលារៀនភូមិភ្ជាវ",
+    "kh_name": "salaeronPUmiP¢av",
+    "id": "1032"
+  },
+  {
+    "name": "សាលារៀនភូមិភ្ជាវ",
+    "kh_name": "salaeronPUmiP¢av",
+    "id": "0598"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាត្រែង",
+    "kh_name": "salabzmsikßaERtg",
+    "id": "0599"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាត្រែង",
+    "kh_name": "salabzmsikßaERtg",
+    "id": "0600"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាជីសាង",
+    "kh_name": "salabzmsikßaCIsag",
+    "id": "0601"
+  },
+  {
+    "name": "ភូមិបួរុន",
+    "kh_name": "PUmibYrun",
+    "id": "0602"
+  },
+  {
+    "name": "សាលារៀនគីទឡូ  ៣៨",
+    "kh_name": "salaeronKITLÚ  38",
+    "id": "0603"
+  },
+  {
+    "name": "សាលារៀនគីទឡូ  ៣៨",
+    "kh_name": "salaeronKITLÚ  38",
+    "id": "0604"
+  },
+  {
+    "name": "សាលារៀនស្វាយស",
+    "kh_name": "salaeronsVays",
+    "id": "0805"
+  },
+  {
+    "name": "សាលារៀនស្វាយស",
+    "kh_name": "salaeronsVays",
+    "id": "0923"
+  },
+  {
+    "name": "សាលាបាលីវត្ដអន្លង់វិល",
+    "kh_name": "salaálIvtþGnøg´vil",
+    "id": "0605"
+  },
+  {
+    "name": "សាលាបាលីវត្ដអន្លង់វិល",
+    "kh_name": "salaálIvtþGnøg´vil",
+    "id": "0606"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាពុកឆ្មា",
+    "kh_name": "salabzmsikßaBukqμa",
+    "id": "0607"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាស្វាយកង់",
+    "kh_name": "salabzmsikßasVaykg´",
+    "id": "0608"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាស្វាយកង់",
+    "kh_name": "salabzmsikßasVaykg´",
+    "id": "0609"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាជំនីក",
+    "kh_name": "salabzmsikßaCMnIk",
+    "id": "0610"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាជំនីក",
+    "kh_name": "salabzmsikßaCMnIk",
+    "id": "0611"
+  },
+  {
+    "name": "វិទ្យាល័យអន្លង់វិល",
+    "kh_name": "viTüal&yGnøg´vil",
+    "id": "0612"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាអូរមុន្នី",
+    "kh_name": "salabzmsikßaGUrmunñI",
+    "id": "0613"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាអន្លង់វិល",
+    "kh_name": "salabzmsikßaGnøg´vil",
+    "id": "0614"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាអន្លង់វិល",
+    "kh_name": "salabzmsikßaGnøg´vil",
+    "id": "0615"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាអន្លង់វិល",
+    "kh_name": "salabzmsikßaGnøg´vil",
+    "id": "0616"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាអន្លង់វិល",
+    "kh_name": "salabzmsikßaGnøg´vil",
+    "id": "1033"
+  },
+  {
+    "name": "អនុវិទ្យាល័យអន្លង់វិល",
+    "kh_name": "GnuviTüal&yGnøg´vil",
+    "id": "0617"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាខ្សោយ",
+    "kh_name": "salabzmsikßaexßay",
+    "id": "0618"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាអូរមុន្នី",
+    "kh_name": "salabzmsikßaGUrmunñI",
+    "id": "0619"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាអូរមុន្នី",
+    "kh_name": "salabzmsikßaGUrmunñI",
+    "id": "0620"
+  },
+  {
+    "name": "មត្ដេយ្យវត្ដបាទឡាត់",
+    "kh_name": "metþyüvtþáTLat´",
+    "id": "0621"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាបាទឡាត់",
+    "kh_name": "salabzmsikßaáTLat´",
+    "id": "0622"
+  },
+  {
+    "name": "អនុវិទ្យាល័យនរា",
+    "kh_name": "GnuviTüal&ynra",
+    "id": "0623"
+  },
+  {
+    "name": "វត្ដនរា",
+    "kh_name": "vtþnra",
+    "id": "0624"
+  },
+  {
+    "name": "សាលាថ្មវត្ដនរា",
+    "kh_name": "salafμvtþnra",
+    "id": "0625"
+  },
+  {
+    "name": "សាលាបឹងទឹម",
+    "kh_name": "salabwgTwm",
+    "id": "0626"
+  },
+  {
+    "name": "ម",
+    "kh_name": "m",
+    "id": "0627"
+  },
+  {
+    "name": "សាលារៀនបងទម",
+    "kh_name": "salaeronbgTm",
+    "id": "0627"
+  },
+  {
+    "name": "សាលារៀនស្វាយស",
+    "kh_name": "salaeronsVays",
+    "id": "0628"
+  },
+  {
+    "name": "សាលារៀនស្វាយស",
+    "kh_name": "salaeronsVays",
+    "id": "0629"
+  },
+  {
+    "name": "សាលារៀនស្វាយស",
+    "kh_name": "salaeronsVays",
+    "id": "0990"
+  },
+  {
+    "name": "សាលារៀនសម្ដេច",
+    "kh_name": "salaeronsemþc",
+    "id": "0630"
+  },
+  {
+    "name": "សាលារៀនសម្ដេច",
+    "kh_name": "salaeronsemþc",
+    "id": "0871"
+  },
+  {
+    "name": "សាលារៀនសម្ដេច",
+    "kh_name": "salaeronsemþc",
+    "id": "0631"
+  },
+  {
+    "name": "វត្ដតាប៉ុន",
+    "kh_name": "vtþtabu¨n",
+    "id": "0632"
+  },
+  {
+    "name": "វត្ដតាប៉ុន",
+    "kh_name": "vtþtabu¨n",
+    "id": "0633"
+  },
+  {
+    "name": "ស៊ូរ៉ាវ",
+    "kh_name": "s‘Ura¨v",
+    "id": "0634"
+  },
+  {
+    "name": "សាលារៀនបាសែត",
+    "kh_name": "salaeronáEst",
+    "id": "0635"
+  },
+  {
+    "id": "0991",
+    "name": "១៣ ២០៤ ៣២ ១៦៩ ៣្ប២៤៩ ៣១ ៨១ ៤១៨ ១្ប០៥២ ២០ ៤០ ៥្ប២៩៦ ១០០ ៥្ប៣៩៦",
+    "kh_name": "13 204 32 169 3,249 31 81 418 1,052 20 40 5,296 100 5,396"
+  },
+  {
+    "name": "សាលាបឋមពោធិបាត់ដំបង",
+    "kh_name": "salabzmeBaFiát´dMbg",
+    "id": "0636"
+  },
+  {
+    "name": "វត្ដតាហែន",
+    "kh_name": "vtþtaEhn",
+    "id": "0637"
+  },
+  {
+    "name": "បឋមសិក្សាពោធិបាត់ដំបង",
+    "kh_name": "bzmsikßaeBaFiát´dMbg",
+    "id": "0638"
+  },
+  {
+    "name": "សាលាបឋមសិក្សារកា",
+    "kh_name": "salabzmsikßarka",
+    "id": "0639"
+  },
+  {
+    "name": "វត្ដរកា",
+    "kh_name": "vtþrka",
+    "id": "0640"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាតាហែន",
+    "kh_name": "salabzmsikßataEhn",
+    "id": "0641"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាតាប៉ុន",
+    "kh_name": "salabzmsikßatabu¨n",
+    "id": "0642"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាតាប៉ុន",
+    "kh_name": "salabzmsikßatabu¨n",
+    "id": "0643"
+  },
+  {
+    "name": "សាលារៀនស្រះកែវ",
+    "kh_name": "salaeronRs¼Ekv",
+    "id": "0644"
+  },
+  {
+    "name": "សាលារៀនស្រះកែវ",
+    "kh_name": "salaeronRs¼Ekv",
+    "id": "0645"
+  },
+  {
+    "name": "សាលារៀនកំពង់ព្រះ",
+    "kh_name": "salaeronkMBg´RB¼",
+    "id": "0646"
+  },
+  {
+    "name": "វត្ដកំពង់ព្រះ",
+    "kh_name": "vtþkMBg´RB¼",
+    "id": "0647"
+  },
+  {
+    "name": "សាលារៀនកំពង់ព្រះ",
+    "kh_name": "salaeronkMBg´RB¼",
+    "id": "0806"
+  },
+  {
+    "name": "សាលារៀនអណ្ដូងត្រាច",
+    "kh_name": "salaeronGNþÚgRtac",
+    "id": "0648"
+  },
+  {
+    "name": "សាលារៀនបញ្ញា",
+    "kh_name": "salaeronbBaØa",
+    "id": "0649"
+  },
+  {
+    "name": "សាលារៀនបញ្ញា",
+    "kh_name": "salaeronbBaØa",
+    "id": "0807"
+  },
+  {
+    "name": "សាលារៀនបញ្ញា",
+    "kh_name": "salaeronbBaØa",
+    "id": "0650"
+  },
+  {
+    "name": "វត្ដបញ្ញា",
+    "kh_name": "vtþbBaØa",
+    "id": "0651"
+  },
+  {
+    "name": "វត្ដបញ្ញា",
+    "kh_name": "vtþbBaØa",
+    "id": "0652"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាក្បាលថ្នល់",
+    "kh_name": "salabzmsikßak,alfñl´",
+    "id": "0653"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាសំបុកអក",
+    "kh_name": "salabzmsikßasMbukGk",
+    "id": "0654"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាកំពង់គោ",
+    "kh_name": "salabzmsikßakMBg´eKa",
+    "id": "0655"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាកំពង់ព្រៀង",
+    "kh_name": "salabzmsikßakMBg´eRBog",
+    "id": "0656"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាកងតេង",
+    "kh_name": "salabzmsikßakgetg",
+    "id": "0808"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាសាលាត្រាវ",
+    "kh_name": "salabzmsikßasalaRtav",
+    "id": "0657"
+  },
+  {
+    "name": "សាលាមត្ដេយ្យកំពង់ព្រៀង",
+    "kh_name": "salametþyükMBg´eRBog",
+    "id": "0658"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាក្បាលថ្នល់",
+    "kh_name": "salabzmsikßak,alfñl´",
+    "id": "0659"
+  },
+  {
+    "name": "វិទ្យាល័យសង្កែ",
+    "kh_name": "viTüal&ysEg;",
+    "id": "0660"
+  },
+  {
+    "name": "សាលារៀនស្វាយជាតិ",
+    "kh_name": "salaeronsVayCati",
+    "id": "0661"
+  },
+  {
+    "name": "សាលារៀនស្វាយជាតិ",
+    "kh_name": "salaeronsVayCati",
+    "id": "0809"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាព្រៃស្វាយ",
+    "kh_name": "salabzmsikßaéRBsVay",
+    "id": "0662"
+  },
+  {
+    "name": "សាលាបឋមសិក្សា រាំងក្រោល",
+    "kh_name": "salabzmsikßa raMgeRkal",
+    "id": "0663"
+  },
+  {
+    "name": "សាលាបឋមសិក្សា រាំងក្រោល",
+    "kh_name": "salabzmsikßa raMgeRkal",
+    "id": "0664"
+  },
+  {
+    "name": "សាលាបឋមសិក្សារាំងកេសី",
+    "kh_name": "salabzmsikßaraMgeksI",
+    "id": "0665"
+  },
+  {
+    "name": "វត្ដស្វាយជាតិ",
+    "kh_name": "vtþsVayCati",
+    "id": "0810"
+  },
+  {
+    "name": "សាលារៀនវត្ដកណ្ដាល",
+    "kh_name": "salaeronvtþkNþal",
+    "id": "0666"
+  },
+  {
+    "name": "សាលារៀនរាំងកេសី",
+    "kh_name": "salaeronraMgeksI",
+    "id": "0667"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាបោះពោធិ",
+    "kh_name": "salabzmsikßaeá¼eBaFi",
+    "id": "0668"
+  },
+  {
+    "name": "ះពោធិ",
+    "kh_name": "¼eBaFi",
+    "id": "0669"
+  },
+  {
+    "name": "្សបា",
+    "kh_name": "ßá",
+    "id": "0669"
+  },
+  {
+    "name": "វត្ដរកាបោះពោធិ",
+    "kh_name": "vtþrkaeá¼eBaFi",
+    "id": "0670"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាបោះពោធិ",
+    "kh_name": "salabzmsikßaeá¼eBaFi",
+    "id": "0992"
+  },
+  {
+    "name": "បឋមសិក្សាអូរខ្ជាយត្បូង",
+    "kh_name": "bzmsikßaGUrx¢ayt,Úg",
+    "id": "0671"
+  },
+  {
+    "name": "បឋមសិក្សាអូរខ្ជាយជើង",
+    "kh_name": "bzmsikßaGUrx¢ayeCIg",
+    "id": "0672"
+  },
+  {
+    "name": "វត្ដចែង",
+    "kh_name": "vtþEcg",
+    "id": "0673"
+  },
+  {
+    "name": "អនុវិទ្យាល័យអូរដំបង ១",
+    "kh_name": "GnuviTüal&yGUrdMbg 1",
+    "id": "0674"
+  },
+  {
+    "name": "អនុវិទ្យាល័យអូរដំបង ១",
+    "kh_name": "GnuviTüal&yGUrdMbg 1",
+    "id": "0675"
+  },
+  {
+    "name": "បឋមសិក្សាអូរដំបង ១",
+    "kh_name": "bzmsikßaGUrdMbg 1",
+    "id": "0676"
+  },
+  {
+    "name": "បឋមសិក្សាអូរដំបង ១",
+    "kh_name": "bzmsikßaGUrdMbg 1",
+    "id": "0993"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាវត្ដចែង",
+    "kh_name": "salabzmsikßavtþEcg",
+    "id": "0677"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាអូរស្រទេឡៅ",
+    "kh_name": "salabzmsikßaGUrRseTLA",
+    "id": "0678"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាអូរស្រទេឡៅ",
+    "kh_name": "salabzmsikßaGUrRseTLA",
+    "id": "0679"
+  },
+  {
+    "name": "វត្ដបោះបេង",
+    "kh_name": "vtþeá¼ebg",
+    "id": "0680"
+  },
+  {
+    "name": "វត្ដស្វាយធំ",
+    "kh_name": "vtþsVayFM",
+    "id": "0681"
+  },
+  {
+    "name": "នស្វាយធ",
+    "kh_name": "nsVayF",
+    "id": "0682"
+  },
+  {
+    "name": "វត្ដសន្ដិវ័ន្ដ",
+    "kh_name": "vtþsnþiv&nþ",
+    "id": "0683"
+  },
+  {
+    "name": "សាលារៀនអូរដំបង ២",
+    "kh_name": "salaeronGUrdMbg 2",
+    "id": "0684"
+  },
+  {
+    "name": "សាលារៀនអូរដំបង ២",
+    "kh_name": "salaeronGUrdMbg 2",
+    "id": "1034"
+  },
+  {
+    "name": "សាលារៀនស្វាយជ្រុំ",
+    "kh_name": "salaeronsVayRCuM",
+    "id": "0685"
+  },
+  {
+    "name": "សាលារៀនដំបូកខ្ពស់",
+    "kh_name": "salaerondMbUkx<s´",
+    "id": "0686"
+  },
+  {
+    "name": "វត្ដកំណប់",
+    "kh_name": "vtþkMNb´",
+    "id": "0687"
+  },
+  {
+    "name": "វត្ដកំណប់",
+    "kh_name": "vtþkMNb´",
+    "id": "1035"
+  },
+  {
+    "name": "សាលារៀនទួលល្វៀង",
+    "kh_name": "salaeronTYlelVóg",
+    "id": "0688"
+  },
+  {
+    "name": "សាលារៀនទូលល្វៀង",
+    "kh_name": "salaeronTUlelVóg",
+    "id": "0689"
+  },
+  {
+    "name": "វត្ដជាតិក",
+    "kh_name": "vtþCatik",
+    "id": "0690"
+  },
+  {
+    "name": "វត្ដបួនមុខ",
+    "kh_name": "vtþbYnmux",
+    "id": "0691"
+  },
+  {
+    "name": "អនុវិទ្យាល័យវត្ដតាមិម",
+    "kh_name": "GnuviTüal&yvtþtamim",
+    "id": "0692"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាអន្លង់ល្វា",
+    "kh_name": "salabzmsikßaGnøg´lVa",
+    "id": "0693"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាអន្លង់ល្វា",
+    "kh_name": "salabzmsikßaGnøg´lVa",
+    "id": "0994"
+  },
+  {
+    "name": "វត្ដខ្វែង",
+    "kh_name": "vtþExVg",
+    "id": "0694"
+  },
+  {
+    "name": "វត្ដកំពង់ពិល",
+    "kh_name": "vtþkMBg´Bil",
+    "id": "0695"
+  },
+  {
+    "name": "បឋមសិក្សាកំពង់ពិល",
+    "kh_name": "bzmsikßakMBg´Bil",
+    "id": "0696"
+  },
+  {
+    "name": "វត្ដស្លក្រាម",
+    "kh_name": "vtþsøRkam",
+    "id": "0697"
+  },
+  {
+    "name": "សាលាបឋមសិក្សា ស្លក្រាម",
+    "kh_name": "salabzmsikßa søRkam",
+    "id": "0698"
+  },
+  {
+    "name": "បឋមសិក្សា អូរស្រទេឡៅ",
+    "kh_name": "bzmsikßa GUrRseTLA",
+    "id": "0699"
+  },
+  {
+    "name": "បឋមសិក្សា អូរស្រទេឡៅ",
+    "kh_name": "bzmsikßa GUrRseTLA",
+    "id": "0700"
+  },
+  {
+    "name": "ក្សា អរស្រទេឡៅ",
+    "kh_name": "kßa GrRseTLA",
+    "id": "0701"
+  },
+  {
+    "name": "រស្រទេឡៅ",
+    "kh_name": "rRseTLA",
+    "id": "0701"
+  },
+  {
+    "name": "បឋមសិក្សាកំពង់ឆ្លង",
+    "kh_name": "bzmsikßakMBg´qøg",
+    "id": "0702"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាបួរខ្នា",
+    "kh_name": "salabzmsikßabYrxña",
+    "id": "0703"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាបួរខ្នា",
+    "kh_name": "salabzmsikßabYrxña",
+    "id": "0704"
+  },
+  {
+    "name": "វត្ដស៊ុង",
+    "kh_name": "vtþs‘ug",
+    "id": "0705"
+  },
+  {
+    "name": "បឋមសិក្សា សន្ដិភាព",
+    "kh_name": "bzmsikßa snþiPaB",
+    "id": "0924"
+  },
+  {
+    "name": "សាលាស៊ុងទី ២",
+    "kh_name": "salas‘ugTI 2",
+    "id": "0706"
+  },
+  {
+    "name": "សាលារៀនភូមិកណ្ដាល",
+    "kh_name": "salaeronPUmikNþal",
+    "id": "0811"
+  },
+  {
+    "name": "បឋមសិក្សា ស្រែរាជ",
+    "kh_name": "bzmsikßa ERsraC",
+    "id": "0925"
+  },
+  {
+    "name": "សាលាឃុំមានជ័យចាស់ភូមិតានន",
+    "kh_name": "salaXMumanC&ycas´PUmitann",
+    "id": "0821"
+  },
+  {
+    "name": "សាលាឃុំមានជ័យចាស់ភូមិតានន",
+    "kh_name": "salaXMumanC&ycas´PUmitann",
+    "id": "0970"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាមានជ័យ",
+    "kh_name": "salabzmsikßamanC&y",
+    "id": "0822"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាមានជ័យ",
+    "kh_name": "salabzmsikßamanC&y",
+    "id": "0926"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាមានជ័យ",
+    "kh_name": "salabzmsikßamanC&y",
+    "id": "1036"
+  },
+  {
+    "name": "សាលារៀនអូរតាតឹង",
+    "kh_name": "salaeronGUrtatwg",
+    "id": "0818"
+  },
+  {
+    "name": "សាលារៀនភូមិអូរច្រាប",
+    "kh_name": "salaeronPUmiGUrRcab",
+    "id": "0872"
+  },
+  {
+    "name": "សាលារៀនភូមិអូរច្រាប",
+    "kh_name": "salaeronPUmiGUrRcab",
+    "id": "0995"
+  },
+  {
+    "name": "សាលារៀនស្រែអណ្ដូង ២",
+    "kh_name": "salaeronERsGNþÚg 2",
+    "id": "0819"
+  },
+  {
+    "name": "សាលារៀនស្រែអណ្ដូង ២",
+    "kh_name": "salaeronERsGNþÚg 2",
+    "id": "0927"
+  },
+  {
+    "name": "សាលារៀនភូមិអូរច្រាប",
+    "kh_name": "salaeronPUmiGUrRcab",
+    "id": "0820"
+  },
+  {
+    "name": "សាលារៀនស្រែអណ្ដូង ២",
+    "kh_name": "salaeronERsGNþÚg 2",
+    "id": "0996"
+  },
+  {
+    "name": "សាលារៀនអូរជាំ",
+    "kh_name": "salaeronGUrCaM",
+    "id": "0707"
+  },
+  {
+    "name": "សាលារៀនស្ទឹងតូច",
+    "kh_name": "salaeronsÞwgtUc",
+    "id": "0708"
+  },
+  {
+    "name": "សាលារៀនព្រៃធំ",
+    "kh_name": "salaeronéRBFM",
+    "id": "0709"
+  },
+  {
+    "name": "សាលារៀនកំពង់ល្ពៅ",
+    "kh_name": "salaeronkMBg´el<A",
+    "id": "0812"
+  },
+  {
+    "name": "សាលារៀនកណ្ដាល",
+    "kh_name": "salaeronkNþal",
+    "id": "0710"
+  },
+  {
+    "name": "សាលាអូរដើមចេក",
+    "kh_name": "salaGUredImeck",
+    "id": "0813"
+  },
+  {
+    "name": "សាលារៀនស្ពង់ជ្រៅក្រោម",
+    "kh_name": "salaerons<g´eRCAeRkam",
+    "id": "0711"
+  },
+  {
+    "name": "សាលារៀនស្ពង់ជ្រៅក្រោម",
+    "kh_name": "salaerons<g´eRCAeRkam",
+    "id": "0928"
+  },
+  {
+    "name": "សាលារៀនស្ពង់ជ្រៅក្រោម",
+    "kh_name": "salaerons<g´eRCAeRkam",
+    "id": "0971"
+  },
+  {
+    "name": "សាលារៀនចំលងគួយ",
+    "kh_name": "salaeroncMlgKYy",
+    "id": "0814"
+  },
+  {
+    "name": "សាលារៀនភូមិត្នោត",
+    "kh_name": "salaeronPUmietñat",
+    "id": "0815"
+  },
+  {
+    "name": "បឋមសិក្សាអូរសំរិល",
+    "kh_name": "bzmsikßaGUrsMril",
+    "id": "0712"
+  },
+  {
+    "name": "បឋមសិក្សាអូរតាទៀក",
+    "kh_name": "bzmsikßaGUrtaeTok",
+    "id": "0816"
+  },
+  {
+    "name": "សាលារៀនភ្នំរៃ",
+    "kh_name": "salaeronPñMér",
+    "id": "0873"
+  },
+  {
+    "name": "បឋមសិក្សាពាមតា (អូរត្រែង)",
+    "kh_name": "bzmsikßaBamta (GUrERtg)",
+    "id": "0817"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាអន្លង់ពួក",
+    "kh_name": "salabzmsikßaGnøg´BYk",
+    "id": "0823"
+  },
+  {
+    "name": "ពួក",
+    "kh_name": "BYk",
+    "id": "1053"
+  },
+  {
+    "name": "វត្ដតាសាញថ្មី",
+    "kh_name": "vtþtasajfμI",
+    "id": "0929"
+  },
+  {
+    "name": "បឋមសិក្សាអភិវឌ្ឍន៍សំទឡូត",
+    "kh_name": "bzmsikßaGPivDÆn_sMTLÚt",
+    "id": "0824"
+  },
+  {
+    "name": "បឋមសិក្សាអភិវឌ្ឍន៍សំទឡូត",
+    "kh_name": "bzmsikßaGPivDÆn_sMTLÚt",
+    "id": "1054"
+  },
+  {
+    "name": "បឋមសិក្សាអភិវឌ្ឍន៍ព្រៃរំចេក",
+    "kh_name": "bzmsikßaGPivDÆn_éRBrMeck",
+    "id": "0930"
+  },
+  {
+    "name": "បឋមសិក្សាអភិវឌ្ឍន៍ព្រៃរំចេក",
+    "kh_name": "bzmsikßaGPivDÆn_éRBrMeck",
+    "id": "1052"
+  },
+  {
+    "name": "សាលាបឋមសិក្សា ដូនត្រឹត",
+    "kh_name": "salabzmsikßa dUnRtwt",
+    "id": "0874"
+  },
+  {
+    "name": "សាលាបឋមសិក្សា ដូនត្រឹត",
+    "kh_name": "salabzmsikßa dUnRtwt",
+    "id": "1051"
+  },
+  {
+    "name": "វត្ដតាសាញចាស់",
+    "kh_name": "vtþtasajcas´",
+    "id": "0825"
+  },
+  {
+    "name": "បឋមសិក្សាតាសាញត្បូង",
+    "kh_name": "bzmsikßatasajt,Úg",
+    "id": "0931"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាអង្គរបាន",
+    "kh_name": "salabzmsikßaGg:rán",
+    "id": "0713"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាអង្គរបាន",
+    "kh_name": "salabzmsikßaGg:rán",
+    "id": "0714"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាអូរត្រាវជូរ",
+    "kh_name": "salabzmsikßaGUrRtavCUr",
+    "id": "0715"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាអូរត្រាវជូរ",
+    "kh_name": "salabzmsikßaGUrRtavCUr",
+    "id": "0932"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាអូរត្រាវជូរ",
+    "kh_name": "salabzmsikßaGUrRtavCUr",
+    "id": "1037"
+  },
+  {
+    "name": "បឋម។ហ៊ុន សែនសិរីមានជ័យ",
+    "kh_name": "bzm¿h‘un EsnsirImanC&y",
+    "id": "0826"
+  },
+  {
+    "name": "បឋម។ហ៊ុន សែនសិរីមានជ័យ",
+    "kh_name": "bzm¿h‘un EsnsirImanC&y",
+    "id": "0827"
+  },
+  {
+    "name": "បឋម។ហ៊ុន សែនសិរីមានជ័យ",
+    "kh_name": "bzm¿h‘un EsnsirImanC&y",
+    "id": "0828"
+  },
+  {
+    "name": "សាលារៀនភូមិត្រពាំងព្រលិត",
+    "kh_name": "salaeronPUmiRtBaMgRBlit",
+    "id": "0716"
+  },
+  {
+    "name": "សាលារៀនភូមិត្រពាំងព្រលិត",
+    "kh_name": "salaeronPUmiRtBaMgRBlit",
+    "id": "0933"
+  },
+  {
+    "name": "សាលារៀនភូមិត្រពាំងព្រលិត",
+    "kh_name": "salaeronPUmiRtBaMgRBlit",
+    "id": "0829"
+  },
+  {
+    "name": "សាលារៀនភូមិត្រពាំងព្រលិត",
+    "kh_name": "salaeronPUmiRtBaMgRBlit",
+    "id": "0934"
+  },
+  {
+    "name": "សាលារៀនភូមិត្រពាំងព្រលិត",
+    "kh_name": "salaeronPUmiRtBaMgRBlit",
+    "id": "1038"
+  },
+  {
+    "name": "វត្ដអូរជុំឧត្ដមសាមគ្គី",
+    "kh_name": "vtþGUrCMu«tþmsamK:I",
+    "id": "0717"
+  },
+  {
+    "name": "សាលារៀនកូនភ្នំខាងត្បូង",
+    "kh_name": "salaeronkUnPñMxagt,Úg",
+    "id": "0718"
+  },
+  {
+    "name": "ពេទ្យស្រុកចាស់",
+    "kh_name": "eBTüRsukcas´",
+    "id": "0719"
+  },
+  {
+    "name": "ពេទ្យស្រុកចាស់",
+    "kh_name": "eBTüRsukcas´",
+    "id": "0935"
+  },
+  {
+    "name": "វត្ដគីរីតាស្ដា",
+    "kh_name": "vtþKIrItasþa",
+    "id": "0720"
+  },
+  {
+    "name": "សាលារៀនបេងទ្រេត",
+    "kh_name": "salaeronebgeRTt",
+    "id": "0936"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាសំពៅលូន",
+    "kh_name": "salabzmsikßasMeBAlUn",
+    "id": "0721"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាសំពៅលូន",
+    "kh_name": "salabzmsikßasMeBAlUn",
+    "id": "0722"
+  },
+  {
+    "name": "សាលារៀនចំបក់",
+    "kh_name": "salaeroncMbk´",
+    "id": "0723"
+  },
+  {
+    "name": "សាលារៀនចំបក់",
+    "kh_name": "salaeroncMbk´",
+    "id": "0830"
+  },
+  {
+    "name": "សាលារៀនជ្រៃសីមា",
+    "kh_name": "salaeronéRCsIma",
+    "id": "0724"
+  },
+  {
+    "name": "សាលារៀនជ្រៃសីមា",
+    "kh_name": "salaeronéRCsIma",
+    "id": "1039"
+  },
+  {
+    "name": "ភូមិទួលខ្ពស់(វត្ដគីរីរម្យសន្ដិភាព)",
+    "kh_name": "PUmiTYlx<s´(vtþKIrIrmüsnþiPaB)",
+    "id": "0725"
+  },
+  {
+    "name": "សាលារៀនវត្ដគីរីរម្យសន្ដិភាព",
+    "kh_name": "salaeronvtþKIrIrmüsnþiPaB",
+    "id": "0831"
+  },
+  {
+    "name": "សាលារៀនវត្ដគីរីរម្យសន្ដិភាព",
+    "kh_name": "salaeronvtþKIrIrmüsnþiPaB",
+    "id": "0832"
+  },
+  {
+    "name": "សាលារៀនវត្ដគីរីរម្យសន្ដិភាព",
+    "kh_name": "salaeronvtþKIrIrmüsnþiPaB",
+    "id": "0937"
+  },
+  {
+    "name": "សាលារៀនអូរធំ",
+    "kh_name": "salaeronGUrFM",
+    "id": "0997"
+  },
+  {
+    "name": "សាលារៀនបារាំងធ្លាក់",
+    "kh_name": "salaeronáraMgFøak´",
+    "id": "0726"
+  },
+  {
+    "name": "សាលារៀនបារាំងធ្លាក់",
+    "kh_name": "salaeronáraMgFøak´",
+    "id": "0955"
+  },
+  {
+    "name": "សាលារៀនបារាំងធ្លាក់",
+    "kh_name": "salaeronáraMgFøak´",
+    "id": "0727"
+  },
+  {
+    "name": "សាលារៀនបារាំងធ្លាក់",
+    "kh_name": "salaeronáraMgFøak´",
+    "id": "0956"
+  },
+  {
+    "name": "សាលារៀនបារាំងធ្លាក់",
+    "kh_name": "salaeronáraMgFøak´",
+    "id": "0875"
+  },
+  {
+    "name": "សាលារៀនថ្នល់បត់",
+    "kh_name": "salaeronfñl´bt´",
+    "id": "0893"
+  },
+  {
+    "name": "សាលារៀនថ្នល់បត់",
+    "kh_name": "salaeronfñl´bt´",
+    "id": "0728"
+  },
+  {
+    "name": "សាលារៀនអូររំដួល",
+    "kh_name": "salaeronGUrrMdYl",
+    "id": "0729"
+  },
+  {
+    "name": "សាលារៀនអូររំដួល",
+    "kh_name": "salaeronGUrrMdYl",
+    "id": "0957"
+  },
+  {
+    "name": "សាលារៀនគ្រួសក្រហម",
+    "kh_name": "salaeronRKYsRkhm",
+    "id": "0998"
+  },
+  {
+    "name": "សាលារៀនពេជ្រចិន្ដា",
+    "kh_name": "salaeroneBRCcinþa",
+    "id": "0730"
+  },
+  {
+    "name": "សាលារៀនពេជ្រចិន្ដា",
+    "kh_name": "salaeroneBRCcinþa",
+    "id": "0999"
+  },
+  {
+    "name": "សាលារៀនពេជ្រចិន្ដា",
+    "kh_name": "salaeroneBRCcinþa",
+    "id": "0876"
+  },
+  {
+    "name": "ផ្ទះលោក នាក់ ម៉ូវ ភូមិអូរ",
+    "kh_name": "pÞ¼elak nak´ mU¨v PUmiGUr",
+    "id": "0731"
+  },
+  {
+    "name": "សាលារៀនពេជ្រចិន្ដា",
+    "kh_name": "salaeroneBRCcinþa",
+    "id": "0732"
+  },
+  {
+    "name": "ផ្ទះលោក នាក់ ម៉ូវ ភូមិអូរ",
+    "kh_name": "pÞ¼elak nak´ mU¨v PUmiGUr",
+    "id": "1000"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាអូរតាប៉ុន",
+    "kh_name": "salabzmsikßaGUrtab¨un",
+    "id": "0877"
+  },
+  {
+    "name": "សាលារៀនសាមគ្គី",
+    "kh_name": "salaeronsamK:I",
+    "id": "0878"
+  },
+  {
+    "name": "សាលារៀនសាមគ្គី",
+    "kh_name": "salaeronsamK:I",
+    "id": "0941"
+  },
+  {
+    "name": "សាលារៀនចក្រី",
+    "kh_name": "salaeroncRkI",
+    "id": "0733"
+  },
+  {
+    "name": "សាលារៀនចក្រី",
+    "kh_name": "salaeroncRkI",
+    "id": "0942"
+  },
+  {
+    "name": "សាលារៀនចក្រី",
+    "kh_name": "salaeroncRkI",
+    "id": "0833"
+  },
+  {
+    "name": "វត្ដភ្នំប្រាំពីរ",
+    "kh_name": "vtþPñMRáMBIr",
+    "id": "0879"
+  },
+  {
+    "name": "វត្ដភ្នំប្រាំពីរ",
+    "kh_name": "vtþPñMRáMBIr",
+    "id": "0958"
+  },
+  {
+    "name": "វត្ដភ្នំប្រាំពីរ",
+    "kh_name": "vtþPñMRáMBIr",
+    "id": "1041"
+  },
+  {
+    "name": "វត្ដភ្នំប្រាំពីរ",
+    "kh_name": "vtþPñMRáMBIr",
+    "id": "1042"
+  },
+  {
+    "name": "វត្ដភ្នំប្រាំពីរ",
+    "kh_name": "vtþPñMRáMBIr",
+    "id": "0880"
+  },
+  {
+    "name": "វត្ដភ្នំប្រាំពីរ",
+    "kh_name": "vtþPñMRáMBIr",
+    "id": "0959"
+  },
+  {
+    "name": "សាលារៀនស្ពានទំនាប",
+    "kh_name": "salaerons<anTMnab",
+    "id": "0881"
+  },
+  {
+    "name": "សាលារៀនស្ពានទំនាប",
+    "kh_name": "salaerons<anTMnab",
+    "id": "0943"
+  },
+  {
+    "name": "ី",
+    "kh_name": "I",
+    "id": "0882"
+  },
+  {
+    "name": "្ដ ្ល ្ដ",
+    "kh_name": "þ ø þ",
+    "id": "0882"
+  },
+  {
+    "name": "វត្ដអន្លង់ស្ដី",
+    "kh_name": "vtþGnøg´sþI",
+    "id": "1040"
+  },
+  {
+    "name": "វត្ដអន្លង់ស្ដី",
+    "kh_name": "vtþGnøg´sþI",
+    "id": "0944"
+  },
+  {
+    "name": "ផ្ទះតាម៉េៅ",
+    "kh_name": "pÞ¼taem¨A",
+    "id": "0883"
+  },
+  {
+    "name": "ផ្ទះតាម៉េៅ",
+    "kh_name": "pÞ¼taem¨A",
+    "id": "0966"
+  },
+  {
+    "name": "សាលារៀនដំណាក់ក្សាន្ដ",
+    "kh_name": "salaerondMNak´kßanþ",
+    "id": "0884"
+  },
+  {
+    "name": "សាលារៀនដំណាក់ក្សាន្ដ",
+    "kh_name": "salaerondMNak´kßanþ",
+    "id": "1043"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាជលគីរី",
+    "kh_name": "salabzmsikßaClKIrI",
+    "id": "0734"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាជលគីរី",
+    "kh_name": "salabzmsikßaClKIrI",
+    "id": "0967"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាជលគីរី",
+    "kh_name": "salabzmsikßaClKIrI",
+    "id": "0945"
+  },
+  {
+    "id": "0946",
+    "name": "សាលាបឋមសិក្សាអូរជ្រៃ",
+    "kh_name": "salabzmsikßaGUréRC"
+  },
+  {
+    "id": "0835",
+    "name": "សាលាបឋមសិក្សាទឡាក់ ៦២",
+    "kh_name": "salabzmsikßaTLak´ 62"
+  },
+  {
+    "id": "0885",
+    "name": "៧ ១០១ ១៧ ១៧ ១្ប៤៤៧ ១៨ ២៦ ១២៥ ៧២២ ៤ ២៣ ២្ប៥០០ ២៤ ២្ប៥២៤",
+    "kh_name": "7 101 17 17 1,447 18 26 125 722 4 23 2,500 24 2,524"
+  },
+  {
+    "name": "បឋមសិក្សា សិលាមានជ័យ",
+    "kh_name": "bzmsikßa silamanC&y",
+    "id": "0735"
+  },
+  {
+    "name": "បឋមសិក្សា សិលាមានជ័យ",
+    "kh_name": "bzmsikßa silamanC&y",
+    "id": "0947"
+  },
+  {
+    "name": "បឋមសិក្សា សិលាមានជ័យ",
+    "kh_name": "bzmsikßa silamanC&y",
+    "id": "0886"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាតាំងយូ",
+    "kh_name": "salabzmsikßataMgyU",
+    "id": "0837"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាតាំងយូ",
+    "kh_name": "salabzmsikßataMgyU",
+    "id": "0960"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាតាំងយូ",
+    "kh_name": "salabzmsikßataMgyU",
+    "id": "1044"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាសំរោង",
+    "kh_name": "salabzmsikßasMerag",
+    "id": "0836"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាជលសីមា",
+    "kh_name": "salabzmsikßaClsIma",
+    "id": "0895"
+  },
+  {
+    "name": "សាលាបឋមសក្សាជលសមា",
+    "kh_name": "salabzmskßaClsma",
+    "id": "0736"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាជលសីមា",
+    "kh_name": "salabzmsikßaClsIma",
+    "id": "0949"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាជលសីមា",
+    "kh_name": "salabzmsikßaClsIma",
+    "id": "0972"
+  },
+  {
+    "name": "សាលាបឋមសិក្សា ព្រះពុទ្ធ",
+    "kh_name": "salabzmsikßa RB¼BuT§",
+    "id": "0737"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាជ័យសីមា",
+    "kh_name": "salabzmsikßaC&ysIma",
+    "id": "0838"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាជ័យសីមា",
+    "kh_name": "salabzmsikßaC&ysIma",
+    "id": "0887"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាជ័យសីមា",
+    "kh_name": "salabzmsikßaC&ysIma",
+    "id": "0950"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាជ័យសីមា",
+    "kh_name": "salabzmsikßaC&ysIma",
+    "id": "1045"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាជ័យសីមា",
+    "kh_name": "salabzmsikßaC&ysIma",
+    "id": "1046"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាជ័យសីមា",
+    "kh_name": "salabzmsikßaC&ysIma",
+    "id": "0888"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាជ័យសីមា",
+    "kh_name": "salabzmsikßaC&ysIma",
+    "id": "0894"
+  },
+  {
+    "name": "អនុវិទ្យាល័យត្រាង",
+    "kh_name": "GnuviTüal&yRtag",
+    "id": "0738"
+  },
+  {
+    "name": "អនុវិទ្យាល័យត្រាង",
+    "kh_name": "GnuviTüal&yRtag",
+    "id": "0968"
+  },
+  {
+    "name": "មណ្ឌលសុខភាពត្រាង",
+    "kh_name": "mNÐlsuxPaBRtag",
+    "id": "0739"
+  },
+  {
+    "name": "មណ្ឌលសុខភាពត្រាង",
+    "kh_name": "mNÐlsuxPaBRtag",
+    "id": "0961"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាអូរចំបក់",
+    "kh_name": "salabzmsikßaGUrcMbk´",
+    "id": "0889"
+  },
+  {
+    "name": "សាលារៀនតាសែន",
+    "kh_name": "salaerontaEsn",
+    "id": "0839"
+  },
+  {
+    "name": "សាលារៀនអូរចំលង",
+    "kh_name": "salaeronGUrcMlg",
+    "id": "0740"
+  },
+  {
+    "name": "សាលារៀនអូរអន្លក់",
+    "kh_name": "salaeronGUrGnøk´",
+    "id": "0890"
+  },
+  {
+    "name": "អនុវិទ្យាល័យតាសែន",
+    "kh_name": "GnuviTüal&ytaEsn",
+    "id": "0741"
+  },
+  {
+    "name": "អនុវិទ្យាល័យតាសែន",
+    "kh_name": "GnuviTüal&ytaEsn",
+    "id": "1047"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាអូរអន្លក់",
+    "kh_name": "salabzmsikßaGUrGnøk´",
+    "id": "0973"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាអូរទឹកថ្លា",
+    "kh_name": "salabzmsikßaGUrTwkføa",
+    "id": "0891"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាស្រះទឹកថី្ម",
+    "kh_name": "salabzmsikßaRs¼TwkfIμ",
+    "id": "0742"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាតាក្រី",
+    "kh_name": "salabzmsikßataRkI",
+    "id": "0743"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាតាក្រី",
+    "kh_name": "salabzmsikßataRkI",
+    "id": "1055"
+  },
+  {
+    "name": "អនុវិទ្យាល័យតាក្រី",
+    "kh_name": "GnuviTüal&ytaRkI",
+    "id": "0744"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាកំប្រង់",
+    "kh_name": "salabzmsikßakMRbg´",
+    "id": "0745"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាកំប្រង់",
+    "kh_name": "salabzmsikßakMRbg´",
+    "id": "1056"
+  },
+  {
+    "name": "សាលាវត្ដទឹកពុះ",
+    "kh_name": "salavtþTwkBu¼",
+    "id": "0746"
+  },
+  {
+    "name": "សាលាកំពង់ចំលងលើ",
+    "kh_name": "salakMBg´cMlgelI",
+    "id": "0747"
+  },
+  {
+    "name": "សាលាកំពង់ចំលងលើ",
+    "kh_name": "salakMBg´cMlgelI",
+    "id": "1057"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាសាមសិប",
+    "kh_name": "salabzmsikßasamsib",
+    "id": "0748"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាសាមគ្គី",
+    "kh_name": "salabzmsikßasamK:I",
+    "id": "0962"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាសាមគ្គី",
+    "kh_name": "salabzmsikßasamK:I",
+    "id": "1058"
+  },
+  {
+    "name": "សាលាបឋមសិក្សា ឆ្នាល់មាន់",
+    "kh_name": "salabzmsikßa qñal´man´",
+    "id": "0749"
+  },
+  {
+    "name": "សាលាបឋមសិក្សា ឆ្នាល់មាន់",
+    "kh_name": "salabzmsikßa qñal´man´",
+    "id": "1048"
+  },
+  {
+    "name": "សាលាបឋមសិក្សា ក្រាំងស្វាត",
+    "kh_name": "salabzmsikßa RkaMgsVat",
+    "id": "0750"
+  },
+  {
+    "name": "សាលាបឋមសិក្សា ក្រាំងស្វាត",
+    "kh_name": "salabzmsikßa RkaMgsVat",
+    "id": "1049"
+  },
+  {
+    "name": "សាលារៀនព្រៃសិន",
+    "kh_name": "salaeronéRBsin",
+    "id": "0751"
+  },
+  {
+    "name": "សាលារៀនដូនបា",
+    "kh_name": "salaerondUná",
+    "id": "0752"
+  },
+  {
+    "name": "សាលារៀនដូនបា",
+    "kh_name": "salaerondUná",
+    "id": "1050"
+  },
+  {
+    "name": "សាលារៀនដូនបា",
+    "kh_name": "salaerondUná",
+    "id": "0892"
+  },
+  {
+    "name": "សាលារៀនខ្វែង",
+    "kh_name": "salaeronExVg",
+    "id": "0753"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាហប់",
+    "kh_name": "salabzmsikßahb´",
+    "id": "0754"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាមិត្ដភាព",
+    "kh_name": "salabzmsikßamitþPaB",
+    "id": "0755"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាសំបួរ",
+    "kh_name": "salabzmsikßasMbYr",
+    "id": "0756"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាគោកត្រុំ",
+    "kh_name": "salabzmsikßaeKakRtMu",
+    "id": "0757"
+  },
+  {
+    "name": "សាលាវឌ្ឍនៈគាស់ក្រទឡ",
+    "kh_name": "salavDÆn£Kas´RkTL",
+    "id": "0758"
+  },
+  {
+    "name": "សាលាមធ្យមសិក្សាគាស់ក្រទឡ",
+    "kh_name": "salamFümsikßaKas´RkTL",
+    "id": "0759"
+  },
+  {
+    "name": "សាលាមធ្យមសិក្សាគាស់ក្រទឡ",
+    "kh_name": "salamFümsikßaKas´RkTL",
+    "id": "0760"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាបឹងឈ្នះ",
+    "kh_name": "salabzmsikßabwgQñ¼",
+    "id": "0761"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាតាខោ",
+    "kh_name": "salabzmsikßataexa",
+    "id": "0762"
+  },
+  {
+    "name": "សាសាបឋមសិក្សា ព្រះផុស",
+    "kh_name": "sasabzmsikßa RB¼pus",
+    "id": "0763"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាកុយវែង",
+    "kh_name": "salabzmsikßakuyEvg",
+    "id": "0764"
+  },
+  {
+    "name": "សាលារៀនថី្មឆាយបល្ល័ង្គ",
+    "kh_name": "salaeronfIμqayblø&g:",
+    "id": "0560"
+  },
+  {
+    "name": "ង",
+    "kh_name": "g",
+    "id": "0561"
+  },
+  {
+    "name": "្គ",
+    "kh_name": ":",
+    "id": "0561"
+  },
+  {
+    "name": "សាលាឆាយបល្ល័ង្គ(រោងល្ខោន)",
+    "kh_name": "salaqayblø&g:(eragelçan)",
+    "id": "0562"
+  },
+  {
+    "name": "សាលាបឋមសិក្សារ៉ាខាងត្បូង",
+    "kh_name": "salabzmsikßar¨axagt,Úg",
+    "id": "0563"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាកន្ទួត",
+    "kh_name": "salabzmsikßaknÞÜt",
+    "id": "0564"
+  },
+  {
+    "name": "សាលារៀនគោកពោន",
+    "kh_name": "salaeroneKakeBan",
+    "id": "0565"
+  },
+  {
+    "name": "សាលារៀនសំរោង (បឹងស្នោរ)",
+    "kh_name": "salaeronsMerag (bwgesñar)",
+    "id": "0566"
+  },
+  {
+    "name": "សាលារៀនសំរោង (បឹងស្នោរ)",
+    "kh_name": "salaeronsMerag (bwgesñar)",
+    "id": "0963"
+  },
+  {
+    "name": "សាលារៀនរ៉ាខាងជើង",
+    "kh_name": "salaeronr¨axageCIg",
+    "id": "0567"
+  },
+  {
+    "name": "សាលារៀនតាថុក",
+    "kh_name": "salaerontafuk",
+    "id": "0568"
+  },
+  {
+    "name": "សាលារៀនតាថុក",
+    "kh_name": "salaerontafuk",
+    "id": "0951"
+  }
+]

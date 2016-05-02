@@ -14,7 +14,8 @@
     "khmer-unicode-converter": "git@github.com:chamnap/khmer_unicode_converter.git",
     "lodash": "^4.6.1",
     "sprintf-js": "^1.0.3",
-    "q": "^1.4.1"
+    "q": "^1.4.1",
+    "jsdom": "^8.4.1"
   },
   "devDependencies": {
     "chai": "^3.5.0",

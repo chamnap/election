@@ -7,6 +7,7 @@ var Province  = require('./src/province');
 
 program
   .version('0.1.0')
+  .option('-s, --station', 'convert station names only')
   .parse(process.argv);
 
 if (program.args[0]) {
@@ -27,8 +28,9 @@ if (program.args[0]) {
   provinces = array;
 }
 
+var method = program.station ? 'station' : 'province';
 provinces.forEach(function(province) {
-  converter(province)
+  converter[method](province)
     .then(function() {
       console.log(province.name + ' is done!');
     });
