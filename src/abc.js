@@ -8,6 +8,7 @@ module.exports = function(text) {
   text = text.replace(/ ̈/gm, '¨');
   text = text.replace(/1⁄4/gm, '¼');
   text = text.replace(/μ/, 'µ');
+  text = text.replace(/TL/, 'L');
 
   return unicodeConverter.abc(text);
 };
