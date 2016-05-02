@@ -66,8 +66,12 @@ HtmlParser.prototype = {
         if (text.match(/^\d{4}/)) {
           station.id = text.trim().slice(0, 4);
         } else if (text !== 'srub' && text !== 'srubRsuk' && text !== 'srubextþ') {
-          station.name = abc(text);
-          station.kh_name = text;
+          if(text.length <= 3 || text.match(/^\d+/)) {
+            station = {};
+          } else {
+            station.name = abc(text);
+            station.kh_name = text;
+          }
         }
 
         if (station.id && station.name) {
