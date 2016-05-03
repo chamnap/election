@@ -8,6 +8,7 @@ var Province  = require('./src/province');
 program
   .version('0.1.0')
   .option('-s, --station', 'convert station names only')
+  .option('-t, --txt', 'convert into txt format')
   .parse(process.argv);
 
 if (program.args[0]) {
@@ -28,7 +29,15 @@ if (program.args[0]) {
   provinces = array;
 }
 
-var method = program.station ? 'station' : 'province';
+var method;
+if (program.station) {
+  method = 'station';
+} else if (program.txt) {
+  method = 'txt';
+} else {
+  method = 'json';
+}
+
 provinces.forEach(function(province) {
   converter[method](province)
     .then(function() {

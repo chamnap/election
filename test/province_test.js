@@ -12,13 +12,9 @@ var parties   = require('../resources/jsons/parties.json');
 describe('totalCount', function() {
   provinces.forEach(function(provinceJSON) {
     var province     = Province.find(provinceJSON.number);
-    var provincePath = province.getJsonPath();
-    if (!fs.existsSync(provincePath)) {
+    if (!province) {
       return;
     }
-
-    var provinceAttr = require(provincePath);
-    province = Province.loadFromJSON(provinceAttr);
 
     describe(provinceJSON.en_name, function() {
       parties.forEach(function(party) {

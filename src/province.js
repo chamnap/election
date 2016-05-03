@@ -1,6 +1,8 @@
 var _        = require('lodash');
 var path     = require('path');
 var sprintf  = require('sprintf-js').sprintf;
+var csv      = require('fast-csv');
+var Q        = require('q');
 
 var District = require('./district');
 var Commune  = require('./commune');
@@ -31,7 +33,7 @@ Province.find = function(number) {
 };
 
 Province.loadFromJSON = function(json) {
-  var province = new Province({ name: json.kh_name, total: json.total });
+  var province = new Province({ name: json.kh_name, en_name: json.en_name, number: json.number, total: json.total });
 
   json.districts.forEach(function(districtJson) {
     var district = new District(districtJson.name, districtJson.total);
@@ -67,6 +69,13 @@ Province.prototype = {
     var fileName = number + '-' + this.en_name.replace(/ /g, '-') + '.json';
 
     return path.resolve('./resources/jsons/' + fileName);
+  },
+
+  getTxtPath: function() {
+    var number   = sprintf("%02d", this.number);
+    var fileName = number + '-' + this.en_name.replace(/ /g, '-') + '.txt';
+
+    return path.resolve('./resources/txts/' + fileName);
   },
 
   getExcelPath: function() {
@@ -130,6 +139,22 @@ Province.prototype = {
 
   setTotal: function(total) {
     this.total = total;
+  },
+
+  saveAsTxt: function() {
+    var deferred = Q.defer();
+    var stations = [['number', 'name', 't1', 't2', 't3', 't4', 't5', 't6', 't7', 't8', 't9', 't10', 't11', 'useful', 'notUseful', 'totalInBox']];
+    this.getStations().forEach(function(station) {
+      stations.push(station.asArray());
+    });
+
+    csv
+      .writeToPath(this.getTxtPath(), stations, { headers: true, quoteColumns: true })
+      .on('finish', function() {
+        deferred.resolve();
+      });
+
+    return deferred.promise;
   }
 };
 
