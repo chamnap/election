@@ -485,39 +485,34 @@
     "id": "0075"
   },
   {
-    "name": "១៧",
-    "kh_name": "17",
-    "id": "0076"
-  },
-  {
+    "id": "0076",
     "name": "វត្ដទេពធីតារាម",
-    "kh_name": "vtþeTBFItaram",
-    "id": "0537"
+    "kh_name": "vtþeTBFItaram"
   },
   {
+    "id": "0537",
     "name": "វត្ដទេពធីតារាម",
-    "kh_name": "vtþeTBFItaram",
-    "id": "0077"
+    "kh_name": "vtþeTBFItaram"
   },
   {
+    "id": "0077",
     "name": "វត្ដទេពធីតារាម",
-    "kh_name": "vtþeTBFItaram",
-    "id": "0078"
+    "kh_name": "vtþeTBFItaram"
   },
   {
+    "id": "0078",
     "name": "សាលារៀនសំរោង",
-    "kh_name": "salaeronsMerag",
-    "id": "0079"
+    "kh_name": "salaeronsMerag"
   },
   {
+    "id": "0079",
     "name": "សាលារៀនសំរោង",
-    "kh_name": "salaeronsMerag",
-    "id": "0080"
+    "kh_name": "salaeronsMerag"
   },
   {
+    "id": "0080",
     "name": "សាលារៀនសំរោង",
-    "kh_name": "salaeronsMerag",
-    "id": "0081"
+    "kh_name": "salaeronsMerag"
   },
   {
     "name": "សាលារៀនសំរោង",
@@ -528,11 +523,6 @@
     "name": "សាលារៀនសំរោង",
     "kh_name": "salaeronsMerag",
     "id": "0083"
-  },
-  {
-    "name": "ស",
-    "kh_name": "s",
-    "id": "0084"
   },
   {
     "name": "ុ ្យ ុ",
@@ -850,7 +840,7 @@
     "id": "0133"
   },
   {
-    "name": "សាលារៀនប្រទឡាយមាស",
+    "name": "សាលារៀនប្រឡាយមាស",
     "kh_name": "salaeronRbTLaymas",
     "id": "0134"
   },
@@ -895,7 +885,7 @@
     "id": "0139"
   },
   {
-    "name": "សាលារៀនតាទឡាត់",
+    "name": "សាលារៀនតាឡាត់",
     "kh_name": "salaerontaTLat´",
     "id": "0140"
   },
@@ -1005,11 +995,6 @@
     "id": "0471"
   },
   {
-    "name": "ាំង",
-    "kh_name": "aMg",
-    "id": "0156"
-  },
-  {
     "name": "្ដ ៀ ្ល",
     "kh_name": "þ o ø",
     "id": "0156"
@@ -1025,54 +1010,49 @@
     "id": "0158"
   },
   {
-    "name": "ខ្ចុ",
-    "kh_name": "x©ú",
-    "id": "0159"
-  },
-  {
+    "id": "0159",
     "name": "វិហារភូមិឈូកក្រញ៉ាស់",
-    "kh_name": "viharPUmiQUkRkj¨as´",
-    "id": "0160"
+    "kh_name": "viharPUmiQUkRkj¨as´"
   },
   {
+    "id": "0160",
     "name": "សាលារៀនអណ្ដូងត្រមូង",
-    "kh_name": "salaeronGNþÚgRtmUg",
-    "id": "0161"
+    "kh_name": "salaeronGNþÚgRtmUg"
   },
   {
+    "id": "0161",
     "name": "សាលារៀនច្រករមៀត",
-    "kh_name": "salaeronRckremot",
-    "id": "0162"
+    "kh_name": "salaeronRckremot"
   },
   {
+    "id": "0162",
     "name": "សាលារៀនព្រៃពិស",
-    "kh_name": "salaeronéRBBis",
-    "id": "0472"
+    "kh_name": "salaeronéRBBis"
   },
   {
+    "id": "0472",
     "name": "ភូមិព្រៃពារ",
-    "kh_name": "PUmiéRBBar",
-    "id": "0163"
+    "kh_name": "PUmiéRBBar"
   },
   {
+    "id": "0163",
     "name": "ភូមិទួល (វិហារ)",
-    "kh_name": "PUmiTYl (vihar)",
-    "id": "0164"
+    "kh_name": "PUmiTYl (vihar)"
   },
   {
+    "id": "0164",
     "name": "សាលារៀនក្រសះថ្មី",
-    "kh_name": "salaeronRks¼fμI",
-    "id": "0165"
+    "kh_name": "salaeronRks¼fμI"
   },
   {
+    "id": "0165",
     "name": "សាលារៀនក្រសះថ្មី",
-    "kh_name": "salaeronRks¼fμI",
-    "id": "0473"
+    "kh_name": "salaeronRks¼fμI"
   },
   {
+    "id": "0473",
     "name": "ជ្រលងកៃសា្ន",
-    "kh_name": "RClgéksañ",
-    "id": "0166"
+    "kh_name": "RClgéksañ"
   },
   {
     "name": "សាលារៀនជំទាវសុខ",
@@ -1145,7 +1125,7 @@
     "id": "0176"
   },
   {
-    "name": "សាលារៀនកំពង់ត្រទឡាចក្រោម",
+    "name": "សាលារៀនកំពង់ត្រឡាចក្រោម",
     "kh_name": "salaeronkMBg´RtTLaceRkam",
     "id": "0177"
   },
@@ -1180,7 +1160,7 @@
     "id": "0181"
   },
   {
-    "name": "វត្ដត្រទែឡងកែង",
+    "name": "វត្ដត្រឡែងកែង",
     "kh_name": "vtþRtETLgEkg",
     "id": "0182"
   },
@@ -1205,17 +1185,17 @@
     "id": "0478"
   },
   {
-    "name": "សាលារៀនក្រទឡាញ់",
+    "name": "សាលារៀនក្រឡាញ់",
     "kh_name": "salaeronRkTLaj´",
     "id": "0186"
   },
   {
-    "name": "សាលារៀនក្រទឡាញ់",
+    "name": "សាលារៀនក្រឡាញ់",
     "kh_name": "salaeronRkTLaj´",
     "id": "0542"
   },
   {
-    "name": "អនុវិិទ្យាល័យកំពង់ត្រទឡាច",
+    "name": "អនុវិិទ្យាល័យកំពង់ត្រឡាច",
     "kh_name": "GnuviiTüal&ykMBg´RtTLac",
     "id": "0187"
   },
@@ -1490,7 +1470,7 @@
     "id": "0239"
   },
   {
-    "name": "វត្ដអាទែឡង",
+    "name": "វត្ដអាឡែង",
     "kh_name": "vtþGaETLg",
     "id": "0240"
   },
@@ -1790,11 +1770,6 @@
     "id": "0514"
   },
   {
-    "name": "ង",
-    "kh_name": "g",
-    "id": "0285"
-  },
-  {
     "name": "វត្ដថ្នល់តាសែង",
     "kh_name": "vtþfñl´taEsg",
     "id": "0286"
@@ -1990,49 +1965,44 @@
     "id": "0500"
   },
   {
-    "name": "ច",
-    "kh_name": "c",
-    "id": "0312"
-  },
-  {
+    "id": "0312",
     "name": "វត្ដតាំងគ្រួសលិច",
-    "kh_name": "vtþtaMgRKYslic",
-    "id": "0313"
+    "kh_name": "vtþtaMgRKYslic"
   },
   {
+    "id": "0313",
     "name": "សាលាបុណ្យជំទាវច្រែង",
-    "kh_name": "salabuNüCMTavERcg",
-    "id": "0314"
+    "kh_name": "salabuNüCMTavERcg"
   },
   {
+    "id": "0314",
     "name": "សាលាបុណ្យជំទាវច្រែង",
-    "kh_name": "salabuNüCMTavERcg",
-    "id": "0517"
+    "kh_name": "salabuNüCMTavERcg"
   },
   {
+    "id": "0517",
     "name": "សាលាបុណ្យធ្លករលើង",
-    "kh_name": "salabuNüFøkrelIg",
-    "id": "0315"
+    "kh_name": "salabuNüFøkrelIg"
   },
   {
+    "id": "0315",
     "name": "សាលាបុណ្យជ្រេស",
-    "kh_name": "salabuNüeRCs",
-    "id": "0427"
+    "kh_name": "salabuNüeRCs"
   },
   {
+    "id": "0427",
     "name": "ភូមិតាំងគ្រង",
-    "kh_name": "PUmitaMgRKg",
-    "id": "0316"
+    "kh_name": "PUmitaMgRKg"
   },
   {
+    "id": "0316",
     "name": "វត្ដក្រាំងល្វា",
-    "kh_name": "vtþRkaMglVa",
-    "id": "0317"
+    "kh_name": "vtþRkaMglVa"
   },
   {
+    "id": "0317",
     "name": "សាលាបឋមសិក្សា ក្រាំងល្វា",
-    "kh_name": "salabzmsikßa RkaMglVa",
-    "id": "0318"
+    "kh_name": "salabzmsikßa RkaMglVa"
   },
   {
     "name": "វត្ដស្រែអណ្ដូង",
@@ -2290,7 +2260,7 @@
     "id": "0520"
   },
   {
-    "name": "សាលាបុណ្យក្បាលទឡាន",
+    "name": "សាលាបុណ្យក្បាលឡាន",
     "kh_name": "salabuNük,alTLan",
     "id": "0363"
   },
@@ -2405,7 +2375,7 @@
     "id": "0383"
   },
   {
-    "name": "វត្ដក្រសាំងដុះទេឡីង",
+    "name": "វត្ដក្រសាំងដុះឡើង",
     "kh_name": "vtþRksaMgdu¼eTLIg",
     "id": "0384"
   },
@@ -2425,7 +2395,7 @@
     "id": "0385"
   },
   {
-    "name": "ផ្ទះទេព ទឡនភូមិខ្លុងពពក",
+    "name": "ផ្ទះទេព ឡនភូមិខ្លុងពពក",
     "kh_name": "pÞ¼eTB TLnPUmixøúgBBk",
     "id": "0434"
   },
@@ -2435,7 +2405,7 @@
     "id": "0386"
   },
   {
-    "name": "ផ្ទះជៃ ទឡូញភូមិបឹងស្ទេង",
+    "name": "ផ្ទះជៃ ឡូញភូមិបឹងស្ទេង",
     "kh_name": "pÞ¼éC TLÚjPUmibwgesÞg",
     "id": "0387"
   },
@@ -2515,11 +2485,6 @@
     "id": "0522"
   },
   {
-    "name": "ារ",
-    "kh_name": "ar",
-    "id": "0395"
-  },
-  {
     "name": "សាលារៀនត្រពាំងនាគ",
     "kh_name": "salaeronRtBaMgnaK",
     "id": "0396"
@@ -2580,7 +2545,7 @@
     "id": "0405"
   },
   {
-    "name": "សាលាបុណ្យ ភូមិទឡរ",
+    "name": "សាលាបុណ្យ ភូមិឡរ",
     "kh_name": "salabuNü PUmiTLr",
     "id": "0438"
   },

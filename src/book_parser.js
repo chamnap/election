@@ -38,7 +38,7 @@ BookParser.prototype = {
 
     self.province.getStations().forEach(function(station) {
       var foundStation = self.findStation(station.number);
-      if (foundStation) {
+      if (foundStation && _.startsWith(foundStation.name, station.name)) {
         station.name = foundStation.name;
       } else {
         console.log("station not found: " + station.number);

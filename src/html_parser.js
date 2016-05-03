@@ -81,7 +81,7 @@ HtmlParser.prototype = {
       });
     });
 
-    return stations;
+    return _.uniqBy(stations, 'id');
   }
 };
 
