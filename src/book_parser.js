@@ -12,7 +12,13 @@ var BookParser = function(province) {
   this.province   = province;
   this.workbook   = new Excel.Workbook();
   this.htmlParser = new HtmlParser(province);
-  this.stations   = require(this.province.getStationsPath());
+
+  var stationsPath = this.province.getStationsPath();
+  if(fs.existsSync(stationsPath)) {
+    this.stations   = require(stationsPath);
+  } else {
+    this.stations   = [];
+  }
 };
 
 BookParser.prototype = {
