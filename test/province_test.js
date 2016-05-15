@@ -9,16 +9,24 @@ var Province  = require('../src/province');
 var provinces = require('../resources/jsons/provinces.json');
 var parties   = require('../resources/jsons/parties.json');
 
-describe('totalCount', function() {
-  provinces.forEach(function(provinceJSON) {
+describe('totalCount', function () {
+  provinces.forEach(function (provinceJSON) {
     var province     = Province.find(provinceJSON.number);
-    if (!province) {
+    var provincePath = province.getJsonPath();
+    if (!fs.existsSync(provincePath)) {
       return;
     }
 
-    describe(provinceJSON.en_name, function() {
-      parties.forEach(function(party) {
-        it('is correct on Party::' + party.identifier, function() {
+    var provinceAttr = require(provincePath);
+    province = Province.loadFromJSON(provinceAttr);
+
+    describe(provinceJSON.en_name, function () {
+      it('has total', function () {
+        expect(province.total).not.to.equal({});
+      });
+
+      parties.forEach(function (party) {
+        it('is correct on Party::' + party.identifier, function () {
           var totalCount = province.total[party.identifier] || 0;
 
           expect(province.getTotal(party.identifier)).to.equal(totalCount);
@@ -26,23 +34,33 @@ describe('totalCount', function() {
       });
 
       var districts = province.getDistricts();
-      districts.forEach(function(district) {
-        it('is correct on District::' + district.name, function() {
-          parties.forEach(function(party) {
-            var totalCount = district.total[party.identifier] || 0;
+      districts.forEach(function (district) {
+        it('has total', function () {
+          expect(district.total).not.to.equal({});
+        });
 
-            expect(district.getTotal(party.identifier), party.identifier + ':' + district.name).to.equal(totalCount);
+        it('is correct on District::' + district.name, function () {
+          parties.forEach(function (party) {
+            var totalCount = district.total[party.identifier] || 0;
+            var message = party.identifier + ':' + district.name;
+
+            expect(district.getTotal(party.identifier), message).to.equal(totalCount);
           });
         });
       });
 
-      it('is correct on Commune', function() {
+      it('is correct on Commune', function () {
         var communes = province.getCommunes();
-        communes.forEach(function(commune) {
-          parties.forEach(function(party) {
-            var totalCount = commune.total[party.identifier] || 0;
+        communes.forEach(function (commune) {
+          it('has total', function () {
+            expect(commune.total).not.to.equal({});
+          });
 
-            expect(commune.getTotal(party.identifier), party.identifier + ':' + commune.id + ':' + commune.name).to.equal(totalCount);
+          parties.forEach(function (party) {
+            var totalCount = commune.total[party.identifier] || 0;
+            var message = party.identifier + ':' + commune.id + ':' + commune.name;
+
+            expect(commune.getTotal(party.identifier), message).to.equal(totalCount);
           });
         });
       });

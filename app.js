@@ -15,14 +15,14 @@ if (program.args[0]) {
   provinces = [];
 
   var input = program.args[0].split(',');
-  input.forEach(function(provinceNumber) {
+  input.forEach(function (provinceNumber) {
     var province = Province.find(provinceNumber);
 
     provinces.push(province);
   });
 } else {
   array = [];
-  provinces.forEach(function(province) {
+  provinces.forEach(function (province) {
     array.push(new Province(province));
   });
 
@@ -38,9 +38,9 @@ if (program.station) {
   method = 'json';
 }
 
-provinces.forEach(function(province) {
+provinces.forEach(function (province) {
   converter[method](province)
-    .then(function() {
+    .then(function () {
       console.log(province.name + ' is done!');
     });
 });

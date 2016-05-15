@@ -134,12 +134,20 @@ SheetParser.prototype = {
     if (this.isStartOfPage()) {
       rowNumber = _.findIndex(this.worksheet._rows, function(row) {
         if (row) {
-          return row.values.indexOf('TI01') > -1 || row.values.indexOf('T01') > -1;
+          return row.values.indexOf('TI0 1') > -1 || row.values.indexOf('TI01') > -1 || row.values.indexOf('T01') > -1;
         }
       });
       rowNumber += 2;
     } else {
       rowNumber = 7;
+      var a7 = this.worksheet.getCell('A7').value;
+      var b7 = this.worksheet.getCell('B7').value;
+      var c7 = this.worksheet.getCell('C7').value;
+      var d7 = this.worksheet.getCell('D7').value;
+
+      if (!a7 && !b7 && !c7 && !d7) {
+        rowNumber = 8;
+      }
     }
 
     for(var i = rowNumber; i < this.worksheet._rows.length; i++) {
@@ -148,6 +156,9 @@ SheetParser.prototype = {
 
       if(values.length > 0) {
         var station = this.getStation(values);
+        if (station.name == "កែប") {
+          console.log(values);
+        }
         this._stations.push(station);
       }
     }
@@ -160,11 +171,11 @@ SheetParser.prototype = {
   },
 
   getTotalDistrict: function() {
-    return _.find(this.getAllStations(), function(station) { return station.name == 'សរុបស្រុក'; });
+    return _.find(this.getAllStations(), function(station) { return station.name == 'សរុបស្រុក' || station.name == 'សរុបខណ្ឌ'; });
   },
 
   getTotalProvince: function() {
-    return _.find(this.getAllStations(), function(station) { return station.name == 'សរុបខេត្ដ'; });
+    return _.find(this.getAllStations(), function(station) { return station.name == 'សរុបខេត្ដ' || station.name == 'សរុបក្រុង'; });
   },
 
   getRowValues: function(row) {
@@ -207,7 +218,7 @@ SheetParser.prototype = {
     var result = false;
 
     this.worksheet.getSheetValues().forEach(function(array) {
-      if (array.indexOf('TI01') > 0 || array.indexOf('T01') > 0) { // district sheet has T01, T02
+      if (array.indexOf('TI0 1') > 0 || array.indexOf('TI01') > 0 || array.indexOf('T01') > 0) { // district sheet has T01, T02
         result = true;
       }
     });
