@@ -21,11 +21,33 @@ HtmlParser.prototype = {
     switch(this.province.number) {
       case 1:
       case 3:
+      case 5:
+      case 8:
+      case 9:
+      case 10:
+      case 13:
+      case 17:
+      case 18:
         return '.t.m8';
+      case 14:
       case 2:
+      case 19:
+      case 21:
         return '.t.m8, .t.m4';
       case 4:
+      case 6:
         return '.t.m9';
+      case 3:
+      case 20:
+        return '.t.m7, .t.m3';
+      case 11:
+        return '.t.m8, .t.m9';
+      case 12:
+        return '.t.m5, .t.m1';
+      case 15:
+        return '.t.m6, .t.m0';
+      case 16:
+        return '.t.m6';
     }
   },
 

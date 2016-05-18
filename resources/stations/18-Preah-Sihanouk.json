@@ -1,0 +1,852 @@
+﻿[
+  {
+    "name": "បឋម។ចំការកៅស៊ូបន្ទប់ចុងកើត",
+    "kh_name": "bzm¿cMkarekAs‘UbnÞb´cugekIt",
+    "id": "0001"
+  },
+  {
+    "name": "បឋម។ចំការកៅស៊ូបន្ទប់ចុងលិច",
+    "kh_name": "bzm¿cMkarekAs‘UbnÞb´cuglic",
+    "id": "0002"
+  },
+  {
+    "name": "ឃ្លាំងឧស្សាហ៍កម្ម",
+    "kh_name": "XøaMg«sßah_kmμ",
+    "id": "0129"
+  },
+  {
+    "name": "ឃ្លាំងឧស្សាហ៍កម្ម",
+    "kh_name": "XøaMg«sßah_kmμ",
+    "id": "0130"
+  },
+  {
+    "name": "សាលាចំការកៅស៊ូបន្ទប់កណ្ដាល",
+    "kh_name": "salacMkarekAs‘UbnÞb´kNþal",
+    "id": "0131"
+  },
+  {
+    "name": "បឋមសិក្សាហ៊ុនសែនឃ្លាំងលើ",
+    "kh_name": "bzmsikßah‘unEsnXøaMgelI",
+    "id": "0003"
+  },
+  {
+    "name": "បឋមសិក្សាហ៊ុនសែនឃ្លាំងលើ",
+    "kh_name": "bzmsikßah‘unEsnXøaMgelI",
+    "id": "0004"
+  },
+  {
+    "name": "បឋមសិក្សាហ៊ុនសែនឃ្លាំងលើ",
+    "kh_name": "bzmsikßah‘unEsnXøaMgelI",
+    "id": "0186"
+  },
+  {
+    "name": "បឋមសិក្សាហ៊ុនសែនឃ្លាំងលើ",
+    "kh_name": "bzmsikßah‘unEsnXøaMgelI",
+    "id": "0005"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាសាគូរ៉ា",
+    "kh_name": "salabzmsikßasaKUr¨a",
+    "id": "0006"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាសាគូរ៉ា",
+    "kh_name": "salabzmsikßasaKUr¨a",
+    "id": "0007"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាសាគូរ៉ា",
+    "kh_name": "salabzmsikßasaKUr¨a",
+    "id": "0008"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាសាគូរ៉ា",
+    "kh_name": "salabzmsikßasaKUr¨a",
+    "id": "0132"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាសាគូរ៉ា",
+    "kh_name": "salabzmsikßasaKUr¨a",
+    "id": "0134"
+  },
+  {
+    "name": "សាលាបឋមសិក្សា សាគូរ៉ា",
+    "kh_name": "salabzmsikßa saKUr¨a",
+    "id": "0135"
+  },
+  {
+    "name": "សាលាបឋមសិក្សា សាគូរ៉ា",
+    "kh_name": "salabzmsikßa saKUr¨a",
+    "id": "0160"
+  },
+  {
+    "name": "សាលាបឋមសិក្សា សាគូរ៉ា",
+    "kh_name": "salabzmsikßa saKUr¨a",
+    "id": "0136"
+  },
+  {
+    "name": "បឋម។ ជាសីុម អាគារខាងលិច",
+    "kh_name": "bzm¿ CasIum GaKarxaglic",
+    "id": "0009"
+  },
+  {
+    "name": "បឋម។ ជាសីុម អាគារខាងលិច",
+    "kh_name": "bzm¿ CasIum GaKarxaglic",
+    "id": "0187"
+  },
+  {
+    "name": "បឋម។ ជាសីុម អាគារខាងជើង",
+    "kh_name": "bzm¿ CasIum GaKarxageCIg",
+    "id": "0010"
+  },
+  {
+    "name": "សាលាចិនកាង ហ៊ួ អាគារខាងលិច",
+    "kh_name": "salacinkag h‘Y GaKarxaglic",
+    "id": "0011"
+  },
+  {
+    "name": "សាលាចិនកាង ហ៊ួរអាគារជើង",
+    "kh_name": "salacinkag h‘YrGaKareCIg",
+    "id": "0137"
+  },
+  {
+    "name": "មហោស្រពក្រុងព្រះសីហនុ",
+    "kh_name": "mehaRsBRkugRB¼sIhnu",
+    "id": "0012"
+  },
+  {
+    "name": "បឋមសិក្សាផ្សារលើអាគារ២ជាន់",
+    "kh_name": "bzmsikßapßarelIGaKar2Can´",
+    "id": "0013"
+  },
+  {
+    "name": "បឋមសិក្សាផ្សារលើអាគារ២ជាន់",
+    "kh_name": "bzmsikßapßarelIGaKar2Can´",
+    "id": "0161"
+  },
+  {
+    "name": "សាលាមត្ដេយ្យក្រុង",
+    "kh_name": "salametþyüRkug",
+    "id": "0014"
+  },
+  {
+    "name": "សាលាមត្ដេយ្យក្រុង",
+    "kh_name": "salametþyüRkug",
+    "id": "0015"
+  },
+  {
+    "name": "សាលាផ្សារលើអាគារខាងជើង",
+    "kh_name": "salapßarelIGaKarxageCIg",
+    "id": "0016"
+  },
+  {
+    "name": "សាលារៀនផ្សារលើអាគារខាងត្បូង",
+    "kh_name": "salaeronpßarelIGaKarxagt,Úg",
+    "id": "0138"
+  },
+  {
+    "name": "វេទិកា ៧មករា",
+    "kh_name": "evTika 7mkra",
+    "id": "0188"
+  },
+  {
+    "name": "ដីទំនេរមុខផ្ទះលោក ប្រាក់ ផល្លា",
+    "kh_name": "dITMenrmuxpÞ¼elak Rák´ pløa",
+    "id": "0023"
+  },
+  {
+    "name": "ស្ថានីយ៍រថភ្លើងខាងកើត",
+    "kh_name": "sSanIy_rfePøIgxagekIt",
+    "id": "0024"
+  },
+  {
+    "name": "បឋម។បូរីកម្មករអាគារខាងជើង",
+    "kh_name": "bzm¿bUrIkmμkrGaKarxageCIg",
+    "id": "0025"
+  },
+  {
+    "name": "ដីទំនេរផ្ទះលោក សួន នីម",
+    "kh_name": "dITMenrpÞ¼elak sYn nIm",
+    "id": "0026"
+  },
+  {
+    "name": "ការិយាល័យឧត្ដុនិយម",
+    "kh_name": "kariyal&y«tþúniym",
+    "id": "0143"
+  },
+  {
+    "name": "ការិយាល័យឧត្ដុនិយម",
+    "kh_name": "kariyal&y«tþúniym",
+    "id": "0189"
+  },
+  {
+    "name": "ស្ថានីយ៍រថភ្លើងខាងលិច",
+    "kh_name": "sSanIy_rfePøIgxaglic",
+    "id": "0144"
+  },
+  {
+    "name": "ស្នាក់ការកំពង់ផែស្វយ័ត (អូរទូក)",
+    "kh_name": "sñak´karkMBg´EpsVy&t (GUrTUk)",
+    "id": "0145"
+  },
+  {
+    "name": "ស្ថានីយ៍រថភ្លើងខាងកើត",
+    "kh_name": "sSanIy_rfePøIgxagekIt",
+    "id": "0169"
+  },
+  {
+    "name": "ដីទំនេរក្បែរផ្ទះលោក ឆេង ឆេ",
+    "kh_name": "dITMenrEk,rpÞ¼elak eqg eq",
+    "id": "0032"
+  },
+  {
+    "name": "ផ្ទះលោក តេង ឡាយ",
+    "kh_name": "pÞ¼elak etg TLay",
+    "id": "0034"
+  },
+  {
+    "name": "ផ្ទះលោក តេង ឡាយ",
+    "kh_name": "pÞ¼elak etg TLay",
+    "id": "0035"
+  },
+  {
+    "name": "ផ្ទះលោក ចាន់ សុខុម",
+    "kh_name": "pÞ¼elak can´ suxum",
+    "id": "0036"
+  },
+  {
+    "name": "ផ្ទះលោក ចាន់ សុខុម",
+    "kh_name": "pÞ¼elak can´ suxum",
+    "id": "0037"
+  },
+  {
+    "name": "ផ្ទះលោកស្រី លី គុន",
+    "kh_name": "pÞ¼elakRsI lI Kun",
+    "id": "0146"
+  },
+  {
+    "name": "ផ្ទះលោក  ស៊ុន អាន",
+    "kh_name": "pÞ¼elak  s‘un Gan",
+    "id": "0147"
+  },
+  {
+    "name": "ផ្ទះលោក ចុង សុខ",
+    "kh_name": "pÞ¼elak cug sux",
+    "id": "0038"
+  },
+  {
+    "name": "ផ្ទះលោក មីុ ម៉ានី",
+    "kh_name": "pÞ¼elak mIu m¨anI",
+    "id": "0039"
+  },
+  {
+    "name": "ដីទំនេរក្បែរផ្ទះលោក ប៉ែន ជឿន",
+    "kh_name": "dITMenrEk,rpÞ¼elak Eb¨n eCOn",
+    "id": "0040"
+  },
+  {
+    "name": "ដីទំនេរក្បែរផ្ទះលោក ប៉ែន ជឿន",
+    "kh_name": "dITMenrEk,rpÞ¼elak Eb¨n eCOn",
+    "id": "0174"
+  },
+  {
+    "name": "ដីទំនេរក្បែរផ្ទះលោក សាន បូរៈ",
+    "kh_name": "dITMenrEk,rpÞ¼elak san bUr£",
+    "id": "0041"
+  },
+  {
+    "name": "ដីទំនេរក្បែរផ្ទះលោក ហួត ផុន",
+    "kh_name": "dITMenrEk,rpÞ¼elak hYt pun",
+    "id": "0166"
+  },
+  {
+    "name": "ផ្ទះលោក ដាន សុវ៉ាន",
+    "kh_name": "pÞ¼elak dan suv¨an",
+    "id": "0042"
+  },
+  {
+    "name": "ដីទំនេរក្បែរផ្ទះលោក ពៅ សោ",
+    "kh_name": "dITMenrEk,rpÞ¼elak eBA esa",
+    "id": "0043"
+  },
+  {
+    "name": "បឋមសិក្សាកម្មករអាគារខាងត្បូង",
+    "kh_name": "bzmsikßakmμkrGaKarxagt,Úg",
+    "id": "0029"
+  },
+  {
+    "name": "បឋមសិក្សា កម្មករ",
+    "kh_name": "bzmsikßa kmμkr",
+    "id": "0176"
+  },
+  {
+    "name": "បឋមសិក្សា កម្មករ",
+    "kh_name": "bzmsikßa kmμkr",
+    "id": "0192"
+  },
+  {
+    "name": "បឋមសិក្សាហ៊ុន សែន មិត្ដភាព",
+    "kh_name": "bzmsikßahu‘n Esn mitþPaB",
+    "id": "0030"
+  },
+  {
+    "name": "បឋមសិក្សាហ៊ុន សែន មិត្ដភាព",
+    "kh_name": "bzmsikßahu‘n Esn mitþPaB",
+    "id": "0173"
+  },
+  {
+    "name": "ដីទំនេរក្បែរផ្ទះលោក គួក",
+    "kh_name": "dITMenrEk,rpÞ¼elak KYk",
+    "id": "0031"
+  },
+  {
+    "name": "ដីទំនេរក្បែរផ្ទះលោក គួក",
+    "kh_name": "dITMenrEk,rpÞ¼elak KYk",
+    "id": "0190"
+  },
+  {
+    "name": "ផ្ទះលោក គួក",
+    "kh_name": "pÞ¼elak KYk",
+    "id": "0163"
+  },
+  {
+    "name": "មន្ទីរកសិកម្ម",
+    "kh_name": "mnÞIrksikmμ",
+    "id": "0033"
+  },
+  {
+    "name": "ផ្ទះលោក វ៉ា ទ្រី",
+    "kh_name": "pÞ¼elak v¨a RTI",
+    "id": "0162"
+  },
+  {
+    "name": "ផ្ទះលោក វ៉ា ទ្រី",
+    "kh_name": "pÞ¼elak v¨a RTI",
+    "id": "0191"
+  },
+  {
+    "name": "បឋមសិក្សាអូរត្រេះចាស់",
+    "kh_name": "bzmsikßaGUreRt¼cas´",
+    "id": "0148"
+  },
+  {
+    "name": "សាលាដើមថ្កូវ បន្ទប់ខាងកើត",
+    "kh_name": "salaedImf;Úv bnÞb´xagekIt",
+    "id": "0027"
+  },
+  {
+    "name": "សាលាដើមថ្កូវ បន្ទប់ខាងកើត",
+    "kh_name": "salaedImf;Úv bnÞb´xagekIt",
+    "id": "0167"
+  },
+  {
+    "name": "សាលាដើមថ្កូវ បន្ទប់ខាងលិច",
+    "kh_name": "salaedImf;Úv bnÞb´xaglic",
+    "id": "0028"
+  },
+  {
+    "name": "សាលាអណ្ដូងថ្ម ខាងត្បូង",
+    "kh_name": "salaGNþÚgfμ xagt,Úg",
+    "id": "0045"
+  },
+  {
+    "name": "សាលាអណ្ដូងថ្ម ខាងជើង",
+    "kh_name": "salaGNþÚgfμ xageCIg",
+    "id": "0046"
+  },
+  {
+    "name": "សាលារៀនជនជាតិខាងត្បូង",
+    "kh_name": "salaeronCnCatixagt,Úg",
+    "id": "0149"
+  },
+  {
+    "name": "សាលារៀនជនជាតិខាងជើង",
+    "kh_name": "salaeronCnCatixageCIg",
+    "id": "0047"
+  },
+  {
+    "name": "វត្ដមុន្នីសាលាព្រឹក្សា(សាលាឆាន់)",
+    "kh_name": "vtþmunñIsalaRBwkßa(salaqan´)",
+    "id": "0048"
+  },
+  {
+    "name": "វត្ដគីរីបឹងជុំ (ភ្នំតូច)",
+    "kh_name": "vtþKIrIbwgCuM (PñMtUc)",
+    "id": "0049"
+  },
+  {
+    "name": "សារ៉ាវបឹងតាស្រី",
+    "kh_name": "sar¨avbwgtaRsI",
+    "id": "0050"
+  },
+  {
+    "name": "សាលារៀនបឹងតាព្រហ្ម",
+    "kh_name": "salaeronbwgtaRBhμ",
+    "id": "0051"
+  },
+  {
+    "name": "សាលារៀនបឹងតាព្រហ្ម",
+    "kh_name": "salaeronbwgtaRBhμ",
+    "id": "0170"
+  },
+  {
+    "name": "សារ៉ាវជនជាតិដូនលយ",
+    "kh_name": "sar¨avCnCatidUnly",
+    "id": "0052"
+  },
+  {
+    "name": "សារ៉ាវជនជាតិទឹកចេញ",
+    "kh_name": "sar¨avCnCatiTwkecj",
+    "id": "0053"
+  },
+  {
+    "name": "ដីទំនេរក្បែរផ្ទះលោក គឹម ទី",
+    "kh_name": "dITMenrEk,rpÞ¼elak Kwm TI",
+    "id": "0054"
+  },
+  {
+    "name": "ដីទំនេរក្បែរផ្ទះលោក គឹម ទី",
+    "kh_name": "dITMenrEk,rpÞ¼elak Kwm TI",
+    "id": "0177"
+  },
+  {
+    "name": "ដីទំនេរក្បែរផ្ទះលោក តៅ ហ៊ាង",
+    "kh_name": "dITMenrEk,rpÞ¼elak etA h‘ag",
+    "id": "0055"
+  },
+  {
+    "name": "បឋមសិក្សាបិតត្រាំងបន្ទប់ខាងកើត",
+    "kh_name": "bzmsikßabitRtaMgbnÞb´xagekIt",
+    "id": "0056"
+  },
+  {
+    "name": "បឋមសិក្សាបិតត្រាំងបន្ទប់ខាងកើត",
+    "kh_name": "bzmsikßabitRtaMgbnÞb´xagekIt",
+    "id": "0175"
+  },
+  {
+    "name": "សាលាបិតត្រាំង បន្ទប់ខាងលិច",
+    "kh_name": "salabitRtaMg bnÞb´xaglic",
+    "id": "0057"
+  },
+  {
+    "name": "សាលារៀនត្រពាំងគារបន្ទប់ត្បូង",
+    "kh_name": "salaeronRtBaMgKarbnÞb´t,Úg",
+    "id": "0058"
+  },
+  {
+    "name": "សាលារៀនត្រពាំងគារបន្ទប់ខាងជើង",
+    "kh_name": "salaeronRtBaMgKarbnÞb´xageCIg",
+    "id": "0059"
+  },
+  {
+    "name": "ដីទំនេរផ្ទះលោក ឡោក រ៉ាវុធ",
+    "kh_name": "dITMenrpÞ¼elak eTLak r¨avuF",
+    "id": "0060"
+  },
+  {
+    "name": "ដីទំនេរផ្ទះលោក ឡោក រ៉ាវុធ",
+    "kh_name": "dITMenrpÞ¼elak eTLak r¨avuF",
+    "id": "0178"
+  },
+  {
+    "name": "សាលាជើងគោអាគារខាងលិច",
+    "kh_name": "salaeCIgeKaGaKarxaglic",
+    "id": "0061"
+  },
+  {
+    "name": "សាលាជើងគោអាគារខាងកើត",
+    "kh_name": "salaeCIgeKaGaKarxagekIt",
+    "id": "0062"
+  },
+  {
+    "name": "សាលាហ៊ុនសែនតានៃអាគារលិច",
+    "kh_name": "salah‘unEsntaénGaKarlic",
+    "id": "0063"
+  },
+  {
+    "name": "សាលាហ៊ុនសែនតានៃអាគារលិច",
+    "kh_name": "salah‘unEsntaénGaKarlic",
+    "id": "0179"
+  },
+  {
+    "name": "សាលាដូងប្រេងបន្ទប់ខាងលិច",
+    "kh_name": "saladUgeRbgbnÞb´xaglic",
+    "id": "0126"
+  },
+  {
+    "name": "សាលាដូងប្រេងបន្ទប់ខាងកើត",
+    "kh_name": "saladUgeRbgbnÞb´xagekIt",
+    "id": "0127"
+  },
+  {
+    "name": "សាលាតានៃអាគារខាងត្បូង",
+    "kh_name": "salataénGaKarxagt,Úg",
+    "id": "0128"
+  },
+  {
+    "name": "សាលាតានៃអាគារខាងត្បូង",
+    "kh_name": "salataénGaKarxagt,Úg",
+    "id": "0171"
+  },
+  {
+    "name": "សាលាអូរជ្រៅ អាគារខាងជើង",
+    "kh_name": "salaGUreRCA GaKarxageCIg",
+    "id": "0064"
+  },
+  {
+    "name": "សារ៉ាវអូរជ្រៅ",
+    "kh_name": "sar¨avGUreRCA",
+    "id": "0065"
+  },
+  {
+    "name": "សារ៉ាវស្រែចាមក្នុង",
+    "kh_name": "sar¨avERscamkñúg",
+    "id": "0066"
+  },
+  {
+    "name": "បឋមសិក្សា កោះខ្យង អាគារលិច",
+    "kh_name": "bzmsikßa eka¼xüg GaKarlic",
+    "id": "0067"
+  },
+  {
+    "name": "បឋមសិក្សា កោះខ្យងអាគារកើត",
+    "kh_name": "bzmsikßa eka¼xügGaKarekIt",
+    "id": "0068"
+  },
+  {
+    "name": "បឋមសិក្សា កោះខ្យងអាគារកើត",
+    "kh_name": "bzmsikßa eka¼xügGaKarekIt",
+    "id": "0180"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាអូរតាសេក",
+    "kh_name": "salabzmsikßaGUrtaesk",
+    "id": "0069"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាអូរតាសេក",
+    "kh_name": "salabzmsikßaGUrtaesk",
+    "id": "0172"
+  },
+  {
+    "name": "ដីទំនេរក្បែរចំការលោក សៀ",
+    "kh_name": "dITMenrEk,rcMkarelak eso",
+    "id": "0150"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាអូរចំណារ",
+    "kh_name": "salabzmsikßaGUrcMNar",
+    "id": "0070"
+  },
+  {
+    "name": "វត្ដអូរចំណារ",
+    "kh_name": "vtþGUrcMNar",
+    "id": "0071"
+  },
+  {
+    "name": "ដីទំនេរក្បែររោងចក្រផ្ដៅ",
+    "kh_name": "dITMenrEk,reragcRkepþA",
+    "id": "0072"
+  },
+  {
+    "name": "ទីលានបោកស្រូវអូរតាប៉ាង",
+    "kh_name": "TIlaneákRsUvGUrtaá¨g",
+    "id": "0073"
+  },
+  {
+    "name": "វត្ដភ្នំពេជ្រ",
+    "kh_name": "vtþPñMeBRC",
+    "id": "0074"
+  },
+  {
+    "name": "បឋមសិក្សាព្រៃនប់អាគារខាងជើង",
+    "kh_name": "bzmsikßaéRBnb´GaKarxageCIg",
+    "id": "0075"
+  },
+  {
+    "id": "0076",
+    "name": "សាលាព្រៃនប់ អាគារខាងត្បូង",
+    "kh_name": "salaéRBnb´ GaKarxagt,Úg"
+  },
+  {
+    "id": "0077",
+    "name": "សាលាព្រៃនប់ អាគារខាងត្បូង",
+    "kh_name": "salaéRBnb´ GaKarxagt,Úg"
+  },
+  {
+    "id": "0193",
+    "name": "បណ្ណាល័យ វត្ដ ព្រៃនប់",
+    "kh_name": "bNÑal&y vtþ éRBnb´"
+  },
+  {
+    "id": "0078",
+    "name": "សាលាបាលី ក្នុងវត្ដព្រៃនប់",
+    "kh_name": "salaálI kñúgvtþéRBnb´"
+  },
+  {
+    "id": "0079",
+    "name": "សាលារៀនបត់សិរមាន់អាគារជើង",
+    "kh_name": "salaeronbt´sirman´GaKareCIg"
+  },
+  {
+    "name": "បឋមសិក្សាទៀវិញ បន្ទប់ខាងជើង",
+    "kh_name": "bzmsikßaeTovij bnÞb´xageCIg",
+    "id": "0080"
+  },
+  {
+    "name": "សាលាយេស៊ូ",
+    "kh_name": "salaeys‘U",
+    "id": "0081"
+  },
+  {
+    "name": "សាលា ទៀ វិញ បន្ទប់ខាងត្បូង",
+    "kh_name": "sala eTo vij bnÞb´xagt,Úg",
+    "id": "0082"
+  },
+  {
+    "name": "សាលា អ៊ុំ សំខាន់",
+    "kh_name": "sala G‘Mu sMxan´",
+    "id": "0083"
+  },
+  {
+    "name": "ដីទំនេរក្បែរផ្ទះលោក ហួន ជាវ",
+    "kh_name": "dITMenrEk,rpÞ¼elak hYn Cav",
+    "id": "0084"
+  },
+  {
+    "name": "សាលាស្មាច់ដែង អាគារខាងលិច",
+    "kh_name": "salasμac´Edg GaKarxaglic",
+    "id": "0085"
+  },
+  {
+    "name": "សាលាស្មាច់ដែងអាគារកណ្ដាល",
+    "kh_name": "salasμac´EdgGaKarkNþal",
+    "id": "0086"
+  },
+  {
+    "name": "វត្ដស្មាច់ដែង (សាលាឆាន់)",
+    "kh_name": "vtþsμac´Edg (salaqan´)",
+    "id": "0087"
+  },
+  {
+    "name": "សាលាស្មាច់ដែងអាគារឈើ",
+    "kh_name": "salasμac´EdgGaKareQI",
+    "id": "0088"
+  },
+  {
+    "name": "ដីទំនេរមុខវត្ដ",
+    "kh_name": "dITMenrmuxvtþ",
+    "id": "0152"
+  },
+  {
+    "name": "បឋមសិក្សាសាមគ្គីអាគារខាងកើត",
+    "kh_name": "bzmsikßasamK:IGaKarxagekIt",
+    "id": "0089"
+  },
+  {
+    "name": "បឋមសិក្សា សាមគ្គីអាគារខាងត្បូង",
+    "kh_name": "bzmsikßa samK:IGaKarxagt,Úg",
+    "id": "0090"
+  },
+  {
+    "name": "បឋមសិក្សា សាមគ្គីអាគារខាងត្បូង",
+    "kh_name": "bzmsikßa samK:IGaKarxagt,Úg",
+    "id": "0181"
+  },
+  {
+    "name": "បឋមសិក្សា ព្រែកក្រាញ់",
+    "kh_name": "bzmsikßa ERBkRkaj´",
+    "id": "0153"
+  },
+  {
+    "name": "បឋមសិក្សា ព្រែកក្រាញ់",
+    "kh_name": "bzmsikßa ERBkRkaj´",
+    "id": "0182"
+  },
+  {
+    "name": "សាលាសំរុង អាគារខាងត្បូង",
+    "kh_name": "salasMrug GaKarxagt,Úg",
+    "id": "0091"
+  },
+  {
+    "name": "សាលាសំរុង អាគារខាងជើង",
+    "kh_name": "salasMrug GaKarxageCIg",
+    "id": "0092"
+  },
+  {
+    "name": "គិលានដ្ឋានចាស់",
+    "kh_name": "Kilandæancas´",
+    "id": "0093"
+  },
+  {
+    "name": "បឋមសិក្សាសំរុង អាគារខាងលិច",
+    "kh_name": "bzmsikßasMrug GaKarxaglic",
+    "id": "0094"
+  },
+  {
+    "name": "វត្ដសំរុង",
+    "kh_name": "vtþsMrug",
+    "id": "0095"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាកំពង់ស្មាច់តូច",
+    "kh_name": "salabzmsikßakMBg´sμac´tUc",
+    "id": "0096"
+  },
+  {
+    "name": "បឋមសិក្សាទួលកែវ អាគារលិច",
+    "kh_name": "bzmsikßaTYlEkv GaKarlic",
+    "id": "0097"
+  },
+  {
+    "name": "បឋមសិក្សាទួលកែវ អាគារកើត",
+    "kh_name": "bzmsikßaTYlEkv GaKarekIt",
+    "id": "0098"
+  },
+  {
+    "name": "បឋមសិក្សាទួលកែវ អាគារកើត",
+    "kh_name": "bzmsikßaTYlEkv GaKarekIt",
+    "id": "0164"
+  },
+  {
+    "name": "ដីទំនេរកណ្ដាលភូមិជ្រលង",
+    "kh_name": "dITMenrkNþalPUmiRClg",
+    "id": "0154"
+  },
+  {
+    "name": "សារ៉ាវជនជាតិ ព្រែកទាល់",
+    "kh_name": "sar¨avCnCati ERBkTal´",
+    "id": "0099"
+  },
+  {
+    "name": "សាលារៀនព្រែកសង្កែ",
+    "kh_name": "salaeronERBksEg;",
+    "id": "0100"
+  },
+  {
+    "name": "សាលារៀនព្រែកប្រស់",
+    "kh_name": "salaeronERBkRbs´",
+    "id": "0101"
+  },
+  {
+    "name": "ដីទំនេរក្បែរផ្ទះលោក ចាន់មិុច",
+    "kh_name": "dITMenrEk,rpÞ¼elak can´miuc",
+    "id": "0155"
+  },
+  {
+    "name": "សាលារៀនកំពង់ចិន",
+    "kh_name": "salaeronkMBg´cin",
+    "id": "0102"
+  },
+  {
+    "name": "បឋមសិក្សា ទួលទទឹងខាងជើង",
+    "kh_name": "bzmsikßa TYlTTwgxageCIg",
+    "id": "0156"
+  },
+  {
+    "name": "បឋមសិក្សា ទួលទទឹងអាគារកើត",
+    "kh_name": "bzmsikßa TYlTTwgGaKarekIt",
+    "id": "0103"
+  },
+  {
+    "name": "បឋមសិក្សាទួលទទឹងអាគារលិច",
+    "kh_name": "bzmsikßaTYlTTwgGaKarlic",
+    "id": "0104"
+  },
+  {
+    "name": "បឋមសិក្សាទួលទទឹងអាគារត្បូង",
+    "kh_name": "bzmsikßaTYlTTwgGaKart,Úg",
+    "id": "0105"
+  },
+  {
+    "name": "បឋមសិក្សាទួលទទឹងអាគារត្បូង",
+    "kh_name": "bzmsikßaTYlTTwgGaKart,Úg",
+    "id": "0183"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាវាលមាស",
+    "kh_name": "salabzmsikßavalmas",
+    "id": "0106"
+  },
+  {
+    "name": "វិទ្យាល័យហ៊ុនសែនវាលរេញ",
+    "kh_name": "viTüal&yh‘unEsnvalerj",
+    "id": "0107"
+  },
+  {
+    "name": "វិទ្យាល័យហ៊ុនសែនវាលរេញ",
+    "kh_name": "viTüal&yh‘unEsnvalerj",
+    "id": "0108"
+  },
+  {
+    "name": "វិទ្យាល័យហ៊ុនសែនវាលរេញ",
+    "kh_name": "viTüal&yh‘unEsnvalerj",
+    "id": "0184"
+  },
+  {
+    "name": "បឋមសិក្សាវាលមាស",
+    "kh_name": "bzmsikßavalmas",
+    "id": "0109"
+  },
+  {
+    "name": "បឋមសិក្សាវាលមាស",
+    "kh_name": "bzmsikßavalmas",
+    "id": "0110"
+  },
+  {
+    "id": "0111",
+    "name": "វត្ដព្រហ្មកិត្យារាម",
+    "kh_name": "vtþRBhμkitüaram"
+  },
+  {
+    "id": "0112",
+    "name": "វិទ្យាល័យ ហ៊ុនសែនវាលរេញ",
+    "kh_name": "viTüal&y h‘unEsnvalerj"
+  },
+  {
+    "name": "សាលាបឋមសិក្សាកំពេញថ្មី",
+    "kh_name": "salabzmsikßakMeBjfμI",
+    "id": "0114"
+  },
+  {
+    "name": "វត្ដពោធិមានជ័យ",
+    "kh_name": "vtþeBaFimanC&y",
+    "id": "0115"
+  },
+  {
+    "name": "ផ្សារស្ទឹងហាវ អាគារ ព",
+    "kh_name": "pßarsÞwghav GaKar B",
+    "id": "0118"
+  },
+  {
+    "name": "ដីទំនេរក្បែរផ្ទះលោក តូច ផន",
+    "kh_name": "dITMenrEk,rpÞ¼elak tUc pn",
+    "id": "0119"
+  },
+  {
+    "name": "ដីទំនេរក្បែរផ្ទះលោក សាំង លាន",
+    "kh_name": "dITMenrEk,rpÞ¼elak saMg lan",
+    "id": "0120"
+  },
+  {
+    "name": "ដីទំនេរក្បែរផ្ទះលោក សាំង លាន",
+    "kh_name": "dITMenrEk,rpÞ¼elak saMg lan",
+    "id": "0168"
+  },
+  {
+    "name": "ដីទំនេរក្បែរផ្ទះលោក ទី ចេងគង់",
+    "kh_name": "dITMenrEk,rpÞ¼elak TI ecgKg´",
+    "id": "0121"
+  },
+  {
+    "name": "បឋម។ទំនប់រលកអាគារខាងជើង",
+    "kh_name": "bzm¿TMnb´rlkGaKarxageCIg",
+    "id": "0122"
+  },
+  {
+    "name": "បឋម។ទំនប់រលកអាគារខាងត្បូង",
+    "kh_name": "bzm¿TMnb´rlkGaKarxagt,Úg",
+    "id": "0123"
+  }
+]

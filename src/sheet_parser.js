@@ -156,9 +156,6 @@ SheetParser.prototype = {
 
       if(values.length > 0) {
         var station = this.getStation(values);
-        if (station.name == "កែប") {
-          console.log(values);
-        }
         this._stations.push(station);
       }
     }

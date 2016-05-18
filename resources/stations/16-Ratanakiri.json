@@ -1,0 +1,697 @@
+﻿[
+  {
+    "name": "ភូមិសោម",
+    "kh_name": "PUmiesam",
+    "id": "0001"
+  },
+  {
+    "name": "ភូមិកាតែ",
+    "kh_name": "PUmikaEt",
+    "id": "0002"
+  },
+  {
+    "name": "ភូមិកែត",
+    "kh_name": "PUmiEkt",
+    "id": "0003"
+  },
+  {
+    "name": "ភូមិកែត",
+    "kh_name": "PUmiEkt",
+    "id": "0116"
+  },
+  {
+    "name": "ភូមិដាល",
+    "kh_name": "PUmidal",
+    "id": "0100"
+  },
+  {
+    "name": "ភូមិញ៉ាង",
+    "kh_name": "PUmij¨ag",
+    "id": "0004"
+  },
+  {
+    "name": "ភូមិកាជូត",
+    "kh_name": "PUmikaCUt",
+    "id": "0005"
+  },
+  {
+    "name": "ភូមិមួយ",
+    "kh_name": "PUmimYy",
+    "id": "0006"
+  },
+  {
+    "name": "ភូមិចង",
+    "kh_name": "PUmicg",
+    "id": "0007"
+  },
+  {
+    "name": "ភូមិកាណាត",
+    "kh_name": "PUmikaNat",
+    "id": "0008"
+  },
+  {
+    "name": "សាលារៀនភូមិតាឡាវ",
+    "kh_name": "salaeronPUmitaTLav",
+    "id": "0009"
+  },
+  {
+    "name": "ភូមិ១",
+    "kh_name": "PUmi1",
+    "id": "0010"
+  },
+  {
+    "name": "ភូមិ១",
+    "kh_name": "PUmi1",
+    "id": "0129"
+  },
+  {
+    "name": "ភូមិ២",
+    "kh_name": "PUmi2",
+    "id": "0011"
+  },
+  {
+    "name": "ភូមិ២",
+    "kh_name": "PUmi2",
+    "id": "0111"
+  },
+  {
+    "name": "ភូមិ២",
+    "kh_name": "PUmi2",
+    "id": "0136"
+  },
+  {
+    "name": "ភូមិ៣",
+    "kh_name": "PUmi3",
+    "id": "0012"
+  },
+  {
+    "name": "ភូមិ៤",
+    "kh_name": "PUmi4",
+    "id": "0013"
+  },
+  {
+    "name": "បឋមសិក្សា ឡាបានសៀក",
+    "kh_name": "bzmsikßa TLaánesok",
+    "id": "0101"
+  },
+  {
+    "name": "បឋមសិក្សា ឡាបានសៀក",
+    "kh_name": "bzmsikßa TLaánesok",
+    "id": "0014"
+  },
+  {
+    "name": "មន្ទីរវប្បធម៌ខេត្ដ",
+    "kh_name": "mnÞIrvb,Fm’extþ",
+    "id": "0015"
+  },
+  {
+    "name": "សាលាសម្ដេចក្រុមព្រះ",
+    "kh_name": "salasemþcRkumRB¼",
+    "id": "0102"
+  },
+  {
+    "name": "សាលាសម្ដេចក្រុមព្រះ",
+    "kh_name": "salasemþcRkumRB¼",
+    "id": "0016"
+  },
+  {
+    "name": "បឋមសិក្សា ប៊ូ ថង",
+    "kh_name": "bzmsikßa b‘U fg",
+    "id": "0103"
+  },
+  {
+    "name": "បឋមសិក្សា ប៊ូ ថង",
+    "kh_name": "bzmsikßa b‘U fg",
+    "id": "0017"
+  },
+  {
+    "name": "មន្ទីរសង្គមកិច្ចខេត្ដ",
+    "kh_name": "mnÞIrsg:mkic©extþ",
+    "id": "0018"
+  },
+  {
+    "name": "សាលាហ៊ុនសែនភូមិថ្មី",
+    "kh_name": "salah‘unEsnPUmifμI",
+    "id": "0019"
+  },
+  {
+    "name": "វិទ្យាល័យសម្ដេចឪសម្ដេចម៉ែ",
+    "kh_name": "viTüal&ysemþc]semþcEm¨",
+    "id": "0020"
+  },
+  {
+    "name": "វិទ្យាល័យសម្ដេចឪសម្ដេចម៉ែ",
+    "kh_name": "viTüal&ysemþc]semþcEm¨",
+    "id": "0112"
+  },
+  {
+    "name": "វិទ្យាល័យសម្ដេចឪសម្ដេចម៉ែ",
+    "kh_name": "viTüal&ysemþc]semþcEm¨",
+    "id": "0117"
+  },
+  {
+    "name": "ភូមិឡូន",
+    "kh_name": "PUmiTLÚn",
+    "id": "0021"
+  },
+  {
+    "name": "ភូមិឡាប៉ូ",
+    "kh_name": "PUmiTLabU¨",
+    "id": "0022"
+  },
+  {
+    "name": "ភូមិសិល",
+    "kh_name": "PUmisil",
+    "id": "0023"
+  },
+  {
+    "name": "ភូមិលើតូច",
+    "kh_name": "PUmielItUc",
+    "id": "0024"
+  },
+  {
+    "name": "ភូមិយឺន",
+    "kh_name": "PUmiyWn",
+    "id": "0025"
+  },
+  {
+    "name": "ភូមិលើយួន",
+    "kh_name": "PUmielIyYn",
+    "id": "0026"
+  },
+  {
+    "name": "ភូមិលើយួន",
+    "kh_name": "PUmielIyYn",
+    "id": "0132"
+  },
+  {
+    "name": "សាលារៀន",
+    "kh_name": "salaeron",
+    "id": "0027"
+  },
+  {
+    "name": "ទីរួមស្រុក",
+    "kh_name": "TIrYmRsuk",
+    "id": "0028"
+  },
+  {
+    "id": "0138",
+    "name": "ភូមិមួយ",
+    "kh_name": "PUmimYy"
+  },
+  {
+    "name": "ភូមិលុងឃុង",
+    "kh_name": "PUmilugXug",
+    "id": "0104"
+  },
+  {
+    "name": "ភូមិលុងឃុង",
+    "kh_name": "PUmilugXug",
+    "id": "0030"
+  },
+  {
+    "name": "ភូមិប៉ាអរ",
+    "kh_name": "PUmiá¨Gr",
+    "id": "0031"
+  },
+  {
+    "name": "ភូមិចែត",
+    "kh_name": "PUmiEct",
+    "id": "0105"
+  },
+  {
+    "name": "ភូមិសើុង",
+    "kh_name": "PUmiesIug",
+    "id": "0032"
+  },
+  {
+    "name": "ភូមីសើុង",
+    "kh_name": "PUmIesIug",
+    "id": "0140"
+  },
+  {
+    "name": "ភូមិទូយ",
+    "kh_name": "PUmiTUy",
+    "id": "0033"
+  },
+  {
+    "name": "ភូមិលូត",
+    "kh_name": "PUmilUt",
+    "id": "0034"
+  },
+  {
+    "name": "សាលារៀន",
+    "kh_name": "salaeron",
+    "id": "0035"
+  },
+  {
+    "name": "សាលារៀន",
+    "kh_name": "salaeron",
+    "id": "0119"
+  },
+  {
+    "id": "0036",
+    "name": "សាលារៀន",
+    "kh_name": "salaeron"
+  },
+  {
+    "name": "សាលារៀន",
+    "kh_name": "salaeron",
+    "id": "0037"
+  },
+  {
+    "name": "សាលាឃុំ",
+    "kh_name": "salaXMu",
+    "id": "0121"
+  },
+  {
+    "name": "ភូមិតាអងប៉ុក",
+    "kh_name": "PUmitaGgb¨uk",
+    "id": "0038"
+  },
+  {
+    "name": "សាលារៀន",
+    "kh_name": "salaeron",
+    "id": "0039"
+  },
+  {
+    "name": "សាលារៀនភូមិកាំបាក់",
+    "kh_name": "salaeronPUmikaMák´",
+    "id": "0122"
+  },
+  {
+    "name": "សាលារៀន",
+    "kh_name": "salaeron",
+    "id": "0040"
+  },
+  {
+    "name": "ភូមិត្រពាំងច្រេស១",
+    "kh_name": "PUmiRtBaMgeRcs1",
+    "id": "0041"
+  },
+  {
+    "name": "ភូមិត្រពាំងច្រេស៤",
+    "kh_name": "PUmiRtBaMgeRcs4",
+    "id": "0114"
+  },
+  {
+    "name": "សាលារៀនអូរភ្លង",
+    "kh_name": "salaeronGUrPøg",
+    "id": "0042"
+  },
+  {
+    "name": "សាលារៀនអូរភ្លង",
+    "kh_name": "salaeronGUrPøg",
+    "id": "0141"
+  },
+  {
+    "name": "សាលារៀន",
+    "kh_name": "salaeron",
+    "id": "0043"
+  },
+  {
+    "name": "សាលារៀន",
+    "kh_name": "salaeron",
+    "id": "0130"
+  },
+  {
+    "id": "0106",
+    "name": "វត្ដលំផាត់",
+    "kh_name": "vtþlMpat´"
+  },
+  {
+    "id": "0044",
+    "name": "ភូមិថ្មី",
+    "kh_name": "PUmifμI"
+  },
+  {
+    "id": "0115",
+    "name": "ភូមិស្រែឈូក",
+    "kh_name": "PUmiERsQUk"
+  },
+  {
+    "name": "សាលាឃុំកាឡែង",
+    "kh_name": "salaXMukaETLg",
+    "id": "0046"
+  },
+  {
+    "name": "ភូមិកាឡែងលើ",
+    "kh_name": "PUmikaETLgelI",
+    "id": "0123"
+  },
+  {
+    "name": "ភូមិកាឡែងលើ",
+    "kh_name": "PUmikaETLgelI",
+    "id": "0133"
+  },
+  {
+    "name": "ភូមិកាំផ្លិញ",
+    "kh_name": "PUmikaMpøij",
+    "id": "0047"
+  },
+  {
+    "name": "ភូមិកាំផ្លិញ",
+    "kh_name": "PUmikaMpøij",
+    "id": "0131"
+  },
+  {
+    "name": "សាលារៀនភូមិកាចាញមួយ",
+    "kh_name": "salaeronPUmikacajmYy",
+    "id": "0048"
+  },
+  {
+    "name": "ភូមិព្រួក",
+    "kh_name": "PUmiRBYk",
+    "id": "0108"
+  },
+  {
+    "name": "ភូមិព្រួក",
+    "kh_name": "PUmiRBYk",
+    "id": "0137"
+  },
+  {
+    "name": "ភូមិបាតាង",
+    "kh_name": "PUmiátag",
+    "id": "0049"
+  },
+  {
+    "name": "ភូមិបាតាង",
+    "kh_name": "PUmiátag",
+    "id": "0135"
+  },
+  {
+    "name": "ភូមិថ្មី",
+    "kh_name": "PUmifμI",
+    "id": "0050"
+  },
+  {
+    "name": "សាមុតលើ",
+    "kh_name": "samutelI",
+    "id": "0051"
+  },
+  {
+    "name": "កែងសាន់",
+    "kh_name": "Ekgsan´",
+    "id": "0052"
+  },
+  {
+    "name": "សាមុតក្រោម",
+    "kh_name": "samuteRkam",
+    "id": "0109"
+  },
+  {
+    "name": "សាមុតក្រោម",
+    "kh_name": "samuteRkam",
+    "id": "0053"
+  },
+  {
+    "name": "សាលារៀន",
+    "kh_name": "salaeron",
+    "id": "0054"
+  },
+  {
+    "name": "ភូមិធួយអំពិល",
+    "kh_name": "PUmiFYyGMBil",
+    "id": "0055"
+  },
+  {
+    "name": "ភូមិក្រេះ",
+    "kh_name": "PUmieRk¼",
+    "id": "0056"
+  },
+  {
+    "name": "សាលារៀនឃុំប៉ូយ",
+    "kh_name": "salaeronXMub¨Uy",
+    "id": "0057"
+  },
+  {
+    "name": "ភូមិប៉ាជន់ធំ",
+    "kh_name": "PUmiá¨Cn´FM",
+    "id": "0058"
+  },
+  {
+    "name": "ភូមិក្រូច",
+    "kh_name": "PUmiRkUc",
+    "id": "0059"
+  },
+  {
+    "name": "សាលារៀន",
+    "kh_name": "salaeron",
+    "id": "0060"
+  },
+  {
+    "name": "ភូមិអូរជុំ",
+    "kh_name": "PUmiGUrCMu",
+    "id": "0061"
+  },
+  {
+    "name": "ភូមិអូរជុំ",
+    "kh_name": "PUmiGUrCMu",
+    "id": "0124"
+  },
+  {
+    "name": "ភូមិល្អឺនក្រែន",
+    "kh_name": "PUmilðWnERkn",
+    "id": "0062"
+  },
+  {
+    "name": "ភូមិថារ៉ងស្វាយ",
+    "kh_name": "PUmifar¨gsVay",
+    "id": "0063"
+  },
+  {
+    "name": "ភូមិថារ៉ងស្វាយ",
+    "kh_name": "PUmifar¨gsVay",
+    "id": "0142"
+  },
+  {
+    "name": "សាលារៀន",
+    "kh_name": "salaeron",
+    "id": "0064"
+  },
+  {
+    "name": "ភូមិកាមែន",
+    "kh_name": "PUmikaEmn",
+    "id": "0065"
+  },
+  {
+    "name": "ភូមិកាំ",
+    "kh_name": "PUmikaM",
+    "id": "0066"
+  },
+  {
+    "name": "នៅសាលារៀន",
+    "kh_name": "enAsalaeron",
+    "id": "0067"
+  },
+  {
+    "name": "ភូមិកុកព្នង",
+    "kh_name": "PUmikukBñg",
+    "id": "0068"
+  },
+  {
+    "name": "ភូមិកុកព្នង",
+    "kh_name": "PUmikukBñg",
+    "id": "0134"
+  },
+  {
+    "name": "ភូមិប្លរ",
+    "kh_name": "PUmibør",
+    "id": "0069"
+  },
+  {
+    "name": "សាលារៀនភូមិកាតែ",
+    "kh_name": "salaeronPUmikaEt",
+    "id": "0110"
+  },
+  {
+    "name": "នៅវត្ដ",
+    "kh_name": "enAvtþ",
+    "id": "0070"
+  },
+  {
+    "name": "ភូមិប៉ក់ធំ",
+    "kh_name": "PUmib¨k´FM",
+    "id": "0071"
+  },
+  {
+    "name": "ភូមិប៉ក់តូច",
+    "kh_name": "PUmib¨k´tUc",
+    "id": "0072"
+  },
+  {
+    "name": "ភូមិឡំធំ",
+    "kh_name": "PUmiTLMFM",
+    "id": "0073"
+  },
+  {
+    "name": "ភូមិគងធំ",
+    "kh_name": "PUmiKgFM",
+    "id": "0074"
+  },
+  {
+    "name": "ភូមិប្លង់",
+    "kh_name": "PUmibøg´",
+    "id": "0075"
+  },
+  {
+    "name": "ភូមិប៉ាតាង",
+    "kh_name": "PUmiá¨tag",
+    "id": "0076"
+  },
+  {
+    "name": "ភូមិសោមកានិញ",
+    "kh_name": "PUmiesamkanij",
+    "id": "0077"
+  },
+  {
+    "name": "ភូមិសោមត្រក",
+    "kh_name": "PUmiesamRtk",
+    "id": "0078"
+  },
+  {
+    "name": "ភូមិសោមត្រក",
+    "kh_name": "PUmiesamRtk",
+    "id": "0125"
+  },
+  {
+    "name": "ភូមិដរធំ",
+    "kh_name": "PUmidrFM",
+    "id": "0079"
+  },
+  {
+    "name": "ភូមិទេនងល",
+    "kh_name": "PUmieTngl",
+    "id": "0080"
+  },
+  {
+    "name": "ភូមិទេនងល",
+    "kh_name": "PUmieTngl",
+    "id": "0143"
+  },
+  {
+    "name": "ភូមិតាវែង",
+    "kh_name": "PUmitaEvg",
+    "id": "0081"
+  },
+  {
+    "name": "ភូមិរៀងវិញ",
+    "kh_name": "PUmierogvij",
+    "id": "0082"
+  },
+  {
+    "name": "សាលារៀន",
+    "kh_name": "salaeron",
+    "id": "0083"
+  },
+  {
+    "name": "ភូមិផាវ",
+    "kh_name": "PUmipav",
+    "id": "0084"
+  },
+  {
+    "name": "ភូមិទំពួនរឺងធំ",
+    "kh_name": "PUmiTMBYnrWgFM",
+    "id": "0085"
+  },
+  {
+    "name": "ភូមិបានប៉ុង",
+    "kh_name": "PUmiánb¨ug",
+    "id": "0086"
+  },
+  {
+    "name": "ភូមិបានហ្វាំង",
+    "kh_name": "PUmiánhVaMg",
+    "id": "0087"
+  },
+  {
+    "name": "ភូមិវឺុនហយ",
+    "kh_name": "PUmivWunhy",
+    "id": "0088"
+  },
+  {
+    "name": "ភូមិវឺុនហយ",
+    "kh_name": "PUmivWunhy",
+    "id": "0126"
+  },
+  {
+    "name": "សាលារៀនកាចូនក្រោម",
+    "kh_name": "salaeronkacUneRkam",
+    "id": "0089"
+  },
+  {
+    "name": "ភូមិកាចូនលើ",
+    "kh_name": "PUmikacUnelI",
+    "id": "0090"
+  },
+  {
+    "name": "ភូមិប៉ាតឹង",
+    "kh_name": "PUmiá¨twg",
+    "id": "0091"
+  },
+  {
+    "name": "ភូមិផាកណាម",
+    "kh_name": "PUmipakNam",
+    "id": "0092"
+  },
+  {
+    "name": "ភូមិផាកណាម",
+    "kh_name": "PUmipakNam",
+    "id": "0144"
+  },
+  {
+    "name": "ភូមិផាកណាម",
+    "kh_name": "PUmipakNam",
+    "id": "0127"
+  },
+  {
+    "name": "ភូមិកោះពាក់",
+    "kh_name": "PUmieka¼Bak´",
+    "id": "0093"
+  },
+  {
+    "name": "ភូមិរ៉ក",
+    "kh_name": "PUmir¨k",
+    "id": "0094"
+  },
+  {
+    "name": "ភូមិរ៉ក",
+    "kh_name": "PUmir¨k",
+    "id": "0128"
+  },
+  {
+    "name": "សាលារៀនប៉ាកាឡាន់",
+    "kh_name": "salaeroná¨kaTLan´",
+    "id": "0095"
+  },
+  {
+    "name": "សាលារៀន",
+    "kh_name": "salaeron",
+    "id": "0096"
+  },
+  {
+    "name": "ភូមិកាឡាន់",
+    "kh_name": "PUmikaTLan´",
+    "id": "0097"
+  },
+  {
+    "name": "ភូមិប៉ាក់កែចាស់",
+    "kh_name": "PUmiá¨k´Ekcas´",
+    "id": "0113"
+  },
+  {
+    "name": "ភូមិវើនសៃ",
+    "kh_name": "PUmievInés",
+    "id": "0098"
+  },
+  {
+    "name": "ភូមិវើនសៃ",
+    "kh_name": "PUmievInés",
+    "id": "0139"
+  },
+  {
+    "name": "ភូមិកងណក",
+    "kh_name": "PUmikgNk",
+    "id": "0099"
+  }
+]
