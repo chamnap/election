@@ -1,0 +1,378 @@
+{
+  "en_name": "Battambang",
+  "districts": [
+    {
+      "en_name": "Banan",
+      "kh_name": "បាណន់",
+      "communes": [
+        {
+          "en_name": "Kantueu Muoy",
+          "kh_name": "កន្ទឺមួយ"
+        },
+        {
+          "en_name": "Kantueu Pir"
+        },
+        {
+          "en_name": "Bay Damram"
+        },
+        {
+          "en_name": "Chheu Teal"
+        },
+        {
+          "en_name": "Chaeng Mean Chey"
+        },
+        {
+          "en_name": "Phnum Sampov"
+        },
+        {
+          "en_name": "Snoeng"
+        },
+        {
+          "en_name": "Ta Kream"
+        }
+      ]
+    },
+    {
+      "en_name": "Thma Koul",
+      "kh_name": "ថ្មគោល",
+      "communes": [
+        {
+          "en_name": "Ta Poung"
+        },
+        {
+          "en_name": "Ta Meun"
+        },
+        {
+          "en_name": "Ou Ta Ki"
+        },
+        {
+          "en_name": "Chrey"
+        },
+        {
+          "en_name": "Anlong Run"
+        },
+        {
+          "en_name": "Chroy Sdao"
+        },
+        {
+          "en_name": "Boeng Pring"
+        },
+        {
+          "en_name": "Kouk Khmum"
+        },
+        {
+          "en_name": "Bansay Traeng"
+        },
+        {
+          "en_name": "Rung Chrey"
+        }
+      ]
+    },
+    {
+      "en_name": "Battambang",
+      "kh_name": "បាត់ដំបង",
+      "communes": [
+        {
+          "en_name": "Tuol Ta Aek"
+        },
+        {
+          "en_name": "Preaek Preah Sdach"
+        },
+        {
+          "en_name": "Rotanak"
+        },
+        {
+          "en_name": "Chamkar Samraong"
+        },
+        {
+          "en_name": "Sla Kaet"
+        },
+        {
+          "en_name": "Kdol Doun Teav"
+        },
+        {
+          "en_name": "Ou Mal"
+        },
+        {
+          "en_name": "Voat Kor"
+        },
+        {
+          "en_name": "Ou Char"
+        },
+        {
+          "en_name": "Svay Pao"
+        }
+      ]
+    },
+    {
+      "en_name": "Bavel",
+      "kh_name": "បវិល",
+      "communes": [
+        {
+          "en_name": "Bavel"
+        },
+        {
+          "en_name": "Khnach Romeas"
+        },
+        {
+          "en_name": "Lvea"
+        },
+        {
+          "en_name": "Prey Khpos"
+        },
+        {
+          "en_name": "Ampil Pram Daeum"
+        },
+        {
+          "en_name": "Kdol Tahen"
+        }
+      ]
+    },
+    {
+      "en_name": "Ek Phnum",
+      "kh_name": "ឯកភ្នំ",
+      "communes": [
+        {
+          "en_name": "Preaek Norint"
+        },
+        {
+          "en_name": "Samraong Knong"
+        },
+        {
+          "en_name": "Preaek Khpob"
+        },
+        {
+          "en_name": "Preaek Luong"
+        },
+        {
+          "en_name": "Peam Aek"
+        },
+        {
+          "en_name": "Prey Chas"
+        },
+        {
+          "en_name": "Kaoh Chiveang"
+        }
+      ]
+    },
+    {
+      "en_name": "Mong Ruessei",
+      "kh_name": "មោងឫស្សី",
+      "communes": [
+        {
+          "en_name": "Moung"
+        },
+        {
+          "en_name": "Kear"
+        },
+        {
+          "en_name": "Prey Svay"
+        },
+        {
+          "en_name": "Ruessei Krang"
+        },
+        {
+          "en_name": "Chrey"
+        },
+        {
+          "en_name": "Ta Loas"
+        },
+        {
+          "en_name": "Kakaoh"
+        },
+        {
+          "en_name": "Prey Touch"
+        },
+        {
+          "en_name": "Robas Mongkol"
+        }
+      ]
+    },
+    {
+      "en_name": "Rotanak Mondol",
+      "kh_name": "រតនមណ្ឌល",
+      "communes": [
+        {
+          "en_name": "Sdau"
+        },
+        {
+          "en_name": "Andaeuk Haeb"
+        },
+        {
+          "en_name": "Phlov Meas"
+        },
+        {
+          "en_name": "Traeng"
+        }
+      ]
+    },
+    {
+      "en_name": "Sangkae",
+      "kh_name": "សង្កែ",
+      "communes": [
+        {
+          "en_name": "Anlong Vil"
+        },
+        {
+          "en_name": "Norea"
+        },
+        {
+          "en_name": "Ta Pon"
+        },
+        {
+          "en_name": "Roka"
+        },
+        {
+          "en_name": "Kampong Preah"
+        },
+        {
+          "en_name": "Kampong Preang"
+        },
+        {
+          "en_name": "Reang Kesei"
+        },
+        {
+          "en_name": "O Dambang Muoy"
+        },
+        {
+          "en_name": "O Dambang Pi"
+        },
+        {
+          "en_name": "Wat Ta Meum"
+        }
+      ]
+    },
+    {
+      "en_name": "Samlot",
+      "kh_name": "សំឡូត",
+      "communes": [
+        {
+          "en_name": "Ta Taok"
+        },
+        {
+          "en_name": "Kampong Lpou"
+        },
+        {
+          "en_name": "Ou Samrel"
+        },
+        {
+          "en_name": "Sung"
+        },
+        {
+          "en_name": "Samlout"
+        },
+        {
+          "en_name": "Mean Cheay"
+        },
+        {
+          "en_name": "Ta Sanh"
+        }
+      ]
+    },
+    {
+      "en_name": "Sampov Lun",
+      "kh_name": "សំពៅលូន",
+      "communes": [
+        {
+          "en_name": "Sampou Lun"
+        },
+        {
+          "en_name": "Angkor Ban"
+        },
+        {
+          "en_name": "Ta Sda"
+        },
+        {
+          "en_name": "Santepheap"
+        },
+        {
+          "en_name": "Serei Maen Cheay"
+        },
+        {
+          "en_name": "Chrey Sema"
+        }
+      ]
+    },
+    {
+      "en_name": "Phnom Proek",
+      "kh_name": "ភ្នំព្រឹក",
+      "communes": [
+        {
+          "en_name": "Phnum Proek"
+        },
+        {
+          "en_name": "Pech Chenda"
+        },
+        {
+          "en_name": "Chakrei"
+        },
+        {
+          "en_name": "Barang Thleak"
+        },
+        {
+          "en_name": "Ou Rumduol"
+        }
+      ]
+    },
+    {
+      "en_name": "Kamrieng",
+      "kh_name": "កំរៀង",
+      "communes": [
+        {
+          "en_name": "Kamrieng"
+        },
+        {
+          "en_name": "Boeng Reang"
+        },
+        {
+          "en_name": "Ou Da"
+        },
+        {
+          "en_name": "Trang"
+        },
+        {
+          "en_name": "Ta Saen"
+        },
+        {
+          "en_name": "Ta Krai"
+        }
+      ]
+    },
+    {
+      "en_name": "Koas Krala",
+      "kh_name": "គាស់ក្រឡា",
+      "communes": [
+        {
+          "en_name": "Thipakdei"
+        },
+        {
+          "en_name": "Koas Krala"
+        },
+        {
+          "en_name": "Hab"
+        },
+        {
+          "en_name": "Preah Phos"
+        },
+        {
+          "en_name": "Doun Ba"
+        },
+        {
+          "en_name": "Chhnal Moan"
+        }
+      ]
+    },
+    {
+      "en_name": "Rukhak Kiri",
+      "kh_name": "រុក្ខគីរី",
+      "communes": [
+        {
+          "en_name": "Prek Chik"
+        },
+        {
+          "en_name": "Prey Tralach"
+        }
+      ]
+    }
+  ]
+}

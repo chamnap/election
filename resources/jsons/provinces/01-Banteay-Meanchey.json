@@ -1,0 +1,251 @@
+{
+  "en_name": "Banteay Meanchey",
+  "districts": [
+    {
+      "kh_name": "មង្គលបុរី",
+      "en_name": "Mongkol Borei",
+      "communes": [
+        {
+          "en_name": "Banteay Neang"
+        },
+        {
+          "en_name": "Bat Trang"
+        },
+        {
+          "en_name": "Chamnaom"
+        },
+        {
+          "en_name": "Kouk Ballangk"
+        },
+        {
+          "en_name": "Koy Maeng"
+        },
+        {
+          "en_name": "Ou Prasat"
+        },
+        {
+          "en_name": "Phnum Touch"
+        },
+        {
+          "en_name": "Rohat Tuek"
+        },
+        {
+          "en_name": "Ruessei Kraok"
+        },
+        {
+          "en_name": "Sambuor"
+        },
+        {
+          "en_name": "Soea"
+        },
+        {
+          "en_name": "Srah Reang"
+        },
+        {
+          "en_name": "Ta Lam"
+        }
+      ]
+    },
+    {
+      "kh_name": "ភ្នំស្រុក",
+      "en_name": "Phnum Srok",
+      "communes": [
+        {
+          "en_name": "Nam Tau"
+        },
+        {
+          "en_name": "Poy Char"
+        },
+        {
+          "en_name": "Phnum Dei"
+        },
+        {
+          "en_name": "Ponley"
+        },
+        {
+          "en_name": "Spean Sraeng"
+        },
+        {
+          "en_name": "Srah Chik"
+        }
+      ]
+    },
+    {
+      "kh_name": "ព្រះនេត្រព្រះ",
+      "en_name": "Preah Netr Preah",
+      "communes": [
+        {
+          "en_name": "Chnuor Mean Chey"
+        },
+        {
+          "en_name": "Chob Vari"
+        },
+        {
+          "en_name": "Phnum Lieb"
+        },
+        {
+          "en_name": "Prasat"
+        },
+        {
+          "en_name": "Preah Netr Preah"
+        },
+        {
+          "en_name": "Rohal"
+        },
+        {
+          "en_name": "Tean Kam"
+        },
+        {
+          "en_name": "Tuek Chour"
+        },
+        {
+          "en_name": "Bos Sbov"
+        }
+      ]
+    },
+    {
+      "kh_name": "អូរជ្រៅ",
+      "en_name": "Ou Chrov",
+      "communes": [
+        {
+          "en_name": "Changha"
+        },
+        {
+          "en_name": "Koub"
+        },
+        {
+          "en_name": "Kuttasat"
+        },
+        {
+          "en_name": "Samraong"
+        },
+        {
+          "en_name": "Souphi"
+        },
+        {
+          "en_name": "Soengh"
+        },
+        {
+          "en_name": "Ou Beichaon"
+        }
+      ]
+    },
+    {
+      "kh_name": "ក្រុងសិរីសោភ័ណ",
+      "en_name": "Krong Serei Saophoan",
+      "communes": [
+        {
+          "en_name": "Kampong Svay"
+        },
+        {
+          "en_name": "Kaoh Pong Satv"
+        },
+        {
+          "en_name": "Mkak"
+        },
+        {
+          "en_name": "Ou Ambel"
+        },
+        {
+          "en_name": "Phniet"
+        },
+        {
+          "en_name": "Preah Ponlea"
+        },
+        {
+          "en_name": "Tuek Thla"
+        }
+      ]
+    },
+    {
+      "kh_name": "ថ្មពួក",
+      "en_name": "Thma Puok",
+      "communes": [
+        {
+          "en_name": "Banteay Chhmar"
+        },
+        {
+          "en_name": "Kouk Kakthen"
+        },
+        {
+          "en_name": "Kouk Romiet"
+        },
+        {
+          "en_name": "Kumru"
+        },
+        {
+          "en_name": "Phum Thmei"
+        },
+        {
+          "en_name": "Thma Puok"
+        }
+      ]
+    },
+    {
+      "kh_name": "ស្វាយចេក",
+      "en_name": "Svay Chek",
+      "communes": [
+        {
+          "en_name": "Phkoam"
+        },
+        {
+          "en_name": "Roluos"
+        },
+        {
+          "en_name": "Sarongk"
+        },
+        {
+          "en_name": "Sla Kram"
+        },
+        {
+          "en_name": "Svay Chek"
+        },
+        {
+          "en_name": "Ta Baen"
+        },
+        {
+          "en_name": "Ta Phou"
+        },
+        {
+          "en_name": "Treas"
+        }
+      ]
+    },
+    {
+      "kh_name": "មាល័យ",
+      "en_name": "Malai",
+      "communes": [
+        {
+          "en_name": "Boeng Beng"
+        },
+        {
+          "en_name": "Malai"
+        },
+        {
+          "en_name": "Ou Sampor"
+        },
+        {
+          "en_name": "Ou Sralau"
+        },
+        {
+          "en_name": "Ta Kong"
+        },
+        {
+          "en_name": "Tuol Pongro"
+        }
+      ]
+    },
+    {
+      "kh_name": "ក្រុងប៉ោយប៉ែត",
+      "en_name": "Krong Paoy Paet",
+      "communes": [
+        {
+          "en_name": "Nimit"
+        },
+        {
+          "en_name": "Paoy Paet"
+        }
+      ]
+    }
+  ]
+}
