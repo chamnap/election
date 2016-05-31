@@ -1,0 +1,611 @@
+{
+  "kh_name": "កំពង់ចាម",
+  "en_name": "Kampong Cham",
+  "districts": [
+    {
+      "en_name": "Batheay",
+      "kh_name": "បាធាយ",
+      "communes": [
+      {
+        "id": "03-001",
+        "en_name": "Batheay",
+        "kh_name": "បាធាយ"
+      },
+      {
+        "id": "03-002",
+        "en_name": "Chbar Ampov",
+        "kh_name": "ច្បារអំពៅ"
+      },
+      {
+        "id": "03-003",
+        "en_name": "Chealea",
+        "kh_name": "ជាលា"
+      },
+      {
+        "id": "03-004",
+        "en_name": "Cheung Prey",
+        "kh_name": "ជើងព្រៃ"
+      },
+      {
+        "id": "03-005",
+        "en_name": "Me Pring",
+        "kh_name": "មេព្រីង"
+      },
+      {
+        "id": "03-006",
+        "en_name": "Ph'av",
+        "kh_name": "ផ្អាវ"
+      },
+      {
+        "id": "03-007",
+        "en_name": "Sambour",
+        "kh_name": "សំបូរ"
+      },
+      {
+        "id": "03-008",
+        "en_name": "Sandaek",
+        "kh_name": "សណ្តែក"
+      },
+      {
+        "id": "03-009",
+        "en_name": "Tang Krang",
+        "kh_name": "តាំងក្រាំង"
+      },
+      {
+        "id": "03-010",
+        "en_name": "Tang Krasang",
+        "kh_name": "តាំងក្រសាំង"
+      },
+      {
+        "id": "03-011",
+        "en_name": "Trab",
+        "kh_name": "ត្រប់"
+      },
+      {
+        "id": "03-012",
+        "en_name": "Tumnob",
+        "kh_name": "ទំនប់"
+      }
+      ]
+    },
+    {
+      "en_name": "Chamkar Leu",
+      "kh_name": "ចំការលើ",
+      "communes": [
+      {
+        "id": "03-013",
+        "en_name": "Bos Khnaor",
+        "kh_name": "បុសខ្នុរ"
+      },
+      {
+        "id": "03-014",
+        "en_name": "Chamkar Andoung",
+        "kh_name": "ចំការអណ្តូង"
+      },
+      {
+        "id": "03-015",
+        "en_name": "Cheyyou",
+        "kh_name": "ជយោ"
+      },
+      {
+        "id": "03-016",
+        "en_name": "Lvea Leu",
+        "kh_name": "ល្វាលើ"
+      },
+      {
+        "id": "03-017",
+        "en_name": "Spueu",
+        "kh_name": "ស្ពឺ"
+      },
+      {
+        "id": "03-018",
+        "en_name": "Svay Teab",
+        "kh_name": "ស្វាយទាប"
+      },
+      {
+        "id": "03-019",
+        "en_name": "Ta Ong",
+        "kh_name": "តាអុង"
+      },
+      {
+        "id": "03-020",
+        "en_name": "Ta Prok",
+        "kh_name": "តាប្រុក"
+      }
+      ]
+    },
+    {
+      "en_name": "Cheung Prey",
+      "kh_name": "ជើងព្រៃ",
+      "communes": [
+      {
+        "id": "03-021",
+        "en_name": "Khnaor Dambang",
+        "kh_name": "ខ្នុរដំបង"
+      },
+      {
+        "id": "03-022",
+        "en_name": "Kouk Rovieng",
+        "kh_name": "គោករវៀង"
+      },
+      {
+        "id": "03-023",
+        "en_name": "Phdau Chum",
+        "kh_name": "ផ្តៅជុំ"
+      },
+      {
+        "id": "03-024",
+        "en_name": "Prey Char",
+        "kh_name": "ព្រៃចារ"
+      },
+      {
+        "id": "03-025",
+        "en_name": "Pring Chrum",
+        "kh_name": "ព្រីងជ្រុំ"
+      },
+      {
+        "id": "03-026",
+        "en_name": "Sampong Chey",
+        "kh_name": "សំពងជ័យ"
+      },
+      {
+        "id": "03-027",
+        "en_name": "Sdaeung Chey",
+        "kh_name": "ស្តើងជ័យ"
+      },
+      {
+        "id": "03-028",
+        "en_name": "Soutip",
+        "kh_name": "សូទិប"
+      },
+      {
+        "id": "03-029",
+        "en_name": "Srama",
+        "kh_name": "ស្រម៉រ"
+      },
+      {
+        "id": "03-030",
+        "en_name": "Trapeang Kor",
+        "kh_name": "ត្រពាំងគរ"
+      }
+      ]
+    },
+    {
+      "en_name": "Krong Kampong Cham",
+      "kh_name": "ក្រុងកំពង់ចាម",
+      "communes": [
+      {
+        "id": "03-031",
+        "en_name": "Boeng Kok",
+        "kh_name": "បឹងកុក"
+      },
+      {
+        "id": "03-032",
+        "en_name": "Kampong Cham",
+        "kh_name": "កំពង់ចាម"
+      },
+      {
+        "id": "03-033",
+        "en_name": "Sambuor Meas",
+        "kh_name": "សំបួរមាស"
+      },
+      {
+        "id": "03-034",
+        "en_name": "Veal Vong",
+        "kh_name": "វាលវង់"
+      }
+      ]
+    },
+    {
+      "en_name": "Kampong Siem",
+      "kh_name": "កំពង់សៀម",
+      "communes": [
+      {
+        "id": "03-035",
+        "en_name": "Ampil",
+        "kh_name": "អំពិល"
+      },
+      {
+        "id": "03-036",
+        "en_name": "Han Chey",
+        "kh_name": "ហាន់ជ័យក្រោម"
+      },
+      {
+        "id": "03-037",
+        "en_name": "Kien Chrey",
+        "kh_name": "កៀនជ្រៃ"
+      },
+      {
+        "id": "03-038",
+        "en_name": "Kokor",
+        "kh_name": "គគរ"
+      },
+      {
+        "id": "03-039",
+        "en_name": "Kaoh Mitt",
+        "kh_name": "កោះមិត្ត"
+      },
+      {
+        "id": "03-040",
+        "en_name": "Koh Roka",
+        "kh_name": "កោះរកា"
+      },
+      {
+        "id": "03-041",
+        "en_name": "Koh Samraong",
+        "kh_name": "កោះសំរោង"
+      },
+      {
+        "id": "03-042",
+        "en_name": "Koh Tontuem",
+        "kh_name": "កោះទន្ទឹម"
+      },
+      {
+        "id": "03-043",
+        "en_name": "Krala",
+        "kh_name": "ក្រឡា"
+      },
+      {
+        "id": "03-044",
+        "en_name": "Ou Svay",
+        "kh_name": "អូរស្វាយ"
+      },
+      {
+        "id": "03-045",
+        "en_name": "Ro'aing",
+        "kh_name": "រអាង"
+      },
+      {
+        "id": "03-046",
+        "en_name": "Rumchek",
+        "kh_name": "រំចេក"
+      },
+      {
+        "id": "03-047",
+        "en_name": "Srak",
+        "kh_name": "ស្រក"
+      },
+      {
+        "id": "03-048",
+        "en_name": "Trean",
+        "kh_name": "ទ្រាន"
+      },
+      {
+        "id": "03-049",
+        "en_name": "Vihear Thom",
+        "kh_name": "វិហារធំ"
+      }
+      ]
+    },
+    {
+      "en_name": "Kang Meas",
+      "kh_name": "កងមាស",
+      "communes": [
+      {
+        "id": "03-050",
+        "en_name": "Angkor Ban",
+        "kh_name": "អង្គរបាន"
+      },
+      {
+        "id": "03-051",
+        "en_name": "Kang Ta Noeng",
+        "kh_name": "កងតាណឹង"
+      },
+      {
+        "id": "03-052",
+        "en_name": "Khchau",
+        "kh_name": "ខ្ចៅ"
+      },
+      {
+        "id": "03-053",
+        "en_name": "Peam Chi Kang",
+        "kh_name": "ពាមជីកង"
+      },
+      {
+        "id": "03-054",
+        "en_name": "Preaek Koy",
+        "kh_name": "ព្រែកកុយ"
+      },
+      {
+        "id": "03-055",
+        "en_name": "Preaek Krabau",
+        "kh_name": "ព្រែកក្របៅ"
+      },
+      {
+        "id": "03-056",
+        "en_name": "Reay Pay",
+        "kh_name": "រាយប៉ាយ"
+      },
+      {
+        "id": "03-057",
+        "en_name": "Roka ar",
+        "kh_name": "រកាអារ"
+      },
+      {
+        "id": "03-058",
+        "en_name": "Roka Koy",
+        "kh_name": "រកាគយ"
+      },
+      {
+        "id": "03-059",
+        "en_name": "Sdau",
+        "kh_name": "ស្តៅ"
+      },
+      {
+        "id": "03-060",
+        "en_name": "Sour Kong",
+        "kh_name": "សូរគង"
+      }
+      ]
+    },
+    {
+      "en_name": "Kaoh Soutin",
+      "kh_name": "កោះសូទិន",
+      "communes": [
+      {
+        "id": "03-061",
+        "en_name": "Kampong Reab",
+        "kh_name": "កំពង់រាប"
+      },
+      {
+        "id": "03-062",
+        "en_name": "Kaoh Soutin",
+        "kh_name": "កោះសូទិន"
+      },
+      {
+        "id": "03-063",
+        "en_name": "Lve",
+        "kh_name": "ល្វេមហាលាភ"
+      },
+      {
+        "id": "03-064",
+        "en_name": "Moha Leaph",
+        "kh_name": "មហាលាភ"
+      },
+      {
+        "id": "03-065",
+        "en_name": "Moha Khnhoung",
+        "kh_name": "មហាខ្ញូង"
+      },
+      {
+        "id": "03-066",
+        "en_name": "Peam Prathnuoh",
+        "kh_name": "ពាមប្រធ្នោះ"
+      },
+      {
+        "id": "03-067",
+        "en_name": "Pongro",
+        "kh_name": "ពង្រ"
+      },
+      {
+        "id": "03-068",
+        "en_name": "Preaek Ta Nong",
+        "kh_name": "ព្រែកតានង់"
+      }
+      ]
+    },
+    {
+      "en_name": "Prey Chhor",
+      "kh_name": "ព្រៃឈរ",
+      "communes": [
+      {
+        "id": "03-069",
+        "en_name": "Baray",
+        "kh_name": "បារាយណ៍"
+      },
+      {
+        "id": "03-070",
+        "en_name": "Boeng Nay",
+        "kh_name": "បឹងណាយ"
+      },
+      {
+        "id": "03-071",
+        "en_name": "Chrey Vien",
+        "kh_name": "ជ្រៃវៀន"
+      },
+      {
+        "id": "03-072",
+        "en_name": "Khvet Thum",
+        "kh_name": "ខ្វិតធំ"
+      },
+      {
+        "id": "03-073",
+        "en_name": "Kor",
+        "kh_name": "គរ"
+      },
+      {
+        "id": "03-074",
+        "en_name": "Krouch",
+        "kh_name": "ក្រូច"
+      },
+      {
+        "id": "03-075",
+        "en_name": "Lvea",
+        "kh_name": "ល្វា"
+      },
+      {
+        "id": "03-076",
+        "en_name": "Mien",
+        "kh_name": "មៀន"
+      },
+      {
+        "id": "03-077",
+        "en_name": "Prey Chhor",
+        "kh_name": "ព្រៃឈរ"
+      },
+      {
+        "id": "03-078",
+        "en_name": "Sour Saen",
+        "kh_name": "សូរ្យសែន"
+      },
+      {
+        "id": "03-079",
+        "en_name": "Samraong",
+        "kh_name": "សំរោង"
+      },
+      {
+        "id": "03-080",
+        "en_name": "Srangae",
+        "kh_name": "ស្រង៉ែ"
+      },
+      {
+        "id": "03-081",
+        "en_name": "Thma Pun",
+        "kh_name": "ថ្មពូន"
+      },
+      {
+        "id": "03-082",
+        "en_name": "Tong Rong",
+        "kh_name": "តុងរ៉ុង"
+      },
+      {
+        "id": "03-083",
+        "en_name": "Trapeang Preah",
+        "kh_name": "ត្រពាំងព្រះ"
+      }
+      ]
+    },
+    {
+      "en_name": "Srei Santhor",
+      "kh_name": "ស្រីសន្ធរ",
+      "communes": [
+      {
+        "id": "03-084",
+        "en_name": "Baray",
+        "kh_name": "បារាយណ៍"
+      },
+      {
+        "id": "03-085",
+        "en_name": "Chi Bal",
+        "kh_name": "ជីបាល"
+      },
+      {
+        "id": "03-086",
+        "en_name": "Khnar Sa",
+        "kh_name": "ខ្នារ-ស"
+      },
+      {
+        "id": "03-087",
+        "en_name": "Kaoh Andaet",
+        "kh_name": "កោះអណ្តែត"
+      },
+      {
+        "id": "03-088",
+        "en_name": "Mean Chey",
+        "kh_name": "មានជ័យ"
+      },
+      {
+        "id": "03-089",
+        "en_name": "Pteah Kandal",
+        "kh_name": "ផ្ទះកណ្តាល"
+      },
+      {
+        "id": "03-090",
+        "en_name": "Pram Yam",
+        "kh_name": "ប្រាំយ៉ាម"
+      },
+      {
+        "id": "03-091",
+        "en_name": "Preaek Dambouk",
+        "kh_name": "ព្រែកដំបូក"
+      },
+      {
+        "id": "03-092",
+        "en_name": "Preaek Pou",
+        "kh_name": "ព្រែកពោធិ"
+      },
+      {
+        "id": "03-093",
+        "en_name": "Preaek Rumdeng",
+        "kh_name": "ព្រែករំដេង"
+      },
+      {
+        "id": "03-094",
+        "en_name": "Ruessei Srok",
+        "kh_name": "ឫស្សីស្រុក"
+      },
+      {
+        "id": "03-095",
+        "en_name": "Svay Pou",
+        "kh_name": "ស្វាយពោធិ"
+      },
+      {
+        "id": "03-096",
+        "en_name": "Svay Sach Phnum",
+        "kh_name": "ស្វាយខ្សាច់ភ្នំ"
+      },
+      {
+        "id": "03-097",
+        "en_name": "Tong Tralach",
+        "kh_name": "ទងត្រឡាច"
+      }
+      ]
+    },
+    {
+      "en_name": "Stueng Trang",
+      "kh_name": "ស្ទឹងត្រង់",
+      "communes": [
+     {
+        "id": "03-098",
+        "en_name": "Areaks Tnaot",
+        "kh_name": "អារក្សត្នោត"
+      },
+      {
+        "id": "03-099",
+        "en_name": "Dang Kdar",
+        "kh_name": "ដងក្តារ"
+      },
+      {
+        "id": "03-100",
+        "en_name": "Khpob Ta Nguon",
+        "kh_name": "ខ្ពបតាងួន"
+      },
+      {
+        "id": "03-101",
+        "en_name": "Me Sar Chrey",
+        "kh_name": "មេសរជ្រៃ"
+      },
+      {
+        "id": "03-102",
+        "en_name": "Ou Mlu",
+        "kh_name": "អូរម្លូ"
+      },
+      {
+        "id": "03-103",
+        "en_name": "Peam Kaoh Sna",
+        "kh_name": "ពាមកោះស្នា"
+      },
+      {
+        "id": "03-104",
+        "en_name": "Preah Andoung",
+        "kh_name": "ព្រះអណ្តូង"
+      },
+      {
+        "id": "03-105",
+        "en_name": "Preaek Bak",
+        "kh_name": "ព្រែកបាក់"
+      },
+      {
+        "id": "03-106",
+        "en_name": "Preaek Kak",
+        "kh_name": "ព្រែកកក់"
+      },
+      {
+        "id": "03-107",
+        "en_name": "Soupheas",
+        "kh_name": "សូភាស"
+      },
+      {
+        "id": "03-108",
+        "en_name": "Tuol Preah Khleang",
+        "kh_name": "ទួលព្រះឃ្លាំង"
+      },
+      {
+        "id": "03-109",
+        "en_name": "Tuol Sambuor",
+        "kh_name": "ទួលសំបូរ"
+      }
+      ]
+    }
+  ]
+}

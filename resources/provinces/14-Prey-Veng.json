@@ -1,0 +1,664 @@
+{
+  "kh_name": "ព្រៃវែង",
+  "en_name": "Prey Veng",
+  "districts": [
+    {
+      "kh_name": "បាភ្នំ",
+      "en_name": "Ba Phnum",
+      "communes": [
+        {
+          "id": "15-001",
+          "en_name": "Beung Preah",
+          "kh_name": "បឹងព្រះ"
+        },
+        {
+          "id": "15-002",
+          "en_name": "Cheung Phnum",
+          "kh_name": "ជើងភ្នំ"
+        },
+        {
+          "id": "15-003",
+          "en_name": "Chheu Kach",
+          "kh_name": "ឈើកាច់"
+        },
+        {
+          "id": "15-004",
+          "en_name": "Reaks Chey",
+          "kh_name": "រក្សជ័យ"
+        },
+        {
+          "id": "15-005",
+          "en_name": "Roang Domrei",
+          "kh_name": "រោងដំរី"
+        },
+        {
+          "id": "15-006",
+          "en_name": "Sdau Koang",
+          "kh_name": "ស្តៅកោង"
+        },
+        {
+          "id": "15-007",
+          "en_name": "Speu K",
+          "kh_name": "ស្ពឺ ក"
+        },
+        {
+          "id": "15-008",
+          "en_name": "Speu Kh",
+          "kh_name": "ស្ពឺ ខ"
+        },
+        {
+          "id": "15-009",
+          "en_name": "Theay",
+          "kh_name": "ធាយ"
+        }
+      ]
+    },
+    {
+      "kh_name": "កំចាយមារ",
+      "en_name": "Kamchay Mear",
+      "communes": [
+        {
+          "id": "15-010",
+          "en_name": "Cheach",
+          "kh_name": "ជាច"
+        },
+        {
+          "id": "15-011",
+          "en_name": "Daun Keung",
+          "kh_name": "ដូនកឹង"
+        },
+        {
+          "id": "15-012",
+          "en_name": "Kra Nhoung",
+          "kh_name": "ក្រញូង"
+        },
+        {
+          "id": "15-013",
+          "en_name": "Krabao",
+          "kh_name": "ក្របៅ"
+        },
+        {
+          "id": "15-014",
+          "en_name": "Seang Khveang",
+          "kh_name": "ស៊ាងឃ្វាង"
+        },
+        {
+          "id": "15-015",
+          "en_name": "Smoang Khang Cheung",
+          "kh_name": "ស្មោង ខ ជ"
+        },
+        {
+          "id": "15-016",
+          "en_name": "Smoang Khang Tbong",
+          "kh_name": "ស្មោង ខ ត"
+        },
+        {
+          "id": "15-017",
+          "en_name": "Trabaek",
+          "kh_name": "ត្របែក"
+        }
+      ]
+    },
+    {
+      "kh_name": "កំពង់ត្របែក",
+      "en_name": "Kampong Trabaek",
+      "communes": [
+        {
+          "id": "15-018",
+          "en_name": "Ansaong",
+          "kh_name": "អន្សោង"
+        },
+        {
+          "id": "15-019",
+          "en_name": "Cham",
+          "kh_name": "ចាម"
+        },
+        {
+          "id": "15-020",
+          "en_name": "Cheang Dek",
+          "kh_name": "ជាងដែក"
+        },
+        {
+          "id": "15-021",
+          "en_name": "Chrey",
+          "kh_name": "ជ្រៃ"
+        },
+        {
+          "id": "15-022",
+          "en_name": "Kansaom Ak",
+          "kh_name": "កន្សោមអក"
+        },
+        {
+          "id": "15-023",
+          "en_name": "Kou Khchak",
+          "kh_name": "គួក ក្ចក"
+        },
+        {
+          "id": "15-024",
+          "en_name": "Kampong Trabaek",
+          "kh_name": "កំពង់ត្របែក"
+        },
+        {
+          "id": "15-025",
+          "en_name": "Peam Muntea",
+          "kh_name": "ពាមមន្ទារ"
+        },
+        {
+          "id": "15-026",
+          "en_name": "Prasat",
+          "kh_name": "ប្រាសាទ"
+        },
+        {
+          "id": "15-027",
+          "en_name": "Pratheat",
+          "kh_name": "ព្រះធាតុ"
+        },
+        {
+          "id": "15-028",
+          "en_name": "Prey Chhor",
+          "kh_name": "ព្រៃឈរ"
+        },
+        {
+          "id": "15-029",
+          "en_name": "Prey Pon",
+          "kh_name": "ព្រៃពោន"
+        },
+        {
+          "id": "15-030",
+          "en_name": "Thkov",
+          "kh_name": "ថ្កូវ"
+        }
+      ]
+    },
+    {
+      "kh_name": "កញ្ច្រៀច",
+      "en_name": "Kanhchriech",
+      "communes": [
+        {
+          "id": "15-031",
+          "en_name": "Chong Ampil",
+          "kh_name": "ចុងអំពិល"
+        },
+        {
+          "id": "15-032",
+          "en_name": "Kanhchriech",
+          "kh_name": "កញ្ច្រៀច"
+        },
+        {
+          "id": "15-033",
+          "en_name": "Kdeung Reay",
+          "kh_name": "ក្តឿងរាយ"
+        },
+        {
+          "id": "15-034",
+          "en_name": "Koak Kung Kert",
+          "kh_name": "គោគគង់កើត"
+        },
+        {
+          "id": "15-035",
+          "en_name": "Koak Kung Lech",
+          "kh_name": "គោគគង់លិច"
+        },
+        {
+          "id": "15-036",
+          "en_name": "Preal",
+          "kh_name": "ព្រាល"
+        },
+        {
+          "id": "15-037",
+          "en_name": "Thmar Poun",
+          "kh_name": "ថ្មពូន"
+        },
+        {
+          "id": "15-038",
+          "en_name": "Tnoat",
+          "kh_name": "ត្នោត"
+        }
+      ]
+    },
+    {
+      "kh_name": "មេសាង",
+      "en_name": "Me Sang",
+      "communes": [
+        {
+          "id": "15-039",
+          "en_name": "Angkor Sor",
+          "kh_name": "អង្គរសរ"
+        },
+        {
+          "id": "15-040",
+          "en_name": "Chres",
+          "kh_name": "ច្រេស"
+        },
+        {
+          "id": "15-041",
+          "en_name": "Chiphuch",
+          "kh_name": "ជីផុច"
+        },
+        {
+          "id": "15-042",
+          "en_name": "Prey Khnes",
+          "kh_name": "ព្រៃឃ្នេស"
+        },
+        {
+          "id": "15-043",
+          "en_name": "Prey Romdeng",
+          "kh_name": "ព្រៃរំដេង"
+        },
+        {
+          "id": "15-044",
+          "en_name": "Prey Toteung",
+          "kh_name": "ព្រៃទទឹង"
+        },
+        {
+          "id": "15-045",
+          "en_name": "Svay Chrum",
+          "kh_name": "ស្វាយជ្រុំ"
+        },
+        {
+          "id": "15-046",
+          "en_name": "Trapeang Srae",
+          "kh_name": "ត្រពាំងស្រែ"
+        }
+      ]
+    },
+    {
+      "kh_name": "ពាមជរ",
+      "en_name": "Peam Chor",
+      "communes": [
+        {
+          "id": "15-047",
+          "en_name": "Angkor Angk",
+          "kh_name": "អង្គរអង្គ"
+        },
+        {
+          "id": "15-048",
+          "en_name": "Kampong Brasat",
+          "kh_name": "កំពង់ប្រាសាទ"
+        },
+        {
+          "id": "15-049",
+          "en_name": "Koh Chek",
+          "kh_name": "កោះចេក"
+        },
+        {
+          "id": "15-050",
+          "en_name": "Koh Roka",
+          "kh_name": "កោះរកា"
+        },
+        {
+          "id": "15-051",
+          "en_name": "Koh Sompov",
+          "kh_name": "កោះសំពៅ"
+        },
+        {
+          "id": "15-052",
+          "en_name": "Krang Tayorng",
+          "kh_name": "ក្រាំងតាយ៉ង"
+        },
+        {
+          "id": "15-053",
+          "en_name": "Praek Krabau",
+          "kh_name": "ព្រែកក្របៅ"
+        },
+        {
+          "id": "15-054",
+          "en_name": "Russei Srok",
+          "kh_name": "ឫស្សីស្រុក"
+        },
+        {
+          "id": "15-055",
+          "en_name": "Praek Sombour",
+          "kh_name": "ព្រែកសំបូរ"
+        },
+        {
+          "id": "15-056",
+          "en_name": "Svay Phlous",
+          "kh_name": "ស្វាយភ្លោះ"
+        }
+      ]
+    },
+    {
+      "kh_name": "ពាមរ",
+      "en_name": "Peam Ro",
+      "communes": [
+        {
+          "id": "15-057",
+          "en_name": "Baboang",
+          "kh_name": "បាបោង"
+        },
+        {
+          "id": "15-058",
+          "en_name": "Banlich Brasat",
+          "kh_name": "បន្លិចប្រាសាទ"
+        },
+        {
+          "id": "15-059",
+          "en_name": "Neak Leung",
+          "kh_name": "អ្នកលឿង"
+        },
+        {
+          "id": "15-060",
+          "en_name": "Peam Meanchey",
+          "kh_name": "ពាមមានជ័យ"
+        },
+        {
+          "id": "15-061",
+          "en_name": "Pream Ro",
+          "kh_name": "ពាមរក៍"
+        },
+        {
+          "id": "15-062",
+          "en_name": "Praek Ksay K",
+          "kh_name": "ព្រែកខ្សាយ ក"
+        },
+        {
+          "id": "15-063",
+          "en_name": "Praek Ksay Kh",
+          "kh_name": "ព្រែកខ្សាយ ខ"
+        },
+        {
+          "id": "15-064",
+          "en_name": "Prey Kandieng",
+          "kh_name": "ព្រៃកណ្តៀង"
+        }
+      ]
+    },
+    {
+      "kh_name": "ពារាំង",
+      "en_name": "Pea Reang",
+      "communes": [
+        {
+          "id": "15-065",
+          "en_name": "Kampong Popel",
+          "kh_name": "កំពង់ពពិល"
+        },
+        {
+          "id": "15-066",
+          "en_name": "Kanhchom",
+          "kh_name": "កញ្ចំ"
+        },
+        {
+          "id": "15-067",
+          "en_name": "Kampong Braing",
+          "kh_name": "កំពង់ប្រាំង"
+        },
+        {
+          "id": "15-068",
+          "en_name": "Mesar Brochan",
+          "kh_name": "មេសរប្រចាន់"
+        },
+        {
+          "id": "15-069",
+          "en_name": "Prey Phnov",
+          "kh_name": "ព្រៃភ្នៅ"
+        },
+        {
+          "id": "15-070",
+          "en_name": "Prey Sneat",
+          "kh_name": "ព្រៃស្នៀត"
+        },
+        {
+          "id": "15-071",
+          "en_name": "Prey Srolet",
+          "kh_name": "ព្រៃស្រឡិត"
+        },
+        {
+          "id": "15-072",
+          "en_name": "Reab",
+          "kh_name": "រាប"
+        },
+        {
+          "id": "15-073",
+          "en_name": "Roka",
+          "kh_name": "រកា"
+        }
+      ]
+    },
+    {
+      "kh_name": "ព្រះស្ដេច",
+      "en_name": "Preah Sdach",
+      "communes": [
+        {
+          "id": "15-074",
+          "en_name": "Angkor Reach",
+          "kh_name": "អង្គររាជ្យ"
+        },
+        {
+          "id": "15-075",
+          "en_name": "Banteay Chakrei",
+          "kh_name": "បន្ទាយចក្រី"
+        },
+        {
+          "id": "15-076",
+          "en_name": "Beung Doal",
+          "kh_name": "បឹងដោល"
+        },
+        {
+          "id": "15-077",
+          "en_name": "Chey Kompork",
+          "kh_name": "ជៃកំពក"
+        },
+        {
+          "id": "15-078",
+          "en_name": "Kampong Singh",
+          "kh_name": "កំពង់សឹង"
+        },
+        {
+          "id": "15-079",
+          "en_name": "Krang Svay",
+          "kh_name": "ក្រាំងស្វាយ"
+        },
+        {
+          "id": "15-080",
+          "en_name": "Lvea",
+          "kh_name": "ល្វា"
+        },
+        {
+          "id": "15-081",
+          "en_name": "Preah Sdach",
+          "kh_name": "ព្រះស្តេច"
+        },
+        {
+          "id": "15-082",
+          "en_name": "Reathor",
+          "kh_name": "រាធរ"
+        },
+        {
+          "id": "15-083",
+          "en_name": "Romchek",
+          "kh_name": "រំចេក"
+        },
+        {
+          "id": "15-084",
+          "en_name": "Sena Reach Udom",
+          "kh_name": "សេនារាជឧត្តម"
+        }
+      ]
+    },
+    {
+      "kh_name": "ព្រៃវែង",
+      "en_name": "Prey Veng",
+      "communes": [
+        {
+          "id": "15-085",
+          "en_name": "Baray",
+          "kh_name": "បារាយណ៍"
+        },
+        {
+          "id": "15-086",
+          "en_name": "Kampong Leav",
+          "kh_name": "ជើងទឹក"
+        },
+        {
+          "id": "15-087",
+          "en_name": "Cheung Teuk",
+          "kh_name": "កំពង់លាវ"
+        }
+      ]
+    },
+    {
+      "kh_name": "ពោធិ៍រៀង",
+      "en_name": "Por Reang",
+      "communes": [
+        {
+          "id": "15-088",
+          "en_name": "Por Reang",
+          "kh_name": "ពោធិរៀង"
+        },
+        {
+          "id": "15-089",
+          "en_name": "Preak Anteah",
+          "kh_name": "ព្រែកអន្ទះ"
+        },
+        {
+          "id": "15-090",
+          "en_name": "Praek Chrey",
+          "kh_name": "ព្រែកជ្រៃ"
+        },
+        {
+          "id": "15-091",
+          "en_name": "Prey Kanloang",
+          "kh_name": "ព្រៃកន្លោង"
+        },
+        {
+          "id": "15-092",
+          "en_name": "Takor",
+          "kh_name": "តាកោ"
+        },
+        {
+          "id": "15-093",
+          "en_name": "Kampong Russei",
+          "kh_name": "កំពង់ឬស្សី"
+        },
+        {
+          "id": "15-094",
+          "en_name": "Praek Tasor",
+          "kh_name": "ព្រែកតាសរ"
+        }
+      ]
+    },
+    {
+      "kh_name": "ស៊ីធរកណ្ដាល",
+      "en_name": "Sithor Kandal",
+      "communes": [
+        {
+          "id": "15-095",
+          "en_name": "Ampil Krau",
+          "kh_name": "អំពិលក្រៅ"
+        },
+        {
+          "id": "15-096",
+          "en_name": "Chrey Khmum",
+          "kh_name": "ជ្រៃឃ្មុំ"
+        },
+        {
+          "id": "15-097",
+          "en_name": "Lve",
+          "kh_name": "ល្វេ"
+        },
+        {
+          "id": "15-098",
+          "en_name": "Phnov Ti Mouy",
+          "kh_name": "ព្នៅទី ១"
+        },
+        {
+          "id": "15-099",
+          "en_name": "Phnov Ti Pur",
+          "kh_name": "ព្នៅទី ២"
+        },
+        {
+          "id": "15-100",
+          "en_name": "Pou Ti",
+          "kh_name": "ពោធិទី"
+        },
+        {
+          "id": "15-101",
+          "en_name": "Praek Changkran",
+          "kh_name": "ព្រែកចង្ក្រាន"
+        },
+        {
+          "id": "15-102",
+          "en_name": "Prey Deum Thneung",
+          "kh_name": "ព្រែកដើមថ្នឹង"
+        },
+        {
+          "id": "15-103",
+          "en_name": "Prey Teung",
+          "kh_name": "ព្រែកទឹង"
+        },
+        {
+          "id": "15-104",
+          "en_name": "Romlech",
+          "kh_name": "រំលេច"
+        },
+        {
+          "id": "15-105",
+          "en_name": "Russei Sanh",
+          "kh_name": "ឫស្សីសាញ់"
+        }
+      ]
+    },
+    {
+      "kh_name": "ស្វាយអន្ទរ",
+      "en_name": "Svay Antor",
+      "communes": [
+        {
+          "id": "15-106",
+          "en_name": "Angkor Tret",
+          "kh_name": "អង្គរទ្រេត"
+        },
+        {
+          "id": "15-107",
+          "en_name": "Chea Khlang",
+          "kh_name": "ជាខ្លាង"
+        },
+        {
+          "id": "15-108",
+          "en_name": "Chrey",
+          "kh_name": "ជ្រៃ"
+        },
+        {
+          "id": "15-109",
+          "en_name": "Domrei Poun",
+          "kh_name": "ដំរីពួន"
+        },
+        {
+          "id": "15-110",
+          "en_name": "Mebonn",
+          "kh_name": "មេបុណ្យ"
+        },
+        {
+          "id": "15-111",
+          "en_name": "Pean Roang",
+          "kh_name": "ពានរោង"
+        },
+        {
+          "id": "15-112",
+          "en_name": "Popeus",
+          "kh_name": "ពពឺស"
+        },
+        {
+          "id": "15-113",
+          "en_name": "Prey Khla",
+          "kh_name": "ព្រៃខ្លា"
+        },
+        {
+          "id": "15-114",
+          "en_name": "Somroang",
+          "kh_name": "សំរោង"
+        },
+        {
+          "id": "15-115",
+          "en_name": "Svay Ontor",
+          "kh_name": "ស្វាយអន្ទរ"
+        },
+        {
+          "id": "15-116",
+          "en_name": "Teuk Thla",
+          "kh_name": "ទឹកថ្លា"
+        }
+      ]
+    }
+  ]
+}

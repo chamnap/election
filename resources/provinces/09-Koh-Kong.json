@@ -1,0 +1,193 @@
+{
+  "kh_name": "កោះកុង",
+  "en_name": "Koh Kong",
+  "districts": [
+    {
+      "kh_name": "បូទុមសាគរ",
+      "en_name": "Botum Sakor",
+      "communes": [
+        {
+          "id": "09-001",
+          "en_name": "Andoung Tuek",
+          "kh_name": "អណ្ដូងទឹក"
+        },
+        {
+          "id": "09-002",
+          "en_name": "Kandaol",
+          "kh_name": "កណ្ដោល"
+        },
+        {
+          "id": "09-003",
+          "en_name": "Ta Nuon",
+          "kh_name": "តានូន"
+        },
+        {
+          "id": "09-004",
+          "en_name": "Thma Sa",
+          "kh_name": "ថ្មស"
+        }
+      ]
+    },
+    {
+      "kh_name": "គីរីសាគរ",
+      "en_name": "Kiri Sakor",
+      "communes": [
+        {
+          "id": "09-005",
+          "en_name": "Kaoh Sdach",
+          "kh_name": "កោះស្ដេច"
+        },
+        {
+          "id": "09-006",
+          "en_name": "Phnhi Meas",
+          "kh_name": "ភ្លីមាស"
+        },
+        {
+          "id": "09-007",
+          "en_name": "Preaek Khsach",
+          "kh_name": "ព្រែកខ្សាច់"
+        }
+      ]
+    },
+    {
+      "kh_name": "កោះកុង",
+      "en_name": "Kaoh Kong",
+      "communes": [
+        {
+          "id": "09-008",
+          "en_name": "Chrouy Pras",
+          "kh_name": "ជ្រោយប្រស់"
+        },
+        {
+          "id": "09-009",
+          "en_name": "Kaoh Kapi",
+          "kh_name": "កោះកាពិ"
+        },
+        {
+          "id": "09-010",
+          "en_name": "Ta Tai Kraom",
+          "kh_name": "តាតៃក្រោម"
+        },
+        {
+          "id": "09-011",
+          "en_name": "Trapeang Rung",
+          "kh_name": "ត្រពាំងរូង"
+        }
+      ]
+    },
+    {
+      "kh_name": "ស្មាច់មានជ័យ",
+      "en_name": "Smach Meanchey",
+      "communes": [
+        {
+          "id": "09-012",
+          "en_name": "Smach Mean Chey",
+          "kh_name": "ស្មាច់មានជ័យ"
+        },
+        {
+          "id": "09-013",
+          "en_name": "Dang Tong",
+          "kh_name": "ដងទង់"
+        },
+        {
+          "id": "09-014",
+          "en_name": "Stueng Veaeng",
+          "kh_name": "ស្ទឹងវែង"
+        }
+      ]
+    },
+    {
+      "kh_name": "មណ្ឌលសីម៉ា",
+      "en_name": "Mondol Seima",
+      "communes": [
+        {
+          "id": "09-015",
+          "en_name": "Bak Khlang",
+          "kh_name": "បាក់ខ្លង"
+        },
+        {
+          "id": "09-016",
+          "en_name": "Peam Krasaob",
+          "kh_name": "ពាមក្រសោម"
+        },
+        {
+          "id": "09-017",
+          "en_name": "Tuol Kokir Leu",
+          "kh_name": "ទួលគគីរ"
+        }
+      ]
+    },
+    {
+      "kh_name": "ស្រែអំបិល",
+      "en_name": "Srae Ambel",
+      "communes": [
+        {
+          "id": "09-018",
+          "en_name": "Boeng Preav",
+          "kh_name": "បឹងព្រាវ"
+        },
+        {
+          "id": "09-019",
+          "en_name": "Chi Kha Kraom",
+          "kh_name": "ជីខក្រោម"
+        },
+        {
+          "id": "09-020",
+          "en_name": "Chi Kha Leu",
+          "kh_name": "ជីខលើ"
+        },
+        {
+          "id": "09-021",
+          "en_name": "Chrouy Svay",
+          "kh_name": "ជ្រោយស្វាយ"
+        },
+        {
+          "id": "09-022",
+          "en_name": "Dang Peaeng",
+          "kh_name": "ដងពែក"
+        },
+        {
+          "id": "09-023",
+          "en_name": "Srae Ambel",
+          "kh_name": "ស្រែអំបិល"
+        }
+      ]
+    },
+    {
+      "kh_name": "ថ្មបាំង",
+      "en_name": "Thmar Bang",
+      "communes": [
+        {
+          "id": "09-024",
+          "en_name": "Ta Tey Leu",
+          "kh_name": "តាទៃរីល"
+        },
+        {
+          "id": "09-025",
+          "en_name": "Pralay",
+          "kh_name": "ប្រឡាយ"
+        },
+        {
+          "id": "09-026",
+          "en_name": "Chumnoab",
+          "kh_name": "ជំនាប់"
+        },
+        {
+          "id": "09-027",
+          "en_name": "Ruessei Chrum",
+          "kh_name": "ឫស្សីជ្រំ"
+        },
+        {
+          "id": "09-028",
+          "en_name": "Chi-Phat",
+          "kh_name": "ជឺផាត"
+        },
+        {
+          "id": "09-029",
+          "en_name": "Thmor Donpove",
+          "kh_name": "ថ្មដូនពៅ"
+        }
+      ]
+    }
+  ]
+}

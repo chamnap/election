@@ -1,0 +1,578 @@
+{
+  "kh_name": "សៀមរាប",
+  "en_name": "Siem Reap",
+  "districts": [
+    {
+      "kh_name": "អង្គរជុំ",
+      "en_name": "Angkor Chum",
+      "communes": [
+        {
+          "id": "17-001",
+          "en_name": "Char Chhuk",
+          "kh_name": "ចារឈូក"
+        },
+        {
+          "id": "17-002",
+          "en_name": "Doun Peaeng",
+          "kh_name": "ដូនពេង"
+        },
+        {
+          "id": "17-003",
+          "en_name": "Kouk Doung",
+          "kh_name": "គោកដូង"
+        },
+        {
+          "id": "17-004",
+          "en_name": "Koul",
+          "kh_name": "គោល"
+        },
+        {
+          "id": "17-005",
+          "en_name": "Nokor Pheas",
+          "kh_name": "នគរភាស"
+        },
+        {
+          "id": "17-006",
+          "en_name": "Srae Khvav",
+          "kh_name": "ស្រែខ្វាវ"
+        },
+        {
+          "id": "17-007",
+          "en_name": "Ta Saom",
+          "kh_name": "តាសោម"
+        }
+      ]
+    },
+    {
+      "kh_name": "អង្គរធំ",
+      "en_name": "Angkor Thum",
+      "communes": [
+        {
+          "id": "17-008",
+          "en_name": "Chob Ta Trav",
+          "kh_name": "ជប់តាត្រាវ"
+        },
+        {
+          "id": "17-009",
+          "en_name": "Leang Dai",
+          "kh_name": "លាងដៃ"
+        },
+        {
+          "id": "17-010",
+          "en_name": "Peak Snaeng",
+          "kh_name": "ពាក់ស្នែង"
+        },
+        {
+          "id": "17-011",
+          "en_name": "Svay Chek",
+          "kh_name": "ស្វាយចេក"
+        }
+      ]
+    },
+    {
+      "kh_name": "បន្ទាយស្រី",
+      "en_name": "Banteay Srei",
+      "communes": [
+        {
+          "id": "17-012",
+          "en_name": "Khnar Sanday",
+          "kh_name": "ខ្នារសណ្តាយ"
+        },
+        {
+          "id": "17-013",
+          "en_name": "Khun Ream",
+          "kh_name": "ឃុនរាម"
+        },
+        {
+          "id": "17-014",
+          "en_name": "Preak Dak",
+          "kh_name": "ព្រះដាក់"
+        },
+        {
+          "id": "17-015",
+          "en_name": "Rumchek",
+          "kh_name": "រំចេក"
+        },
+        {
+          "id": "17-016",
+          "en_name": "Run Ta Aek",
+          "kh_name": "រុនតាឯក"
+        },
+        {
+          "id": "17-017",
+          "en_name": "Tbaeng",
+          "kh_name": "ត្បែង"
+        }
+      ]
+    },
+    {
+      "kh_name": "  ជីក្រែង",
+      "en_name": "Chi Kraeng",
+      "communes": [
+        {
+          "id": "17-018",
+          "en_name": "Anlong Samnar",
+          "kh_name": "អន្លង់សំណរ"
+        },
+        {
+          "id": "17-019",
+          "en_name": "Chi Kraeng",
+          "kh_name": "ជីក្រែង"
+        },
+        {
+          "id": "17-020",
+          "en_name": "Kampong Kdei",
+          "kh_name": "កំពង់ក្តី"
+        },
+        {
+          "id": "17-021",
+          "en_name": "Khvav",
+          "kh_name": "ខ្វាវ"
+        },
+        {
+          "id": "17-022",
+          "en_name": "Kouk Thlok Kraom",
+          "kh_name": "គោកធ្លកក្រោម"
+        },
+        {
+          "id": "17-023",
+          "en_name": "Kouk Thlok Leu",
+          "kh_name": "គោកធ្លកលើ"
+        },
+        {
+          "id": "17-024",
+          "en_name": "Lveaeng Ruessei",
+          "kh_name": "ល្វែងឫស្សី"
+        },
+        {
+          "id": "17-025",
+          "en_name": "Pongro Kraom",
+          "kh_name": "ពង្រក្រោម"
+        },
+        {
+          "id": "17-026",
+          "en_name": "Pongro Leu",
+          "kh_name": "ពង្រលើ"
+        },
+        {
+          "id": "17-027",
+          "en_name": "Ruessei Lok",
+          "kh_name": "ឫស្សីលក"
+        },
+        {
+          "id": "17-028",
+          "en_name": "Sangvaeuy",
+          "kh_name": "សង្វើយ"
+        },
+        {
+          "id": "17-029",
+          "en_name": "Spean Tnaot",
+          "kh_name": "ស្ពានត្នោត"
+        }
+      ]
+    },
+    {
+      "kh_name": "ក្រលាញ់",
+      "en_name": "Kralanh",
+      "communes": [
+        {
+          "id": "17-030",
+          "en_name": "Chonloas Dai",
+          "kh_name": "ជន្លាស់ដៃ"
+        },
+        {
+          "id": "17-031",
+          "en_name": "Kampong Thkov",
+          "kh_name": "កំពង់ថ្កូវ"
+        },
+        {
+          "id": "17-032",
+          "en_name": "Kralanh",
+          "kh_name": "ក្រឡាញ់"
+        },
+        {
+          "id": "17-033",
+          "en_name": "Krouch Kor",
+          "kh_name": "ក្រូចគរ"
+        },
+        {
+          "id": "17-034",
+          "en_name": "Roung Kou",
+          "kh_name": "រោងគោ"
+        },
+        {
+          "id": "17-035",
+          "en_name": "Sambuor",
+          "kh_name": "សំបួរ"
+        },
+        {
+          "id": "17-036",
+          "en_name": "Saen Sokh",
+          "kh_name": "សែនសុខ"
+        },
+        {
+          "id": "17-037",
+          "en_name": "Snuol",
+          "kh_name": "ស្នួល"
+        },
+        {
+          "id": "17-038",
+          "en_name": "Sranal",
+          "kh_name": "ស្រណាល"
+        },
+        {
+          "id": "17-039",
+          "en_name": "Ta an",
+          "kh_name": "តាអាន"
+        }
+      ]
+    },
+    {
+      "kh_name": "ពួក",
+      "en_name": "Puok",
+      "communes": [
+        {
+          "id": "17-040",
+          "en_name": "Sasar Sdam",
+          "kh_name": "សសរស្តម្ភ"
+        },
+        {
+          "id": "17-041",
+          "en_name": "Doun Kaev",
+          "kh_name": "ដូនកែវ"
+        },
+        {
+          "id": "17-042",
+          "en_name": "Kdei Run",
+          "kh_name": "ក្តីរុន"
+        },
+        {
+          "id": "17-043",
+          "en_name": "Kaev Poar",
+          "kh_name": "កែវពណ៌"
+        },
+        {
+          "id": "17-044",
+          "en_name": "Khnat",
+          "kh_name": "ខ្នាត"
+        },
+        {
+          "id": "17-045",
+          "en_name": "Lvea",
+          "kh_name": "ល្វា"
+        },
+        {
+          "id": "17-046",
+          "en_name": "Mukh Paen",
+          "kh_name": "មុខប៉ែន"
+        },
+        {
+          "id": "17-047",
+          "en_name": "Pou Treay",
+          "kh_name": "ពោធិទ្រាយ"
+        },
+        {
+          "id": "17-048",
+          "en_name": "Puok",
+          "kh_name": "ពួក"
+        },
+        {
+          "id": "17-049",
+          "en_name": "Prey Chruk",
+          "kh_name": "ព្រៃជ្រូក"
+        },
+        {
+          "id": "17-050",
+          "en_name": "Reul",
+          "kh_name": "រើស"
+        },
+        {
+          "id": "17-051",
+          "en_name": "Samraong Yea",
+          "kh_name": "សំរោងយា"
+        },
+        {
+          "id": "17-052",
+          "en_name": "Trei Nhoar",
+          "kh_name": "ត្រីញ័រ"
+        },
+        {
+          "id": "17-053",
+          "en_name": "Yeang",
+          "kh_name": "យាង"
+        }
+      ]
+    },
+    {
+      "kh_name": "ប្រាសាទបាគង",
+      "en_name": "Prasat Bakong",
+      "communes": [
+        {
+          "id": "17-054",
+          "en_name": "Bakong",
+          "kh_name": "បាគង"
+        },
+        {
+          "id": "17-055",
+          "en_name": "Ballangk",
+          "kh_name": "បល្ល័ង្គ"
+        },
+        {
+          "id": "17-056",
+          "en_name": "កំពង់ភ្លុក",
+          "kh_name": "Kampong Phluk"
+        },
+        {
+          "id": "17-057",
+          "en_name": "កន្ទ្រាំង",
+          "kh_name": "Kantreang"
+        },
+        {
+          "id": "17-058",
+          "en_name": "កណ្តែត",
+          "kh_name": "Kandaek"
+        },
+        {
+          "id": "17-059",
+          "en_name": "មានជ័យ",
+          "kh_name": "Mean Chey"
+        },
+        {
+          "id": "17-060",
+          "en_name": "Roluos",
+          "kh_name": "រលួស"
+        },
+        {
+          "id": "17-061",
+          "en_name": "Trapeang Thum",
+          "kh_name": "ត្រពាំងធំ"
+        }
+      ]
+    },
+    {
+      "kh_name": "សៀមរាប",
+      "en_name": "Siem Reap",
+      "communes": [
+        {
+          "id": "17-062",
+          "en_name": "Krabei Riel",
+          "kh_name": "ក្របីរៀល"
+        },
+        {
+          "id": "17-063",
+          "en_name": "Tuek Vil",
+          "kh_name": "ទឹកវិល"
+        },
+        {
+          "id": "17-064",
+          "en_name": "Ampil",
+          "kh_name": "អំពិល"
+        },
+        {
+          "id": "17-065",
+          "en_name": "Sla Kram",
+          "kh_name": "ស្លក្រាម"
+        },
+        {
+          "id": "17-066",
+          "en_name": "Svay Dangkum",
+          "kh_name": "ស្វាយដង្គំ"
+        },
+        {
+          "id": "17-067",
+          "en_name": "Kouk Chak",
+          "kh_name": "គោកចក"
+        },
+        {
+          "id": "17-068",
+          "en_name": "Sala Kamraeuk",
+          "kh_name": "សាលាកំរើក"
+        },
+        {
+          "id": "17-069",
+          "en_name": "Nokor Thum",
+          "kh_name": "នគរធំ"
+        },
+        {
+          "id": "17-070",
+          "en_name": "Chreav",
+          "kh_name": "ជ្រាវ"
+        },
+        {
+          "id": "17-071",
+          "en_name": "Chong Khnies",
+          "kh_name": "ចុងឃ្នៀស"
+        },
+        {
+          "id": "17-072",
+          "en_name": "Sambuor",
+          "kh_name": "សំបួរ"
+        },
+        {
+          "id": "17-073",
+          "en_name": "Siem Reab",
+          "kh_name": "សៀមរាប"
+        },
+        {
+          "id": "17-074",
+          "en_name": "Srangae",
+          "kh_name": "ស្រង៉ែ"
+        }
+      ]
+    },
+    {
+      "kh_name": "ស្រីស្នំ",
+      "en_name": "Srei Snam",
+      "communes": [
+        {
+          "id": "17-075",
+          "en_name": "Chrouy Neang Nguon",
+          "kh_name": "ជ្រោយនាងងួន"
+        },
+        {
+          "id": "17-076",
+          "en_name": "Klang Hay",
+          "kh_name": "ក្លាំងហាយ"
+        },
+        {
+          "id": "17-077",
+          "en_name": "Tram Sasar",
+          "kh_name": "ត្រាំសសរ"
+        },
+        {
+          "id": "17-078",
+          "en_name": "Moung",
+          "kh_name": "មោង"
+        },
+        {
+          "id": "17-079",
+          "en_name": "Prei",
+          "kh_name": "ប្រីយ៍"
+        },
+        {
+          "id": "17-080",
+          "en_name": "Slaeng Spean",
+          "kh_name": "ស្លែងស្ពាន"
+        }
+      ]
+    },
+    {
+      "kh_name": "សូទ្រនិគម",
+      "en_name": "Soutr Nikom",
+      "communes": [
+        {
+          "id": "17-081",
+          "en_name": "Chan Sar",
+          "kh_name": "ចាន់ស"
+        },
+        {
+          "id": "17-082",
+          "en_name": "Dam Daek",
+          "kh_name": "ដំដែក"
+        },
+        {
+          "id": "17-083",
+          "en_name": "Dan Run",
+          "kh_name": "ដានរុន"
+        },
+        {
+          "id": "17-084",
+          "en_name": "Kampong Khleang",
+          "kh_name": "កំពង់ឃ្លាំង"
+        },
+        {
+          "id": "17-085",
+          "en_name": "Kien Sangkae",
+          "kh_name": "កៀនសង្កែ"
+        },
+        {
+          "id": "17-086",
+          "en_name": "Khchas",
+          "kh_name": "ខ្ចាស់"
+        },
+        {
+          "id": "17-087",
+          "en_name": "Khnar Pou",
+          "kh_name": "ខ្នារពោធិ៍"
+        },
+        {
+          "id": "17-088",
+          "en_name": "Popel",
+          "kh_name": "ពពេល"
+        },
+        {
+          "id": "17-089",
+          "en_name": "Samraong",
+          "kh_name": "សំរោង"
+        },
+        {
+          "id": "17-090",
+          "en_name": "Ta Yaek",
+          "kh_name": "តាយ៉ែក"
+        }
+      ]
+    },
+    {
+      "kh_name": "ស្វាយលើ",
+      "en_name": "Svay Leu",
+      "communes": [
+        {
+          "id": "17-091",
+          "en_name": "Boeng Mealea",
+          "kh_name": "បឹងមាលា"
+        },
+        {
+          "id": "17-092",
+          "en_name": "Kantuot",
+          "kh_name": "កន្ទួត"
+        },
+        {
+          "id": "17-093",
+          "en_name": "Khnang Phnum",
+          "kh_name": "ខ្នងភ្នំ"
+        },
+        {
+          "id": "17-094",
+          "en_name": "Svay Leu",
+          "kh_name": "ស្វាយលើ"
+        },
+        {
+          "id": "17-095",
+          "en_name": "Ta Siem",
+          "kh_name": "តាសៀម"
+        }
+      ]
+    },
+    {
+      "kh_name": "វារិន្ទ",
+      "en_name": "Varin",
+      "communes": [
+        {
+          "id": "17-096",
+          "en_name": "Prasat",
+          "kh_name": "ប្រាសាទ"
+        },
+        {
+          "id": "17-097",
+          "en_name": "Lvea Krang",
+          "kh_name": "ល្វាក្រាំង"
+        },
+        {
+          "id": "17-098",
+          "en_name": "Srae Nouy",
+          "kh_name": "ស្រែណូយ"
+        },
+        {
+          "id": "17-099",
+          "en_name": "Svay sa",
+          "kh_name": "ស្វាយស"
+        },
+        {
+          "id": "17-100",
+          "en_name": "Varin",
+          "kh_name": "វ៉ារិន"
+        }
+      ]
+    }
+  ]
+}

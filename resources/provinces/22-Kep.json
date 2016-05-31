@@ -1,0 +1,43 @@
+{
+  "kh_name": "កែប",
+  "en_name": "Kep",
+  "districts": [
+    {
+      "kh_name": "ដំណាក់ចង្អើរ",
+      "en_name": "Damnak Chang'aeur",
+      "communes": [
+        {
+          "id": "21-001",
+          "en_name": "Angkoal",
+          "kh_name": "អង្កោល"
+        },
+        {
+          "id": "21-002",
+          "en_name": "Porng Teuk",
+          "kh_name": "ពងទឹក"
+        }
+      ]
+    },
+    {
+      "kh_name": "កែប",
+      "en_name": "Kep",
+      "communes": [
+        {
+          "id": "21-003",
+          "en_name": "Keb",
+          "kh_name": "កែប"
+        },
+        {
+          "id": "21-004",
+          "en_name": "Prey Thom",
+          "kh_name": "ព្រៃធំ"
+        },
+        {
+          "id": "21-005",
+          "en_name": "Ou Krosar",
+          "kh_name": "អូរក្រសារ"
+        }
+      ]
+    }
+  ]
+}

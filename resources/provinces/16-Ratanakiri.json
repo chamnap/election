@@ -1,0 +1,305 @@
+{
+  "kh_name": "រតនគិរី",
+  "en_name": "Ratanakiri",
+  "districts": [
+    {
+      "kh_name": "អណ្តូងមាស​",
+      "en_name": "Andoung Meas",
+      "communes": [
+        {
+          "id": "16-001",
+          "en_name": "Malik",
+          "kh_name": "ម៉ាលិក"
+        },
+        {
+          "id": "16-002",
+          "en_name": "Nhang",
+          "kh_name": "ញ៉ាង"
+        },
+        {
+          "id": "16-003",
+          "en_name": "Ta Lav",
+          "kh_name": "តាឡាវ"
+        }
+      ]
+    },
+    {
+      "kh_name": "បានលុង",
+      "en_name": "Banlung",
+      "communes": [
+        {
+          "id": "16-004",
+          "en_name": "Kachanh",
+          "kh_name": ""
+        },
+        {
+          "id": "16-005",
+          "en_name": "Labansiek",
+          "kh_name": ""
+        },
+        {
+          "id": "16-006",
+          "en_name": "Yeak Laom",
+          "kh_name": "យក្សឡោម"
+        }
+      ]
+    },
+    {
+      "kh_name": "បរកែវ",
+      "en_name": "Bar Kaev",
+      "communes": [
+        {
+          "id": "16-007",
+          "en_name": "Kork",
+          "kh_name": "កក់"
+        },
+        {
+          "id": "16-008",
+          "en_name": "Keh Chong",
+          "kh_name": "កិះចុង"
+        },
+        {
+          "id": "16-009",
+          "en_name": "Laminh",
+          "kh_name": "ឡាមិញ"
+        },
+        {
+          "id": "16-010",
+          "en_name": "Ting Chak",
+          "kh_name": "ទីងចាក់"
+        },
+        {
+          "id": "16-011",
+          "en_name": "Seung",
+          "kh_name": "ស៊ើង"
+        },
+        {
+          "id": "16-012",
+          "en_name": "Lung Khung",
+          "kh_name": "លុងឃុង"
+        }
+      ]
+    },
+    {
+      "kh_name": "កូនមុំ",
+      "en_name": "Koun Mom",
+      "communes": [
+        {
+          "id": "16-013",
+          "en_name": "Serei Mongkol",
+          "kh_name": "សិរីមង្គល"
+        },
+        {
+          "id": "16-014",
+          "en_name": "Sre Angkrorng",
+          "kh_name": "ស្រែអង្រ្គង"
+        },
+        {
+          "id": "16-015",
+          "en_name": "Ta Orng",
+          "kh_name": "តាអង"
+        },
+        {
+          "id": "16-016",
+          "en_name": "Teun",
+          "kh_name": "តឺន"
+        },
+        {
+          "id": "16-017",
+          "en_name": "Trapeang Chres",
+          "kh_name": "ត្រពាំងច្រេស"
+        },
+        {
+          "id": "16-018",
+          "en_name": "Trapeang Krahorm",
+          "kh_name": "ត្រពាំងក្រហម"
+        }
+      ]
+    },
+    {
+      "kh_name": "លំផាត់",
+      "en_name": "Lumphat",
+      "communes": [
+        {
+          "id": "16-019",
+          "en_name": "Chey Udom",
+          "kh_name": "ជ័យឧត្តម"
+        },
+        {
+          "id": "16-020",
+          "en_name": "Kaleng",
+          "kh_name": "កាឡែង"
+        },
+        {
+          "id": "16-021",
+          "en_name": "Lbang 1",
+          "kh_name": "ល្បាំង ១"
+        },
+        {
+          "id": "16-022",
+          "en_name": "Lbang 2",
+          "kh_name": "ល្បាំង ២"
+        },
+        {
+          "id": "16-023",
+          "en_name": "Batang",
+          "kh_name": "បាតាង"
+        },
+        {
+          "id": "16-024",
+          "en_name": "Seda",
+          "kh_name": "សេដា"
+        }
+      ]
+    },
+    {
+      "kh_name": "អូរជុំ",
+      "en_name": "Ou Chum",
+      "communes": [
+        {
+          "id": "16-025",
+          "en_name": "Cha Uong",
+          "kh_name": "ចាអ៊ុង"
+        },
+        {
+          "id": "16-026",
+          "en_name": "Poy",
+          "kh_name": "ប៉ូយ"
+        },
+        {
+          "id": "16-027",
+          "en_name": "Aekkapheap",
+          "kh_name": "ឯកភាព"
+        },
+        {
+          "id": "16-028",
+          "en_name": "Kalei",
+          "kh_name": "កាឡៃ"
+        },
+        {
+          "id": "16-029",
+          "en_name": "Ou CHum",
+          "kh_name": "អូរជុំ"
+        },
+        {
+          "id": "16-030",
+          "en_name": "Sammaki",
+          "kh_name": "សាមគ្គី"
+        },
+        {
+          "id": "16-031",
+          "en_name": "Laork",
+          "kh_name": "ល្អក់"
+        }
+      ]
+    },
+    {
+      "kh_name": "អូរយ៉ាដាវ",
+      "en_name": "Ou Ya Dav",
+      "communes": [
+        {
+          "id": "16-032",
+          "en_name": "Bar Kham",
+          "kh_name": "បរខាំ"
+        },
+        {
+          "id": "16-033",
+          "en_name": "Lun Choar",
+          "kh_name": "លំជ័រ"
+        },
+        {
+          "id": "16-034",
+          "en_name": "Pork Nhai",
+          "kh_name": "ប៉ក់ញ៉ៃ"
+        },
+        {
+          "id": "16-035",
+          "en_name": "Pate",
+          "kh_name": "ប៉ាតេ"
+        },
+        {
+          "id": "16-036",
+          "en_name": "Sesan",
+          "kh_name": "សេសាន"
+        },
+        {
+          "id": "16-037",
+          "en_name": "Soam Thum",
+          "kh_name": "សោមធំ"
+        },
+        {
+          "id": "16-038",
+          "en_name": "Yatung",
+          "kh_name": "យ៉ាទុង"
+        }
+      ]
+    },
+    {
+      "kh_name": "តាវែង",
+      "en_name": "Ta Veaeng",
+      "communes": [
+        {
+          "id": "16-039",
+          "en_name": "Ta Veang Leu",
+          "kh_name": "តាវែងលើ"
+        },
+        {
+          "id": "16-040",
+          "en_name": "Ta Veang Kroam",
+          "kh_name": "តាវែងក្រោម"
+        }
+      ]
+    },
+    {
+      "kh_name": "វើនសៃ",
+      "en_name": "Veun Sai",
+      "communes": [
+        {
+          "id": "16-041",
+          "en_name": "Pong",
+          "kh_name": "ប៉ុង"
+        },
+        {
+          "id": "16-042",
+          "en_name": "Hat Pork",
+          "kh_name": "ហាត់ប៉ក់"
+        },
+        {
+          "id": "16-043",
+          "en_name": "Ka Chon",
+          "kh_name": "កាចូន"
+        },
+        {
+          "id": "16-044",
+          "en_name": "Koh Pong",
+          "kh_name": "កោះប៉ង់"
+        },
+        {
+          "id": "16-045",
+          "en_name": "Koh Peak",
+          "kh_name": "កោះពាក្យ"
+        },
+        {
+          "id": "16-046",
+          "en_name": "Kok Lak",
+          "kh_name": "កុកឡាក់"
+        },
+        {
+          "id": "16-047",
+          "en_name": "Pakalanh",
+          "kh_name": "ប៉ាកាឡាន់"
+        },
+        {
+          "id": "16-048",
+          "en_name": "Phnom Kok",
+          "kh_name": "ភ្នំកុក"
+        },
+        {
+          "id": "16-049",
+          "en_name": "Veun Sai",
+          "kh_name": "វើនសៃ"
+        }
+      ]
+    }
+  ]
+}

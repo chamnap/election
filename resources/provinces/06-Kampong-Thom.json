@@ -1,0 +1,459 @@
+{
+  "kh_name": "កំពង់ធំ",
+  "en_name": "Kampong Thom",
+  "districts": [
+    {
+      "kh_name": "បារាយណ៍",
+      "en_name": "Baray",
+      "communes": [
+        {
+          "id": "06-001",
+          "en_name": "Bak Sna",
+          "kh_name": "បាក់ស្នា"
+        },
+        {
+          "id": "06-002",
+          "en_name": "Balangk",
+          "kh_name": "បល្ល័ង្ក"
+        },
+        {
+          "id": "06-003",
+          "en_name": "Baray",
+          "kh_name": "បារាយណ៍"
+        },
+        {
+          "id": "06-004",
+          "en_name": "Beung",
+          "kh_name": "បឹង"
+        },
+        {
+          "id": "06-005",
+          "en_name": "Cheungdeung",
+          "kh_name": "ចើងដើង"
+        },
+        {
+          "id": "06-006",
+          "en_name": "Chroneang",
+          "kh_name": "ច្រនាង"
+        },
+        {
+          "id": "06-007",
+          "en_name": "Chhouk Ksach",
+          "kh_name": "ឈូកខ្សាច់"
+        },
+        {
+          "id": "06-008",
+          "en_name": "Chong Dong",
+          "kh_name": "ចុងដូង"
+        },
+        {
+          "id": "06-009",
+          "en_name": "Chrolorng",
+          "kh_name": "ជ្រលង"
+        },
+        {
+          "id": "06-010",
+          "en_name": "Koki Thum",
+          "kh_name": "គគីធំ"
+        },
+        {
+          "id": "06-011",
+          "en_name": "Krova",
+          "kh_name": "ក្រវ៉ា"
+        },
+        {
+          "id": "06-012",
+          "en_name": "Andong Pou",
+          "kh_name": "អណ្តូងពោធិ៍"
+        },
+        {
+          "id": "06-013",
+          "en_name": "Pongro",
+          "kh_name": "ពង្រ"
+        },
+        {
+          "id": "06-014",
+          "en_name": "So Yourng",
+          "kh_name": "សូយោង"
+        },
+        {
+          "id": "06-015",
+          "en_name": "Srolao",
+          "kh_name": "ស្រឡៅ"
+        },
+        {
+          "id": "06-016",
+          "en_name": "Svay Phleung",
+          "kh_name": "ស្វាយភ្លើង"
+        },
+        {
+          "id": "06-017",
+          "en_name": "Thnoat Chum",
+          "kh_name": "ត្នោតជុំ"
+        },
+        {
+          "id": "06-018",
+          "en_name": "Treal",
+          "kh_name": "ទ្រៀល"
+        }
+      ]
+    },
+    {
+      "kh_name": "កំពង់ស្វាយ",
+      "en_name": "Kampong Svay",
+      "communes": [
+        {
+          "id": "06-019",
+          "en_name": "Chey",
+          "kh_name": "ជ័យ​"
+        },
+        {
+          "id": "06-020",
+          "en_name": "Domrei Slab",
+          "kh_name": "ដំរីស្លាប់​"
+        },
+        {
+          "id": "06-021",
+          "en_name": "Kampong Kou",
+          "kh_name": "កំពង់គោ​"
+        },
+        {
+          "id": "06-022",
+          "en_name": "Kampong Svay",
+          "kh_name": "កំពង់ស្វាយ​"
+        },
+        {
+          "id": "06-023",
+          "en_name": "Ni Pich",
+          "kh_name": "នីពេជ​"
+        },
+        {
+          "id": "06-024",
+          "en_name": "Phat Sanday",
+          "kh_name": "ផាត់សណ្តាយ​"
+        },
+        {
+          "id": "06-025",
+          "en_name": "Sann Kor",
+          "kh_name": "សាន់គ​"
+        },
+        {
+          "id": "06-026",
+          "en_name": "Tbaeng",
+          "kh_name": "ត្បែង​"
+        },
+        {
+          "id": "06-027",
+          "en_name": "Trapeang Russei",
+          "kh_name": "ត្រពាំងឫស្សី​"
+        },
+        {
+          "id": "06-028",
+          "en_name": "Kdei Dong",
+          "kh_name": "ក្ដីដូង​"
+        },
+        {
+          "id": "06-029",
+          "en_name": "Prey Kuy",
+          "kh_name": "ព្រៃគុយ​"
+        }
+      ]
+    },
+    {
+      "kh_name": "ក្រុងស្ទឹងសែន",
+      "en_name": "Stueng Saen",
+      "communes": [
+        {
+          "id": "06-030",
+          "en_name": "Domrei ChoanKhla",
+          "kh_name": "ដំរីជាន់ខ្លា"
+        },
+        {
+          "id": "06-031",
+          "en_name": "Kampong Thum",
+          "kh_name": "កំពង់ធំ"
+        },
+        {
+          "id": "06-032",
+          "en_name": "Kampong Roteah",
+          "kh_name": "កំពង់រទេះ"
+        },
+        {
+          "id": "06-033",
+          "en_name": "Ou Konthor",
+          "kh_name": "អូរកន្ធរ"
+        },
+        {
+          "id": "06-034",
+          "en_name": "Kampong Krabao",
+          "kh_name": "កំពង់ក្របៅ"
+        },
+        {
+          "id": "06-035",
+          "en_name": "Prey Tahou",
+          "kh_name": "ព្រៃតាហ៊ូ"
+        },
+        {
+          "id": "06-036",
+          "en_name": "Achar Leak",
+          "kh_name": "អាចារ្យលាក់"
+        },
+        {
+          "id": "06-037",
+          "en_name": "Sroyouv",
+          "kh_name": "ស្រយ៉ូវ"
+        }
+      ]
+    },
+    {
+      "kh_name": "ប្រាសាទបល្ល័ង្ក",
+      "en_name": "Prasat Balangk",
+      "communes": [
+        {
+          "id": "06-038",
+          "en_name": "Daung",
+          "kh_name": "ដូង"
+        },
+        {
+          "id": "06-039",
+          "en_name": "Kroya",
+          "kh_name": "ក្រយា"
+        },
+        {
+          "id": "06-040",
+          "en_name": "Phann Nheum",
+          "kh_name": "ផាន់ញើម"
+        },
+        {
+          "id": "06-041",
+          "en_name": "Sakream",
+          "kh_name": "សាគ្រាម"
+        },
+        {
+          "id": "06-042",
+          "en_name": "Salavisai",
+          "kh_name": "សាលាវិស័យ"
+        },
+        {
+          "id": "06-043",
+          "en_name": "Samakki",
+          "kh_name": "សាមគ្គី"
+        },
+        {
+          "id": "06-044",
+          "en_name": "Toul Kreul",
+          "kh_name": "ទួលគ្រើល"
+        }
+      ]
+    },
+    {
+      "kh_name": "ប្រាសាទសម្បូរ",
+      "en_name": "Prasat Sambour",
+      "communes": [
+        {
+          "id": "06-045",
+          "en_name": "Chouk",
+          "kh_name": "ឈូក"
+        },
+        {
+          "id": "06-046",
+          "en_name": "Kol",
+          "kh_name": "គោល"
+        },
+        {
+          "id": "06-047",
+          "en_name": "Sambo",
+          "kh_name": "សំបូរ"
+        },
+        {
+          "id": "06-048",
+          "en_name": "Sroeung",
+          "kh_name": "ស្រើង"
+        },
+        {
+          "id": "06-049",
+          "en_name": "TaingKrasao",
+          "kh_name": "តាំងក្រសៅ"
+        }
+      ]
+    },
+    {
+      "kh_name": "សណ្ដាន់",
+      "en_name": "Sandaan",
+      "communes": [
+        {
+          "id": "06-050",
+          "en_name": "Klaeng",
+          "kh_name": "ក្លែង"
+        },
+        {
+          "id": "06-051",
+          "en_name": "Gnorn",
+          "kh_name": "ងន"
+        },
+        {
+          "id": "06-052",
+          "en_name": "Chheu Teal",
+          "kh_name": "ឈើទាល"
+        },
+        {
+          "id": "06-053",
+          "en_name": "Dorng Kambet",
+          "kh_name": "ដងកាំបិត"
+        },
+        {
+          "id": "06-054",
+          "en_name": "Tumrin",
+          "kh_name": "ទំរីង"
+        },
+        {
+          "id": "06-055",
+          "en_name": "Mean Chey",
+          "kh_name": "មានជ័យ"
+        },
+        {
+          "id": "06-056",
+          "en_name": "Mean Rith",
+          "kh_name": "មានរិទ្ធ"
+        },
+        {
+          "id": "06-057",
+          "en_name": "Sandaan",
+          "kh_name": "សណ្តាន់"
+        },
+        {
+          "id": "06-058",
+          "en_name": "Suchitr",
+          "kh_name": "សុចិត្រ"
+        }
+      ]
+    },
+    {
+      "kh_name": "សន្ទុក",
+      "en_name": "Santuk",
+      "communes": [
+        {
+          "id": "06-059",
+          "en_name": "Beung Lvea",
+          "kh_name": "បឹងល្វា"
+        },
+        {
+          "id": "06-060",
+          "en_name": "Chrorb",
+          "kh_name": "ជ្រាប់"
+        },
+        {
+          "id": "06-061",
+          "en_name": "Kampong Thma",
+          "kh_name": "កំពង់ថ្ម"
+        },
+        {
+          "id": "06-062",
+          "en_name": "Kokoh",
+          "kh_name": "កកោះ"
+        },
+        {
+          "id": "06-063",
+          "en_name": "Kroya",
+          "kh_name": "ក្រយា"
+        },
+        {
+          "id": "06-064",
+          "en_name": "Phnao",
+          "kh_name": "ព្នៅ"
+        },
+        {
+          "id": "06-065",
+          "en_name": "Brasat",
+          "kh_name": "ប្រាសាទ"
+        },
+        {
+          "id": "06-066",
+          "en_name": "Taing Krasaing",
+          "kh_name": "តាំងក្រសាំង"
+        },
+        {
+          "id": "06-067",
+          "en_name": "Ti Pou",
+          "kh_name": "ទីពោ"
+        },
+        {
+          "id": "06-068",
+          "en_name": "Tbong Kropeu",
+          "kh_name": "ត្រពាំងក្រពើ​"
+        }
+      ]
+    },
+    {
+      "kh_name": "ស្ទោង",
+      "en_name": "Stoung",
+      "communes": [
+        {
+          "id": "06-069",
+          "en_name": "Banteay Stoung",
+          "kh_name": "បន្ទាយស្ទោង"
+        },
+        {
+          "id": "06-070",
+          "en_name": "Chomna Krorm",
+          "kh_name": "ចំណាក្រោម"
+        },
+        {
+          "id": "06-071",
+          "en_name": "Chomna Leu",
+          "kh_name": "ចំណាលើ"
+        },
+        {
+          "id": "06-072",
+          "en_name": "Kampong Chen Cheung",
+          "kh_name": "កំពង់ចិនជើង"
+        },
+        {
+          "id": "06-073",
+          "en_name": "Kampong Chen Tbong",
+          "kh_name": "កំពង់ចិនត្បូង"
+        },
+        {
+          "id": "06-074",
+          "en_name": "Msa Krorng",
+          "kh_name": "ម្សាក្រង"
+        },
+        {
+          "id": "06-075",
+          "en_name": "Peam Bang",
+          "kh_name": "ពាមបាង"
+        },
+        {
+          "id": "06-076",
+          "en_name": "Popork",
+          "kh_name": "ពពក"
+        },
+        {
+          "id": "06-077",
+          "en_name": "Brolay",
+          "kh_name": "ប្រឡាយ"
+        },
+        {
+          "id": "06-078",
+          "en_name": "Preah Domrei",
+          "kh_name": "ព្រះដំរី"
+        },
+        {
+          "id": "06-079",
+          "en_name": "Rong Reung",
+          "kh_name": "រុងរឿង"
+        },
+        {
+          "id": "06-080",
+          "en_name": "Somprouch",
+          "kh_name": "សំព្រោច"
+        },
+        {
+          "id": "06-081",
+          "en_name": "Trea",
+          "kh_name": "ទ្រា"
+        }
+      ]
+    }
+  ]
+}

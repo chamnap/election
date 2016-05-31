@@ -1,0 +1,165 @@
+{
+  "kh_name": "ព្រះសីហនុ",
+  "en_name": "Preah Sihanouk",
+  "districts": [
+    {
+      "kh_name": "មិត្តភាព",
+      "en_name": "Krong Preah Sihanouk",
+      "communes": [
+        {
+          "id": "24-001",
+          "en_name": "Sangkat Muoy",
+          "kh_name": "សង្កាត់មួយ"
+        },
+        {
+          "id": "24-002",
+          "en_name": "Sangkat Pir",
+          "kh_name": "សង្កាត់ពីរ"
+        },
+        {
+          "id": "24-003",
+          "en_name": "Sangkat Bei",
+          "kh_name": "សង្កាត់បីរ"
+        },
+        {
+          "id": "24-004",
+          "en_name": "Sangkat Buon",
+          "kh_name": "បយន"
+        },
+        {
+          "id": "24-005",
+          "en_name": "Kaoh Rung",
+          "kh_name": "កោះរ៉ុង"
+        }
+      ]
+    },
+    {
+      "kh_name": "ព្រៃនប់",
+      "en_name": "Prey Nob",
+      "communes": [
+        {
+          "id": "24-006",
+          "en_name": "Andong Thmar",
+          "kh_name": "អណ្ដូងថ្ម"
+        },
+        {
+          "id": "24-007",
+          "en_name": "Beung Taprum",
+          "kh_name": "បឹងតាព្រហ្ម"
+        },
+        {
+          "id": "24-008",
+          "en_name": "Bet Trang",
+          "kh_name": "បិតត្រាំង"
+        },
+        {
+          "id": "24-009",
+          "en_name": "Cheung Koar",
+          "kh_name": "ជើងគោ"
+        },
+        {
+          "id": "24-010",
+          "en_name": "Ou Chrov",
+          "kh_name": "អូរជ្រៅ"
+        },
+        {
+          "id": "24-011",
+          "en_name": "Ou Oknha Heng",
+          "kh_name": "អូរឧកញ៉ាហេង"
+        },
+        {
+          "id": "24-012",
+          "en_name": "Prey Nob",
+          "kh_name": "ព្រៃនប់"
+        },
+        {
+          "id": "24-013",
+          "en_name": "Ream",
+          "kh_name": "រាម"
+        },
+        {
+          "id": "24-014",
+          "en_name": "Sammaki",
+          "kh_name": "សាមគ្គី"
+        },
+        {
+          "id": "24-015",
+          "en_name": "Somrong",
+          "kh_name": "សំរុង"
+        },
+        {
+          "id": "24-016",
+          "en_name": "Teuk Laork",
+          "kh_name": "ទឹកល្អក់"
+        },
+        {
+          "id": "24-017",
+          "en_name": "Teuk Tla",
+          "kh_name": "ទឹកថ្លា"
+        },
+        {
+          "id": "24-018",
+          "en_name": "Toul Toteung",
+          "kh_name": "ទូលទទឹក"
+        },
+        {
+          "id": "24-019",
+          "en_name": "Veal Rinh",
+          "kh_name": "វាលរេញ"
+        }
+      ]
+    },
+    {
+      "kh_name": "ស្ទឹងហាវ",
+      "en_name": "Stueng Hav",
+      "communes": [
+        {
+          "id": "24-020",
+          "en_name": "Kompenh",
+          "kh_name": "កំពេញ"
+        },
+        {
+          "id": "24-021",
+          "en_name": "Ou Treh",
+          "kh_name": "អូរត្រេះ"
+        },
+        {
+          "id": "24-022",
+          "en_name": "Tomnob Rolork",
+          "kh_name": "ទំនប់រលក"
+        },
+        {
+          "id": "24-023",
+          "en_name": "Keo Phos",
+          "kh_name": "កំពុងសិលា"
+        }
+      ]
+    },
+    {
+      "kh_name": "កំពង់សីលា",
+      "en_name": "Kampong Seila",
+      "communes": [
+        {
+          "id": "24-024",
+          "en_name": "Chamkar Luong",
+          "kh_name": "ចំការហ្លួង"
+        },
+        {
+          "id": "24-025",
+          "en_name": "Kampong Seila",
+          "kh_name": "កំពង់សីលា"
+        },
+        {
+          "id": "24-026",
+          "en_name": "Ou Bak Roteh",
+          "kh_name": "អូរបាក់រទេះ"
+        },
+        {
+          "id": "24-027",
+          "en_name": "Stueng Chhay",
+          "kh_name": "ស្ទឹងឆាយ"
+        }
+      ]
+    }
+  ]
+}

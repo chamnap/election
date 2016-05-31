@@ -1,0 +1,514 @@
+{
+  "kh_name": "កំពត",
+  "en_name": "Kampot",
+  "districts": [
+    {
+      "kh_name": "អង្គរជ័យ",
+      "en_name": "Angkor Chey",
+      "communes": [
+        {
+          "id": "07-001",
+          "en_name": "Angk Phnom Toch",
+          "kh_name": "អង្គភ្នំតូច"
+        },
+        {
+          "id": "07-002",
+          "en_name": "Angkor Chey",
+          "kh_name": "អង្គរជ័យ"
+        },
+        {
+          "id": "07-003",
+          "en_name": "Chompei",
+          "kh_name": "ចំប៉ី"
+        },
+        {
+          "id": "07-004",
+          "en_name": "Dombok Khpous",
+          "kh_name": "ដំបូកខ្ពស់"
+        },
+        {
+          "id": "07-005",
+          "en_name": "Dankourm",
+          "kh_name": "ដានគោម"
+        },
+        {
+          "id": "07-006",
+          "en_name": "Deum Dong",
+          "kh_name": "ដើមដូង"
+        },
+        {
+          "id": "07-007",
+          "en_name": "Mrourm",
+          "kh_name": "ម្រោម"
+        },
+        {
+          "id": "07-008",
+          "en_name": "Phnom Kong",
+          "kh_name": "ភ្នំកុង"
+        },
+        {
+          "id": "07-009",
+          "en_name": "Brophnom",
+          "kh_name": "ប្រភ្នំ"
+        },
+        {
+          "id": "07-010",
+          "en_name": "Somlanh",
+          "kh_name": "សំឡាញ"
+        },
+        {
+          "id": "07-011",
+          "en_name": "Tani",
+          "kh_name": "តានី"
+        }
+      ]
+    },
+    {
+      "kh_name": "បន្ទាយមាស",
+      "en_name": "Banteay Meas",
+      "communes": [
+        {
+          "id": "07-012",
+          "en_name": "Tnoat Chong Srorng",
+          "kh_name": "ត្នោតចុងស្រង់"
+        },
+        {
+          "id": "07-013",
+          "en_name": "Trapeang Sala Khang Kert",
+          "kh_name": "ត្រពាំងសាលាខាងកើត"
+        },
+        {
+          "id": "07-014",
+          "en_name": "Trapeang Sala Khang Lech",
+          "kh_name": "ត្រពាំងសាលាខាងលិច"
+        },
+        {
+          "id": "07-015",
+          "en_name": "Touk Meas Khang Kert",
+          "kh_name": "ទូកមាសខាងកើត"
+        },
+        {
+          "id": "07-016",
+          "en_name": "Touk Meas Khang Lech",
+          "kh_name": "ទូកមាសខាងលិច"
+        },
+        {
+          "id": "07-017",
+          "en_name": "Banteay Meas Khang Kert",
+          "kh_name": "បន្ទាយមាសខាងកើត"
+        },
+        {
+          "id": "07-018",
+          "en_name": "Banteay Meas Khang Lech",
+          "kh_name": "បន្ទាយមាសខាងលិច"
+        },
+        {
+          "id": "07-019",
+          "en_name": "Prey Tonle",
+          "kh_name": "ព្រៃទន្លេ​"
+        },
+        {
+          "id": "07-020",
+          "en_name": "Vat Angk Khang Cheung",
+          "kh_name": "វត្តអង្គខាងជើង"
+        },
+        {
+          "id": "07-021",
+          "en_name": "Vat Angk Khang Tbong",
+          "kh_name": "វត្តអង្គខាងត្បូង"
+        },
+        {
+          "id": "07-022",
+          "en_name": "Somrorng Krom",
+          "kh_name": "សំរោងក្រោម"
+        },
+        {
+          "id": "07-023",
+          "en_name": "Somrorng Leu",
+          "kh_name": "សំរោងលើ"
+        },
+        {
+          "id": "07-024",
+          "en_name": "Sdechkong Khang Cheung",
+          "kh_name": "ស្ដេចគង់ខាងជើង"
+        },
+        {
+          "id": "07-025",
+          "en_name": "Sdechkong Khang Tbong",
+          "kh_name": "ស្តេចគង់ខាងត្បូង"
+        },
+        {
+          "id": "07-026",
+          "en_name": "Sdechkong Khang Lech",
+          "kh_name": "ស្តេចគង់ខាងលិច"
+        }
+      ]
+    },
+    {
+      "kh_name": "ឈូក",
+      "en_name": "Chhuk",
+      "communes": [
+        {
+          "id": "07-027",
+          "en_name": "Baneav",
+          "kh_name": "បានៀវ"
+        },
+        {
+          "id": "07-028",
+          "en_name": "Beung Nimol",
+          "kh_name": "បឹងនិមល"
+        },
+        {
+          "id": "07-029",
+          "en_name": "Chhouk",
+          "kh_name": "ឈូក"
+        },
+        {
+          "id": "07-030",
+          "en_name": "Daun Yoy",
+          "kh_name": "ដូនយ៉យ"
+        },
+        {
+          "id": "07-031",
+          "en_name": "Krang Sbov",
+          "kh_name": "ក្រាំងស្បូវ"
+        },
+        {
+          "id": "07-032",
+          "en_name": "Krang Snay",
+          "kh_name": "ក្រាំងស្នាយ"
+        },
+        {
+          "id": "07-033",
+          "en_name": "Lbeuk",
+          "kh_name": "ល្បើក"
+        },
+        {
+          "id": "07-034",
+          "en_name": "Meanchey",
+          "kh_name": "មានជ័យ"
+        },
+        {
+          "id": "07-035",
+          "en_name": "Noreay",
+          "kh_name": "នរាយណ៍"
+        },
+        {
+          "id": "07-036",
+          "en_name": "Satv Porng",
+          "kh_name": "សត្វពង"
+        },
+        {
+          "id": "07-037",
+          "en_name": "Trapeang Bei",
+          "kh_name": "ត្រពាំងបី"
+        },
+        {
+          "id": "07-038",
+          "en_name": "Tromaeng",
+          "kh_name": "ត្រមែង"
+        },
+        {
+          "id": "07-039",
+          "en_name": "Takaen",
+          "kh_name": "តាកែន"
+        },
+        {
+          "id": "07-040",
+          "en_name": "Trapeang Phlearng",
+          "kh_name": "ត្រពាំងភ្លាំង"
+        }
+      ]
+    },
+    {
+      "kh_name": "ជុំគីរី",
+      "en_name": "Chum Kiri",
+      "communes": [
+        {
+          "id": "07-041",
+          "en_name": "Chres",
+          "kh_name": "ច្រេស"
+        },
+        {
+          "id": "07-042",
+          "en_name": "Chompouvornt",
+          "kh_name": "ជំពូវន្ត"
+        },
+        {
+          "id": "07-043",
+          "en_name": "Snay Anhchit",
+          "kh_name": "ស្នាយអញ្ជិត"
+        },
+        {
+          "id": "07-044",
+          "en_name": "Srae Chaeng",
+          "kh_name": "ស្រែចែង"
+        },
+        {
+          "id": "07-045",
+          "en_name": "Srae Khnong",
+          "kh_name": "ស្រែក្នុង"
+        },
+        {
+          "id": "07-046",
+          "en_name": "Srae Somroang",
+          "kh_name": "ស្រែសំរោង"
+        },
+        {
+          "id": "07-047",
+          "en_name": "Trapeang Reang",
+          "kh_name": "ត្រពាំងរាំង"
+        }
+      ]
+    },
+    {
+      "kh_name": "ដងទង",
+      "en_name": "Dang Tong",
+      "communes": [
+        {
+          "id": "07-048",
+          "en_name": "Domnak Sokrom",
+          "kh_name": "ដំណាក់សុក្រំ"
+        },
+        {
+          "id": "07-049",
+          "en_name": "Dorng Tong",
+          "kh_name": "ដងទង់"
+        },
+        {
+          "id": "07-050",
+          "en_name": "Kcheay Khang Cheung",
+          "kh_name": "ខ្ជាយខាងជើង"
+        },
+        {
+          "id": "07-051",
+          "en_name": "Kcheay Khang Tbong",
+          "kh_name": "ខ្ជាយខាងត្បូង"
+        },
+        {
+          "id": "07-052",
+          "en_name": "Meanrith",
+          "kh_name": "មានរិទ្ធិ"
+        },
+        {
+          "id": "07-053",
+          "en_name": "Sraechea Khang Cheung",
+          "kh_name": "ស្រែជាខាងជើង"
+        },
+        {
+          "id": "07-054",
+          "en_name": "Sraechea Khang Tbong",
+          "kh_name": "ស្រែជាខាងត្បូង"
+        },
+        {
+          "id": "07-055",
+          "en_name": "Totung",
+          "kh_name": "ទទុង"
+        },
+        {
+          "id": "07-056",
+          "en_name": "Angk Romeas",
+          "kh_name": "អង្គរមាស"
+        },
+        {
+          "id": "07-057",
+          "en_name": "La'ang",
+          "kh_name": "ល្អាង"
+        }
+      ]
+    },
+    {
+      "kh_name": "កំពង់ត្រាច",
+      "en_name": "Kampong Trach",
+      "communes": [
+        {
+          "id": "07-058",
+          "en_name": "Angk Sorphi",
+          "kh_name": "អង្គសុរភី"
+        },
+        {
+          "id": "07-059",
+          "en_name": "Phnom Brasat",
+          "kh_name": "ភ្នំប្រាសាទ"
+        },
+        {
+          "id": "07-060",
+          "en_name": "Brasat Phnom Kchorng",
+          "kh_name": "ប្រាសាទភ្នំខ្យង"
+        },
+        {
+          "id": "07-061",
+          "en_name": "Kampong Trach Khang Kert",
+          "kh_name": "កំពង់ត្រាចខាងកើត"
+        },
+        {
+          "id": "07-062",
+          "en_name": "Kampong Trach Khang Lech",
+          "kh_name": "កំពង់ត្រាចខាងលិច"
+        },
+        {
+          "id": "07-063",
+          "en_name": "Domnak Kantout Khan Cheung",
+          "kh_name": "ដំណាក់កន្ទួតខាងជើង"
+        },
+        {
+          "id": "07-064",
+          "en_name": "Domnak Kantout Khan Tbong",
+          "kh_name": "ដំណាក់កន្ទួតខាងត្បូង"
+        },
+        {
+          "id": "07-065",
+          "en_name": "Beung Sala Khang Cheung",
+          "kh_name": "បឹងសាលាខាងជើង"
+        },
+        {
+          "id": "07-066",
+          "en_name": "Beung Sala Khang Tbong",
+          "kh_name": "បឹងសាលាខាងត្បូង"
+        },
+        {
+          "id": "07-067",
+          "en_name": "Praek Kreus",
+          "kh_name": "ព្រែកក្រឹស"
+        },
+        {
+          "id": "07-068",
+          "en_name": "Russei Srok Khang Kert",
+          "kh_name": "ឫស្សីស្រុកខាងកើត"
+        },
+        {
+          "id": "07-069",
+          "en_name": "Russei Srok Khang Lech",
+          "kh_name": "ឫស្សីស្រុកខាងលិច"
+        },
+        {
+          "id": "07-070",
+          "en_name": "Svay Torng Khang Cheung",
+          "kh_name": "ស្វាយទងខាងជើង"
+        },
+        {
+          "id": "07-071",
+          "en_name": "Svay Torng Khang Tbong",
+          "kh_name": "ស្វាយទងខាងត្បូង"
+        }
+      ]
+    },
+    {
+      "kh_name": "ទឹកឈូ",
+      "en_name": "Tuek Chhou",
+      "communes": [
+        {
+          "id": "07-072",
+          "en_name": "Boeng Tuk",
+          "kh_name": "បឹងទូក"
+        },
+        {
+          "id": "07-073",
+          "en_name": "Chum Kriel",
+          "kh_name": "ជុំគ្រៀល"
+        },
+        {
+          "id": "07-074",
+          "en_name": "Kampong Kraeng",
+          "kh_name": "កំពង់ក្រែង"
+        },
+        {
+          "id": "07-075",
+          "en_name": "Kampong Samraong",
+          "kh_name": "កំពង់សំរោង"
+        },
+        {
+          "id": "07-076",
+          "en_name": "Kandaol",
+          "kh_name": "កណ្តោល"
+        },
+        {
+          "id": "07-077",
+          "en_name": "Kaoh Touch",
+          "kh_name": "កោះតូច"
+        },
+        {
+          "id": "07-078",
+          "en_name": "Koun Satv",
+          "kh_name": "កូនសត្វ"
+        },
+        {
+          "id": "07-079",
+          "en_name": "Makprang",
+          "kh_name": "ម៉ាក់ប្រាង្គ"
+        },
+        {
+          "id": "07-080",
+          "en_name": "Preaek Tnoat",
+          "kh_name": "ព្រែកត្នោត"
+        },
+        {
+          "id": "07-081",
+          "en_name": "Prey Khmum",
+          "kh_name": "ព្រៃឃ្មុំ"
+        },
+        {
+          "id": "07-082",
+          "en_name": "Prey Thnang",
+          "kh_name": "ព្រៃថ្នង"
+        },
+        {
+          "id": "07-083",
+          "en_name": "Stueng Kaev",
+          "kh_name": "ស្ទឹងកែវ"
+        },
+        {
+          "id": "07-084",
+          "en_name": "Thmei",
+          "kh_name": "ថ្មី"
+        },
+        {
+          "id": "07-085",
+          "en_name": "Trapeang Pring",
+          "kh_name": "រពាំងព្រីង"
+        },
+        {
+          "id": "07-086",
+          "en_name": "Trapeang Sangkae",
+          "kh_name": "ត្រពាំងសង្កែ"
+        },
+        {
+          "id": "07-087",
+          "en_name": "Trapeang Thum",
+          "kh_name": "ត្រពាំងធំ"
+        }
+      ]
+    },
+    {
+      "kh_name": "ក្រុងកំពត",
+      "en_name": "Krong Kampot",
+      "communes": [
+        {
+          "id": "07-088",
+          "en_name": "Kampong Kandal",
+          "kh_name": "កំពង់កណ្តោល"
+        },
+        {
+          "id": "07-089",
+          "en_name": "Krang Ampil",
+          "kh_name": "ក្រាំងអំពិល"
+        },
+        {
+          "id": "07-090",
+          "en_name": "Kampong Bay",
+          "kh_name": "កំពង់បាយ"
+        },
+        {
+          "id": "07-091",
+          "en_name": "Andoung Khmer",
+          "kh_name": "អណ្តូងខ្មែរ"
+        },
+        {
+          "id": "07-092",
+          "en_name": "Traeuy Kaoh",
+          "kh_name": "ត្រើយកោះ"
+        }
+      ]
+    }
+  ]
+}

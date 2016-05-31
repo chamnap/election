@@ -1,0 +1,454 @@
+{
+  "kh_name": "ស្វាយរៀង",
+  "en_name": "Svay Rieng",
+  "districts": [
+    {
+      "kh_name": "ចន្រ្ទា",
+      "en_name": "Chantrea",
+      "communes": [
+        {
+          "id": "19-001",
+          "en_name": "Bati",
+          "kh_name": "បាទី"
+        },
+        {
+          "id": "19-002",
+          "en_name": "Chantrea",
+          "kh_name": "ចន្ទ្រា"
+        },
+        {
+          "id": "19-003",
+          "en_name": "Chres",
+          "kh_name": "ច្រេស"
+        },
+        {
+          "id": "19-004",
+          "en_name": "Mesar Thgnork",
+          "kh_name": "មេសរថ្ងក"
+        },
+        {
+          "id": "19-005",
+          "en_name": "Prey Kokir",
+          "kh_name": "ព្រៃគគីរ"
+        },
+        {
+          "id": "19-006",
+          "en_name": "Somroang",
+          "kh_name": "សំរោង"
+        },
+        {
+          "id": "19-007",
+          "en_name": "Toul Sdei",
+          "kh_name": "ទួលស្តី"
+        }
+      ]
+    },
+    {
+      "kh_name": "កំពង់រោទ៍",
+      "en_name": "Kampong Rou",
+      "communes": [
+        {
+          "id": "19-008",
+          "en_name": "Banteay Krang",
+          "kh_name": "បន្ទាយក្រាំង"
+        },
+        {
+          "id": "19-009",
+          "en_name": "Nhor",
+          "kh_name": "ញរ"
+        },
+        {
+          "id": "19-010",
+          "en_name": "Ksetr",
+          "kh_name": "ខ្សែត្រ"
+        },
+        {
+          "id": "19-011",
+          "en_name": "Preah Ponlea",
+          "kh_name": "ព្រះពន្លា"
+        },
+        {
+          "id": "19-012",
+          "en_name": "Chrey Thom",
+          "kh_name": "ព្រៃធំ"
+        },
+        {
+          "id": "19-013",
+          "en_name": "Reach Monti",
+          "kh_name": "រាជមន្ទីរ"
+        },
+        {
+          "id": "19-014",
+          "en_name": "Somlei",
+          "kh_name": "សំឡី"
+        },
+        {
+          "id": "19-015",
+          "en_name": "Somyorng",
+          "kh_name": "សំយ៉ោង"
+        },
+        {
+          "id": "19-016",
+          "en_name": "Svay Tayean",
+          "kh_name": "ស្វាយតាយាន"
+        },
+        {
+          "id": "19-017",
+          "en_name": "Thmei",
+          "kh_name": "ថ្មី"
+        },
+        {
+          "id": "19-018",
+          "en_name": "Tnaot",
+          "kh_name": "ត្នោត"
+        },
+        {
+          "id": "19-019",
+          "en_name": "Svay Teu",
+          "kh_name": "ស្វាយតឿ"
+        }
+      ]
+    },
+    {
+      "kh_name": "រំដួល",
+      "en_name": "Rumduol",
+      "communes": [
+        {
+          "id": "19-020",
+          "en_name": "Bos Mon",
+          "kh_name": "បុសមន"
+        },
+        {
+          "id": "19-021",
+          "en_name": "Thmea",
+          "kh_name": "ធ្មា"
+        },
+        {
+          "id": "19-022",
+          "en_name": "Kampong Chork",
+          "kh_name": "កំពង់ចក"
+        },
+        {
+          "id": "19-023",
+          "en_name": "Chrong Popel",
+          "kh_name": "ជ្រុងពពេល"
+        },
+        {
+          "id": "19-024",
+          "en_name": "Kampong Ampel",
+          "kh_name": "កំពង់អំពិល"
+        },
+        {
+          "id": "19-025",
+          "en_name": "Meun Chey",
+          "kh_name": "ម៉ឺនជ័យ"
+        },
+        {
+          "id": "19-026",
+          "en_name": "Porng Teuk",
+          "kh_name": "ពងទឹក"
+        },
+        {
+          "id": "19-027",
+          "en_name": "Sangke",
+          "kh_name": "សង្កែ"
+        },
+        {
+          "id": "19-028",
+          "en_name": "Svay Chek",
+          "kh_name": "ស្វាយចេក"
+        },
+        {
+          "id": "19-029",
+          "en_name": "Thna Thnung",
+          "kh_name": "ថ្នាធ្នង់"
+        }
+      ]
+    },
+    {
+      "kh_name": "រមាសហែក",
+      "en_name": "Romeas Haek",
+      "communes": [
+        {
+          "id": "19-030",
+          "en_name": "Ampel",
+          "kh_name": "អំពិល"
+        },
+        {
+          "id": "19-031",
+          "en_name": "Andong Pou",
+          "kh_name": "អណ្តូងពោធិ"
+        },
+        {
+          "id": "19-032",
+          "en_name": "Andong Trabaek",
+          "kh_name": "អណ្តូងត្របែក"
+        },
+        {
+          "id": "19-033",
+          "en_name": "Angk Brosrae",
+          "kh_name": "អង្គប្រស្រែ"
+        },
+        {
+          "id": "19-034",
+          "en_name": "Chnatrei",
+          "kh_name": "ចន្ត្រី"
+        },
+        {
+          "id": "19-035",
+          "en_name": "Chrey Thom",
+          "kh_name": "ជ្រៃធំ"
+        },
+        {
+          "id": "19-036",
+          "en_name": "Daung",
+          "kh_name": "ដូងកំពង់ត្រាច"
+        },
+        {
+          "id": "19-037",
+          "en_name": "Kampong Trach",
+          "kh_name": "កំពង់ត្រាច"
+        },
+        {
+          "id": "19-038",
+          "en_name": "Kokir",
+          "kh_name": "គគីរ"
+        },
+        {
+          "id": "19-039",
+          "en_name": "Krasang",
+          "kh_name": "ក្រសាំង"
+        },
+        {
+          "id": "19-040",
+          "en_name": "Mukh Da",
+          "kh_name": "មុខដា"
+        },
+        {
+          "id": "19-041",
+          "en_name": "Mream",
+          "kh_name": "ម្រាម"
+        },
+        {
+          "id": "19-042",
+          "en_name": "Sambour",
+          "kh_name": "សំបួរ"
+        },
+        {
+          "id": "19-043",
+          "en_name": "Sambatt Meanchey",
+          "kh_name": "សម្បត្តិមានជ័យ"
+        },
+        {
+          "id": "19-044",
+          "en_name": "Trapeang Sdao",
+          "kh_name": "ត្រពាំងស្តៅ"
+        },
+        {
+          "id": "19-045",
+          "en_name": "Trors",
+          "kh_name": "ត្រស់"
+        }
+      ]
+    },
+    {
+      "kh_name": "ស្វាយជ្រុំ",
+      "en_name": "Svay Chrum",
+      "communes": [
+        {
+          "id": "19-046",
+          "en_name": "Angk Taso",
+          "kh_name": "អង្គតាសូ"
+        },
+        {
+          "id": "19-047",
+          "en_name": "Bassak",
+          "kh_name": "បាសាក់"
+        },
+        {
+          "id": "19-048",
+          "en_name": "Chombok",
+          "kh_name": "ចំបក់"
+        },
+        {
+          "id": "19-049",
+          "en_name": "Kampong Chomlong",
+          "kh_name": "កំពង់ចំឡង"
+        },
+        {
+          "id": "19-050",
+          "en_name": "Tasous",
+          "kh_name": "តាសួស"
+        },
+        {
+          "id": "19-051",
+          "en_name": "Chheu Teal",
+          "kh_name": "ឈើទាល"
+        },
+        {
+          "id": "19-052",
+          "en_name": "Daun Sor",
+          "kh_name": "ដូនស"
+        },
+        {
+          "id": "19-053",
+          "en_name": "Kork Pring",
+          "kh_name": "គោកព្រីង"
+        },
+        {
+          "id": "19-054",
+          "en_name": "Krol Kor",
+          "kh_name": "ក្រោលគោ"
+        },
+        {
+          "id": "19-055",
+          "en_name": "Krous",
+          "kh_name": "គ្រួស"
+        },
+        {
+          "id": "19-056",
+          "en_name": "Pou Reach",
+          "kh_name": "ពោធិរាជ"
+        },
+        {
+          "id": "19-057",
+          "en_name": "Svay Angk",
+          "kh_name": "ស្វាយអង្គ"
+        },
+        {
+          "id": "19-058",
+          "en_name": "Svay Chrum",
+          "kh_name": "ស្វាយជ្រំ"
+        },
+        {
+          "id": "19-059",
+          "en_name": "Svay Thom",
+          "kh_name": "ស្វាយធំ"
+        },
+        {
+          "id": "19-060",
+          "en_name": "Svay Yea",
+          "kh_name": "ស្វាយយា"
+        },
+        {
+          "id": "19-061",
+          "en_name": "Thlork",
+          "kh_name": "ធ្លក"
+        },
+        {
+          "id": "19-062",
+          "en_name": "Chek",
+          "kh_name": "ចេក"
+        }
+      ]
+    },
+    {
+      "kh_name": "ស្វាយរៀង",
+      "en_name": "Svay Rieng",
+      "communes": [
+        {
+          "id": "19-063",
+          "en_name": "Svay Rieng",
+          "kh_name": "ស្វាយរៀង"
+        },
+        {
+          "id": "19-064",
+          "en_name": "Prey Chhlak",
+          "kh_name": "ព្រៃធ្លាក់"
+        },
+        {
+          "id": "19-065",
+          "en_name": "Kory Trobaek",
+          "kh_name": "គយត្របែក"
+        },
+        {
+          "id": "19-066",
+          "en_name": "Pou Tahor",
+          "kh_name": "ពោធិតាហោ"
+        }
+      ]
+    },
+    {
+      "kh_name": "ស្វាយទៀប",
+      "en_name": "Svay Teab",
+      "communes": [
+        {
+          "id": "19-067",
+          "en_name": "Kokir Soam",
+          "kh_name": "គគីសោម"
+        },
+        {
+          "id": "19-068",
+          "en_name": "Kandiang Reay",
+          "kh_name": "កណ្តៀងរាយ"
+        },
+        {
+          "id": "19-069",
+          "en_name": "Monorom",
+          "kh_name": "មនោរម្យ"
+        },
+        {
+          "id": "19-070",
+          "en_name": "Popaet",
+          "kh_name": "ពពែត"
+        },
+        {
+          "id": "19-071",
+          "en_name": "Prey Ta Ei",
+          "kh_name": "ព្រៃតាអី"
+        },
+        {
+          "id": "19-072",
+          "en_name": "Brosotr",
+          "kh_name": "ប្រសូត្រ"
+        },
+        {
+          "id": "19-073",
+          "en_name": "Romeang Tkorl",
+          "kh_name": "រមាំងថ្កោល"
+        },
+        {
+          "id": "19-074",
+          "en_name": "Sambour",
+          "kh_name": "សំបួរ"
+        },
+        {
+          "id": "19-075",
+          "en_name": "Svay Rompear",
+          "kh_name": "ស្វាយរំពារ"
+        },
+        {
+          "id": "19-076",
+          "en_name": "Sangkhor",
+          "kh_name": "សង្ឃ័រ"
+        }
+      ]
+    },
+    {
+      "kh_name": "ក្រុងបាវិត",
+      "en_name": "Bavet",
+      "communes": [
+        {
+          "id": "19-077",
+          "en_name": "Bavet",
+          "kh_name": "​បាវិត"
+        },
+        {
+          "id": "19-078",
+          "en_name": "Chrork Mtesh",
+          "kh_name": "ច្រក​ម្ទេស"
+        },
+        {
+          "id": "19-079",
+          "en_name": "Prasat",
+          "kh_name": "​ប្រាសាទ"
+        },
+        {
+          "id": "19-080",
+          "en_name": "Prey Angkunh",
+          "kh_name": "ព្រៃអង្គុញ"
+        }
+      ]
+    }
+  ]
+}

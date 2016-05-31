@@ -1,0 +1,58 @@
+{
+  "kh_name": "ប៉ៃលិន",
+  "en_name": "Pailin",
+  "districts": [
+    {
+      "kh_name": "ប៉ៃលិន",
+      "en_name": "Pailin",
+      "communes": [
+        {
+          "id": "22-001",
+          "en_name": "Pailin",
+          "kh_name": "ប៉ៃលិន"
+        },
+        {
+          "id": "22-002",
+          "en_name": "Ou Ta Vau",
+          "kh_name": "អូរ​តាវ៉ៅ"
+        },
+        {
+          "id": "22-003",
+          "en_name": "Tuol Lvea",
+          "kh_name": "ទួលល្វា"
+        },
+        {
+          "id": "22-004",
+          "en_name": "Bar Yakha",
+          "kh_name": "បយ៉ាខា"
+        }
+      ]
+    },
+    {
+      "kh_name": "សាលាក្រៅ",
+      "en_name": "Sala Krao",
+      "communes": [
+        {
+          "id": "22-005",
+          "en_name": "Sala Krau",
+          "kh_name": "សាលាក្រៅ"
+        },
+        {
+          "id": "22-006",
+          "en_name": "Stueng Trang",
+          "kh_name": "ស្ទឹងត្រង់"
+        },
+        {
+          "id": "22-007",
+          "en_name": "Stueng Kach",
+          "kh_name": "ស្ទឹងកាច់"
+        },
+        {
+          "id": "22-008",
+          "en_name": "Ou Andoung",
+          "kh_name": "អូរអណ្តូង"
+        }
+      ]
+    }
+  ]
+}

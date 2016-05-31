@@ -1,0 +1,287 @@
+{
+  "kh_name": "ពោធិ៍សាត់",
+  "en_name": "Pursat",
+  "districts": [
+    {
+      "kh_name": "បាកាន",
+      "en_name": "Bakan",
+      "communes": [
+        {
+          "id": "14-001",
+          "en_name": "Beung Bot Kandal",
+          "kh_name": "បឹងបត់កណ្តោល"
+        },
+        {
+          "id": "14-002",
+          "en_name": "Beung Khnar",
+          "kh_name": "បឹងខ្នារ"
+        },
+        {
+          "id": "14-003",
+          "en_name": "Khnar Toteung",
+          "kh_name": "ខ្នារទទឹង"
+        },
+        {
+          "id": "14-004",
+          "en_name": "Meteuk",
+          "kh_name": "មេទឹក"
+        },
+        {
+          "id": "14-005",
+          "en_name": "Or Tapoang",
+          "kh_name": "អូរតាប៉ោង"
+        },
+        {
+          "id": "14-006",
+          "en_name": "Romlech",
+          "kh_name": "រំលេច"
+        },
+        {
+          "id": "14-007",
+          "en_name": "Snam Preah",
+          "kh_name": "ស្នាមព្រះ"
+        },
+        {
+          "id": "14-008",
+          "en_name": "Svay Daunkeo",
+          "kh_name": "ស្វាយដូនកែវ"
+        },
+        {
+          "id": "14-009",
+          "en_name": "Talor",
+          "kh_name": "តាលោ"
+        },
+        {
+          "id": "14-010",
+          "en_name": "Trapeang Chorng",
+          "kh_name": "ត្រពាំងជង"
+        }
+      ]
+    },
+    {
+      "kh_name": "កណ្ដៀង",
+      "en_name": "Kandieng",
+      "communes": [
+        {
+          "id": "14-011",
+          "en_name": "Anlong Vil",
+          "kh_name": "អន្លង់វិល"
+        },
+        {
+          "id": "14-012",
+          "en_name": "Kandieng",
+          "kh_name": "កណ្ដៀង"
+        },
+        {
+          "id": "14-013",
+          "en_name": "Kanhchor",
+          "kh_name": "កញ្ជរ"
+        },
+        {
+          "id": "14-014",
+          "en_name": "Reang Til",
+          "kh_name": "រាំងទិល"
+        },
+        {
+          "id": "14-015",
+          "en_name": "Sre Sdok",
+          "kh_name": "ស្រែស្តុក"
+        },
+        {
+          "id": "14-016",
+          "en_name": "Svay Loung",
+          "kh_name": "ស្វាយលួង"
+        },
+        {
+          "id": "14-017",
+          "en_name": "Sya",
+          "kh_name": "ស្យា"
+        },
+        {
+          "id": "14-018",
+          "en_name": "Veal",
+          "kh_name": "វាល"
+        },
+        {
+          "id": "14-019",
+          "en_name": "Koh Chum",
+          "kh_name": "កោះជុំ"
+        }
+      ]
+    },
+    {
+      "kh_name": "ក្រគរ",
+      "en_name": "Krakor",
+      "communes": [
+        {
+          "id": "14-020",
+          "en_name": "Anlong Tnoat",
+          "kh_name": "អន្លង់ត្នោត"
+        },
+        {
+          "id": "14-021",
+          "en_name": "Ansa Chombok",
+          "kh_name": "អន្សាចំបក់"
+        },
+        {
+          "id": "14-022",
+          "en_name": "Beung Kantout",
+          "kh_name": "បឹងកន្ទួត"
+        },
+        {
+          "id": "14-023",
+          "en_name": "Chheu Tom",
+          "kh_name": "ឈើតុំ"
+        },
+        {
+          "id": "14-024",
+          "en_name": "Kampong Loung",
+          "kh_name": "កំពង់លួង"
+        },
+        {
+          "id": "14-025",
+          "en_name": "Kampong Por",
+          "kh_name": "កំពង់ពោធិ"
+        },
+        {
+          "id": "14-026",
+          "en_name": "Kbal Trach",
+          "kh_name": "ក្បាលត្រាច"
+        },
+        {
+          "id": "14-027",
+          "en_name": "Or Sandanh",
+          "kh_name": "អូរសណ្តាន់"
+        },
+        {
+          "id": "14-028",
+          "en_name": "Sna Ansa",
+          "kh_name": "ស្នាអន្សា"
+        },
+        {
+          "id": "14-029",
+          "en_name": "Svay Sor",
+          "kh_name": "ស្វាយស"
+        },
+        {
+          "id": "14-030",
+          "en_name": "Tnoat Chum",
+          "kh_name": "ត្នោតជុំ"
+        }
+      ]
+    },
+    {
+      "kh_name": "ភ្នំក្រវាញ",
+      "en_name": "Phnum Kravanh",
+      "communes": [
+        {
+          "id": "14-031",
+          "en_name": "Bak Choncheanh",
+          "kh_name": "បាក់ចិញ្ចៀន"
+        },
+        {
+          "id": "14-032",
+          "en_name": "Leach",
+          "kh_name": "លាច"
+        },
+        {
+          "id": "14-033",
+          "en_name": "Pteah Rong",
+          "kh_name": "ផ្ទះរុង"
+        },
+        {
+          "id": "14-034",
+          "en_name": "Prognel",
+          "kh_name": "ព្រងិល"
+        },
+        {
+          "id": "14-035",
+          "en_name": "Rokat",
+          "kh_name": "រកាត"
+        },
+        {
+          "id": "14-036",
+          "en_name": "Sontrer",
+          "kh_name": "សន្ទ្រែ"
+        },
+        {
+          "id": "14-037",
+          "en_name": "Somrong",
+          "kh_name": "សំរោង"
+        }
+      ]
+    },
+    {
+      "kh_name": "ពោធិ៍សាត់",
+      "en_name": "Pursat",
+      "communes": [
+        {
+          "id": "14-038",
+          "en_name": "Chomreun Phal",
+          "kh_name": "ចំរើនផល"
+        },
+        {
+          "id": "14-039",
+          "en_name": "Lolok Sor",
+          "kh_name": "លលកសរ"
+        },
+        {
+          "id": "14-040",
+          "en_name": "Pteah Prey",
+          "kh_name": "ផ្ទះព្រៃ"
+        },
+        {
+          "id": "14-041",
+          "en_name": "Prey Nhi",
+          "kh_name": "ព្រៃញី"
+        },
+        {
+          "id": "14-042",
+          "en_name": "Roleab",
+          "kh_name": "រលាប"
+        },
+        {
+          "id": "14-043",
+          "en_name": "Svay Att",
+          "kh_name": "ស្វាយអាត់"
+        },
+        {
+          "id": "14-044",
+          "en_name": "Banteay Dei",
+          "kh_name": "បន្ទាយដី"
+        }
+      ]
+    },
+    {
+      "kh_name": "វាលវែង",
+      "en_name": "Veal Veaeng",
+      "communes": [
+        {
+          "id": "14-045",
+          "en_name": "Or Sorm",
+          "kh_name": "អូរសោម"
+        },
+        {
+          "id": "14-046",
+          "en_name": "Kropeu 2",
+          "kh_name": "ក្រពើពីរ"
+        },
+        {
+          "id": "14-047",
+          "en_name": "Anlong Reab",
+          "kh_name": "អន្លង់រាប"
+        },
+        {
+          "id": "14-048",
+          "en_name": "Bromoay",
+          "kh_name": "ប្រមោយ"
+        },
+        {
+          "id": "14-049",
+          "en_name": "Thma Da",
+          "kh_name": "ថ្មដា"
+        }
+      ]
+    }
+  ]
+}

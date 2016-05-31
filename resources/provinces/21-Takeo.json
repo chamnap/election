@@ -1,0 +1,566 @@
+{
+  "kh_name": "តាកែវ",
+  "en_name": "Takeo",
+  "districts": [
+    {
+      "kh_name": "អង្គរបុរី",
+      "en_name": "Angkor Borei",
+      "communes": [
+        {
+          "id": "20-001",
+          "en_name": "Angkor Borei",
+          "kh_name": "អង្គរបូរី"
+        },
+        {
+          "id": "20-002",
+          "en_name": "Ba Srae",
+          "kh_name": "បាស្រែ"
+        },
+        {
+          "id": "20-003",
+          "en_name": "Kouk Thlok",
+          "kh_name": "គោកធ្លក"
+        },
+        {
+          "id": "20-004",
+          "en_name": "Ponley",
+          "kh_name": "ពន្លៃ"
+        },
+        {
+          "id": "20-005",
+          "en_name": "Preaek Phtoul",
+          "kh_name": "ព្រែកផ្ទោល"
+        },
+        {
+          "id": "20-006",
+          "en_name": "Prey Phkoam",
+          "kh_name": "ព្រៃផ្គាំ"
+        }
+      ]
+    },
+    {
+      "kh_name": "បាទី",
+      "en_name": "Bati",
+      "communes": [
+        {
+          "id": "20-007",
+          "en_name": "Chambak",
+          "kh_name": "ចំបក់"
+        },
+        {
+          "id": "20-008",
+          "en_name": "Champei",
+          "kh_name": "ចំប៉ី"
+        },
+        {
+          "id": "20-009",
+          "en_name": "Doung",
+          "kh_name": "ដូង"
+        },
+        {
+          "id": "20-010",
+          "en_name": "Kandoeng",
+          "kh_name": "កណ្តឹង"
+        },
+        {
+          "id": "20-011",
+          "en_name": "Komar Reachea",
+          "kh_name": "កុមាររាជា"
+        },
+        {
+          "id": "20-012",
+          "en_name": "Krang Leav",
+          "kh_name": "ក្រាំងលាវ"
+        },
+        {
+          "id": "20-013",
+          "en_name": "Krang thnong",
+          "kh_name": "ក្រាំងធ្នង់"
+        },
+        {
+          "id": "20-014",
+          "en_name": "Lumpong",
+          "kh_name": "លំពង់"
+        },
+        {
+          "id": "20-015",
+          "en_name": "Pea Ream",
+          "kh_name": "ពារាម"
+        },
+        {
+          "id": "20-016",
+          "en_name": "Pot Sar",
+          "kh_name": "ពត់សរ"
+        },
+        {
+          "id": "20-017",
+          "en_name": "Souphi",
+          "kh_name": "សូរភី"
+        },
+        {
+          "id": "20-018",
+          "en_name": "Tang Doung",
+          "kh_name": "តាំងដូង"
+        },
+        {
+          "id": "20-019",
+          "en_name": "Tnaot",
+          "kh_name": "ត្នោត"
+        },
+        {
+          "id": "20-020",
+          "en_name": "Trapeang Krasang",
+          "kh_name": "ត្រពាំងក្រសាំង"
+        },
+        {
+          "id": "20-021",
+          "en_name": "Trapeang Sab",
+          "kh_name": "ត្រពាំងសាប"
+        }
+      ]
+    },
+    {
+      "kh_name": "បុរីជលសារ",
+      "en_name": "Borei Cholsar",
+      "communes": [
+        {
+          "id": "20-022",
+          "en_name": "Bourei Cholsar",
+          "kh_name": "បូរីជលសារ"
+        },
+        {
+          "id": "20-023",
+          "en_name": "Chey Chouk",
+          "kh_name": "ជ័យជោគ"
+        },
+        {
+          "id": "20-024",
+          "en_name": "Doung Khpos",
+          "kh_name": "ដូងខ្ពស់"
+        },
+        {
+          "id": "20-025",
+          "en_name": "Kampong Krasang",
+          "kh_name": "កំពង់ក្រសាំង"
+        },
+        {
+          "id": "20-026",
+          "en_name": "Kouk Pou",
+          "kh_name": "គោកពោធិ"
+        }
+      ]
+    },
+    {
+      "kh_name": "គីរីវង្ស",
+      "en_name": "Kiri Vong",
+      "communes": [
+        {
+          "id": "20-027",
+          "en_name": "Angk Brasat",
+          "kh_name": "អង្គប្រាសាទ"
+        },
+        {
+          "id": "20-028",
+          "en_name": "Preahbat Choarnchum",
+          "kh_name": "ព្រះបាទជាន់ជុំ"
+        },
+        {
+          "id": "20-029",
+          "en_name": "Komnob",
+          "kh_name": "កំណប់"
+        },
+        {
+          "id": "20-030",
+          "en_name": "Kompaeng",
+          "kh_name": "កំពែង"
+        },
+        {
+          "id": "20-031",
+          "en_name": "Kiri Chongkoh",
+          "kh_name": "គិរីចុងកោះ"
+        },
+        {
+          "id": "20-032",
+          "en_name": "Koak Prech",
+          "kh_name": "គោកព្រេច"
+        },
+        {
+          "id": "20-033",
+          "en_name": "Phnom Den",
+          "kh_name": "ភ្នំដិន"
+        },
+        {
+          "id": "20-034",
+          "en_name": "Prey Ampoak",
+          "kh_name": "ព្រៃអំពក"
+        },
+        {
+          "id": "20-035",
+          "en_name": "Prey Romdeng",
+          "kh_name": "ព្រៃរំដេង"
+        },
+        {
+          "id": "20-036",
+          "en_name": "Ream Ondeuk",
+          "kh_name": "រាមអណ្តើក"
+        },
+        {
+          "id": "20-037",
+          "en_name": "Saom",
+          "kh_name": "សោម"
+        },
+        {
+          "id": "20-038",
+          "en_name": "Ta O",
+          "kh_name": "តាអូរ"
+        }
+      ]
+    },
+    {
+      "kh_name": "កោះអណ្តែត",
+      "en_name": "Kaoh Andaet",
+      "communes": [
+        {
+          "id": "20-039",
+          "en_name": "Krapum Chhuk",
+          "kh_name": "ក្រពុំឈូក"
+        },
+        {
+          "id": "20-040",
+          "en_name": "Pech Sar",
+          "kh_name": "ពេជសារ"
+        },
+        {
+          "id": "20-041",
+          "en_name": "Prey Khla",
+          "kh_name": "ព្រៃខ្លា"
+        },
+        {
+          "id": "20-042",
+          "en_name": "Prey Yuthka",
+          "kh_name": "ព្រៃយុថ្កា"
+        },
+        {
+          "id": "20-043",
+          "en_name": "Romenh",
+          "kh_name": "រមេញ"
+        },
+        {
+          "id": "20-044",
+          "en_name": "Thlea Prachum",
+          "kh_name": "ធ្លាប្រជុំ"
+        }
+      ]
+    },
+    {
+      "kh_name": "ព្រៃកប្បាស",
+      "en_name": "Prey Kabbas",
+      "communes": [
+        {
+          "id": "20-045",
+          "en_name": "Angkanh",
+          "kh_name": "អង្កាញ់"
+        },
+        {
+          "id": "20-046",
+          "en_name": "Ban Kam",
+          "kh_name": "បានកាម"
+        },
+        {
+          "id": "20-047",
+          "en_name": "Chompa",
+          "kh_name": "ចំប៉ា"
+        },
+        {
+          "id": "20-048",
+          "en_name": "Char",
+          "kh_name": "ចារ"
+        },
+        {
+          "id": "20-049",
+          "en_name": "Kompaeng",
+          "kh_name": "កំពែង"
+        },
+        {
+          "id": "20-050",
+          "en_name": "Kompong Reab",
+          "kh_name": "កំពង់រាប"
+        },
+        {
+          "id": "20-051",
+          "en_name": "Kdanh",
+          "kh_name": "ក្តាញ់"
+        },
+        {
+          "id": "20-052",
+          "en_name": "Pou Romchak",
+          "kh_name": "ពោធិរំចាក"
+        },
+        {
+          "id": "20-053",
+          "en_name": "Prey Kabbas",
+          "kh_name": "ព្រៃកប្បាស"
+        },
+        {
+          "id": "20-054",
+          "en_name": "Prey Lvea",
+          "kh_name": "ព្រៃល្វា"
+        },
+        {
+          "id": "20-055",
+          "en_name": "Prey Phdau",
+          "kh_name": "ព្រៃផ្តៅ"
+        },
+        {
+          "id": "20-056",
+          "en_name": "Snoa",
+          "kh_name": "ស្នោ"
+        },
+        {
+          "id": "20-057",
+          "en_name": "Tang Yab",
+          "kh_name": "តាំងយ៉ាប"
+        }
+      ]
+    },
+    {
+      "kh_name": "សំរោង",
+      "en_name": "Samraong",
+      "communes": [
+        {
+          "id": "20-058",
+          "en_name": "Boeng Tranh Khang Cheung",
+          "kh_name": "បឹងត្រាញ់ខាងជើង"
+        },
+        {
+          "id": "20-059",
+          "en_name": "Boeng Tranh Khang Tboung",
+          "kh_name": "បឹងត្រាញ់ខាងត្បូង"
+        },
+        {
+          "id": "20-060",
+          "en_name": "Cheung Kuon",
+          "kh_name": "ជើងគួន"
+        },
+        {
+          "id": "20-061",
+          "en_name": "Chumreah Pen",
+          "kh_name": "ជំរះពេន"
+        },
+        {
+          "id": "20-062",
+          "en_name": "Khvav",
+          "kh_name": "ខ្វាវ"
+        },
+        {
+          "id": "20-063",
+          "en_name": "Lumchang",
+          "kh_name": "លំចង់"
+        },
+        {
+          "id": "20-064",
+          "en_name": "Rovieng",
+          "kh_name": "រវៀង"
+        },
+        {
+          "id": "20-065",
+          "en_name": "Samraong",
+          "kh_name": "សំរោង"
+        },
+        {
+          "id": "20-066",
+          "en_name": "Soeng",
+          "kh_name": "សិង្ក"
+        },
+        {
+          "id": "20-067",
+          "en_name": "Sla",
+          "kh_name": "ស្លា"
+        },
+        {
+          "id": "20-068",
+          "en_name": "Trea",
+          "kh_name": "ទ្រា"
+        }
+      ]
+    },
+    {
+      "kh_name": "ដូនកែវ",
+      "en_name": "Doun Kaev",
+      "communes": [
+        {
+          "id": "20-069",
+          "en_name": "Baray",
+          "kh_name": "បារាយណ៍"
+        },
+        {
+          "id": "20-070",
+          "en_name": "Roka Knong",
+          "kh_name": "រកាក្នុង"
+        },
+        {
+          "id": "20-071",
+          "en_name": "Roka Krau",
+          "kh_name": "រកាក្រៅ"
+        }
+      ]
+    },
+    {
+      "kh_name": "ត្រាំកក់",
+      "en_name": "Tram Kak",
+      "communes": [
+        {
+          "id": "20-072",
+          "en_name": "Angk Tasoam",
+          "kh_name": "អង្គតាសោម"
+        },
+        {
+          "id": "20-073",
+          "en_name": "Cheang Torng",
+          "kh_name": "ជាងទង"
+        },
+        {
+          "id": "20-074",
+          "en_name": "Kus",
+          "kh_name": "គុស"
+        },
+        {
+          "id": "20-075",
+          "en_name": "Leay Bor",
+          "kh_name": "លាយបូរ"
+        },
+        {
+          "id": "20-076",
+          "en_name": "Nhaeng Nhorng",
+          "kh_name": "ញ៉ែងញ៉ង"
+        },
+        {
+          "id": "20-077",
+          "en_name": "Ou Saray",
+          "kh_name": "អូរសារាយ"
+        },
+        {
+          "id": "20-078",
+          "en_name": "Trapeang Kranhoung",
+          "kh_name": "ត្រពាំងក្រញូង"
+        },
+        {
+          "id": "20-079",
+          "en_name": "Udom Soriya",
+          "kh_name": "ឧត្តមសុរិយា"
+        },
+        {
+          "id": "20-080",
+          "en_name": "Popel",
+          "kh_name": "ពពេល"
+        },
+        {
+          "id": "20-081",
+          "en_name": "Samroang",
+          "kh_name": "សំរោង"
+        },
+        {
+          "id": "20-082",
+          "en_name": "Srae Ronoarng",
+          "kh_name": "ស្រែរនោង"
+        },
+        {
+          "id": "20-083",
+          "en_name": "Ta Phem",
+          "kh_name": "តាភេម"
+        },
+        {
+          "id": "20-084",
+          "en_name": "Tram Kak",
+          "kh_name": "ត្រាំកក់"
+        },
+        {
+          "id": "20-085",
+          "en_name": "Trapeang Thom Khang Cheung",
+          "kh_name": "ត្រពាំងធំខាងជើង"
+        },
+        {
+          "id": "20-086",
+          "en_name": "Trapeang Thom Khang Tbong",
+          "kh_name": "ត្រពាំងធំខាងត្បូង"
+        }
+      ]
+    },
+    {
+      "kh_name": "ទ្រាំង",
+      "en_name": "Treang",
+      "communes": [
+        {
+          "id": "20-087",
+          "en_name": "Angkanh",
+          "kh_name": "អង្កាញ់"
+        },
+        {
+          "id": "20-088",
+          "en_name": "Angk Khnaor",
+          "kh_name": "អង្គខ្នុរ"
+        },
+        {
+          "id": "20-089",
+          "en_name": "Chi Khmar",
+          "kh_name": "ជីខ្មា"
+        },
+        {
+          "id": "20-090",
+          "en_name": "Khvav",
+          "kh_name": "ខ្វាវ "
+        },
+        {
+          "id": "20-091",
+          "en_name": "Prambei Mom",
+          "kh_name": "ប្រាំបីមុំ"
+        },
+        {
+          "id": "20-092",
+          "en_name": "Angk Kaev",
+          "kh_name": "អង្គកែវ"
+        },
+        {
+          "id": "20-093",
+          "en_name": "Prey Sloek",
+          "kh_name": "ព្រៃស្លឹក"
+        },
+        {
+          "id": "20-094",
+          "en_name": "Roneam",
+          "kh_name": "រនាម"
+        },
+        {
+          "id": "20-095",
+          "en_name": "Sambuor",
+          "kh_name": "សំបួរ"
+        },
+        {
+          "id": "20-096",
+          "en_name": "Sanlung",
+          "kh_name": "សន្លុង"
+        },
+        {
+          "id": "20-097",
+          "en_name": "Smaong",
+          "kh_name": "ស្មោង"
+        },
+        {
+          "id": "20-098",
+          "en_name": "Srangae",
+          "kh_name": "ស្រង៉ែ"
+        },
+        {
+          "id": "20-099",
+          "en_name": "Thlok",
+          "kh_name": "ធ្លក"
+        },
+        {
+          "id": "20-100",
+          "en_name": "Tralach",
+          "kh_name": "ត្រឡាច"
+        }
+      ]
+    }
+  ]
+}

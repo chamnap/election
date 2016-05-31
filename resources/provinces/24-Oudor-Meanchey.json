@@ -1,0 +1,156 @@
+{
+  "kh_name": "ឧត្ដរមានជ័យ",
+  "en_name": "Oddar Meanchey",
+  "districts": [
+    {
+      "kh_name": "អន្លង់វែង",
+      "en_name": "Anlong Veaeng",
+      "communes": [
+        {
+          "id": "12-001",
+          "en_name": "Anlong Veaeng",
+          "kh_name": "អន្លង់វែង"
+        },
+        {
+          "id": "12-002",
+          "en_name": "Lomtorng",
+          "kh_name": "លំទង"
+        },
+        {
+          "id": "12-003",
+          "en_name": "Thlat",
+          "kh_name": "ថ្លាត"
+        },
+        {
+          "id": "12-004",
+          "en_name": "Trapeang Brey",
+          "kh_name": "ត្រពាំងប្រីយ៍"
+        },
+        {
+          "id": "12-005",
+          "en_name": "Trapeang Tav",
+          "kh_name": "ត្រពាំងតាវ"
+        }
+      ]
+    },
+    {
+      "kh_nameBeng": "បន្ទាយអំពិល",
+      "en_name": "Banteay Ampil",
+      "communes": [
+        {
+          "id": "12-006",
+          "en_name": "អំពិល",
+          "kh_name": "Ampil"
+        },
+        {
+          "id": "12-007",
+          "en_name": "Beng",
+          "kh_name": "បេង"
+        },
+        {
+          "id": "12-008",
+          "en_name": "Koak Kpous",
+          "kh_name": "គោកខ្ពស់"
+        },
+        {
+          "id": "12-009",
+          "en_name": "Koak Mon",
+          "kh_name": "គោកមន"
+        }
+      ]
+    },
+    {
+      "kh_name": "ចុងកាល",
+      "en_name": "Chong Kal",
+      "communes": [
+        {
+          "id": "12-010",
+          "en_name": "Cheung Tean",
+          "kh_name": "ជើងទៀន"
+        },
+        {
+          "id": "12-011",
+          "en_name": "Chong Kal",
+          "kh_name": "ចុងកាល់"
+        },
+        {
+          "id": "12-012",
+          "en_name": "Krasaing",
+          "kh_name": "ក្រសាំង"
+        },
+        {
+          "id": "12-013",
+          "en_name": "Pongro",
+          "kh_name": "ពង្រ"
+        }
+      ]
+    },
+    {
+      "kh_name": "សំរោង",
+      "en_name": "Samraong",
+      "communes": [
+        {
+          "id": "12-014",
+          "en_name": "Bansay Reak",
+          "kh_name": "បន្សាយរាក់"
+        },
+        {
+          "id": "12-015",
+          "en_name": "Bosbov",
+          "kh_name": "បុស្បូវ"
+        },
+        {
+          "id": "12-016",
+          "en_name": "Kaun Kreal",
+          "kh_name": "កូនគ្រៀល"
+        },
+        {
+          "id": "12-017",
+          "en_name": "Samroang",
+          "kh_name": "សំរោង"
+        },
+        {
+          "id": "12-018",
+          "en_name": "O Smach",
+          "kh_name": "អូរស្មាច់"
+        }
+      ]
+    },
+    {
+      "kh_name": "ត្រពាំងប្រាសាទ",
+      "en_name": "Trapeang Prasat",
+      "communes": [
+        {
+          "id": "12-019",
+          "en_name": "Bak Anlung",
+          "kh_name": "បាក់អន្លូង"
+        },
+        {
+          "id": "12-020",
+          "en_name": "Ou Svay",
+          "kh_name": "អូរស្វាយ"
+        },
+        {
+          "id": "12-021",
+          "en_name": "P'av",
+          "kh_name": "ផ្អាវ"
+        },
+        {
+          "id": "12-022",
+          "en_name": "Preah Brolay",
+          "kh_name": "ព្រះប្រឡាយ"
+        },
+        {
+          "id": "12-023",
+          "en_name": "Trapeang Prasat",
+          "kh_name": "ត្រពាំងប្រាសាទ"
+        },
+        {
+          "id": "12-024",
+          "en_name": "Tomnub Dach",
+          "kh_name": "ទំនប់ដាច់"
+        }
+      ]
+    }
+  ]
+}

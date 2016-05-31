@@ -1,0 +1,206 @@
+{
+  "kh_name": "ស្ទឹងត្រែង",
+  "en_name": "Stung Treng",
+  "districts": [
+    {
+      "kh_name": "សេសាន",
+      "en_name": "Sesan",
+      "communes": [
+        {
+          "id": "18-001",
+          "en_name": "Komphun",
+          "kh_name": "កំភុន"
+        },
+        {
+          "id": "18-002",
+          "en_name": "Kbal Romeas",
+          "kh_name": "ក្បាលរមាស"
+        },
+        {
+          "id": "18-003",
+          "en_name": "Phluk",
+          "kh_name": "ភ្លុក"
+        },
+        {
+          "id": "18-004",
+          "en_name": "Sam Khouy",
+          "kh_name": "សាមឃួយ"
+        },
+        {
+          "id": "18-005",
+          "en_name": "Sdau",
+          "kh_name": "ស្តៅ"
+        },
+        {
+          "id": "18-006",
+          "en_name": "Srae Kor",
+          "kh_name": "ស្រែគរ"
+        },
+        {
+          "id": "18-007",
+          "en_name": "Ta Lat",
+          "kh_name": "តាឡាត"
+        }
+      ]
+    },
+    {
+      "kh_name": "សៀមបូក",
+      "en_name": "Siem Bouk",
+      "communes": [
+        {
+          "id": "18-008",
+          "en_name": "Koh Preah",
+          "kh_name": "កោះព្រះ"
+        },
+        {
+          "id": "18-009",
+          "en_name": "Koh Sompeay",
+          "kh_name": "កោះសំពាយ"
+        },
+        {
+          "id": "18-010",
+          "en_name": "Koh Srolay",
+          "kh_name": "កោះស្រឡាយ"
+        },
+        {
+          "id": "18-011",
+          "en_name": "Ou Mreah",
+          "kh_name": "អូរម្រះ"
+        },
+        {
+          "id": "18-012",
+          "en_name": "Ou Russei Kandal",
+          "kh_name": "អូរឫស្សីកណ្តាល"
+        },
+        {
+          "id": "18-013",
+          "en_name": "Siem Bouk",
+          "kh_name": "សៀមបូក"
+        },
+        {
+          "id": "18-014",
+          "en_name": "Srae Krasang",
+          "kh_name": "ស្រែក្រសាំង"
+        }
+      ]
+    },
+    {
+      "kh_name": "សៀមប៉ាង",
+      "en_name": "Siem Pang",
+      "communes": [
+        {
+          "id": "18-015",
+          "en_name": "Praek Meas",
+          "kh_name": "ព្រែកមាស"
+        },
+        {
+          "id": "18-016",
+          "en_name": "Sekong",
+          "kh_name": "សេកុង"
+        },
+        {
+          "id": "18-017",
+          "en_name": "Santipheap",
+          "kh_name": "សន្តិភាព"
+        },
+        {
+          "id": "18-018",
+          "en_name": "Srae Sombo",
+          "kh_name": "ស្រែសំបូរ"
+        },
+        {
+          "id": "18-019",
+          "en_name": "Thma Keo",
+          "kh_name": "ថ្មកែវ"
+        }
+      ]
+    },
+    {
+      "kh_name": "ស្ទឹងត្រែង ",
+      "en_name": "Stueng Traeng",
+      "communes": [
+        {
+          "id": "18-020",
+          "en_name": "Stung Trang",
+          "kh_name": "ស្ទឹងត្រែង"
+        },
+        {
+          "id": "18-021",
+          "en_name": "Srah Russei",
+          "kh_name": "ស្រះឫស្សី"
+        },
+        {
+          "id": "18-022",
+          "en_name": "Preah Bat",
+          "kh_name": "ព្រះបាទ"
+        },
+        {
+          "id": "18-023",
+          "en_name": "Sammaki",
+          "kh_name": "សាមគ្គី"
+        }
+      ]
+    },
+    {
+      "kh_name": "ថាឡាបារីវ៉ាត់",
+      "en_name": "Thala Barivat",
+      "communes": [
+        {
+          "id": "18-024",
+          "en_name": "Anlong Phe",
+          "kh_name": "អន្លង់ភេ"
+        },
+        {
+          "id": "18-025",
+          "en_name": "Chomkar Leu",
+          "kh_name": "ចំការលើ"
+        },
+        {
+          "id": "18-026",
+          "en_name": "Kang Cham",
+          "kh_name": "កាំងចាម"
+        },
+        {
+          "id": "18-027",
+          "en_name": "Koh Snaeng",
+          "kh_name": "កោះស្នែង"
+        },
+        {
+          "id": "18-028",
+          "en_name": "Anlong Chrey",
+          "kh_name": "អន្លង់ជ្រៃ"
+        },
+        {
+          "id": "18-029",
+          "en_name": "Ou Rai",
+          "kh_name": "អូររៃ"
+        },
+        {
+          "id": "18-030",
+          "en_name": "Ou Svay",
+          "kh_name": "អូរស្វាយ"
+        },
+        {
+          "id": "18-031",
+          "en_name": "Preah Romkel",
+          "kh_name": "ព្រះរំកិល"
+        },
+        {
+          "id": "18-032",
+          "en_name": "Som Ang",
+          "kh_name": "សំអាង"
+        },
+        {
+          "id": "18-033",
+          "en_name": "Srae Russei",
+          "kh_name": "ស្រែឫស្សី"
+        },
+        {
+          "id": "18-034",
+          "en_name": "Thala Borivat",
+          "kh_name": "ថាឡាបរិវ៉ាត់"
+        }
+      ]
+    }
+  ]
+}

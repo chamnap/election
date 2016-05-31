@@ -1,0 +1,558 @@
+{
+  "kh_name": "ភ្នំពេញ",
+  "en_name": "Phnom Penh",
+  "districts": [
+    {
+      "kh_name": "ចំការមន",
+      "en_name": "Chamkar Mon",
+      "communes": [
+        {
+          "id": "23-001",
+          "en_name": "Tonle Basak",
+          "kh_name": "ទន្លេបាសាក់"
+        },
+        {
+          "id": "23-002",
+          "en_name": "Boeng Keng Kang 1",
+          "kh_name": "បឹងកេងកង១"
+        },
+        {
+          "id": "23-003",
+          "en_name": "Boeng Keng Kang 2",
+          "kh_name": "បឹងកេងកង២"
+        },
+        {
+          "id": "23-004",
+          "en_name": "Boeng Keng Kang 3",
+          "kh_name": "បឹងកេងកង៣"
+        },
+        {
+          "id": "23-005",
+          "en_name": "Oulampik",
+          "kh_name": "អូឡាំពិក"
+        },
+        {
+          "id": "23-006",
+          "en_name": "Tuol Svay Prey Ti 1",
+          "kh_name": "ទួលស្វាយព្រៃ១"
+        },
+        {
+          "id": "23-007",
+          "en_name": "Tuol Svay Prey Ti 2",
+          "kh_name": "ទួលស្វាយព្រៃ២"
+        },
+        {
+          "id": "23-008",
+          "en_name": "Tumnob Tuek",
+          "kh_name": "ទំនប់ទឹក"
+        },
+        {
+          "id": "23-009",
+          "en_name": "Tuol Tumpung Ti 2",
+          "kh_name": "ទួលទំពូង២"
+        },
+        {
+          "id": "23-010",
+          "en_name": "Tuol Tumpung Ti 1",
+          "kh_name": "ទួលទំពូង១"
+        },
+        {
+          "id": "23-011",
+          "en_name": "Boeng Tabaek",
+          "kh_name": "បឹងត្របែក"
+        },
+        {
+          "id": "23-012",
+          "en_name": "Phsar Daeum Thkov",
+          "kh_name": "ផ្សារដើមថ្កូវ"
+        }
+      ]
+    },
+    {
+      "kh_name": "ដូនពេញ",
+      "en_name": "Doun Penh",
+      "communes": [
+        {
+          "id": "23-013",
+          "en_name": "Srah Chak",
+          "kh_name": "ស្រះចក"
+        },
+        {
+          "id": "23-014",
+          "en_name": "Wat Phnom",
+          "kh_name": "វត្តភ្នំ"
+        },
+        {
+          "id": "23-015",
+          "en_name": "Phsah Chas",
+          "kh_name": "ផ្សារចាស់"
+        },
+        {
+          "id": "23-016",
+          "en_name": "Phsah Kandal I",
+          "kh_name": "ផ្សារកណ្ដាល១"
+        },
+        {
+          "id": "23-017",
+          "en_name": "Phsah Kandal II",
+          "kh_name": "ផ្សារកណ្ដាល២"
+        },
+        {
+          "id": "23-018",
+          "en_name": "Chey Chomneas",
+          "kh_name": "ជ័យជំនះ"
+        },
+        {
+          "id": "23-019",
+          "en_name": "Chaktomuk",
+          "kh_name": "ចតុមុខ"
+        },
+        {
+          "id": "23-020",
+          "en_name": "Phsah Thmey I",
+          "kh_name": "ផ្សារថ្មី១"
+        },
+        {
+          "id": "23-021",
+          "en_name": "Phsah Thmey II",
+          "kh_name": "ផ្សារថ្មី២"
+        },
+        {
+          "id": "23-022",
+          "en_name": "Phsah Thmey III",
+          "kh_name": "ផ្សារថ្មី៣"
+        },
+        {
+          "id": "23-023",
+          "en_name": "Boeng Raing",
+          "kh_name": "បឹងរាំង"
+        }
+      ]
+    },
+    {
+      "kh_name": "ប្រាំពីរមករា",
+      "en_name": "Prampir Meakkakra",
+      "communes": [
+        {
+          "id": "23-024",
+          "en_name": "Monourom",
+          "kh_name": "មនោរម្យ"
+        },
+        {
+          "id": "23-025",
+          "en_name": "Mittakpheap",
+          "kh_name": "មិត្តភាព"
+        },
+        {
+          "id": "23-026",
+          "en_name": "Veal Vong",
+          "kh_name": "វាលវង់"
+        },
+        {
+          "id": "23-027",
+          "en_name": "Ou Ruessei Ti Muoy",
+          "kh_name": "អូរឫស្សី១"
+        },
+        {
+          "id": "23-028",
+          "en_name": "Ou Ruessei Ti Pir",
+          "kh_name": "អូរឫស្សី២"
+        },
+        {
+          "id": "23-029",
+          "en_name": "Ou Ruessei Ti Bei",
+          "kh_name": "អូរឫស្សី៣"
+        },
+        {
+          "id": "23-030",
+          "en_name": "Ou Ruessei Ti Buon",
+          "kh_name": "អូរឫស្សី៤"
+        },
+        {
+          "id": "23-031",
+          "en_name": "Boeng Prolit",
+          "kh_name": "បឹងព្រលិត"
+        }
+      ]
+    },
+    {
+      "kh_name": "ទួលគោក",
+      "en_name": "Tuol Kouk",
+      "communes": [
+        {
+          "id": "23-032",
+          "en_name": "Boeng Kak Ti Muoy",
+          "kh_name": "បឹងកក់ទី១"
+        },
+        {
+          "id": "23-033",
+          "en_name": "Boeng Kak Ti Pir",
+          "kh_name": "បឹងកក់ទី២"
+        },
+        {
+          "id": "23-034",
+          "en_name": "Phsar Depou Ti Muoy",
+          "kh_name": "ផ្សារដេប៉ូទី១"
+        },
+        {
+          "id": "23-035",
+          "en_name": "Phsar Depou Ti Pir",
+          "kh_name": "ផ្សារដេប៉ូទី២"
+        },
+        {
+          "id": "23-036",
+          "en_name": "Phsar Depou Ti Bei",
+          "kh_name": "ផ្សារដេប៉ូទី៣"
+        },
+        {
+          "id": "23-037",
+          "en_name": "Tuek L'ak Ti Muoy",
+          "kh_name": "ទឹកល្អក់ទី១"
+        },
+        {
+          "id": "23-038",
+          "en_name": "Tuek L'ak Ti Pir",
+          "kh_name": "ទឹកល្អក់ទី២"
+        },
+        {
+          "id": "23-039",
+          "en_name": "Tuek L'ak Ti Bei",
+          "kh_name": "ទឹកល្អក់ទី៣"
+        },
+        {
+          "id": "23-040",
+          "en_name": "Phsar Daeum Kor",
+          "kh_name": "ផ្សារដើមគ"
+        },
+        {
+          "id": "23-041",
+          "en_name": "Boeng Salang",
+          "kh_name": "បឹងសាឡាង"
+        }
+      ]
+    },
+    {
+      "kh_name": "ដង្កោ",
+      "en_name": "Dangkao",
+      "communes": [
+        {
+          "id": "23-042",
+          "en_name": "Dangkao",
+          "kh_name": "ដង្កោ"
+        },
+        {
+          "id": "23-043",
+          "en_name": "Pong Tuek",
+          "kh_name": "ពងទឹក"
+        },
+        {
+          "id": "23-044",
+          "en_name": "Prey Veaeng",
+          "kh_name": "ព្រៃវែង"
+        },
+        {
+          "id": "23-045",
+          "en_name": "Prey Sa",
+          "kh_name": "ព្រៃសរ"
+        },
+        {
+          "id": "23-046",
+          "en_name": "Krang Pongro",
+          "kh_name": "ក្រាំងពង្រ"
+        },
+        {
+          "id": "23-047",
+          "en_name": "Prateah Lang",
+          "kh_name": "ប្រទះឡាង"
+        },
+        {
+          "id": "23-048",
+          "en_name": "Sak Sampov",
+          "kh_name": "សាក់សំពៅ"
+        },
+        {
+          "id": "23-049",
+          "en_name": "Cheung Aek",
+          "kh_name": "ជើងឯក"
+        },
+        {
+          "id": "23-050",
+          "en_name": "Kong Noy",
+          "kh_name": "គងនយ"
+        },
+        {
+          "id": "23-051",
+          "en_name": "Preaek Kampues",
+          "kh_name": "ព្រែកកំពឹស"
+        },
+        {
+          "id": "23-052",
+          "en_name": "Roluos",
+          "kh_name": "រលួស"
+        },
+        {
+          "id": "23-053",
+          "en_name": "Spean Thma",
+          "kh_name": "ស្ពានថ្ម"
+        },
+        {
+          "id": "23-054",
+          "en_name": "Tien",
+          "kh_name": "ទៀន"
+        }
+      ]
+    },
+    {
+      "kh_name": "មានជ័យ",
+      "en_name": "Mean Chey",
+      "communes": [
+        {
+          "id": "23-055",
+          "en_name": "Stueng Mean Chey",
+          "kh_name": "ស្ទឹងមានជ័យ"
+        },
+        {
+          "id": "23-056",
+          "en_name": "Boeng Tumpun",
+          "kh_name": "បឹងទំពុន"
+        },
+        {
+          "id": "23-057",
+          "en_name": "Chak Angrae Leu",
+          "kh_name": "ចាក់អង្រែលើ"
+        },
+        {
+          "id": "23-058",
+          "en_name": "Chak Angrae Kraom",
+          "kh_name": "ចាក់អង្រែក្រោម"
+        }
+      ]
+    },
+    {
+      "kh_name": "ឫស្សីកែវ",
+      "en_name": "Ruessei Kaev",
+      "communes": [
+        {
+          "id": "23-059",
+          "en_name": "Tuol Sangkae",
+          "kh_name": "ទួលសង្កែ"
+        },
+        {
+          "id": "23-060",
+          "en_name": "Svay Pak",
+          "kh_name": "ស្វាយប៉ាក"
+        },
+        {
+          "id": "23-061",
+          "en_name": "Kilomaetr Lekh Prammuoy",
+          "kh_name": "គីឡូម៉ែត្រលេខប្រាំមួយ"
+        },
+        {
+          "id": "23-062",
+          "en_name": "Ruessei Kaev",
+          "kh_name": "ឫស្សីកែវ"
+        },
+        {
+          "id": "23-063",
+          "en_name": "Chrang Chamreh Ti Muoy",
+          "kh_name": "ច្រាំងចំរេះ១"
+        },
+        {
+          "id": "23-064",
+          "en_name": "Chrang Chamreh Ti Pir",
+          "kh_name": "ច្រាំងចំរេះ២"
+        }
+      ]
+    },
+    {
+      "kh_name": "សែនសុខ",
+      "en_name": "Sen Sok",
+      "communes": [
+        {
+          "id": "23-065",
+          "en_name": "Phnom Penh Thmei",
+          "kh_name": "ភ្នំពេញថ្មី"
+        },
+        {
+          "id": "23-066",
+          "en_name": "Tuek Thla",
+          "kh_name": "ទឹកថ្លា"
+        },
+        {
+          "id": "23-067",
+          "en_name": "Khmuonh",
+          "kh_name": "ឃ្មួញ"
+        },
+        {
+          "id": "23-068",
+          "en_name": "Krang Thnong",
+          "kh_name": "ក្រាំងធ្នុង"
+        }
+      ]
+    },
+    {
+      "kh_name": "ពោធិ៍សែនជ័យ",
+      "en_name": "Pou Senchey",
+      "communes": [
+        {
+          "id": "23-069",
+          "en_name": "Ovlaok",
+          "kh_name": "ឳឡោក"
+        },
+        {
+          "id": "23-070",
+          "en_name": "Kamboul",
+          "kh_name": "កំបូល"
+        },
+        {
+          "id": "23-071",
+          "en_name": "Kantaok",
+          "kh_name": "កន្ទោក"
+        },
+        {
+          "id": "23-072",
+          "en_name": "Boeng Thum",
+          "kh_name": "បឹងធំ"
+        },
+        {
+          "id": "23-073",
+          "en_name": "Phleung Chheh Roteh",
+          "kh_name": "ភ្លើងឆេះរទេះ"
+        },
+        {
+          "id": "23-074",
+          "en_name": "Chaom Chau",
+          "kh_name": "ចោមចៅ"
+        },
+        {
+          "id": "23-075",
+          "en_name": "Trapeang Krasang",
+          "kh_name": "ត្រពាំងក្រសាំង"
+        },
+        {
+          "id": "23-076",
+          "en_name": "Kakab",
+          "kh_name": "កាកាប"
+        },
+        {
+          "id": "23-077",
+          "en_name": "Samraong Kraom",
+          "kh_name": "សំរោងក្រោម"
+        },
+        {
+          "id": "23-078",
+          "en_name": "Snaor",
+          "kh_name": "ស្នោរ"
+        }
+      ]
+    },
+    {
+      "kh_name": "ជ្រោយចង្វារ",
+      "en_name": "Chrouy Changvar",
+      "communes": [
+        {
+          "id": "23-079",
+          "en_name": "Bak Kheng",
+          "kh_name": "បាក់ខែង"
+        },
+        {
+          "id": "23-080",
+          "en_name": "Praek Leab",
+          "kh_name": "ព្រែកលៀប"
+        },
+        {
+          "id": "23-081",
+          "en_name": "Praek Ta Sek",
+          "kh_name": "ព្រែកតាសេក"
+        },
+        {
+          "id": "23-082",
+          "en_name": "Chrouy Changvar",
+          "kh_name": "ជ្រោយចង្វារ"
+        },
+        {
+          "id": "23-083",
+          "en_name": "Kaoh Dach",
+          "kh_name": "កោះដាច់"
+        }
+      ]
+    },
+    {
+      "kh_name": "ព្រែកព្នៅ",
+      "en_name": "Preaek Pnov",
+      "communes": [
+        {
+          "id": "23-084",
+          "en_name": "Ponsang",
+          "kh_name": "ពន្សាំង"
+        },
+        {
+          "id": "23-085",
+          "en_name": "Kouk Roka",
+          "kh_name": "កោគរការ"
+        },
+        {
+          "id": "23-086",
+          "en_name": "Ponhea Pon",
+          "kh_name": "ពញាពន់"
+        },
+        {
+          "id": "23-087",
+          "en_name": "Samraong",
+          "kh_name": "សំរោង"
+        },
+        {
+          "id": "23-088",
+          "en_name": "Praek Phnov",
+          "kh_name": "ព្រែកព្នៅ"
+        }
+      ]
+    },
+    {
+      "kh_name": "ច្បារអំពៅ",
+      "en_name": "Chbar Ampov",
+      "communes": [
+        {
+          "id": "23-089",
+          "en_name": "Chbar Ampov 1",
+          "kh_name": "ច្បារអំពៅ១"
+        },
+        {
+          "id": "23-090",
+          "en_name": "Chbar Ampov 2",
+          "kh_name": "ច្បាអំពៅ២"
+        },
+        {
+          "id": "23-091",
+          "en_name": "Nirouth",
+          "kh_name": "និរោធ"
+        },
+        {
+          "id": "23-092",
+          "en_name": "Praek Pra",
+          "kh_name": "ព្រែកប្រា"
+        },
+        {
+          "id": "23-093",
+          "en_name": "Praek Thmei",
+          "kh_name": "ព្រែកថ្មី"
+        },
+        {
+          "id": "23-094",
+          "en_name": "Kbal Kaoh",
+          "kh_name": "ក្បាលកោះ"
+        },
+        {
+          "id": "23-095",
+          "en_name": "Praek Aeng",
+          "kh_name": "ព្រែកឯង"
+        },
+        {
+          "id": "23-096",
+          "en_name": "Veal Sbov",
+          "kh_name": "វាលស្បូវ"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,385 @@
+{
+  "kh_name": "បន្ទាយមានជ័យ",
+  "en_name": "Banteay Meanchey",
+  "districts": [
+    {
+      "kh_name": "មង្គលបុរី",
+      "en_name": "Mongkol Borei",
+      "communes": [
+        {
+          "id": "01-001",
+          "en_name": "Banteay Neang",
+          "kh_name": "បន្ទាយនាង"
+        },
+        {
+          "id": "01-002",
+          "en_name": "Bat Trang",
+          "kh_name": "បត់ត្រង់"
+        },
+        {
+          "id": "01-003",
+          "en_name": "Chamnaom",
+          "kh_name": "ចំណោម"
+        },
+        {
+          "id": "01-004",
+          "en_name": "Kouk Ballangk",
+          "kh_name": "គោកបល្ល័ង្គ"
+        },
+        {
+          "id": "01-005",
+          "en_name": "Koy Maeng",
+          "kh_name": "គយម៉ែង"
+        },
+        {
+          "id": "01-006",
+          "en_name": "Ou Prasat",
+          "kh_name": "អូរប្រាសាទ"
+        },
+        {
+          "id": "01-007",
+          "en_name": "Phnum Touch",
+          "kh_name": "ភ្នំតូច"
+        },
+        {
+          "id": "01-008",
+          "en_name": "Rohat Tuek",
+          "kh_name": "រហាត់ទឹក"
+        },
+        {
+          "id": "01-009",
+          "en_name": "Ruessei Kraok",
+          "kh_name": "ឫស្សីក្រោក"
+        },
+        {
+          "id": "01-010",
+          "en_name": "Sambuor",
+          "kh_name": "សំបួរ"
+        },
+        {
+          "id": "01-011",
+          "en_name": "Soea",
+          "kh_name": "សឿ"
+        },
+        {
+          "id": "01-012",
+          "en_name": "Srah Reang",
+          "kh_name": "ស្រះរាំង"
+        },
+        {
+          "id": "01-013",
+          "en_name": "Ta Lam",
+          "kh_name": "តាឡំ"
+        }
+      ]
+    },
+    {
+      "kh_name": "ភ្នំស្រុក",
+      "en_name": "Phnum Srok",
+      "communes": [
+        {
+          "id": "01-014",
+          "en_name": "Nam Tau",
+          "kh_name": "ណាំតៅ"
+        },
+        {
+          "id": "01-015",
+          "en_name": "Poy Char",
+          "kh_name": "ប៉ោយចារ"
+        },
+        {
+          "id": "01-016",
+          "en_name": "Ponley",
+          "kh_name": "ពន្លៃ"
+        },
+        {
+          "id": "01-017",
+          "en_name": "Spean Sraeng",
+          "kh_name": "ស្ពានស្រែង"
+        },
+        {
+          "id": "01-018",
+          "en_name": "Srah Chik",
+          "kh_name": "ស្រះជីក"
+        },
+        {
+          "id": "01-019",
+          "en_name": "Phnum Dei",
+          "kh_name": "ភ្នំដី"
+        }
+      ]
+    },
+    {
+      "kh_name": "ព្រះនេត្រព្រះ",
+      "en_name": "Preah Netr Preah",
+      "communes": [
+        {
+          "id": "01-020",
+          "en_name": "Chnuor Mean Chey",
+          "kh_name": "ឈ្នួរមានជ័យ"
+        },
+        {
+          "id": "01-021",
+          "en_name": "Chob Veari",
+          "kh_name": "ជប់វារី"
+        },
+        {
+          "id": "01-022",
+          "en_name": "Phnum Lieb",
+          "kh_name": "ភ្នំលៀប"
+        },
+        {
+          "id": "01-023",
+          "en_name": "Prasat",
+          "kh_name": "ប្រាសាទ"
+        },
+        {
+          "id": "01-024",
+          "en_name": "Preah Netr Preah",
+          "kh_name": "ព្រះនេត្រព្រះ"
+        },
+        {
+          "id": "01-025",
+          "en_name": "Rohal",
+          "kh_name": "រហាល"
+        },
+        {
+          "id": "01-026",
+          "en_name": "Tean Kam",
+          "kh_name": "ទានកាំ"
+        },
+        {
+          "id": "01-027",
+          "en_name": "Tuek Chour",
+          "kh_name": "ទឹកជោរ"
+        },
+        {
+          "id": "01-028",
+          "en_name": "Bos Sbov",
+          "kh_name": "បុសស្បូវ"
+        }
+      ]
+    },
+    {
+      "kh_name": "អូរជ្រៅ",
+      "en_name": "Ou Chrov",
+      "communes": [
+        {
+          "id": "01-029",
+          "en_name": "Changha",
+          "kh_name": "ចង្ហា"
+        },
+        {
+          "id": "01-030",
+          "en_name": "Koub",
+          "kh_name": "កូប"
+        },
+        {
+          "id": "01-031",
+          "en_name": "Kuttasat",
+          "kh_name": "គុត្តសត"
+        },
+        {
+          "id": "01-032",
+          "en_name": "Samraong",
+          "kh_name": "សំរោង"
+        },
+        {
+          "id": "01-033",
+          "en_name": "Souphi",
+          "kh_name": "សូភី"
+        },
+        {
+          "id": "01-034",
+          "en_name": "Soengh",
+          "kh_name": "សឹង្ហ"
+        },
+        {
+          "id": "01-035",
+          "en_name": "Ou Beichaon",
+          "kh_name": "អូរបីជាន់"
+        }
+      ]
+    },
+    {
+      "kh_name": "ក្រុងសិរីសោភ័ណ",
+      "en_name": "Krong Serei Saophoan",
+      "communes": [
+        {
+          "id": "01-036",
+          "en_name": "Kampong Svay",
+          "kh_name": "កំពង់ស្វាយ"
+        },
+        {
+          "id": "01-037",
+          "en_name": "Kaoh Pong Satv",
+          "kh_name": "កោះពងសត្វ"
+        },
+        {
+          "id": "01-038",
+          "en_name": "Mkak",
+          "kh_name": "ម្កាក់"
+        },
+        {
+          "id": "01-039",
+          "en_name": "Ou Ambel",
+          "kh_name": "អូរអំបិល"
+        },
+        {
+          "id": "01-040",
+          "en_name": "Phniet",
+          "kh_name": "ភ្នៀត"
+        },
+        {
+          "id": "01-041",
+          "en_name": "Preah Ponlea",
+          "kh_name": "ព្រះពន្លា"
+        },
+        {
+          "id": "01-042",
+          "en_name": "Tuek Thla",
+          "kh_name": "ទឹកថ្លា"
+        }
+      ]
+    },
+    {
+      "kh_name": "ថ្មពួក",
+      "en_name": "Thma Puok",
+      "communes": [
+        {
+          "id": "01-043",
+          "en_name": "Banteay Chhmar",
+          "kh_name": "បន្ទាយឆ្មារ"
+        },
+        {
+          "id": "01-044",
+          "en_name": "Kouk Kakthen",
+          "kh_name": "គំរូ"
+        },
+        {
+          "id": "01-045",
+          "en_name": "Kouk Romiet",
+          "kh_name": "គោករមៀត"
+        },
+        {
+          "id": "01-046",
+          "en_name": "Kumru",
+          "kh_name": "ភូមិថ្មី"
+        },
+        {
+          "id": "01-047",
+          "en_name": "Phum Thmei",
+          "kh_name": "ថ្មពួក"
+        },
+        {
+          "id": "01-048",
+          "en_name": "Thma Puok",
+          "kh_name": "គោកកឋិន"
+        }
+      ]
+    },
+    {
+      "kh_name": "ស្វាយចេក",
+      "en_name": "Svay Chek",
+      "communes": [
+        {
+          "id": "01-049",
+          "en_name": "Phkoam",
+          "kh_name": "ផ្គាំ"
+        },
+        {
+          "id": "01-050",
+          "en_name": "Roluos",
+          "kh_name": "រលួស"
+        },
+        {
+          "id": "01-051",
+          "en_name": "Sarongk",
+          "kh_name": "សារង្គ"
+        },
+        {
+          "id": "01-052",
+          "en_name": "Sla Kram",
+          "kh_name": "ស្លក្រាម"
+        },
+        {
+          "id": "01-053",
+          "en_name": "Svay Chek",
+          "kh_name": "ស្វាយចេក"
+        },
+        {
+          "id": "01-054",
+          "en_name": "Ta Baen",
+          "kh_name": "តាបែន"
+        },
+        {
+          "id": "01-055",
+          "en_name": "Ta Phou",
+          "kh_name": "តាផូ"
+        },
+        {
+          "id": "01-056",
+          "en_name": "Treas",
+          "kh_name": "ទ្រាស"
+        }
+      ]
+    },
+    {
+      "kh_name": "មាល័យ",
+      "en_name": "Malai",
+      "communes": [
+        {
+          "id": "01-057",
+          "en_name": "Boeng Beng",
+          "kh_name": "បឹងបេង"
+        },
+        {
+          "id": "01-058",
+          "en_name": "Malai",
+          "kh_name": "ម៉ាឡៃ"
+        },
+        {
+          "id": "01-059",
+          "en_name": "Ou Sampor",
+          "kh_name": "អូរសំព័រ"
+        },
+        {
+          "id": "01-060",
+          "en_name": "Ou Sralau",
+          "kh_name": "អូរស្រឡៅ"
+        },
+        {
+          "id": "01-061",
+          "en_name": "Ta Kong",
+          "kh_name": "តាគង់"
+        },
+        {
+          "id": "01-062",
+          "en_name": "Tuol Pongro",
+          "kh_name": "ទួលពង្រ"
+        }
+      ]
+    },
+    {
+      "kh_name": "ក្រុងប៉ោយប៉ែត",
+      "en_name": "Krong Paoy Paet",
+      "communes": [
+        {
+          "id": "01-063",
+          "en_name": "Nimit",
+          "kh_name": "និមិត្ត"
+        },
+        {
+          "id": "01-064",
+          "en_name": "Paoy Paet",
+          "kh_name": "ប៉ោយប៉ែត"
+        },
+        {
+          "id": "01-065",
+          "en_name": "Psar Kandal",
+          "kh_name": "ផ្សារកណ្តាល"
+        }
+      ]
+    }
+  ]
+}

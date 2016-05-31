@@ -1,0 +1,303 @@
+{
+  "kh_name": "ព្រះវិហារ",
+  "en_name": "Preah Vihear",
+  "districts": [
+    {
+      "kh_name": "ជ័យសែន",
+      "en_name": "Chey Saen",
+      "communes": [
+        {
+          "id": "13-001",
+          "en_name": "Sa'ang",
+          "kh_name": "ស្អាង"
+        },
+        {
+          "id": "13-002",
+          "en_name": "Tor Sou",
+          "kh_name": "តស៊ូ"
+        },
+        {
+          "id": "13-003",
+          "en_name": "Kchorng",
+          "kh_name": "ខ្យង"
+        },
+        {
+          "id": "13-004",
+          "en_name": "Chrach",
+          "kh_name": "ច្រាច់"
+        },
+        {
+          "id": "13-005",
+          "en_name": "Thmea",
+          "kh_name": "ធ្មា"
+        },
+        {
+          "id": "13-006",
+          "en_name": "Putrea",
+          "kh_name": "ពុទ្រា"
+        }
+      ]
+    },
+    {
+      "kh_name": "ឆែប",
+      "en_name": "Chhaeb",
+      "communes": [
+        {
+          "id": "13-007",
+          "en_name": "Chhaeb Mouy",
+          "kh_name": "ឆែបមួយ"
+        },
+        {
+          "id": "13-008",
+          "en_name": "Chhaeb Pir",
+          "kh_name": "ឆែបពីរ"
+        },
+        {
+          "id": "13-009",
+          "en_name": "Sangke Mouy",
+          "kh_name": "សង្កែមួយ"
+        },
+        {
+          "id": "13-010",
+          "en_name": "Sangke Pir",
+          "kh_name": "សង្កែពីរ"
+        },
+        {
+          "id": "13-011",
+          "en_name": "Mlouprey Mouy",
+          "kh_name": "ម្លូព្រៃមួយ"
+        },
+        {
+          "id": "13-012",
+          "en_name": "Mlouprey Pir",
+          "kh_name": "ម្លូព្រៃពីរ"
+        },
+        {
+          "id": "13-013",
+          "en_name": "Kampong Sralao Mouy",
+          "kh_name": "កំពង់ស្រឡៅមួយ"
+        },
+        {
+          "id": "13-014",
+          "en_name": "Kampong Sralao Pir",
+          "kh_name": "កំពង់ស្រឡៅពីរ"
+        }
+      ]
+    },
+    {
+      "kh_name": "ជាំក្សាន្ត",
+      "en_name": "Choam Khsan",
+      "communes": [
+        {
+          "id": "13-015",
+          "en_name": "Choam Khsant",
+          "kh_name": "ជាំក្សាន្ត"
+        },
+        {
+          "id": "13-016",
+          "en_name": "Teuk Krahorm",
+          "kh_name": "ទឹកក្រហម"
+        },
+        {
+          "id": "13-017",
+          "en_name": "Pring Thom",
+          "kh_name": "ព្រីងធំ"
+        },
+        {
+          "id": "13-018",
+          "en_name": "Romdoh Srae",
+          "kh_name": "រំដោះស្រែ"
+        },
+        {
+          "id": "13-019",
+          "en_name": "Yeang",
+          "kh_name": "យាង"
+        },
+        {
+          "id": "13-020",
+          "en_name": "Kantout",
+          "kh_name": "កន្ទួត"
+        },
+        {
+          "id": "13-021",
+          "en_name": "Sraem",
+          "kh_name": "ស្រអែម"
+        },
+        {
+          "id": "13-022",
+          "en_name": "Morodok",
+          "kh_name": "មរកត"
+        }
+      ]
+    },
+    {
+      "kh_name": "គូលែន",
+      "en_name": "Kuleaen",
+      "communes": [
+        {
+          "id": "13-023",
+          "en_name": "Kulen Tbong",
+          "kh_name": "គូលែនត្បូង"
+        },
+        {
+          "id": "13-024",
+          "en_name": "Kulen Cheung",
+          "kh_name": "គូលែនជើង"
+        },
+        {
+          "id": "13-025",
+          "en_name": "Thmei",
+          "kh_name": "ថ្មី"
+        },
+        {
+          "id": "13-026",
+          "en_name": "Phnom Penh",
+          "kh_name": "ភ្នំពេញ"
+        },
+        {
+          "id": "13-027",
+          "en_name": "Phnom Tbeng Pir",
+          "kh_name": "ភ្នំត្បែងពីរ"
+        },
+        {
+          "id": "13-028",
+          "en_name": "Sroyong",
+          "kh_name": "ស្រយ៉ង់"
+        }
+      ]
+    },
+    {
+      "kh_name": "រវៀង",
+      "en_name": "Rovieng",
+      "communes": [
+        {
+          "id": "13-029",
+          "en_name": "Robeab",
+          "kh_name": "របៀប"
+        },
+        {
+          "id": "13-030",
+          "en_name": "Reaksmey",
+          "kh_name": "រស្មី"
+        },
+        {
+          "id": "13-031",
+          "en_name": "Rohas",
+          "kh_name": "រហ័ស"
+        },
+        {
+          "id": "13-032",
+          "en_name": "Rong Reung",
+          "kh_name": "រុងរឿង"
+        },
+        {
+          "id": "13-033",
+          "en_name": "Rik Reay",
+          "kh_name": "រីករាយ"
+        },
+        {
+          "id": "13-034",
+          "en_name": "Rous Roan",
+          "kh_name": "រួសរាន់"
+        },
+        {
+          "id": "13-035",
+          "en_name": "Ratanak",
+          "kh_name": "រតនៈ"
+        },
+        {
+          "id": "13-036",
+          "en_name": "Reab Roay",
+          "kh_name": "រៀបរយ"
+        },
+        {
+          "id": "13-037",
+          "en_name": "Reaksa",
+          "kh_name": "រក្សា"
+        },
+        {
+          "id": "13-038",
+          "en_name": "Romdors",
+          "kh_name": "រំដោះ"
+        },
+        {
+          "id": "13-039",
+          "en_name": "Rumtum",
+          "kh_name": "រមទម"
+        },
+        {
+          "id": "13-040",
+          "en_name": "Romniy",
+          "kh_name": "រម្មណីយ"
+        }
+      ]
+    },
+    {
+      "kh_name": "សង្គមថ្មី",
+      "en_name": "Sangkom Thmei",
+      "communes": [
+        {
+          "id": "13-041",
+          "en_name": "Ro'ang",
+          "kh_name": "រអាង"
+        },
+        {
+          "id": "13-042",
+          "en_name": "Phnom Tbeng Mouy",
+          "kh_name": "ភ្នំត្បែងមួយ"
+        },
+        {
+          "id": "13-043",
+          "en_name": "Sdao",
+          "kh_name": "ស្តៅ"
+        },
+        {
+          "id": "13-044",
+          "en_name": "Ranakseh",
+          "kh_name": "រណសិរ្ស"
+        },
+        {
+          "id": "13-045",
+          "en_name": "Chomreun",
+          "kh_name": "ចំរើន"
+        }
+      ]
+    },
+    {
+      "kh_name": "ត្បែងមានជ័យ",
+      "en_name": "Tbeng Meanchey",
+      "communes": [
+        {
+          "id": "13-046",
+          "en_name": "Kampong Bronak",
+          "kh_name": "កំពង់ប្រណោក"
+        },
+        {
+          "id": "13-047",
+          "en_name": "Pahal",
+          "kh_name": "ប៉ាលហាល"
+        },
+        {
+          "id": "13-048",
+          "en_name": "Chhean Mukh",
+          "kh_name": "ឈានមុខ"
+        },
+        {
+          "id": "13-049",
+          "en_name": "Pou",
+          "kh_name": "ពោធិ៍"
+        },
+        {
+          "id": "13-050",
+          "en_name": "Bromeru",
+          "kh_name": "ប្រមេរុ"
+        },
+        {
+          "id": "13-051",
+          "en_name": "Preah Khleang",
+          "kh_name": "ព្រះឃ្លាំង"
+        }
+      ]
+    }
+  ]
+}
