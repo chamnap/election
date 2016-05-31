@@ -26,7 +26,8 @@
   },
   "districts": [
     {
-      "name": "មង្គលបូរី",
+      "kh_name": "មង្គលបុរី",
+      "en_name": "Mongkol Borei",
       "total": {
         "name": "សរុបស្រុក",
         "number": "0160",
@@ -48,7 +49,8 @@
       "communes": [
         {
           "id": "01-001",
-          "name": "បន្ទាយនាង",
+          "en_name": "Banteay Neang",
+          "kh_name": "បន្ទាយនាង",
           "total": {
             "name": "សរុប",
             "number": "0019",
@@ -414,7 +416,8 @@
         },
         {
           "id": "01-002",
-          "name": "បត់ត្រង់",
+          "en_name": "Bat Trang",
+          "kh_name": "បត់ត្រង់",
           "total": {
             "name": "សរុប",
             "number": "0007",
@@ -564,7 +567,8 @@
         },
         {
           "id": "01-003",
-          "name": "ចំណោម",
+          "en_name": "Chamnaom",
+          "kh_name": "ចំណោម",
           "total": {
             "name": "សរុប",
             "number": "0018",
@@ -912,7 +916,8 @@
         },
         {
           "id": "01-004",
-          "name": "គោកបល្ល័ង្គ",
+          "en_name": "Kouk Ballangk",
+          "kh_name": "គោកបល្ល័ង្គ",
           "total": {
             "name": "សរុប",
             "number": "0006",
@@ -1044,7 +1049,8 @@
         },
         {
           "id": "01-005",
-          "name": "គយម៉ែង",
+          "en_name": "Koy Maeng",
+          "kh_name": "គយម៉ែង",
           "total": {
             "name": "សរុប",
             "number": "0008",
@@ -1212,7 +1218,8 @@
         },
         {
           "id": "01-006",
-          "name": "អូរប្រាសាទ",
+          "en_name": "Ou Prasat",
+          "kh_name": "អូរប្រាសាទ",
           "total": {
             "name": "សរុប",
             "number": "0015",
@@ -1506,7 +1513,8 @@
         },
         {
           "id": "01-007",
-          "name": "ភ្នំតូច",
+          "en_name": "Phnum Touch",
+          "kh_name": "ភ្នំតូច",
           "total": {
             "name": "សរុប",
             "number": "0011",
@@ -1728,7 +1736,8 @@
         },
         {
           "id": "01-008",
-          "name": "រហាត់ទឹក",
+          "en_name": "Rohat Tuek",
+          "kh_name": "រហាត់ទឹក",
           "total": {
             "name": "សរុប",
             "number": "0012",
@@ -1968,7 +1977,8 @@
         },
         {
           "id": "01-009",
-          "name": "ឫស្សីក្រោក",
+          "en_name": "Ruessei Kraok",
+          "kh_name": "ឫស្សីក្រោក",
           "total": {
             "name": "សរុប",
             "number": "0026",
@@ -2460,7 +2470,8 @@
         },
         {
           "id": "01-010",
-          "name": "សំបួរ",
+          "en_name": "Sambuor",
+          "kh_name": "សំបួរ",
           "total": {
             "name": "សរុប",
             "number": "0007",
@@ -2610,7 +2621,8 @@
         },
         {
           "id": "01-011",
-          "name": "សឿ",
+          "en_name": "Soea",
+          "kh_name": "សឿ",
           "total": {
             "name": "សរុប",
             "number": "0014",
@@ -2886,7 +2898,8 @@
         },
         {
           "id": "01-012",
-          "name": "ស្រះរាំង",
+          "en_name": "Srah Reang",
+          "kh_name": "ស្រះរាំង",
           "total": {
             "name": "សរុប",
             "number": "0009",
@@ -3072,7 +3085,8 @@
         },
         {
           "id": "01-013",
-          "name": "តាឡំ",
+          "en_name": "Ta Lam",
+          "kh_name": "តាឡំ",
           "total": {
             "name": "សរុប",
             "number": "0008",
@@ -3241,7 +3255,8 @@
       ]
     },
     {
-      "name": "ភ្នំស្រុក",
+      "kh_name": "ភ្នំស្រុក",
+      "en_name": "Phnum Srok",
       "total": {
         "name": "សរុបស្រុក",
         "number": "0061",
@@ -3263,7 +3278,8 @@
       "communes": [
         {
           "id": "01-014",
-          "name": "ណាំតៅ",
+          "en_name": "Nam Tau",
+          "kh_name": "ណាំតៅ",
           "total": {
             "name": "សរុប",
             "number": "0011",
@@ -3485,7 +3501,8 @@
         },
         {
           "id": "01-015",
-          "name": "ប៉ោយចារ",
+          "en_name": "Poy Char",
+          "kh_name": "ប៉ោយចារ",
           "total": {
             "name": "សរុប",
             "number": "0014",
@@ -3761,7 +3778,8 @@
         },
         {
           "id": "01-016",
-          "name": "ពន្លៃ",
+          "en_name": "Ponley",
+          "kh_name": "ពន្លៃ",
           "total": {
             "name": "សរុប",
             "number": "0015",
@@ -4055,7 +4073,8 @@
         },
         {
           "id": "01-017",
-          "name": "ស្ពានស្រែង",
+          "en_name": "Spean Sraeng",
+          "kh_name": "ស្ពានស្រែង",
           "total": {
             "name": "សរុប",
             "number": "0005",
@@ -4169,7 +4188,8 @@
         },
         {
           "id": "01-018",
-          "name": "ស្រះជីក",
+          "en_name": "Srah Chik",
+          "kh_name": "ស្រះជីក",
           "total": {
             "name": "សរុប",
             "number": "0008",
@@ -4337,7 +4357,8 @@
         },
         {
           "id": "01-019",
-          "name": "ភ្នំដី",
+          "en_name": "Phnum Dei",
+          "kh_name": "ភ្នំដី",
           "total": {
             "name": "សរុប",
             "number": "0008",
@@ -4506,7 +4527,8 @@
       ]
     },
     {
-      "name": "ព្រះនេត្រព្រះ",
+      "kh_name": "ព្រះនេត្រព្រះ",
+      "en_name": "Preah Netr Preah",
       "total": {
         "name": "សរុបស្រុក",
         "number": "0092",
@@ -4528,7 +4550,8 @@
       "communes": [
         {
           "id": "01-020",
-          "name": "ឈ្នួរមានជ័យ",
+          "en_name": "Chnuor Mean Chey",
+          "kh_name": "ឈ្នួរមានជ័យ",
           "total": {
             "name": "សរុប",
             "number": "0007",
@@ -4678,7 +4701,8 @@
         },
         {
           "id": "01-021",
-          "name": "ជប់វារី",
+          "en_name": "Chob Veari",
+          "kh_name": "ជប់វារី",
           "total": {
             "name": "សរុប",
             "number": "0016",
@@ -4990,7 +5014,8 @@
         },
         {
           "id": "01-022",
-          "name": "ភ្នំលៀប",
+          "en_name": "Phnum Lieb",
+          "kh_name": "ភ្នំលៀប",
           "total": {
             "name": "សរុប",
             "number": "0015",
@@ -5284,7 +5309,8 @@
         },
         {
           "id": "01-023",
-          "name": "ប្រាសាទ",
+          "en_name": "Prasat",
+          "kh_name": "ប្រាសាទ",
           "total": {
             "name": "សរុប",
             "number": "0008",
@@ -5452,7 +5478,8 @@
         },
         {
           "id": "01-024",
-          "name": "ព្រះនេត្រព្រះ",
+          "en_name": "Preah Netr Preah",
+          "kh_name": "ព្រះនេត្រព្រះ",
           "total": {
             "name": "សរុប",
             "number": "0015",
@@ -5746,7 +5773,8 @@
         },
         {
           "id": "01-025",
-          "name": "រហាល",
+          "en_name": "Rohal",
+          "kh_name": "រហាល",
           "total": {
             "name": "សរុប",
             "number": "0011",
@@ -5968,7 +5996,8 @@
         },
         {
           "id": "01-026",
-          "name": "ទានកាំ",
+          "en_name": "Tean Kam",
+          "kh_name": "ទានកាំ",
           "total": {
             "name": "សរុប",
             "number": "0005",
@@ -6082,7 +6111,8 @@
         },
         {
           "id": "01-027",
-          "name": "ទឹកជោរ",
+          "en_name": "Tuek Chour",
+          "kh_name": "ទឹកជោរ",
           "total": {
             "name": "សរុប",
             "number": "0015",
@@ -6377,7 +6407,8 @@
       ]
     },
     {
-      "name": "អូរជ្រៅ",
+      "kh_name": "អូរជ្រៅ",
+      "en_name": "Ou Chrov",
       "total": {
         "name": "សរុបស្រុក",
         "number": "0187",
@@ -6399,7 +6430,8 @@
       "communes": [
         {
           "id": "01-028",
-          "name": "ចង្ហា",
+          "en_name": "Changha",
+          "kh_name": "ចង្ហា",
           "total": {
             "name": "សរុប",
             "number": "0008",
@@ -6567,7 +6599,8 @@
         },
         {
           "id": "01-029",
-          "name": "កូប",
+          "en_name": "Koub",
+          "kh_name": "កូប",
           "total": {
             "name": "សរុប",
             "number": "0010",
@@ -6771,7 +6804,8 @@
         },
         {
           "id": "01-030",
-          "name": "គុត្ដសត",
+          "en_name": "Kuttasat",
+          "kh_name": "គុត្តសត",
           "total": {
             "name": "សរុប",
             "number": "0005",
@@ -7359,7 +7393,8 @@
         },
         {
           "id": "01-032",
-          "name": "សំរោង",
+          "en_name": "Samraong",
+          "kh_name": "សំរោង",
           "total": {
             "name": "សរុប",
             "number": "0008",
@@ -7527,7 +7562,8 @@
         },
         {
           "id": "01-033",
-          "name": "សូភី",
+          "en_name": "Souphi",
+          "kh_name": "សូភី",
           "total": {
             "name": "សរុប",
             "number": "0005",
@@ -7641,7 +7677,8 @@
         },
         {
           "id": "01-034",
-          "name": "សឹង្ហ",
+          "en_name": "Soengh",
+          "kh_name": "សឹង្ហ",
           "total": {
             "name": "សរុប",
             "number": "0009",
@@ -7827,7 +7864,8 @@
         },
         {
           "id": "01-035",
-          "name": "ប៉ោយប៉ែត",
+          "en_name": "Paoy Paet",
+          "kh_name": "ប៉ោយប៉ែត",
           "total": {
             "name": "សរុប",
             "number": "0102",
@@ -9687,7 +9725,8 @@
         },
         {
           "id": "01-064",
-          "name": "អូរបីជាន់",
+          "en_name": "Ou Beichaon",
+          "kh_name": "អូរបីជាន់",
           "total": {
             "name": "សរុប",
             "number": "0015",
@@ -9982,7 +10021,8 @@
       ]
     },
     {
-      "name": "សិរីសោភ័ណ",
+      "kh_name": "ក្រុងសិរីសោភ័ណ",
+      "en_name": "Krong Serei Saophoan",
       "total": {
         "name": "សរុបស្រុក",
         "number": "0103",
@@ -10004,7 +10044,8 @@
       "communes": [
         {
           "id": "01-036",
-          "name": "បុស្បូវ",
+          "en_name": "Bos Sbov",
+          "kh_name": "បុសស្បូវ",
           "total": {
             "name": "សរុប",
             "number": "0012",
@@ -10244,7 +10285,8 @@
         },
         {
           "id": "01-037",
-          "name": "កំពង់ស្វាយ",
+          "en_name": "Kampong Svay",
+          "kh_name": "កំពង់ស្វាយ",
           "total": {
             "name": "សរុប",
             "number": "0026",
@@ -10736,7 +10778,8 @@
         },
         {
           "id": "01-038",
-          "name": "កោះពងសត្វ",
+          "en_name": "Kaoh Pong Satv",
+          "kh_name": "កោះពងសត្វ",
           "total": {
             "name": "សរុប",
             "number": "0005",
@@ -10850,7 +10893,8 @@
         },
         {
           "id": "01-039",
-          "name": "ម្កាក់",
+          "en_name": "Mkak",
+          "kh_name": "ម្កាក់",
           "total": {
             "name": "សរុប",
             "number": "0008",
@@ -11018,7 +11062,8 @@
         },
         {
           "id": "01-040",
-          "name": "អូរអំបិល",
+          "en_name": "Ou Ambel",
+          "kh_name": "អូរអំបិល",
           "total": {
             "name": "សរុប",
             "number": "0018",
@@ -11366,7 +11411,8 @@
         },
         {
           "id": "01-041",
-          "name": "ភ្នៀត",
+          "en_name": "Phniet",
+          "kh_name": "ភ្នៀត",
           "total": {
             "name": "សរុប",
             "number": "0006",
@@ -11498,7 +11544,8 @@
         },
         {
           "id": "01-042",
-          "name": "ព្រះពន្លា",
+          "en_name": "Preah Ponlea",
+          "kh_name": "ព្រះពន្លា",
           "total": {
             "name": "សរុប",
             "number": "0016",
@@ -11810,7 +11857,8 @@
         },
         {
           "id": "01-043",
-          "name": "ទឹកថ្លា",
+          "en_name": "Tuek Thla",
+          "kh_name": "ទឹកថ្លា",
           "total": {
             "name": "សរុប",
             "number": "0012",
@@ -12073,7 +12121,8 @@
       "communes": [
         {
           "id": "01-044",
-          "name": "បន្ទាយឆ្មារ",
+          "en_name": "Banteay Chhmar",
+          "kh_name": "បន្ទាយឆ្មារ",
           "total": {
             "name": "សរុប",
             "number": "0016",
@@ -12385,7 +12434,8 @@
         },
         {
           "id": "01-045",
-          "name": "គោករមៀត",
+          "en_name": "Kouk Romiet",
+          "kh_name": "គោករមៀត",
           "total": {
             "name": "សរុប",
             "number": "0019",
@@ -12751,7 +12801,8 @@
         },
         {
           "id": "01-046",
-          "name": "ថ្ម ពួក",
+          "en_name": "Thma Puok",
+          "kh_name": "ថ្មពួក",
           "total": {
             "name": "សរុប",
             "number": "0011",
@@ -12973,7 +13024,8 @@
         },
         {
           "id": "01-047",
-          "name": "គោកកឋិន",
+          "en_name": "Kouk Kakthen",
+          "kh_name": "គោកកឋិន",
           "total": {
             "name": "សរុប",
             "number": "0011",
@@ -13195,7 +13247,8 @@
         },
         {
           "id": "01-048",
-          "name": "គំរូ",
+          "en_name": "Kumru",
+          "kh_name": "គំរូ",
           "total": {
             "name": "សរុប",
             "number": "0010",
@@ -13399,7 +13452,8 @@
         },
         {
           "id": "01-049",
-          "name": "ភូមិថ្មី",
+          "en_name": "Phum Thmei",
+          "kh_name": "ភូមិថ្មី",
           "total": {
             "name": "សរុប",
             "number": "0009",
@@ -13586,7 +13640,8 @@
       ]
     },
     {
-      "name": "ស្វាយចេក",
+      "kh_name": "ស្វាយចេក",
+      "en_name": "Svay Chek",
       "total": {
         "name": "សរុបស្រុក",
         "number": "0069",
@@ -13608,7 +13663,8 @@
       "communes": [
         {
           "id": "01-050",
-          "name": "ផ្គាំ",
+          "en_name": "Phkoam",
+          "kh_name": "ផ្គាំ",
           "total": {
             "name": "សរុប",
             "number": "0012",
@@ -13848,7 +13904,8 @@
         },
         {
           "id": "01-051",
-          "name": "សារង្គ",
+          "en_name": "Sarongk",
+          "kh_name": "សារង្គ",
           "total": {
             "name": "សរុប",
             "number": "0005",
@@ -13962,7 +14019,8 @@
         },
         {
           "id": "01-052",
-          "name": "ស្លក្រាម",
+          "en_name": "Sla Kram",
+          "kh_name": "ស្លក្រាម",
           "total": {
             "name": "សរុប",
             "number": "0013",
@@ -14220,7 +14278,8 @@
         },
         {
           "id": "01-053",
-          "name": "ស្វាយចេក",
+          "en_name": "Svay Chek",
+          "kh_name": "ស្វាយចេក",
           "total": {
             "name": "សរុប",
             "number": "0010",
@@ -14424,7 +14483,8 @@
         },
         {
           "id": "01-054",
-          "name": "តាបែន",
+          "en_name": "Ta Baen",
+          "kh_name": "តាបែន",
           "total": {
             "name": "សរុប",
             "number": "0004",
@@ -14520,7 +14580,8 @@
         },
         {
           "id": "01-055",
-          "name": "តាផូ",
+          "en_name": "Ta Phou",
+          "kh_name": "តាផូ",
           "total": {
             "name": "សរុប",
             "number": "0009",
@@ -14706,7 +14767,8 @@
         },
         {
           "id": "01-056",
-          "name": "ទ្រាស",
+          "en_name": "Treas",
+          "kh_name": "ទ្រាស",
           "total": {
             "name": "សរុប",
             "number": "0012",
@@ -14946,7 +15008,8 @@
         },
         {
           "id": "01-057",
-          "name": "រលួស",
+          "en_name": "Roluos",
+          "kh_name": "រលួស",
           "total": {
             "name": "សរុប",
             "number": "0004",
@@ -15043,7 +15106,8 @@
       ]
     },
     {
-      "name": "ម៉ាឡៃ",
+      "kh_name": "ម៉ាឡៃ",
+      "en_name": "Malai",
       "total": {
         "name": "សរុបស្រុក",
         "number": "0042",
@@ -15065,7 +15129,8 @@
       "communes": [
         {
           "id": "01-058",
-          "name": "បឹងបេង",
+          "en_name": "Boeng Beng",
+          "kh_name": "បឹងបេង",
           "total": {
             "name": "សរុប",
             "number": "0005",
@@ -15179,7 +15244,8 @@
         },
         {
           "id": "01-059",
-          "name": "ម៉ាឡៃ",
+          "en_name": "Malai",
+          "kh_name": "ម៉ាឡៃ",
           "total": {
             "name": "សរុប",
             "number": "0008",
@@ -15347,7 +15413,8 @@
         },
         {
           "id": "01-060",
-          "name": "អូរស្រឡៅ",
+          "en_name": "Ou Sralau",
+          "kh_name": "អូរស្រឡៅ",
           "total": {
             "name": "សរុប",
             "number": "0004",
@@ -15443,7 +15510,8 @@
         },
         {
           "id": "01-061",
-          "name": "អូរសំព័រ",
+          "en_name": "Ou Sampor",
+          "kh_name": "អូរសំព័រ",
           "total": {
             "name": "សរុប",
             "number": "0005",
@@ -15557,7 +15625,8 @@
         },
         {
           "id": "01-062",
-          "name": "ទួលពង្រ",
+          "en_name": "Tuol Pongro",
+          "kh_name": "ទួលពង្រ",
           "total": {
             "name": "សរុប",
             "number": "0009",
@@ -15743,7 +15812,8 @@
         },
         {
           "id": "01-063",
-          "name": "តាគង់",
+          "en_name": "Ta Kong",
+          "kh_name": "តាគង់",
           "total": {
             "name": "សរុប",
             "number": "0011",
