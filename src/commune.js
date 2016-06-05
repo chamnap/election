@@ -2,9 +2,10 @@ var _        = require('lodash');
 var parties  = require('../resources/jsons/parties.json');
 var Party    = require('./party');
 
-var Commune = function(id, name, total) {
+var Commune = function(id, kh_name, en_name, total) {
   this.id       = id;
-  this.name     = name;
+  this.kh_name  = kh_name;
+  this.en_name  = en_name;
   this.total    = total || {};
   this.stations = [];
 };

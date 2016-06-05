@@ -33,13 +33,13 @@ Province.find = function(number) {
 };
 
 Province.loadFromJSON = function(json) {
-  var province = new Province({ name: json.kh_name, en_name: json.en_name, number: json.number, total: json.total });
+  var province = new Province({ name: json.kh_name, kh_name: json.kh_name, en_name: json.en_name, number: json.number, total: json.total });
 
   json.districts.forEach(function(districtJson) {
-    var district = new District(districtJson.name, districtJson.total);
+    var district = new District(districtJson.kh_name, districtJson.en_name, districtJson.total);
 
     districtJson.communes.forEach(function(communeJson) {
-      var commune = new Commune(communeJson.id, communeJson.name, communeJson.total);
+      var commune = new Commune(communeJson.id, communeJson.kh_name, communeJson.en_name, communeJson.total);
 
       communeJson.stations.forEach(function(stationJson) {
         var station = new Station(stationJson);
@@ -142,10 +142,19 @@ Province.prototype = {
   },
 
   saveAsTxt: function() {
+    var self = this;
     var deferred = Q.defer();
-    var stations = [['number', 'name', 't1', 't2', 't3', 't4', 't5', 't6', 't7', 't8', 't9', 't10', 't11', 'useful', 'notUseful', 'totalInBox']];
-    this.getStations().forEach(function(station) {
-      stations.push(station.asArray());
+    var stations = [['province_kh_name', 'province_en_name', 'district_kh_name', 'district_en_name', 'commune_kh_name', 'commune_en_name', 'station_number', 'station_name', 'party1', 'party2', 'party3', 'party4', 'party5', 'party6', 'party7', 'party8', 'party9', 'party10', 'party11', 'useful_votes', 'non_useful_votes', 'total_in_box']];
+
+    this.districts.forEach(function(district) {
+      district.communes.forEach(function(commune) {
+        commune.stations.forEach(function(station) {
+          var array = [self.kh_name, self.en_name, district.kh_name, district.en_name, commune.kh_name, commune.en_name];
+          array = array.concat(station.asArray());
+
+          stations.push(array);
+        });
+      });
     });
 
     csv

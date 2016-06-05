@@ -1,7 +1,8 @@
 var Party    = require('./party');
 
-var District = function(name, total) {
-  this.name     = name;
+var District = function(kh_name, en_name, total) {
+  this.kh_name  = kh_name;
+  this.en_name  = en_name;
   this.total    = total || {};
   this.communes = [];
 };
