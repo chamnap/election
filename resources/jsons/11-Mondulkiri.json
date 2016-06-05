@@ -7,7 +7,8 @@
     "t6",
     "t7"
   ],
-  "name": "មណ្ឌលគីរី",
+  "kh_name": "មណ្ឌលគិរី",
+  "en_name": "Mondulkiri",
   "total": {
     "name": "សរុបខេត្ដ",
     "number": "0071",
@@ -28,7 +29,8 @@
   },
   "districts": [
     {
-      "name": "កែវសីមា",
+      "kh_name": "កែវសីមា",
+      "en_name": "Kaev Seima",
       "total": {
         "name": "សរុបស្រុក",
         "number": "0024",
@@ -50,7 +52,8 @@
       "communes": [
         {
           "id": "11-001",
-          "name": "ចុងផ្លាស",
+          "en_name": "Chong Phlas",
+          "kh_name": "ចុងផ្លាស់",
           "total": {
             "name": "សរុប",
             "number": "0004",
@@ -146,7 +149,8 @@
         },
         {
           "id": "11-002",
-          "name": "មេម៉ង",
+          "en_name": "Memorng",
+          "kh_name": "មេម៉ង់",
           "total": {
             "name": "សរុប",
             "number": "0002",
@@ -206,7 +210,8 @@
         },
         {
           "id": "11-003",
-          "name": "ស្រែឈូក",
+          "en_name": "Sre Chhouk",
+          "kh_name": "ស្រែឈូក",
           "total": {
             "name": "សរុប",
             "number": "0004",
@@ -302,7 +307,8 @@
         },
         {
           "id": "11-004",
-          "name": "ស្រែខុម",
+          "en_name": "Sre Khtum",
+          "kh_name": "ស្រែខ្ទុម",
           "total": {
             "name": "សរុប",
             "number": "0010",
@@ -506,7 +512,8 @@
         },
         {
           "id": "11-005",
-          "name": "ស្រែព្រះ",
+          "en_name": "Sre Preah",
+          "kh_name": "ស្រែព្រះ",
           "total": {
             "name": "សរុប",
             "number": "0004",
@@ -603,7 +610,8 @@
       ]
     },
     {
-      "name": "កោះញែក",
+      "kh_name": "កោះញែក",
+      "en_name": "Kaoh Nheaek",
       "total": {
         "name": "សរុបស្រុក",
         "number": "0016",
@@ -625,7 +633,8 @@
       "communes": [
         {
           "id": "11-006",
-          "name": "ណងឃីលិក",
+          "en_name": "Nong Khileuk",
+          "kh_name": "ណងឃីលិក",
           "total": {
             "name": "សរុប",
             "number": "0003",
@@ -703,7 +712,8 @@
         },
         {
           "id": "11-007",
-          "name": "អបួនលេ",
+          "en_name": "Or Boun Leu",
+          "kh_name": "អបួនលើ",
           "total": {
             "name": "សរុប",
             "number": "0002",
@@ -763,7 +773,8 @@
         },
         {
           "id": "11-008",
-          "name": "រយ",
+          "en_name": "Ro Yor",
+          "kh_name": "រយ៉",
           "total": {
             "name": "សរុប",
             "number": "0003",
@@ -841,7 +852,8 @@
         },
         {
           "id": "11-009",
-          "name": "សុខសាន",
+          "en_name": "Sokh Sant",
+          "kh_name": "សុខសាន្ត",
           "total": {
             "name": "សរុប",
             "number": "0003",
@@ -919,7 +931,8 @@
         },
         {
           "id": "11-010",
-          "name": "ស្រែហ៊ុយ",
+          "en_name": "Sre Huy",
+          "kh_name": "ស្រែហ៊ុយ",
           "total": {
             "name": "សរុប",
             "number": "0001",
@@ -961,7 +974,8 @@
         },
         {
           "id": "11-011",
-          "name": "ស្រែសង្គម",
+          "en_name": "Sre Songkum",
+          "kh_name": "ស្រែសង្គម",
           "total": {
             "name": "សរុប",
             "number": "0004",
@@ -1058,7 +1072,8 @@
       ]
     },
     {
-      "name": "អូររាំង",
+      "kh_name": "អូររាំង",
+      "en_name": "Ou Reang",
       "total": {
         "name": "សរុបស្រុក",
         "number": "0006",
@@ -1080,7 +1095,8 @@
       "communes": [
         {
           "id": "11-012",
-          "name": "ដាក់ដា",
+          "en_name": "Dak Dam",
+          "kh_name": "ដាក់ដាំ",
           "total": {
             "name": "សរុប",
             "number": "0002",
@@ -1140,7 +1156,8 @@
         },
         {
           "id": "11-013",
-          "name": "សែនមនោរម្យ",
+          "en_name": "Saen Monorom",
+          "kh_name": "សែនមនោរម្យ",
           "total": {
             "name": "សរុប",
             "number": "0004",
@@ -1237,7 +1254,8 @@
       ]
     },
     {
-      "name": "ពេជ្រាដា",
+      "kh_name": "ពេជ្រាដា",
+      "en_name": "Pechr Chenda",
       "total": {
         "name": "សរុបស្រុក",
         "number": "0011",
@@ -1259,7 +1277,8 @@
       "communes": [
         {
           "id": "11-014",
-          "name": "ក្រង់តេះ",
+          "en_name": "Krang Teh",
+          "kh_name": "ក្រង់តេះ",
           "total": {
             "name": "សរុប",
             "number": "0003",
@@ -1337,7 +1356,8 @@
         },
         {
           "id": "11-015",
-          "name": "ពូជ្រៃ",
+          "en_name": "Pou Chrey",
+          "kh_name": "ពូជ្រៃ",
           "total": {
             "name": "សរុប",
             "number": "0003",
@@ -1415,7 +1435,8 @@
         },
         {
           "id": "11-016",
-          "name": "ស្រែអំពូម",
+          "en_name": "Sre Ompoum",
+          "kh_name": "ស្រែអំពូម",
           "total": {
             "name": "សរុប",
             "number": "0001",
@@ -1457,7 +1478,8 @@
         },
         {
           "id": "11-017",
-          "name": "ប៊ូស្រា",
+          "en_name": "Bou Sra",
+          "kh_name": "ប៊ូស្រា",
           "total": {
             "name": "សរុប",
             "number": "0004",
@@ -1554,7 +1576,8 @@
       ]
     },
     {
-      "name": "សែនមនោរម្យ",
+      "kh_name": "សែនមនោរម្យ",
+      "en_name": "Saen Monourom",
       "total": {
         "name": "សរុបស្រុក",
         "number": "0014",
@@ -1576,7 +1599,8 @@
       "communes": [
         {
           "id": "11-018",
-          "name": "មនោរម្យ",
+          "en_name": "Monorom",
+          "kh_name": "មនោរម្យ",
           "total": {
             "name": "សរុប",
             "number": "0002",
@@ -1636,7 +1660,8 @@
         },
         {
           "id": "11-019",
-          "name": "សុខដម",
+          "en_name": "Sokh Dom",
+          "kh_name": "សុខដុម",
           "total": {
             "name": "សរុប",
             "number": "0004",
@@ -1732,7 +1757,8 @@
         },
         {
           "id": "11-020",
-          "name": "ស្ពានមានជ័យ",
+          "en_name": "Spean Meanchey",
+          "kh_name": "ស្ពានមានជ័យ",
           "total": {
             "name": "សរុប",
             "number": "0004",
@@ -1828,7 +1854,8 @@
         },
         {
           "id": "11-021",
-          "name": "រមនា",
+          "en_name": "Rum Monea",
+          "kh_name": "រមនា",
           "total": {
             "name": "សរុប",
             "number": "0004",

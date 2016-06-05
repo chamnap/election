@@ -3,7 +3,8 @@
   "en_name": "Phnom Penh",
   "kh_name": "ភ្នំពេញ",
   "skipParties": [],
-  "name": "ភ្នំពេញ",
+  "kh_name": "ភ្នំពេញ",
+  "en_name": "Phnom Penh",
   "total": {
     "name": "សរុបក្រុង",
     "number": "1266",
@@ -24,7 +25,8 @@
   },
   "districts": [
     {
-      "name": "ចំការមន",
+      "kh_name": "ចំការមន",
+      "en_name": "Chamkar Mon",
       "total": {
         "name": "សរុបខណ្ឌ",
         "number": "0206",
@@ -46,7 +48,8 @@
       "communes": [
         {
           "id": "12-001",
-          "name": "ទន្លេបាសាក",
+          "en_name": "Tonle Basak",
+          "kh_name": "ទន្លេបាសាក់",
           "total": {
             "name": "សរុប",
             "number": "0045",
@@ -880,7 +883,8 @@
         },
         {
           "id": "12-002",
-          "name": "បឹងកេងកងទី ១",
+          "en_name": "Boeng Keng Kang 1",
+          "kh_name": "បឹងកេងកងទី ១",
           "total": {
             "name": "សរុប",
             "number": "0015",
@@ -1174,7 +1178,8 @@
         },
         {
           "id": "12-003",
-          "name": "បឹងកេងកងទី ២",
+          "en_name": "Boeng Keng Kang 2",
+          "kh_name": "បឹងកេងកងទី ២",
           "total": {
             "name": "សរុប",
             "number": "0014",
@@ -1450,7 +1455,8 @@
         },
         {
           "id": "12-004",
-          "name": "បឹងកេងកងទី ៣",
+          "en_name": "Boeng Keng Kang 3",
+          "kh_name": "បឹងកេងកងទី ៣",
           "total": {
             "name": "សរុប",
             "number": "0023",
@@ -1888,7 +1894,8 @@
         },
         {
           "id": "12-005",
-          "name": "អូឡាំពិក",
+          "en_name": "Oulampik",
+          "kh_name": "អូឡាំពិក",
           "total": {
             "name": "សរុប",
             "number": "0010",
@@ -2092,7 +2099,8 @@
         },
         {
           "id": "12-006",
-          "name": "ទួលស្វាយព្រៃទី ១",
+          "en_name": "Tuol Svay Prey Ti 1",
+          "kh_name": "ទួលស្វាយព្រៃទី ១",
           "total": {
             "name": "សរុប",
             "number": "0014",
@@ -2368,7 +2376,8 @@
         },
         {
           "id": "12-007",
-          "name": "ទួលស្វាយព្រៃទី ២",
+          "en_name": "Tuol Svay Prey Ti 2",
+          "kh_name": "ទួលស្វាយព្រៃទី ២",
           "total": {
             "name": "សរុប",
             "number": "0014",
@@ -2644,7 +2653,8 @@
         },
         {
           "id": "12-008",
-          "name": "ទំនប់ទឹក",
+          "en_name": "Tumnob Tuek",
+          "kh_name": "ទំនប់ទឹក",
           "total": {
             "name": "សរុប",
             "number": "0018",
@@ -2992,7 +3002,8 @@
         },
         {
           "id": "12-009",
-          "name": "ទួលទំពូងទី ១",
+          "en_name": "Tuol Tumpung Ti 1",
+          "kh_name": "ទួលទំពូងទី ១",
           "total": {
             "name": "សរុប",
             "number": "0013",
@@ -3250,7 +3261,8 @@
         },
         {
           "id": "12-010",
-          "name": "ទួលទំពូងទី ២",
+          "en_name": "Tuol Tumpung Ti 2",
+          "kh_name": "ទួលទំពូងទី ២",
           "total": {
             "name": "សរុប",
             "number": "0010",
@@ -3454,7 +3466,8 @@
         },
         {
           "id": "12-011",
-          "name": "បឹងត្របែក",
+          "en_name": "Boeng Tabaek",
+          "kh_name": "បឹងត្របែក",
           "total": {
             "name": "សរុប",
             "number": "0010",
@@ -3658,7 +3671,8 @@
         },
         {
           "id": "12-012",
-          "name": "ផ្សារដើមថ្កូវ",
+          "en_name": "Phsar Daeum Thkov",
+          "kh_name": "ផ្សារដើមថ្កូវ",
           "total": {
             "name": "សរុប",
             "number": "0020",
@@ -4043,7 +4057,8 @@
       ]
     },
     {
-      "name": "ដូនពេញ",
+      "kh_name": "ដូនពេញ",
+      "en_name": "Doun Penh",
       "total": {
         "name": "សរុបខណ្ឌ",
         "number": "0153",
@@ -4065,7 +4080,8 @@
       "communes": [
         {
           "id": "12-013",
-          "name": "ផ្សារថ្ម ីទី ១",
+          "en_name": "Phsah Thmey 1",
+          "kh_name":"ផ្សារថ្មីទី ១",
           "total": {
             "name": "សរុប",
             "number": "0009",
@@ -4251,7 +4267,8 @@
         },
         {
           "id": "12-014",
-          "name": "ផ្សារថ្ម ីទី ២",
+          "en_name": "Phsah Thmey 2",
+          "kh_name": "ផ្សារថ្មីទី ២",
           "total": {
             "name": "សរុប",
             "number": "0010",
@@ -4455,7 +4472,8 @@
         },
         {
           "id": "12-015",
-          "name": "ផ្សារថ្ម ីទី ៣",
+          "en_name": "Phsah Thmey 3",
+          "kh_name": "ផ្សារថ្មីទី ៣",
           "total": {
             "name": "សរុប",
             "number": "0013",
@@ -4713,7 +4731,8 @@
         },
         {
           "id": "12-016",
-          "name": "បឹងរាំង",
+          "en_name": "Boeng Raing",
+          "kh_name": "បឹងរាំង",
           "total": {
             "name": "សរុប",
             "number": "0010",
@@ -4917,7 +4936,8 @@
         },
         {
           "id": "12-017",
-          "name": "ផ្សារកណ្ដាលទី ១",
+          "en_name": "Phsah Kandal 1",
+          "kh_name": "ផ្សារកណ្ដាលទី ១",
           "total": {
             "name": "សរុប",
             "number": "0013",
@@ -5175,7 +5195,8 @@
         },
         {
           "id": "12-018",
-          "name": "ផ្សារកណ្ដាលទី ២",
+          "en_name": "Phsah Kandal 2",
+          "kh_name": "ផ្សារកណ្ដាលទី ២",
           "total": {
             "name": "សរុប",
             "number": "0011",
@@ -5397,7 +5418,8 @@
         },
         {
           "id": "12-019",
-          "name": "ចតុមខ",
+          "en_name": "Chaktomuk",
+          "kh_name": "ចតុមុខ",
           "total": {
             "name": "សរុប",
             "number": "0013",
@@ -5655,7 +5677,8 @@
         },
         {
           "id": "12-020",
-          "name": "ជ័យជំនះ",
+          "en_name": "Chey Chomneas",
+          "kh_name": "ជ័យជំនះ",
           "total": {
             "name": "សរុប",
             "number": "0014",
@@ -5931,7 +5954,8 @@
         },
         {
           "id": "12-021",
-          "name": "ផ្សារចាស",
+          "en_name": "Phsah Chas",
+          "kh_name": "ផ្សារចាស់",
           "total": {
             "name": "សរុប",
             "number": "0010",
@@ -6135,7 +6159,8 @@
         },
         {
           "id": "12-022",
-          "name": "ស្រះចក",
+          "en_name": "Srah Chak",
+          "kh_name": "ស្រះចក",
           "total": {
             "name": "សរុប",
             "number": "0040",
@@ -6879,7 +6904,8 @@
         },
         {
           "id": "12-023",
-          "name": "វត្ដភ្នំ",
+          "en_name": "Wat Phnom",
+          "kh_name": "វត្តភ្នំ",
           "total": {
             "name": "សរុប",
             "number": "0010",
@@ -7084,7 +7110,8 @@
       ]
     },
     {
-      "name": "៧ មករា",
+      "kh_name": "៧ មករា",
+      "en_name": "7 Meakkakra"
       "total": {
         "name": "សរុបខណ្ឌ",
         "number": "0110",
@@ -7106,7 +7133,8 @@
       "communes": [
         {
           "id": "12-024",
-          "name": "អូរឫស្សីទ ១",
+          "en_name": "Ou Ruessei Ti 1",
+          "kh_name": "អូរឫស្សីទី ១",
           "total": {
             "name": "សរុប",
             "number": "0010",
@@ -7310,7 +7338,8 @@
         },
         {
           "id": "12-025",
-          "name": "អូរឫស្សីទិ ២",
+          "en_name": "Ou Ruessei Ti 2",
+          "kh_name": "អូរឫស្សីទីិ ២",
           "total": {
             "name": "សរុប",
             "number": "0012",
@@ -7550,7 +7579,8 @@
         },
         {
           "id": "12-026",
-          "name": "អូរឫស្សីទិ ៣",
+          "en_name": "Ou Ruessei Ti 3",
+          "kh_name": "អូរឫស្សីទី ៣",
           "total": {
             "name": "សរុប",
             "number": "0010",
@@ -7754,7 +7784,8 @@
         },
         {
           "id": "12-027",
-          "name": "អូរឫសី្សទីិ ៤",
+          "en_name": "Ou Ruessei Ti 4",
+          "kh_name": "អូរឫសី្សទីិ ៤",
           "total": {
             "name": "សរុប",
             "number": "0010",
@@ -7958,7 +7989,8 @@
         },
         {
           "id": "12-028",
-          "name": "មនោរម្យ",
+          "en_name": "Monourom",
+          "kh_name": "មនោរម្យ",
           "total": {
             "name": "សរុប",
             "number": "0015",
@@ -8252,7 +8284,8 @@
         },
         {
           "id": "12-029",
-          "name": "មិត្ដភាព",
+          "en_name": "Mittakpheap",
+          "kh_name": "មិត្តភាព",
           "total": {
             "name": "សរុប",
             "number": "0013",
@@ -8510,7 +8543,8 @@
         },
         {
           "id": "12-030",
-          "name": "វាលវង",
+          "en_name": "Veal Vong",
+          "kh_name": "វាលវង់",
           "total": {
             "name": "សរុប",
             "number": "0027",
@@ -9020,7 +9054,8 @@
         },
         {
           "id": "12-031",
-          "name": "បឹងព្រលត",
+          "en_name": "Boeng Prolit",
+          "kh_name": "បឹងព្រលិត",
           "total": {
             "name": "សរុប",
             "number": "0013",
@@ -9279,7 +9314,8 @@
       ]
     },
     {
-      "name": "ទួលគោក",
+      "kh_name": "ទួលគោក",
+      "en_name": "Tuol Kouk",
       "total": {
         "name": "សរុបខណ្ឌ",
         "number": "0191",
@@ -9301,7 +9337,8 @@
       "communes": [
         {
           "id": "12-032",
-          "name": "ផ្សារដេប៉ូទី ១",
+          "en_name": "Phsar Depou Ti 1",
+          "kh_name": "ផ្សារដេប៉ូទី ១",
           "total": {
             "name": "សរុប",
             "number": "0012",
@@ -9541,7 +9578,8 @@
         },
         {
           "id": "12-033",
-          "name": "ផ្សារដេប៉ូទី ២",
+          "en_name": "Phsar Depou Ti 2",
+          "kh_name": "ផ្សារដេប៉ូទី ២",
           "total": {
             "name": "សរុប",
             "number": "0013",
@@ -9799,7 +9837,8 @@
         },
         {
           "id": "12-034",
-          "name": "ផ្សារដេប៉ូទី ៣",
+          "en_name": "Phsar Depou Ti 3",
+          "kh_name": "ផ្សារដេប៉ូទី ៣",
           "total": {
             "name": "សរុប",
             "number": "0011",
@@ -10021,7 +10060,8 @@
         },
         {
           "id": "12-035",
-          "name": "ទឹកល្អក់ទី ១",
+          "en_name": "Tuek L'ak Ti 1",
+          "kh_name": "ទឹកល្អក់ទី ១",
           "total": {
             "name": "សរុប",
             "number": "0019",
@@ -10387,7 +10427,8 @@
         },
         {
           "id": "12-036",
-          "name": "ទឹកល្អក់ទី ២",
+          "en_name": "Tuek L'ak Ti 2",
+          "kh_name": "ទឹកល្អក់ទី ២",
           "total": {
             "name": "សរុប",
             "number": "0014",
@@ -10663,7 +10704,8 @@
         },
         {
           "id": "12-037",
-          "name": "ទឹកល្អក់ទី ៣",
+          "en_name": "Tuek L'ak Ti 3",
+          "kh_name": "ទឹកល្អក់ទី ៣",
           "total": {
             "name": "សរុប",
             "number": "0024",
@@ -11119,7 +11161,8 @@
         },
         {
           "id": "12-038",
-          "name": "បឹងកក់ទី ១",
+          "en_name": "Boeng Kak Ti 1",
+          "kh_name": "បឹងកក់ទី ១",
           "total": {
             "name": "សរុប",
             "number": "0019",
@@ -11485,7 +11528,8 @@
         },
         {
           "id": "12-039",
-          "name": "បឹងកក់ទី ២",
+          "en_name": "Boeng Kak Ti 2",
+          "kh_name": "បឹងកក់ទី ២",
           "total": {
             "name": "សរុប",
             "number": "0029",
@@ -12031,7 +12075,8 @@
         },
         {
           "id": "12-040",
-          "name": "ផ្សារដើមគរ",
+          "en_name": "Phsar Daeum Kor",
+          "kh_name": "ផ្សារដើមគរ",
           "total": {
             "name": "សរុប",
             "number": "0017",
@@ -12361,7 +12406,8 @@
         },
         {
           "id": "12-041",
-          "name": "បឹងសាឡាង",
+          "en_name": "Boeng Salang",
+          "kh_name": "បឹងសាឡាង",
           "total": {
             "name": "សរុប",
             "number": "0033",
@@ -12980,7 +13026,8 @@
       ]
     },
     {
-      "name": "ដង្កោ",
+      "kh_name": "ដង្កោ",
+      "en_name": "Dangkao",
       "total": {
         "name": "សរុបខណ្ឌ",
         "number": "0158",
@@ -13002,7 +13049,8 @@
       "communes": [
         {
           "id": "12-042",
-          "name": "ដង្កោ",
+          "en_name": "Dangkao",
+          "kh_name": "ដង្កោ",
           "total": {
             "name": "សរុប",
             "number": "0016",
@@ -13314,7 +13362,8 @@
         },
         {
           "id": "12-043",
-          "name": "ត្រពាំងក្រសាំង",
+          "en_name": "Trapeang Krasang",
+          "kh_name": "ត្រពាំងក្រសាំង",
           "total": {
             "name": "សរុប",
             "number": "0012",
@@ -13554,7 +13603,8 @@
         },
         {
           "id": "12-044",
-          "name": "គោករកា",
+          "en_name": "Kouk Roka",
+          "kh_name": "កោគរការ",
           "total": {
             "name": "សរុប",
             "number": "0010",
@@ -13758,7 +13808,8 @@
         },
         {
           "id": "12-045",
-          "name": "ភ្លើងឆេះរទេះ",
+          "en_name": "Phleung Chheh Roteh",
+          "kh_name": "ភ្លើងឆេះរទេះ",
           "total": {
             "name": "សរុប",
             "number": "0007",
@@ -13908,7 +13959,8 @@
         },
         {
           "id": "12-046",
-          "name": "ចោមចៅ",
+          "en_name": "Chaom Chau",
+          "kh_name": "ចោមចៅ",
           "total": {
             "name": "សរុប",
             "number": "0035",
@@ -14562,7 +14614,8 @@
         },
         {
           "id": "12-047",
-          "name": "កាកាប",
+          "en_name": "Kakab",
+          "kh_name": "កាកាប",
           "total": {
             "name": "សរុប",
             "number": "0022",
@@ -14982,7 +15035,8 @@
         },
         {
           "id": "12-048",
-          "name": "ពងទឹក",
+          "en_name": "Pong Tuek",
+          "kh_name": "ពងទឹក",
           "total": {
             "name": "សរុប",
             "number": "0010",
@@ -15186,7 +15240,8 @@
         },
         {
           "id": "12-049",
-          "name": "ព្រៃវែង",
+          "en_name": "Prey Veaeng",
+          "kh_name": "ព្រៃវែង",
           "total": {
             "name": "សរុប",
             "number": "0005",
@@ -15300,7 +15355,8 @@
         },
         {
           "id": "12-050",
-          "name": "សំរោងក្រោម",
+          "en_name": "Samraong Kraom",
+          "kh_name": "សំរោងក្រោម",
           "total": {
             "name": "សរុប",
             "number": "0007",
@@ -15450,7 +15506,8 @@
         },
         {
           "id": "12-051",
-          "name": "ព្រៃស",
+          "en_name": "Prey Sa",
+          "kh_name": "ព្រៃសរ",
           "total": {
             "name": "សរុប",
             "number": "0009",
@@ -15636,7 +15693,8 @@
         },
         {
           "id": "12-052",
-          "name": "ក្រាំងធ្នង់",
+          "en_name": "Krang Thnong",
+          "kh_name": "ក្រាំងធ្នង់",
           "total": {
             "name": "សរុប",
             "number": "0006",
@@ -15768,7 +15826,8 @@
         },
         {
           "id": "12-053",
-          "name": "ក្រាំងពង្រ",
+          "en_name": "Krang Pongro",
+          "kh_name": "ក្រាំងពង្រ",
           "total": {
             "name": "សរុប",
             "number": "0004",
@@ -15864,7 +15923,8 @@
         },
         {
           "id": "12-054",
-          "name": "ប្រទះឡាង",
+          "en_name": "Prateah Lang",
+          "kh_name": "ប្រទះឡាង",
           "total": {
             "name": "សរុប",
             "number": "0005",
@@ -15978,7 +16038,8 @@
         },
         {
           "id": "12-055",
-          "name": "សាក់សំពៅ",
+          "en_name": "Sak Sampov",
+          "kh_name": "សាក់សំពៅ",
           "total": {
             "name": "សរុប",
             "number": "0003",
@@ -16056,7 +16117,8 @@
         },
         {
           "id": "12-056",
-          "name": "ជើងឯក",
+          "en_name": "Cheung Aek",
+          "kh_name": "ជើងឯក",
           "total": {
             "name": "សរុប",
             "number": "0007",
@@ -16207,7 +16269,8 @@
       ]
     },
     {
-      "name": "មានជ័យ",
+      "kh_name": "មានជ័យ",
+      "en_name": "Mean Chey",
       "total": {
         "name": "សរុបខណ្ឌ",
         "number": "0197",
@@ -16229,7 +16292,8 @@
       "communes": [
         {
           "id": "12-057",
-          "name": "ស្ទឹងមានជ័យ",
+          "en_name": "Stueng Mean Chey",
+          "kh_name": "ស្ទឹងមានជ័យ",
           "total": {
             "name": "សរុប",
             "number": "0049",
@@ -17135,7 +17199,8 @@
         },
         {
           "id": "12-058",
-          "name": "បឹងទំព ន",
+          "en_name": "Boeng Tumpun",
+          "kh_name": "បឹងទំពុន",
           "total": {
             "name": "សរុប",
             "number": "0044",
@@ -17951,7 +18016,8 @@
         },
         {
           "id": "12-059",
-          "name": "ព្រែកប្រា",
+          "en_name": "Praek Pra",
+          "kh_name": "ព្រែកប្រា",
           "total": {
             "name": "សរុប",
             "number": "0015",
@@ -18245,7 +18311,8 @@
         },
         {
           "id": "12-060",
-          "name": "ច្បារអំពៅ ទី១",
+          "en_name": "Chbar Ampov Ti 1",
+          "kh_name": "ច្បារអំពៅ ទី១",
           "total": {
             "name": "សរុប",
             "number": "0010",
@@ -18449,7 +18516,8 @@
         },
         {
           "id": "12-061",
-          "name": "ច្បារអំពៅ ទី២",
+          "en_name": "Chbar Ampov Ti 2",
+          "kh_name": "ច្បារអំពៅ ទី២",
           "total": {
             "name": "សរុប",
             "number": "0023",
@@ -18887,7 +18955,8 @@
         },
         {
           "id": "12-062",
-          "name": "ចាក់អង្រែលេ",
+          "en_name": "Chak Angrae Leu",
+          "kh_name": "ចាក់អង្រែលើ",
           "total": {
             "name": "សរុប",
             "number": "0022",
@@ -19307,7 +19376,8 @@
         },
         {
           "id": "12-063",
-          "name": "ចាក់អង្រែក្រោម",
+          "en_name": "Chak Angrae Kraom",
+          "kh_name": "ចាក់អង្រែក្រោម",
           "total": {
             "name": "សរុប",
             "number": "0020",
@@ -19691,7 +19761,8 @@
         },
         {
           "id": "12-064",
-          "name": "និរោធ",
+          "en_name": "Nirouth",
+          "kh_name": "និរោធ",
           "total": {
             "name": "សរុប",
             "number": "0014",
@@ -19968,7 +20039,8 @@
       ]
     },
     {
-      "name": "ឫស្សីកែវ",
+      "kh_name": "ឫស្សីកែវ",
+      "en_name": "Ruessei Kaev",
       "total": {
         "name": "សរុបខណ្ឌ",
         "number": "0251",
@@ -19990,7 +20062,8 @@
       "communes": [
         {
           "id": "12-065",
-          "name": "ឃ្ម ួញ",
+          "en_name": "Khmuonh",
+          "kh_name": "ឃ្មួញ",
           "total": {
             "name": "សរុប",
             "number": "0018",
@@ -20338,7 +20411,8 @@
         },
         {
           "id": "12-066",
-          "name": "ទួលសងែ",
+          "en_name": "Tuol Sangkae",
+          "kh_name": "ទួលសង្កែ",
           "total": {
             "name": "សរុប",
             "number": "0038",
@@ -21046,7 +21120,8 @@
         },
         {
           "id": "12-067",
-          "name": "ស្វាយប៉ាក",
+          "en_name": "Svay Pak",
+          "kh_name": "ស្វាយប៉ាក",
           "total": {
             "name": "សរុប",
             "number": "0012",
@@ -21286,7 +21361,8 @@
         },
         {
           "id": "12-068",
-          "name": "គីឡូម៉ែតលេខ ៦",
+          "en_name": "Kilomaetr Lekh 6",
+          "kh_name": "គីឡូម៉ែតលេខ ៦",
           "total": {
             "name": "សរុប",
             "number": "0021",
@@ -21688,7 +21764,8 @@
         },
         {
           "id": "12-069",
-          "name": "ភ្នំពេញថ្ម",
+          "en_name": "Phnom Penh Thmei",
+          "kh_name": "ភ្នំពេញថ្មី",
           "total": {
             "name": "សរុប",
             "number": "0028",
@@ -22216,7 +22293,8 @@
         },
         {
           "id": "12-070",
-          "name": "ឫស្សីកែវ",
+          "en_name": "Ruessei Kaev",
+          "kh_name": "ឫស្សីកែវ",
           "total": {
             "name": "សរុប",
             "number": "0026",
@@ -22708,7 +22786,8 @@
         },
         {
           "id": "12-071",
-          "name": "ទឹកថ្លា",
+          "en_name": "Tuek Thla",
+          "kh_name": "ទឹកថ្លា",
           "total": {
             "name": "សរុប",
             "number": "0043",
@@ -23506,7 +23585,8 @@
         },
         {
           "id": "12-072",
-          "name": "ព្រែកលៀប",
+          "en_name": "Praek Leab",
+          "kh_name": "ព្រែកលៀប",
           "total": {
             "name": "សរុប",
             "number": "0015",
@@ -23800,7 +23880,8 @@
         },
         {
           "id": "12-073",
-          "name": "ព្រែកតាសេក",
+          "en_name": "Praek Ta Sek",
+          "kh_name": "ព្រែកតាសេក",
           "total": {
             "name": "សរុប",
             "number": "0006",
@@ -23932,7 +24013,8 @@
         },
         {
           "id": "12-074",
-          "name": "ជ្រោយចង្វារ",
+          "en_name": "Chrouy Changvar",
+          "kh_name": "ជ្រោយចង្វារ",
           "total": {
             "name": "សរុប",
             "number": "0020",
@@ -24316,7 +24398,8 @@
         },
         {
           "id": "12-075",
-          "name": "ច្រាំងចរេះទី ១",
+          "en_name": "Chrang Chamreh Ti 1",
+          "kh_name": "ច្រាំងចរេះទី ១",
           "total": {
             "name": "សរុប",
             "number": "0009",
@@ -24502,7 +24585,8 @@
         },
         {
           "id": "12-076",
-          "name": "ច្រាំងចរេះទី ២",
+          "en_name": "Chrang Chamreh Ti 2",
+          "kh_name": "ច្រាំងចរេះទី ២",
           "total": {
             "name": "សរុប",
             "number": "0015",

@@ -7,7 +7,8 @@
     "t6",
     "t7"
   ],
-  "name": "ព្រះសីហនុ",
+  "kh_name": "ព្រះសីហនុ",
+  "en_name": "Preah Sihanouk",
   "total": {
     "name": "សរុបក្រុង",
     "number": "0193",
@@ -28,7 +29,8 @@
   },
   "districts": [
     {
-      "name": "មិត្ដភាព",
+      "kh_name": "មិត្តភាព",
+      "en_name": "Mittakpheap",
       "total": {
         "name": "សរុបខណ្ឌ",
         "number": "0081",
@@ -50,7 +52,8 @@
       "communes": [
         {
           "id": "18-001",
-          "name": "លេខ ១",
+          "en_name": "Lek 1",
+          "kh_name": "លេខ ១",
           "total": {
             "name": "សរុប",
             "number": "0018",
@@ -398,7 +401,8 @@
         },
         {
           "id": "18-002",
-          "name": "លេខ ២",
+          "en_name": "Lek 2",
+          "kh_name": "លេខ ២",
           "total": {
             "name": "សរុប",
             "number": "0013",
@@ -656,7 +660,8 @@
         },
         {
           "id": "18-003",
-          "name": "លេខ ៣",
+          "en_name": "Lek 3",
+          "kh_name": "លេខ ៣",
           "total": {
             "name": "សរុប",
             "number": "0019",
@@ -1022,7 +1027,8 @@
         },
         {
           "id": "18-004",
-          "name": "លេខ ៤",
+          "en_name": "Lek 4",
+          "kh_name": "លេខ ៤",
           "total": {
             "name": "សរុប",
             "number": "0028",
@@ -1550,7 +1556,8 @@
         },
         {
           "id": "18-022",
-          "name": "កោះរ៉ុង",
+          "en_name": "Kaoh Rung",
+          "kh_name": "កោះរ៉ុង",
           "total": {
             "name": "សរុប",
             "number": "0003",
@@ -1629,7 +1636,8 @@
       ]
     },
     {
-      "name": "ព្រៃនប់",
+      "kh_name": "ព្រៃនប់",
+      "en_name": "Prey Nob",
       "total": {
         "name": "សរុបខណ្ឌ",
         "number": "0098",
@@ -1651,7 +1659,8 @@
       "communes": [
         {
           "id": "18-005",
-          "name": "អណ្ដូងថ",
+          "en_name": "Andong Thmar",
+          "kh_name": "អណ្ដូងថ្ម",
           "total": {
             "name": "សរុប",
             "number": "0005",
@@ -1765,7 +1774,8 @@
         },
         {
           "id": "18-006",
-          "name": "បឹងតាព្រហ",
+          "en_name": "Beung Taprum",
+          "kh_name": "បឹងតាព្រហ្ម",
           "total": {
             "name": "សរុប",
             "number": "0008",
@@ -1933,7 +1943,8 @@
         },
         {
           "id": "18-007",
-          "name": "បិតត្រាំង",
+          "en_name": "Bet Trang",
+          "kh_name": "បិតត្រាំង",
           "total": {
             "name": "សរុប",
             "number": "0004",
@@ -2029,7 +2040,8 @@
         },
         {
           "id": "18-008",
-          "name": "ជើងគោ",
+          "en_name": "Cheung Koar",
+          "kh_name": "ជើងគោ",
           "total": {
             "name": "សរុប",
             "number": "0013",
@@ -2287,7 +2299,8 @@
         },
         {
           "id": "18-009",
-          "name": "អូរជ្រៅ",
+          "en_name": "Ou Chrov",
+          "kh_name": "អូរជ្រៅ",
           "total": {
             "name": "សរុប",
             "number": "0006",
@@ -2419,7 +2432,8 @@
         },
         {
           "id": "18-010",
-          "name": "អូរឧកញ៉ាហេង",
+          "en_name": "Ou Oknha Heng",
+          "kh_name": "អូរឧកញ៉ាហេង",
           "total": {
             "name": "សរុប",
             "number": "0008",
@@ -2587,7 +2601,8 @@
         },
         {
           "id": "18-011",
-          "name": "ព្រៃនប",
+          "en_name": "Prey Nob",
+          "kh_name": "ព្រៃនប់",
           "total": {
             "name": "សរុប",
             "number": "0007",
@@ -2737,7 +2752,8 @@
         },
         {
           "id": "18-012",
-          "name": "រាម",
+          "en_name": "Ream",
+          "kh_name": "រាម",
           "total": {
             "name": "សរុប",
             "number": "0010",
@@ -2941,7 +2957,8 @@
         },
         {
           "id": "18-013",
-          "name": "សាមគ",
+          "en_name": "Sammaki",
+          "kh_name": "សាមគ្គី",
           "total": {
             "name": "សរុប",
             "number": "0005",
@@ -3055,7 +3072,8 @@
         },
         {
           "id": "18-014",
-          "name": "សំរុង",
+          "en_name": "Somrong",
+          "kh_name": "សំរុង",
           "total": {
             "name": "សរុប",
             "number": "0006",
@@ -3187,7 +3205,8 @@
         },
         {
           "id": "18-015",
-          "name": "ទឹកល្អក់",
+          "en_name": "Teuk Laork",
+          "kh_name": "ទឹកល្អក់",
           "total": {
             "name": "សរុប",
             "number": "0005",
@@ -3301,7 +3320,8 @@
         },
         {
           "id": "18-016",
-          "name": "ទឹកថ្លា",
+          "en_name": "Teuk Tla",
+          "kh_name": "ទឹកថ្លា",
           "total": {
             "name": "សរុប",
             "number": "0005",
@@ -3415,7 +3435,8 @@
         },
         {
           "id": "18-017",
-          "name": "ទួលទទឹង",
+          "en_name": "Toul Toteung",
+          "kh_name": "ទួលទទឹង",
           "total": {
             "name": "សរុប",
             "number": "0005",
@@ -3529,7 +3550,8 @@
         },
         {
           "id": "18-018",
-          "name": "វាលរេញ",
+          "en_name": "Veal Rinh",
+          "kh_name": "វាលរេញ",
           "total": {
             "name": "សរុប",
             "number": "0011",
@@ -3752,7 +3774,8 @@
       ]
     },
     {
-      "name": "ស្ទឹងហាវ",
+      "kh_name": "ស្ទឹងហាវ",
+      "en_name": "Stueng Hav",
       "total": {
         "name": "សរុបខណ្ឌ",
         "number": "0014",
@@ -3774,7 +3797,8 @@
       "communes": [
         {
           "id": "18-019",
-          "name": "នុលល",
+          "en_name": "Kompenh",
+          "kh_name": "កំពេញ",
           "total": {
             "name": "សរុប",
             "number": "0002",
@@ -3834,7 +3858,8 @@
         },
         {
           "id": "18-020",
-          "name": "អូរត្រេះ",
+          "en_name": "Ou Treh",
+          "kh_name": "អូរត្រេះ",
           "total": {
             "name": "សរុប",
             "number": "0004",
@@ -3930,7 +3955,8 @@
         },
         {
           "id": "18-021",
-          "name": "ទំនប់រលក",
+          "en_name": "Tomnob Rolork",
+          "kh_name": "ទំនប់រលក",
           "total": {
             "name": "សរុប",
             "number": "0008",

@@ -7,7 +7,8 @@
     "t6",
     "t7"
   ],
-  "name": "ឧត្ដរមានជ័យ",
+  "kh_name": "ឧត្ដរមានជ័យ",
+  "en_name": "Oddar Meanchey",
   "total": {
     "name": "សរុបខេត្ដ",
     "number": "0179",
@@ -28,7 +29,8 @@
   },
   "districts": [
     {
-      "name": "អន្លង់វែង",
+      "kh_name": "អន្លង់វែង",
+      "en_name": "Anlong Veaeng",
       "total": {
         "name": "សរុបស្រុក",
         "number": "0033",
@@ -50,7 +52,8 @@
       "communes": [
         {
           "id": "24-001",
-          "name": "អន្លង់វែង",
+          "en_name": "Anlong Veaeng",
+          "kh_name": "អន្លង់វែង",
           "total": {
             "name": "សរុប",
             "number": "0009",
@@ -236,7 +239,8 @@
         },
         {
           "id": "24-002",
-          "name": "លំទង",
+          "en_name": "Lomtorng",
+          "kh_name": "លំទង",
           "total": {
             "name": "សរុប",
             "number": "0007",
@@ -386,7 +390,8 @@
         },
         {
           "id": "24-003",
-          "name": "ថ្លាត",
+          "en_name": "Thlat",
+          "kh_name": "ថ្លាត",
           "total": {
             "name": "សរុប",
             "number": "0004",
@@ -482,7 +487,8 @@
         },
         {
           "id": "24-004",
-          "name": "ត្រពាំងប្រីយ",
+          "en_name": "Trapeang Brey",
+          "kh_name": "ត្រពាំងប្រីយ៍",
           "total": {
             "name": "សរុប",
             "number": "0007",
@@ -632,7 +638,8 @@
         },
         {
           "id": "24-005",
-          "name": "ត្រពាំងតាវ",
+          "en_name": "Trapeang Tav",
+          "kh_name": "ត្រពាំងតាវ",
           "total": {
             "name": "សរុប",
             "number": "0006",
@@ -765,7 +772,8 @@
       ]
     },
     {
-      "name": "បន្ទាយអំពិល",
+      "kh_nameBeng": "បន្ទាយអំពិល",
+      "en_name": "Banteay Ampil",
       "total": {
         "name": "សរុបស្រុក",
         "number": "0046",
@@ -787,7 +795,8 @@
       "communes": [
         {
           "id": "24-006",
-          "name": "អំព ល",
+          "kh_nameBeng": "អំពិល",
+          "en_name": "Ampil",
           "total": {
             "name": "សរុប",
             "number": "0015",
@@ -1081,7 +1090,8 @@
         },
         {
           "id": "24-007",
-          "name": "បេង",
+          "en_name": "Beng",
+          "kh_name": "បេង",
           "total": {
             "name": "សរុប",
             "number": "0013",
@@ -1339,7 +1349,8 @@
         },
         {
           "id": "24-008",
-          "name": "គោកខ្ពស់",
+          "en_name": "Koak Kpous",
+          "kh_name": "គោកខ្ពស់",
           "total": {
             "name": "សរុប",
             "number": "0006",
@@ -1471,7 +1482,8 @@
         },
         {
           "id": "24-009",
-          "name": "គោកមន",
+          "en_name": "Koak Mon",
+          "kh_name": "គោកមន",
           "total": {
             "name": "សរុប",
             "number": "0012",
@@ -1712,7 +1724,8 @@
       ]
     },
     {
-      "name": "ចុងកាល់",
+      "kh_name": "ចុងកាល",
+      "en_name": "Chong Kal",
       "total": {
         "name": "សរុបស្រុក",
         "number": "0024",
@@ -1734,7 +1747,8 @@
       "communes": [
         {
           "id": "24-010",
-          "name": "ជើងទៀន",
+          "en_name": "Cheung Tean",
+          "kh_name": "ជើងទៀន",
           "total": {
             "name": "សរុប",
             "number": "0005",
@@ -1848,7 +1862,8 @@
         },
         {
           "id": "24-011",
-          "name": "ចុងកាល",
+          "en_name": "Chong Kal",
+          "kh_name": "ចុងកាល់",
           "total": {
             "name": "សរុប",
             "number": "0008",
@@ -2016,7 +2031,8 @@
         },
         {
           "id": "24-012",
-          "name": "ក្រសាំង",
+          "en_name": "Krasaing",
+          "kh_name": "ក្រសាំង",
           "total": {
             "name": "សរុប",
             "number": "0006",
@@ -2148,7 +2164,8 @@
         },
         {
           "id": "24-013",
-          "name": "ពង្រ",
+          "en_name": "Pongro",
+          "kh_name": "ពង្រ",
           "total": {
             "name": "សរុប",
             "number": "0005",
@@ -2263,7 +2280,8 @@
       ]
     },
     {
-      "name": "សំរោង",
+      "kh_name": "សំរោង",
+      "en_name": "Samraong",
       "total": {
         "name": "សរុបស្រុក",
         "number": "0049",
@@ -2285,7 +2303,8 @@
       "communes": [
         {
           "id": "24-014",
-          "name": "បន្សាយរាក",
+          "en_name": "Bansay Reak",
+          "kh_name": "បន្សាយរាក់",
           "total": {
             "name": "សរុប",
             "number": "0004",
@@ -2381,7 +2400,8 @@
         },
         {
           "id": "24-015",
-          "name": "បុស្បូវ",
+          "en_name": "Bosbov",
+          "kh_name": "បុស្បូវ",
           "total": {
             "name": "សរុប",
             "number": "0004",
@@ -2477,7 +2497,8 @@
         },
         {
           "id": "24-016",
-          "name": "កូនគ្រៀល",
+          "en_name": "Kaun Kreal",
+          "kh_name": "កូនគ្រៀល",
           "total": {
             "name": "សរុប",
             "number": "0014",
@@ -2753,7 +2774,8 @@
         },
         {
           "id": "24-017",
-          "name": "អូរស្ម ាច",
+          "en_name": "O Smach",
+          "kh_name": "អូរស្មាច់",
           "total": {
             "name": "សរុប",
             "number": "0009",
@@ -2939,7 +2961,8 @@
         },
         {
           "id": "24-018",
-          "name": "សំរោង",
+          "en_name": "Samroang",
+          "kh_name": "សំរោង",
           "total": {
             "name": "សរុប",
             "number": "0018",
@@ -3288,7 +3311,8 @@
       ]
     },
     {
-      "name": "ត្រពាំងប្រាសាទ",
+      "kh_name": "ត្រពាំងប្រាសាទ",
+      "en_name": "Trapeang Prasat",
       "total": {
         "name": "សរុបស្រុក",
         "number": "0027",
@@ -3310,7 +3334,8 @@
       "communes": [
         {
           "id": "24-019",
-          "name": "បាក់អន្លូង",
+          "en_name": "Bak Anlung",
+          "kh_name": "បាក់អន្លូង",
           "total": {
             "name": "សរុប",
             "number": "0002",
@@ -3370,7 +3395,8 @@
         },
         {
           "id": "24-020",
-          "name": "អូរស្វាយ",
+          "en_name": "Ou Svay",
+          "kh_name": "អូរស្វាយ",
           "total": {
             "name": "សរុប",
             "number": "0006",
@@ -3502,7 +3528,8 @@
         },
         {
           "id": "24-021",
-          "name": "ផ្អាវ",
+          "en_name": "P'av",
+          "kh_name": "ផ្អាវ",
           "total": {
             "name": "សរុប",
             "number": "0005",
@@ -3616,7 +3643,8 @@
         },
         {
           "id": "24-022",
-          "name": "ព្រះប្រឡាយ",
+          "en_name": "Preah Brolay",
+          "kh_name": "ព្រះប្រឡាយ",
           "total": {
             "name": "សរុប",
             "number": "0002",
@@ -3676,7 +3704,8 @@
         },
         {
           "id": "24-023",
-          "name": "ត្រពាំងប្រាសាទ",
+          "en_name": "Trapeang Prasat",
+          "kh_name": "ត្រពាំងប្រាសាទ",
           "total": {
             "name": "សរុប",
             "number": "0009",
@@ -3862,7 +3891,8 @@
         },
         {
           "id": "24-024",
-          "name": "ទំនប់ដាច",
+          "en_name": "Tomnub Dach",
+          "kh_name": "ទំនប់ដាច់",
           "total": {
             "name": "សរុប",
             "number": "0003",

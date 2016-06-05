@@ -5,7 +5,8 @@
   "skipParties": [
     "t5"
   ],
-  "name": "បន្ទាយមានជ័យ",
+  "kh_name": "បន្ទាយមានជ័យ",
+  "en_name": "Banteay Meanchey",
   "total": {
     "name": "សរុបខេត្ដ",
     "number": "0790",
@@ -6919,7 +6920,8 @@
         },
         {
           "id": "01-031",
-          "name": "និម ត",
+          "en_name": "Nimit",
+          "kh_name": "និមិត្ត",
           "total": {
             "name": "សរុប",
             "number": "0025",
@@ -10021,8 +10023,8 @@
       ]
     },
     {
-      "kh_name": "ក្រុងសិរីសោភ័ណ",
-      "en_name": "Krong Serei Saophoan",
+      "kh_name": "សិរីសោភ័ណ",
+      "en_name": "Serei Saophoan",
       "total": {
         "name": "សរុបស្រុក",
         "number": "0103",

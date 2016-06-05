@@ -7,7 +7,8 @@
     "t6",
     "t7"
   ],
-  "name": "កែប",
+  "kh_name": "កែប",
+  "en_name": "Kep",
   "total": {
     "name": "សរុបក្រុង",
     "number": "0039",
@@ -28,7 +29,8 @@
   },
   "districts": [
     {
-      "name": "ដំណាក់ចង្អើរ",
+      "kh_name": "ដំណាក់ចង្អើរ",
+      "en_name": "Damnak Chang'aeur",
       "total": {
         "name": "សរុបខណ្ឌ",
         "number": "0025",
@@ -50,7 +52,8 @@
       "communes": [
         {
           "id": "22-001",
-          "name": "អង្កោល",
+          "en_name": "Angkoal",
+          "kh_name": "អង្កោល",
           "total": {
             "name": "សរុប",
             "number": "0008",
@@ -218,7 +221,8 @@
         },
         {
           "id": "22-002",
-          "name": "អូរក្រសារ",
+          "en_name": "Ou Krosar",
+          "kh_name": "អូរក្រសារ",
           "total": {
             "name": "សរុប",
             "number": "0006",
@@ -350,7 +354,8 @@
         },
         {
           "id": "22-003",
-          "name": "ពងទក",
+          "en_name": "Porng Teuk",
+          "kh_name": "ពងទឹក",
           "total": {
             "name": "សរុប",
             "number": "0011",
@@ -573,7 +578,8 @@
       ]
     },
     {
-      "name": "កែប",
+      "kh_name": "កែប",
+      "en_name": "Kep",
       "total": {
         "name": "សរុបខណ្ឌ",
         "number": "0014",
@@ -595,7 +601,8 @@
       "communes": [
         {
           "id": "22-004",
-          "name": "កែប",
+          "en_name": "Keb",
+          "kh_name": "កែប",
           "total": {
             "name": "សរុប",
             "number": "0005",
@@ -709,7 +716,8 @@
         },
         {
           "id": "22-005",
-          "name": "ព្រៃធ",
+          "en_name": "Prey Thom",
+          "kh_name": "ព្រៃធំ",
           "total": {
             "name": "សរុប",
             "number": "0009",

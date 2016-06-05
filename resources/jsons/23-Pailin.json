@@ -6,7 +6,8 @@
     "t5",
     "t7"
   ],
-  "name": "ប៉ៃលិន",
+  "kh_name": "ប៉ៃលិន",
+  "en_name": "Pailin",
   "total": {
     "name": "សរុបក្រុង",
     "number": "0061",
@@ -27,7 +28,8 @@
   },
   "districts": [
     {
-      "name": "ប៉ៃលិន",
+      "kh_name": "ប៉ៃលិន",
+      "en_name": "Pailin",
       "total": {
         "name": "សរុបខណ្ឌ",
         "number": "0031",
@@ -49,7 +51,8 @@
       "communes": [
         {
           "id": "23-001",
-          "name": "ប៉ៃលិន",
+          "en_name": "Pailin",
+          "kh_name": "ប៉ៃលិន",
           "total": {
             "name": "សរុប",
             "number": "0012",
@@ -289,7 +292,8 @@
         },
         {
           "id": "23-002",
-          "name": "អូរតាវៅ",
+          "en_name": "Ou Ta Vau",
+          "kh_name": "អូរ​តាវ៉ៅ",
           "total": {
             "name": "សរុប",
             "number": "0009",
@@ -475,7 +479,8 @@
         },
         {
           "id": "23-003",
-          "name": "ទួលល្វា",
+          "en_name": "Tuol Lvea",
+          "kh_name": "ទួលល្វា",
           "total": {
             "name": "សរុប",
             "number": "0006",
@@ -607,7 +612,8 @@
         },
         {
           "id": "23-004",
-          "name": "បយ៉ាខា",
+          "en_name": "Bar Yakha",
+          "kh_name": "បយ៉ាខា",
           "total": {
             "name": "សរុប",
             "number": "0004",
@@ -704,7 +710,8 @@
       ]
     },
     {
-      "name": "សាលាក្រៅ",
+      "kh_name": "សាលាក្រៅ",
+      "en_name": "Sala Krao",
       "total": {
         "name": "សរុបខណ្ឌ",
         "number": "0030",
@@ -726,7 +733,8 @@
       "communes": [
         {
           "id": "23-005",
-          "name": "សាលាក្រៅ",
+          "en_name": "Sala Krau",
+          "kh_name": "សាលាក្រៅ",
           "total": {
             "name": "សរុប",
             "number": "0003",
@@ -804,7 +812,8 @@
         },
         {
           "id": "23-006",
-          "name": "ស្ទឹងត្រង",
+          "en_name": "Stueng Trang",
+          "kh_name": "ស្ទឹងត្រង់",
           "total": {
             "name": "សរុប",
             "number": "0008",
@@ -972,7 +981,8 @@
         },
         {
           "id": "23-007",
-          "name": "ស្ទឹងកាច",
+          "en_name": "Stueng Kach",
+          "kh_name": "ស្ទឹងកាច់",
           "total": {
             "name": "សរុប",
             "number": "0015",
@@ -1266,7 +1276,8 @@
         },
         {
           "id": "23-008",
-          "name": "អូរអណ្ដង",
+          "en_name": "Ou Andoung",
+          "kh_name": "អូរអណ្តូង",
           "total": {
             "name": "សរុប",
             "number": "0004",
